@@ -17,6 +17,7 @@ All images are public domain. Sourced from Wikimedia Commons.
 | canova_psyche_revived_1793.jpg | Psyche Revived by Cupid's Kiss (1787–93) | Antonio Canova | 3456×5184 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Amor-Psyche-Canova-JBU04.JPG) |
 | ingres_grande_odalisque_1814.jpg | Grande Odalisque (1814) | Jean-Auguste-Dominique Ingres | 4096×2291 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg) |
 | apollo_belvedere.jpg | Apollo Belvedere (c. 120–140 AD) | Roman copy | 3113×5305 | [Wikimedia](https://commons.wikimedia.org/wiki/File:Apollo_of_the_Belvedere.jpg) |
+| boucher_marquise_de_pompadour_1756.jpg | Madame de Pompadour (1756) | François Boucher | 3031×4087 | [Wikimedia](https://commons.wikimedia.org/wiki/File:François_Boucher_-_La_Marquise_de_Pompadour.JPG) |
 
 ## Notes
 
