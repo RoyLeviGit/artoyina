@@ -15,19 +15,19 @@
 
 Okay. Imagine this.
 
-It's January 21st, 1793. You're in Paris. You're sitting in the National Convention — basically the French parliament — and a vote is being taken. The question on the table is: should the King of France be put to death?
+It's January 21st, 1793. France is four years into a revolution. The monarchy has collapsed, the church has been dismantled, the old aristocratic order is gone. The country is trying to build itself from scratch, and nobody is quite sure it's going to work. You're in Paris, sitting in the National Convention — the new revolutionary parliament — and a vote is being taken. The question on the table is: should the King of France be put to death?
 
 Now, the room is full of politicians, lawyers, revolutionaries. But sitting among them — voting — is a painter. The most famous painter in France. A man whose paintings hang in the Louvre, whose work has made grown men weep in public. And when his name is called, he stands up, and he votes yes.
 
 He votes to kill the king.
 
-His name was Jacques-Louis David. And that vote — a *painter* voting on the life of a king — is one of the strangest, most extraordinary moments in the history of art. Because it raises a question that we're going to be sitting with for this entire episode:
+His name was Jacques-Louis David. And that vote — a *painter* voting on the life of a king — would define everything that came after. For better and for worse.
 
-How does a painter end up with that kind of power? And what happens when he uses it?
+But to understand how he got there, we first need to ask: how does a painter end up with that kind of power?
 
 *[Beat. Tone shift — lighter, pulling back.]*
 
-But to understand how we got there, we need to go way back. Before David. Before the Revolution. Back to a time when French art looked... very different.
+To understand that, we need to go way back. Before David. Before the Revolution. Back to a time when French art looked... very different.
 
 ---
 
@@ -40,7 +40,7 @@ But to understand how we got there, we need to go way back. Before David. Before
 
 [TALKING HEAD]
 
-Look at this painting. This is *The Swing* by Jean-Honoré Fragonard, painted in 1767. And it's — I mean, it's gorgeous. A woman in a big pink dress on a swing, her shoe flying off, and if you look carefully, there's a guy hiding in the bushes below her, looking up her skirt. There's a cherub going "shhh." It's playful, it's flirtatious, it's basically an 18th-century rom-com in oil paint.
+Look at this painting. This is *The Swing* by Jean-Honoré Fragonard, painted in 1767. And it's beautiful. A woman in a big pink dress on a swing, her shoe flying off, and if you look carefully, there's a man hiding in the bushes below her, looking up her skirt. There's a little winged angel going "shhh." It's playful, it's flirtatious. And honestly? It's genuinely wonderful. It's not trying to say anything serious about France or the human condition. It just wants to delight you — for one moment, looking at something beautiful and slightly ridiculous.
 
 And the French aristocracy *loved* this stuff. This was the art of the ruling class. Rococo, they called it. Light, decorative, charming, sexy. Painters like Boucher and Fragonard made a fortune painting exactly this — beautiful people doing beautiful things in beautiful gardens.
 
@@ -52,7 +52,7 @@ But by the 1760s, not everyone was charmed. The critic Denis Diderot — one of 
 
 Except truth. That's the key word. Because underneath all that silk and powder, France was rotting. The monarchy was broke. The peasants were starving. And the art — the official, celebrated, expensive art — was paintings of aristocrats on swings.
 
-Something had to give.
+It couldn't last.
 
 ### The Greece Obsession
 
@@ -64,9 +64,9 @@ And right around this time, something happened that changed the direction of Eur
 
 Well, first Herculaneum in 1738, then Pompeii in 1748. Two entire Roman cities, buried by a volcano in 79 AD, suddenly visible again. And it wasn't just columns and statues — it was *everything*. Houses, frescoes, furniture, graffiti, bread still in the ovens. An entire civilization, frozen in time.
 
-And Europe went absolutely crazy for it. Suddenly everyone wanted to be ancient. Greek furniture. Roman architecture. Classical hairstyles. If you were a wealthy young man, you went on the Grand Tour — you traveled to Rome, you sketched the ruins, you came back and told everyone how cultured you were. It was the 18th-century version of studying abroad and making it your whole personality.
+And among the educated, wealthy classes of Europe, this sparked a kind of ancient-world mania. Greek furniture. Roman architecture. Classical hairstyles. If you were a wealthy young man, you went on the Grand Tour — you traveled to Rome, you sketched the ruins, you came back and told everyone how cultured you were. It was the 18th-century version of studying abroad and making it your whole personality.
 
-But the person who turned this obsession into a philosophy — the person who convinced an entire continent that ancient Greece was the peak of human civilization — was a man who never painted a single painting.
+But the person who turned this obsession into a full-blown intellectual philosophy — the person who gave the educated classes of Europe a framework for *why* ancient Greece was the pinnacle of human achievement — was a man who never painted a single painting. Not a painter. Not an architect. A writer. A critic.
 
 *[Beat]*
 
@@ -84,21 +84,25 @@ It was called *Thoughts on the Imitation of Greek Works in Painting and Sculptur
 
 Six words. That's it. Six words that defined an entire century of art.
 
-What did he mean? He meant that great art should be calm. Restrained. Balanced. No screaming, no drama, no excess. Think of a Greek statue — the Apollo Belvedere, say. Perfect proportions. Serene expression. Idealized body. That, Winckelmann said, was the pinnacle. Everything else was a step down.
+What did he mean? He meant that great art should be calm. Restrained. Balanced. No screaming, no drama, no excess. Think of a Greek statue — the Apollo Belvedere, say. Perfect proportions. Serene expression. Idealized body. Pure white marble. That, Winckelmann said, was the pinnacle. Everything else was a step down.
 
-He moved to Rome, got access to the greatest collections of ancient art in the world, and in 1764 published *History of the Art of Antiquity* — which basically invented art history as a discipline. Before Winckelmann, people wrote about individual artists. Winckelmann wrote about *styles* and *periods*. That framework? We still use it today. You're watching a series organized by it right now.
+*[Small beat]*
+
+One small problem with this: the ancient Greeks did not make pure white marble statues. Their statues were painted. Vivid, garish colors. Bright red lips. Blue eyes. Yellow hair. The Apollo Belvedere, the embodiment of serene classical beauty — almost certainly looked like something you'd win at a carnival. We only know this now from chemical analysis and faint traces of pigment. Winckelmann had no idea. He built an entire aesthetic philosophy around the wrong thing. His ideal of "noble simplicity" was, at least in part, the result of two thousand years of paint wearing off. Which is either a great argument for the power of an idea — or a cautionary tale about inventing a perfect past to criticize an imperfect present.
+
+He moved to Rome, got access to the greatest collections of ancient art in the world, and in 1764 published *History of the Art of Antiquity* — which transformed the discipline of art history. People had written about individual artists before — Vasari did it famously two centuries earlier — but Winckelmann organized everything around *styles* and *periods*, tracing the rise and fall of entire civilizations through their art. That framework? We still use it today. You're watching a series organized by it right now.
 
 Now here's the thing — and this is important.
 
 *[Leans in slightly]*
 
-Winckelmann never went to Greece.
+Winckelmann — the art critic — never went to Greece.
 
-His entire philosophy of Greek art — the philosophy that would reshape European culture — was based on Roman copies. He was building a fantasy of Greece from secondhand evidence. His Greece was imaginary.
+His entire philosophy of Greek art was based on Roman copies. He was building a fantasy of Greece from secondhand evidence. His Greece was imaginary. He was doing what people have done forever: inventing a perfect past to hold up against an imperfect present. And he did it so convincingly that everyone believed him.
 
-He was murdered in 1768, in Trieste, at the age of 50. Stabbed by a man he'd met at an inn. The circumstances suggest a sexual encounter gone wrong. Winckelmann was almost certainly gay — which adds another layer to his lifelong idealization of the male Greek body. But that's a longer conversation.
+He was murdered in 1768, in Trieste, at the age of 50. Stabbed by a man he'd met at an inn. The circumstances suggest a sexual encounter gone wrong. Winckelmann's letters express intense romantic feelings toward young men, and most scholars read him as gay — though, as with so much of his life, certainty is hard to come by. What we can say is it adds another layer to his lifelong idealization of the male Greek body. But that's a longer conversation.
 
-What matters for us is this: Winckelmann created the idea. He built the intellectual framework. Now someone needed to turn it into paintings.
+What matters for us is this: Winckelmann — the critic who never held a brush — created the idea. He built the intellectual framework. Now someone needed to turn it into paintings.
 
 ### The System
 
@@ -106,7 +110,11 @@ What matters for us is this: Winckelmann created the idea. He built the intellec
 
 But first, you need to understand how the art world actually worked in 18th-century France. Because it was a system — rigid, hierarchical, and brutally competitive.
 
-There was one exhibition that mattered: the Salon. Run by the Académie Royale, held at the Louvre. If you got into the Salon, you had a career. If you didn't, you were nobody. There were no galleries, no dealers, no alternative. The Salon was it.
+There was one exhibition that mattered above all others: the Salon. Run by the Académie Royale, held at the Louvre. If you got into the Salon, you had a career. There were other patrons, other venues — but nothing with the Salon's reach, prestige, or power. To be excluded from the Salon was to be invisible.
+
+*[Slight grimace]*
+
+
 
 And within the Salon, there was a strict hierarchy of what you were allowed to paint. At the top: history painting — scenes from the Bible, from mythology, from ancient history. The "noblest" form of art. Below that: portraiture. Then scenes of daily life. Then landscape. And at the very bottom: still life.
 
@@ -131,15 +139,19 @@ He failed. Three times.
 
 [TALKING HEAD]
 
-David was born in Paris in 1748. His father was killed in a duel when he was nine — so already, we're starting with violence. He was raised by well-off uncles who wanted him to be an architect. He wanted to paint. He won that argument.
+David was born in Paris in 1748. His father was killed in a duel when David was very young. So already, we're starting with violence. Dead parent before age ten — every great origin story has one. He was raised by well-off uncles who wanted him to be an architect. He wanted to paint. He won that argument.
 
-He studied under a painter named Joseph-Marie Vien, and he entered the Prix de Rome competition in 1770. He lost. He entered again in 1771. Lost again. He entered a third time in 1772. Lost again.
+He studied under a painter named Joseph-Marie Vien, and he entered the Prix de Rome competition multiple times through the early 1770s. He lost. He entered again. Lost again. He entered a third time. Lost again.
 
-And the third failure broke him. According to the accounts we have, David tried to starve himself to death. His friends had to intervene. He was twenty-four years old, and he believed his life was over.
+And repeated failure broke him. According to some biographical accounts, David locked himself in his room and refused to eat — convinced his life was over. The details are murky and probably embellished by later admirers, but the despair was real. He was in his mid-twenties, and the one path he'd staked everything on kept closing in his face.
 
 *[Pause]*
 
-He entered a fourth time in 1774. And he won.
+He entered again in 1774. He didn't win.
+
+*[Beat]*
+
+Just kidding. He won.
 
 ### Rome
 
@@ -151,7 +163,19 @@ He arrived and was initially unimpressed — he'd been so focused on winning the
 
 And when he came back to Paris, he was a completely different painter. The loose, colorful style of his early work was gone. In its place: austerity. Moral seriousness. Clean lines, rigid geometry, muted colors. Ancient virtue, painted with absolute conviction.
 
-He had become exactly what Winckelmann had called for. He had become Neo-Classical.
+He had become exactly what Winckelmann — the critic who never held a brush — had called for. He had become Neo-Classical.
+
+*[Brief pause. Lighter tone.]*
+
+Worth noting: David wasn't alone in this. Neoclassicism wasn't only, or even mainly, about politics. Across Europe, artists adopted the style to express ideals of beauty, harmony, and timeless order inspired by ancient Greece and Rome. Painters used classical myths and historical scenes to explore heroism, virtue, and human emotion. Sculptors like Canova focused on the elegance of the human body — calm, idealized forms in perfect proportion. The style appeared in mythological paintings, portraits, architecture, decorative arts. It became a visual language of refinement and intellectual taste, with no political agenda whatsoever.
+
+*[BRIEF VISUAL SECTION — 3–4 works on screen, minimal voiceover]*
+
+*[ARTWORK: Mengs, *Perseus and Andromeda*, 3 seconds | Hamilton, *Andromache Mourning Hector*, 3 seconds | Vien, *The Cupid Seller*, 3 seconds | Canova, *Psyche Revived by Cupid's Kiss*, 3 seconds]*
+
+David worked in the same tradition as all of these artists. But what he did was charge the style with moral and political urgency. He made it feel like an argument. He made it matter beyond the studio.
+
+And you can see the difference immediately.
 
 ### The Paintings That Made Him
 
@@ -175,6 +199,10 @@ This is the *Oath of the Horatii*. David painted it in 1784. And I want you to r
 
 Three brothers — the Horatii — are swearing an oath. They're about to fight to the death for Rome against three brothers from a rival city. Their father holds the swords. The brothers reach for them. Their bodies are taut, geometric, almost architectural. They're not individuals — they're a machine. A machine built for duty.
 
+Look at the colors. The brothers — the ones swearing the oath — wear brighter, more saturated reds. Your eye goes to them first, and it's supposed to. The women on the right are painted in softer, muted tones: blues, grays, near-white. The color itself tells you the moral structure before you've even understood what's happening — action and duty on the left, grief and passivity on the right. The stone background is all neutral browns and grays, keeping your attention on the figures. The colors are clean, flat, and clearly separated. This painting does not blur.
+
+Notice also the light: harsh, directional, almost theatrical — like a spotlight on a stage. And the composition: your eye is drawn to the center, to the swords — the literal pivot point between duty and loss. The whole thing is controlled, deliberate, organized. The opposite of Rococo in every possible way.
+
 [DETAIL: The weeping women on the right side]
 
 And then look at the right side of the painting. The women. They're collapsed, weeping. Because here's the thing — one of the Horatii brothers is married to a woman from the enemy city. And one of the enemy brothers is engaged to a Horatii sister. No matter who wins, these women lose someone they love.
@@ -193,7 +221,7 @@ And he didn't stop. In 1787, *The Death of Socrates* —
 
 [ARTWORK: *The Death of Socrates*, 5–8 seconds]
 
-Socrates calmly reaching for the cup of hemlock while his students fall apart around him. The message: principle over survival. You die for what you believe.
+Socrates — condemned by the Athenian state for his ideas — calmly reaching for the cup of poison while his students fall apart around him. The state is killing him, and he accepts it with perfect calm. You die for what you believe.
 
 And then, in 1789 — the year everything exploded — *The Lictors Bring to Brutus the Bodies of His Sons*.
 
@@ -201,7 +229,7 @@ And then, in 1789 — the year everything exploded — *The Lictors Bring to Bru
 
 Brutus — the founder of the Roman Republic — has ordered the execution of his own sons for conspiring to restore the monarchy. The bodies are being carried past him. He doesn't look. The women scream. He sits in shadow, rigid, destroyed but unbroken.
 
-This painting was displayed at the Salon just weeks after the storming of the Bastille. The authorities tried to pull it from the exhibition. The crowd demanded it stay.
+This painting was displayed at the Salon just weeks after the storming of the Bastille. The story goes that authorities tried to pull it from the exhibition — that the crowd demanded it stay. Whether that happened exactly as described is debated; some historians think the tale was burnished later to make David seem more heroically embattled. But the painting's timing was incendiary regardless.
 
 [TALKING HEAD]
 
@@ -220,7 +248,7 @@ He was going to join it.
 
 This is where the story gets dark. And I mean genuinely dark. Not "art world drama" dark. People-dying dark.
 
-In 1792, David was elected to the National Convention — the revolutionary parliament. He didn't sit with the moderates. He sat with the Montagnards — the radicals. The Jacobins. Robespierre's people.
+In 1792, David was elected to the National Convention — the revolutionary parliament. He didn't sit with the moderates. He sat with the Montagnards — the radicals. The Jacobins. The faction led by Maximilien Robespierre, the lawyer who had made himself the ideological heart of the Revolution, and who was rapidly becoming its most feared figure.
 
 And on January 21st, 1793 — the scene I described at the beginning — David voted for the execution of King Louis XVI.
 
@@ -228,13 +256,17 @@ A painter. Voted to kill the king.
 
 *[Let that sit for a beat]*
 
-But he didn't stop there. David became, essentially, the Revolution's art director. He designed the festivals — massive public spectacles meant to replace Catholic ritual with Republican ceremony. He designed uniforms. He designed the imagery for the new Republican calendar. He was shaping what the Revolution *looked like* — and in a world before photography, before television, that meant he was shaping what people *believed* about it.
+But he didn't stop there. David became, essentially, the Revolution's visual authority. He organized festivals — massive public spectacles meant to replace Catholic ritual with Republican ceremony. He contributed to the design of uniforms and public imagery. He was deeply involved in shaping what the Revolution *looked like* — and in a world before photography, before television, that meant he had real influence over what people *believed* about it.
+
+*[PRODUCTION NOTE: Verify the specific extent of David's involvement in festival design vs. uniform design vs. the Republican calendar. The festivals (especially the Festival of the Supreme Being, 1794) are well-documented; the uniforms and calendar claims need sourcing.]*
 
 He was close to Robespierre. Very close. He reportedly said to him: "If you drink hemlock, I will drink it with you." That's not a casual friendship. That's a pact.
 
-And David signed arrest warrants. I need you to understand what that means. During the Terror — the period from 1793 to 1794 when the Revolution turned on itself — people David signed warrants for were arrested, tried, and executed. The man who painted *The Death of Socrates* — a painting about dying for your principles — was sending people to the guillotine.
+And David signed arrest warrants. He was actively involved in the revolutionary government — sitting on the Committee of General Security, putting his name to documents that led to people being arrested, tried, and executed. He was one of many signatories, not acting alone. But consider what that means for the man who painted *The Death of Socrates*.
 
-The gap between the art and the man. That's the tension at the heart of this whole episode.
+You remember that painting — Socrates in his last moments, calmly reaching for the cup of poison while his students fall apart around him. Socrates was condemned by the Athenian state for refusing to abandon his ideas. That's the subject David chose to paint, and made beautiful: a man killed by the state. And now David was the state. His name was on the paperwork.
+
+The gap between the art and the man. That's the tension at the heart of this whole story.
 
 ### The Death of Marat
 
@@ -244,7 +276,7 @@ And then, in July of 1793, something happened that produced what I think is the 
 
 Jean-Paul Marat was a revolutionary journalist. A radical. He had a skin condition that forced him to spend hours in a medicinal bath, where he would write, receive visitors, and conduct business. On July 13th, 1793, a young woman named Charlotte Corday talked her way into his apartment, claiming to have information about counter-revolutionary plots. Marat received her while sitting in his bath. She pulled out a knife and stabbed him in the chest. He died almost immediately.
 
-David had visited Marat the day before. He knew the bath, the setup, the man. And when he heard the news, he went to work immediately.
+According to accounts that have been passed down — though some historians treat this with caution — David had visited Marat the day before. He knew the bath, the setup, the man. And when he heard the news, he went to work immediately.
 
 *[Pause. Music drops out completely.]*
 
@@ -264,7 +296,7 @@ Marat is slumped in his bath. His head is wrapped in a cloth. His skin is pale �
 
 [DETAIL: The letter in his left hand]
 
-In his left hand, a letter. It reads: "It is enough that I am truly unhappy to have a right to your kindness." That's the letter Corday used to get into the room. David kept it in the painting — the instrument of betrayal, still in the victim's hand.
+In his left hand, a letter. It reads: "It is enough that I am truly unhappy to have a right to your kindness." Corday did use a letter to get into the apartment — but this isn't that letter. David wrote these words himself. They make Marat look like a man killed while helping someone in need. It's invented. David put it in his hand on purpose, as part of the myth he was building.
 
 [DETAIL: The knife on the floor, the blood]
 
@@ -276,7 +308,9 @@ On the floor, the knife. Bloodied. And on the wooden block beside the bath — t
 
 [TALKING HEAD]
 
-Now here's what I need you to sit with. This painting is propaganda. It absolutely is. David has taken a man who was, by many accounts, paranoid, vindictive, and responsible for inciting mob violence — and turned him into a saint. The bath is clean. The body is idealized. The composition is borrowed from Christian art — this is a Pietà. Marat as a revolutionary Christ.
+Now here's what I need you to sit with. This painting is propaganda. It absolutely is. David has taken a man who was, by many accounts, paranoid, vindictive, and responsible for inciting mob violence — and turned him into a saint. The bath is clean. The body is idealized. The composition is borrowed directly from Christian art — specifically the Pietà, which is a famous image of Mary holding the body of Jesus. If you know Michelangelo's famous marble sculpture in St. Peter's Basilica: the Virgin Mary cradling the body of Christ after the crucifixion. That image. That arrangement. That specific quality of grief held perfectly still. David took it and transplanted it into a bathtub in Paris. Marat as the Revolution's crucified Christ.
+
+*[PRODUCTION NOTE: Verify the Pietà comparison against the actual composition — the parallel is widely made in art history but worth double-checking the specifics.]*
 
 David made this painting to serve the Revolution. To turn a murder into a martyrdom. To make you feel something specific: grief, outrage, devotion to the cause.
 
@@ -315,6 +349,12 @@ He painted himself. Not as a hero. Not as a martyr. Not as a Roman senator or a 
 
 I think it might be the most honest thing he ever painted. Because it wasn't for anyone. It wasn't for the Salon, or the Revolution, or Napoleon. It was just a man, in a cell, looking at himself.
 
+*[Small beat]*
+
+Also — how did he even get painting materials in prison? I genuinely don't know. Worth finding out.
+
+*[PRODUCTION NOTE: Research how David obtained materials for the prison self-portrait and which imprisonment it was (1794 or 1795).]*
+
 After his release, he wrote: "I was deceived by the mask of patriotism."
 
 *[Beat]*
@@ -331,7 +371,7 @@ It was 1797. Napoleon was a young general, already famous, already radiating the
 
 "Oh my friends, what a beautiful head he has! It is pure, it is great, it is as beautiful as the antique!"
 
-As beautiful as the antique. There it is. David looked at a living, breathing military commander and saw a Greek statue. He couldn't help himself.
+As beautiful as the antique. There it is again. David looked at a living, breathing military commander and saw a Greek statue. He couldn't help himself.
 
 *[Slight smile]*
 
@@ -343,11 +383,17 @@ And Napoleon — who understood the power of images better than almost any leade
 
 *Napoleon Crossing the Alps.* 1801. You know this image. Even if you've never been to an art museum, you know this image. Napoleon on a rearing white horse, cape billowing, arm pointing forward, the names of Hannibal and Charlemagne carved into the rocks below him — as if to say: I belong in their company.
 
-Napoleon asked to be painted "calm on a fiery horse." David delivered.
+I've seen this painting in person, and the first thing that hits you is the scale. It's enormous — roughly 260 by 220 centimeters, almost nine feet tall.
 
-Here's the thing, though. Napoleon didn't actually cross the Alps on a rearing white horse. He crossed them on a mule. Led by a guide. In bad weather. It was miserable and unglamorous.
+*[ON-SCREEN TEXT: 260 × 221 cm / approx. 8.5 × 7.2 ft]*
 
-But nobody remembers the mule. Everyone remembers the painting. David didn't paint what happened. He painted what Napoleon wanted people to *believe* happened. And the painting became the truth. That's the power of an image.
+You stand in front of it and you feel small. Which is, of course, exactly the point.
+
+Napoleon asked to be painted "calm on a spirited horse." David delivered.
+
+Here's the thing, though. The real crossing was difficult, cold, and unglamorous. Napoleon rode a mule for much of it, led by a local guide. David wasn't painting what happened — he was painting what Napoleon wanted to believe about himself. The heroic vision. The myth.
+
+Nobody remembers the mule. Everyone remembers this.
 
 [ARTWORK: *The Coronation of Napoleon*, slow pan across the canvas, 8–10 seconds]
 
@@ -360,28 +406,6 @@ But he rearranged reality. Look —
 [DETAIL: Napoleon's mother in the painting]
 
 See that woman in the balcony? That's Napoleon's mother, Letizia. She's prominently placed, watching proudly. Except she wasn't there. She boycotted the ceremony. She refused to come. David painted her in anyway, because Napoleon wanted her there. The painting isn't a record of what happened. It's a record of what *should* have happened, according to the man in charge.
-
-*[Beat]*
-
-Now, I want to mention one more thing about this period, because it's a great story and it tells you something important.
-
-[ARTWORK: Canova, *Napoleon as Mars the Peacemaker*, 5 seconds]
-
-[TALKING HEAD]
-
-This is *Napoleon as Mars the Peacemaker*, by the Italian sculptor Antonio Canova. Canova was the greatest sculptor of the age — he could make marble look like skin. And he made this colossal nude statue of Napoleon as a Greek god. Eleven feet tall. Perfect body. Heroic pose.
-
-Napoleon hated it.
-
-*[Let that land]*
-
-He had it hidden away. He thought it was too much. Too idealized. He didn't look like that and he knew it.
-
-Now think about that for a second. Napoleon *loved* David's paintings — paintings that were just as fictional, just as propagandistic. So why did he reject Canova's sculpture?
-
-I think it's because David made Napoleon look *powerful*. Canova made him look *beautiful*. And Napoleon wanted power, not beauty. He wanted you to fear him and follow him, not admire his abs. David understood that. Canova didn't.
-
-It's a small distinction, but it tells you everything about how propaganda works. It's not about idealization. It's about telling people the *specific* lie they want to believe.
 
 ### Exile
 
@@ -406,47 +430,45 @@ He's still there.
 
 [TALKING HEAD]
 
-David's best student was a man named Jean-Auguste-Dominique Ingres. And Ingres carried the Neo-Classical torch for decades after David's death. He became the champion of line, of drawing, of classical precision, of the Académie.
+So what did all of this leave behind? A movement. A set of rules about what serious art should look like. And an institution — the Académie — that would enforce those rules for the next fifty years. David's greatest student, Jean-Auguste-Dominique Ingres, became the guardian of that legacy. He carried the Neoclassical torch long after David died, became the most powerful figure in French official art, and spent decades insisting that drawing — clean, precise, classical drawing — was the foundation of everything.
 
 [ARTWORK: Ingres, *Grande Odalisque*, 5 seconds]
 
-But here's the funny thing about Ingres. Look at this painting — the *Grande Odalisque*, 1814. A reclining nude. She's supposed to be the pinnacle of classical perfection. Except critics noticed something: her back is too long. Way too long. They counted the vertebrae — she's got two or three extra ones. The anatomy is wrong.
+Here's something curious about Ingres, though. Look at this — the *Grande Odalisque*, 1814. A reclining nude. Supposed to be the pinnacle of classical perfection. Except if you look carefully, her back is too long. Way too long. Anatomically, it's the equivalent of two or three extra vertebrae.
 
-Ingres didn't care. He distorted the body because he thought it looked better that way. The champion of classical rules was breaking them whenever it suited him. The defender of "correct" drawing was making things up.
+This wasn't carelessness — Ingres believed deeply in precise, correct drawing. But he also believed that when the grace of a line conflicted with strict anatomy, grace won. So he stretched her. He made the body more beautiful than a real body could be. The man who spent his career defending classical rules was willing to break them when the image demanded it.
 
-*[Slight smile]*
+It's a strange paradox — and it's one that runs through this whole series. Between what's real and what's ideal. Between truth and beauty.
 
-I love that. It's so human. The guy who spent his whole career telling everyone else to follow the rules couldn't follow them himself.
-
-Ingres would go on to become one half of the greatest rivalry in 19th-century art. But that's next episode's story.
+Ingres would go on to become one half of the greatest rivalry in 19th-century art. But that's next time.
 
 *[Direct to camera. The energy builds slightly — not rushed, but purposeful.]*
 
 [TALKING HEAD]
 
+*[PERSONAL OPINION NEEDED — rewrite this conclusion in your own voice. The version below is a structural placeholder. The key question: what do YOU actually think about David? About art as propaganda? Don't use what an AI would say — think about what you genuinely believe after sitting with this material.]*
+
 So here's where I want to leave you.
 
-Jacques-Louis David believed — genuinely, deeply believed — that art should serve morality and the state. That a painting should make you a better citizen. That beauty and duty were the same thing.
+Jacques-Louis David believed — genuinely, deeply believed — that art should serve a moral purpose. That a painting should make you a better citizen. That beauty and civic duty pointed in the same direction.
 
-And his paintings *are* beautiful. The Oath of the Horatii is beautiful. The Death of Marat is beautiful. Napoleon Crossing the Alps is beautiful. They are some of the most powerful images in Western art.
+And his paintings are powerful. The Oath of the Horatii. The Death of Marat. Napoleon Crossing the Alps. Some of the most influential images in the history of Western art.
 
-They're also weapons. Every single one of them was made to serve a political purpose. To inspire loyalty. To create martyrs. To build myths. And the man who made them voted to kill a king, signed arrest warrants during the Terror, and then switched his allegiance to a dictator without missing a beat.
+They're also weapons. Most of them were made to serve a specific political cause — to inspire loyalty, to create martyrs, to build myths. He was an active figure in revolutionary government, not just an observer. He voted to execute a king. He signed documents that sent people to their deaths. And when the Revolution fell, he found a new powerful man to paint.
 
-So: can art be both beautiful and propaganda? 
+So: can art be both great and propaganda?
 
 Yeah. Obviously. David proved that.
 
-The harder question is: should it be? And what does it cost — the artist, the audience, the truth — when it is?
-
-I don't have an answer. I don't think there is one. But I think the question matters. And I think David's life is the reason it matters.
+[PERSONAL OPINION NEEDED — what do *you* actually think about this? Do you find it troubling, understandable, both? The placeholder line below can be replaced or cut entirely.]
 
 *[Beat. Tone shifts — lighter, forward-looking.]*
 
 David built a world where art served reason, duty, the state. His student Ingres would defend that world for decades. The Académie would enforce it. The Salon would reward it.
 
-But not everyone agreed that reason should rule art. Not everyone thought paintings should be lessons in virtue. One painter — a man born the same year David went to prison — was about to blow the whole thing up. With color. With chaos. With a trip to North Africa that changed the way he saw everything.
+But not everyone agreed that reason should rule art. Not everyone thought paintings should be lessons in virtue. One painter — born in 1798, just a few years after the Terror — was about to blow the whole thing up. With color. With chaos. With a trip to North Africa that changed the way he saw everything.
 
-His name was Eugène Delacroix. And his story starts with a shipwreck, a madman, and a raft full of corpses.
+His name was Eugène Delacroix. And his story starts with a shipwreck, a madman, and a raft full of corpses — a painting he didn't make, but that changed him forever.
 
 *[Beat. Direct to camera.]*
 
@@ -456,7 +478,7 @@ That's next time.
 
 ---
 
-## END OF EPISODE 1
+## END OF CHAPTER 1
 
 ---
 
@@ -487,9 +509,18 @@ That's next time.
 - "He's still there."
 
 **Potential cuts if running long:**
-- The Canova/Napoleon as Mars section could be trimmed to 30 seconds
+- The Canova section (already marked as optional — lean toward cutting)
 - The Diderot quote could be cut (but it's good)
+- The brief Neoclassicism-in-Europe visual section could be shortened to just 2 artworks
 - The Prix de Rome explanation could be shortened
+
+**Source attribution:**
+- Review all quotes from critics, artists, and contemporaries. If these come from secondary sources (art history books, academic papers), cite the original source either in the video description or onscreen. Don't let a quote from Diderot or David appear as if independently researched when it came from a specific book.
+
+**Production notes still open:**
+- Verify David's specific roles in festival/uniform/calendar design (Act 4)
+- Research how David obtained painting materials while imprisoned
+- Pietà composition comparison — verify against actual painting
 
 **Potential expansions if running short:**
 - More time on the Winckelmann murder (it's a great story)
