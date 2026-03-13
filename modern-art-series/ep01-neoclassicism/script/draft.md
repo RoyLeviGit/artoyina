@@ -29,6 +29,9 @@ But to understand how he got there, we first need to ask: how does a painter end
 
 To understand that, we need to go way back. Before David. Before the Revolution. Back to a time when French art looked... very different.
 
+*[OPTIONAL BRIDGE — RECOMMENDATION: CUT. The act already ends on "we need to go way back. Before David. Before the Revolution." That does the same job more naturally. This bridge repeats it.]*
+*[OPTIONAL BRIDGE: A painter just voted to execute a king. Before we can understand how that happened, we need to understand the world that made him — the art, the ideas, and the system he was born into.]*
+
 ---
 
 ## ACT 2: THE WORLD BEFORE DAVID
@@ -40,7 +43,7 @@ To understand that, we need to go way back. Before David. Before the Revolution.
 
 [TALKING HEAD]
 
-Look at this painting. This is *The Swing* by Jean-Honoré Fragonard, painted in 1767. And it's beautiful. A woman in a big pink dress on a swing, her shoe flying off, and if you look carefully, there's a man hiding in the bushes below her, looking up her skirt. There's a little winged angel going "shhh." It's playful, it's flirtatious. And honestly? It's genuinely wonderful. It's not trying to say anything serious about France or the human condition. It just wants to delight you — for one moment, looking at something beautiful and slightly ridiculous.
+Look at this painting: The Swing by Jean-Honoré Fragonard, 1767. A woman swings, her shoe flying toward a little angel, who gestures to show a secret is unfolding. A man hides in the bushes, looking up her skirt, while the older man pushes the swing, unaware of what’s happening. This painting is witty, flirtatious, and entirely wrapped up in the private pleasures of the ruling class.
 
 And the French aristocracy *loved* this stuff. This was the art of the ruling class. Rococo, they called it. Light, decorative, charming, sexy. Painters like Boucher and Fragonard made a fortune painting exactly this — beautiful people doing beautiful things in beautiful gardens.
 
@@ -126,6 +129,9 @@ And a young painter named Jacques-Louis David wanted it more than anything.
 
 He failed. Three times.
 
+*[OPTIONAL BRIDGE — RECOMMENDATION: CUT. The act ends on "He failed. Three times." — that's a much stronger hook into Act 3. This bridge flattens it.]*
+*[OPTIONAL BRIDGE: The world had a new obsession with ancient Greece, a system that rewarded only one kind of art, and a scholarship that could launch a career. All it needed was someone hungry enough. Enter David.]*
+
 ---
 
 ## ACT 3: DAVID'S RISE
@@ -178,6 +184,8 @@ And you can see the difference immediately.
 [TALKING HEAD — building excitement]
 
 His first big Salon success was *Belisarius Begging for Alms* in 1781 — a Roman general, once great, now blind and begging in the street. The message: even the greatest can be destroyed by an ungrateful state. People noticed.
+
+Success at the Salon made David a full member of the Académie Royale — the institution that trained French artists, set the official standards, and decided what counted as serious painting. He became one of its most powerful teachers. His style, his values, his way of seeing — passed directly into the next generation. He wasn't just working within the system. He was shaping it.
 
 But The painting that changed everything — the work that defined Neoclassicism — came three years later.
 
@@ -234,6 +242,9 @@ Do you see what's happening? These aren't just paintings anymore. A painting abo
 David had spent a decade painting ancient heroes who sacrificed everything for the state. And now, in the summer of 1789, the state was being torn apart and rebuilt. The Revolution had begun. And David wasn't going to just paint it.
 
 He was going to join it.
+
+*[OPTIONAL BRIDGE — RECOMMENDATION: KEEP. The contrast between "felt like political arguments" and "the politics were real" earns its place. Sharpens the stakes going into Act 4.]*
+*[OPTIONAL BRIDGE: David had spent a decade making paintings that felt like political arguments. Now the politics were real — and so were the consequences.]*
 
 ---
 
@@ -317,6 +328,9 @@ It's propaganda, and it's a masterpiece, both are true at the same time. That te
 *[Beat]*
 
 He painted virtue. He preached sacrifice. And he signed the warrants that sent people to die.
+
+*[OPTIONAL BRIDGE — RECOMMENDATION: KEEP. Strong reversal structure. Act 4 ends on a moral indictment ("he signed the warrants that sent people to die") — this bridge adds narrative momentum without deflating that line.]*
+*[OPTIONAL BRIDGE: The Revolution gave David everything — power, purpose, a reason to paint. Now it was about to take it all back.]*
 
 ---
 
@@ -419,6 +433,9 @@ France refused to allow his body to return. The man who had been the most powerf
 
 He's still there.
 
+*[OPTIONAL BRIDGE — RECOMMENDATION: CUT. "He's still there." is the best line in Act 5 — leave it alone. Act 6 opens immediately with the legacy, so no runway is needed. This bridge only softens the impact.]*
+*[OPTIONAL BRIDGE: David was gone. But his style didn't die with him — it became the official language of French painting, carried forward by his students and enforced by the Académie. It took a new generation, armed with color and emotion, to finally push back.]*
+
 ---
 
 ## ACT 6: THE LEGACY
@@ -426,47 +443,45 @@ He's still there.
 
 [TALKING HEAD]
 
-So what did all of this leave behind? A movement. A set of rules about what serious art should look like. And an institution — the Académie — that would enforce those rules for the next fifty years. David's greatest student, Jean-Auguste-Dominique Ingres, became the guardian of that legacy. He carried the Neoclassical torch long after David died, became the most powerful figure in French official art, and spent decades insisting that drawing — clean, precise, classical drawing — was the foundation of everything.
+So what did David leave behind?
 
-[ARTWORK: Ingres, *Grande Odalisque*, 5 seconds]
+A movement. A set of rules. And an institution — the Académie — that would enforce those rules for the next fifty years. His greatest student, Ingres, became the guardian of that legacy. He spent his entire career defending classical drawing, insisting that discipline and line were the foundation of everything. The Académie backed him. The Salon rewarded it. For decades, the world David built held.
 
-Here's something curious about Ingres, though. Look at this — the *Grande Odalisque*, 1814. A reclining nude. Supposed to be the pinnacle of classical perfection. Except if you look carefully — her back is too long. Way too long. Anatomically, it’s incorrect.
 
-This wasn't carelessness — Ingres believed deeply in precise, correct drawing. But he also believed that when the grace of a line conflicted with strict anatomy, grace won. So he stretched her. He made the body more beautiful than a real body could be. (well, in his opinion) The man who spent his career defending classical rules was willing to break them **when he saw fit**.
-
-Ingres would go on to become one half of the greatest rivalry in 19th-century art. But that's next time.
-
-*[Direct to camera. The energy builds slightly — not rushed, but purposeful.]*
+*[Beat. Direct to camera. The energy builds — not rushed, but purposeful.]*
 
 [TALKING HEAD]
 
-*[PERSONAL OPINION NEEDED — rewrite this conclusion in your own voice. The version below is a structural placeholder. The key question: what do YOU actually think about David? About art as propaganda? Don't use what an AI would say — think about what you genuinely believe after sitting with this material.]*
+*[PERSONAL OPINION NEEDED — rewrite this conclusion in your own voice. The placeholder below is structural. The question: what do YOU actually think David’s real contribution was — to art, and to history? What do you make of the man?]*
 
 So here's where I want to leave you.
 
-Jacques-Louis David believed — genuinely, deeply believed — that art should serve a moral purpose. That a painting should make you a better citizen. That beauty and civic duty pointed in the same direction.
+David understood something fundamental about images: they aren’t just decoration. They are arguments. A painting can make you believe something. It can make an idea feel noble, inevitable, even heroic. 
+His style helped make that power possible. The clean lines. The stark compositions. The restrained, controlled color. Everything is clear, deliberate, and serious. Nothing is accidental. The paintings feel certain about what they are saying — and that certainty is persuasive.
 
-And his paintings are powerful. The Oath of the Horatii. The Death of Marat. Napoleon Crossing the Alps. Some of the most influential images in the history of Western art.
+And the images themselves did real work. The Oath of the Horatii didn’t just depict Roman virtue; it presented a model of duty and sacrifice. The Death of Marat didn’t simply show a political killing — it transformed Marat into a martyr of the Revolution. Napoleon Crossing the Alps didn’t document an event so much as construct a heroic image of leadership.
 
-They're also weapons. Most of them were made to serve a specific political cause — to inspire loyalty, to create martyrs, to build myths. He was an active figure in revolutionary government, not just an observer. He voted to execute a king. He signed documents that sent people to their deaths. And when the Revolution fell, he found a new powerful man to paint.
+That’s David’s real legacy. Not just a style, and not only a school of followers — but a demonstration of how powerful images can shape political imagination.
 
-So: can art be both great and propaganda?
+But the more interesting part of David’s story isn’t the propaganda. It’s the man behind it. David painted virtue, duty, and sacrifice — and he seems to have genuinely believed in those ideals. At the same time, he lived at the center of power during one of the most turbulent periods in French history.
 
-Yeah. Obviously. David proved that.
+That combination was rare: an artist who wasn’t just observing events, but helping shape how they were seen and remembered.
 
-[PERSONAL OPINION NEEDED — what do *you* actually think about this? Do you find it troubling, understandable, both? The placeholder line below can be replaced or cut entirely.]
+And that may be what makes him so remarkable. Not just a great painter — but an artist whose images helped define an era.
 
-*[Beat. Tone shifts — lighter, forward-looking.]*
 
-David built a world where art served reason, duty, the state. His student Ingres would defend that world for decades. The Académie would enforce it. The Salon would reward it.
+*[PERSONAL OPINION NEEDED — replace the above three paragraphs with what you actually think. This is the heart of the episode.]*
 
-But not everyone agreed that reason should rule art. Not everyone thought paintings should be lessons in virtue. One painter — born in 1798, just a few years after the Terror, the Revolution’s most violent period — was about to blow the whole thing up. With color. With chaos. With a trip to North Africa that changed the way he saw everything.
+*[Beat. Tone shifts — forward-looking.]*
+
+Not everyone accepted what he built, though. Not everyone thought paintings should be lessons in virtue, or that reason should rule everything art could be. One painter — born in 1798, just a few years after the Terror, the Revolution’s most violent period —  was about to blow the whole thing up. With color. With chaos. With a trip to North Africa that changed the way he saw everything.
 
 His name was Eugène Delacroix. And his story starts with a shipwreck, a madman, and a raft full of corpses.
 
 *[Beat. Direct to camera.]*
 
-That's next time.
+That’s next time.
+
 
 *[Cut to black.]*
 
@@ -521,3 +536,77 @@ That's next time.
 - Add Canova's *Psyche Revived by Cupid's Kiss* as a visual moment — the marble-as-skin texture
 - Expand the Coronation section (Napoleon's mother boycotting is a great detail)
 - Add Paolina Borghese's quote: "No, the studio was heated."
+
+---
+
+### CHAPTER OUTLINE
+
+**ACT 1 — Cold Open**
+- January 21, 1793: David votes to execute the king
+- *→ A painter just voted to execute a king. Before we can understand how that happened, we need to understand the world that made him — the art, the ideas, and the system he was born into.*
+
+**ACT 2 — The World Before David**
+- The Rococo: Fragonard, *The Swing* — art of the aristocracy
+- Diderot's critique: "This man has everything — except truth"
+- The excavations of Pompeii and Herculaneum; the Grand Tour
+- Winckelmann: "noble simplicity and quiet grandeur"; the imaginary Greece; colored statues; his murder
+- The Salon system: hierarchy of genres, the Prix de Rome
+- *→ The world had a new obsession with ancient Greece, a system that rewarded only one kind of art, and a scholarship that could launch a career. All it needed was someone hungry enough. Enter David.*
+
+**ACT 3 — David's Rise**
+- David's early life and repeated Prix de Rome failures
+- Five years in Rome; transformation into a Neoclassical painter
+- Neoclassicism across Europe (Mengs, Hamilton, Canova) — visual section
+- How David made the style politically urgent
+- *Belisarius* (1781): first Salon success; admission to the Académie Royale
+- *Oath of the Horatii* (1784): color, light, composition, meaning
+- *Death of Socrates* (1787): duty and principle
+- *Brutus* (1789): displayed at the Salon weeks after the Bastille
+- *→ David had spent a decade making paintings that felt like political arguments. Now the politics were real — and so were the consequences.*
+
+**ACT 4 — The Revolution**
+- David elected to the National Convention; the Jacobins; Robespierre
+- David as the Revolution's visual authority: festivals, imagery
+- Arrest warrants and the Committee of General Security
+- The Socrates reversal: from painting a man killed by the state to being the state
+- *The Death of Marat* (1793): the murder, the fabricated letter, the Pietà, propaganda as masterpiece
+- *→ The Revolution gave David everything — power, purpose, a reason to paint. Now it was about to take it all back.*
+
+**ACT 5 — The Fall and the Pivot**
+- 9 Thermidor (1794): Robespierre overthrown; David arrested
+- The prison self-portrait: honesty and survival
+- Napoleon: David's quote; "as beautiful as the antique"
+- *Napoleon Crossing the Alps* (1801): the myth vs. the mule
+- *The Coronation* (1807): Napoleon's mother painted into history
+- Waterloo, exile to Brussels, death in 1825
+**ACT 6 — The Legacy**
+- *[OPTIONAL BRIDGE before this act: David was gone. But his style didn't die with him — it became the official language of French painting, carried forward by his students and enforced by the Académie. It took a new generation, armed with color and emotion, to finally push back.]*
+- The Académie as David's institutional legacy
+- Ingres: *Grande Odalisque* and the paradox of rule-breaking
+- [PERSONAL OPINION — to be written]
+- Bridge to Chapter 2: Delacroix, the raft, color vs. line
+
+---
+
+### OPTIONAL BRIDGES — RECOMMENDATIONS
+
+**ACT 1 → KEEP.**
+*"A painter just voted to execute a king..."*
+The cold open ends on a hard cut. Without this bridge, the transition into Act 2 feels abrupt. It also reframes what Act 2 is doing — not just art history for its own sake, but context for a specific moment. Worth keeping.
+
+**ACT 2 → KEEP.**
+*"The world had a new obsession... Enter David."*
+Good compression of everything Act 2 just covered, plus a strong punch into Act 3. "Enter David" earns its place. Useful if you sense the Act 2 section is getting dense and the audience needs a reset.
+
+**ACT 3 → KEEP.**
+*"David had spent a decade making paintings that felt like political arguments. Now the politics were real."*
+Short and earns real tension. The contrast between "felt like" and "were real" does a lot of work. One of the stronger bridges.
+
+**ACT 4 → KEEP.**
+*"The Revolution gave David everything... Now it was about to take it all back."*
+Classic reversal structure, and it works. Sets up Act 5 without spoiling it. Keep.
+
+**Before ACT 6 → CONSIDER CUTTING.**
+*"David was gone. But his style didn't die with him... It took a new generation, armed with color and emotion, to finally push back."*
+The problem is the line before it: *"He's still there."* — that's already a perfect ending for Act 5. It's stark, it lands, it doesn't need a follow-up. This bridge softens the impact. The combined version is better than the two separate ones were, but even so, it undercuts the moment.
+**Recommendation:** cut entirely and let "He's still there." breathe. If you need the transition, keep only the first sentence: *"David was gone. But the movement he built, the institution he shaped, the rules he wrote — those didn't disappear with him."* — and drop the second.
