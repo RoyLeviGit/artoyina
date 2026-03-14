@@ -65,11 +65,11 @@ And right around this time, something happened that changed the direction of Eur
 
 *[MAP/GRAPHIC: Simple map showing Pompeii and Herculaneum locations near Naples]*
 
-Well, first Herculaneum in 1738, then Pompeii in 1748. Two entire Roman cities, buried by a volcano in 79 AD, suddenly visible again. And it wasn't just columns and statues — it was *everything*. Houses, frescoes, furniture, graffiti, bread still in the ovens. An entire civilization, frozen in time.
+Well, first Herculaneum in 1738, then Pompeii in 1748. Two entire Roman cities, buried by a volcano in 79 AD, suddenly visible again. And it wasn't just columns and statues — it was *everything*. Houses, wall paintings, furniture, graffiti, bread still in the ovens. An entire civilization, frozen in time.
 
 And among the educated, wealthy classes of Europe, this sparked a kind of ancient-world mania. Greek furniture. Roman architecture. Classical hairstyles. If you were a wealthy young man, you went on the Grand Tour — you traveled to Rome, you sketched the ruins, you came back and told everyone how cultured you were. It was the 18th-century version of studying abroad and making it your whole personality.
 
-But the person who turned this obsession into a full-blown intellectual philosophy — the person who gave the educated classes of Europe a framework for *why* ancient Greece was the pinnacle of human achievement — was a man who never painted a single painting. Not a painter. Not an architect. A writer. A critic.
+But the person who turned this obsession into a complete theory — the person who gave the educated classes of Europe a framework for *why* ancient Greece was the peak of human achievement — was a man who never painted a single painting. Not a painter. Not an architect. A writer. A critic.
 
 *[Beat]*
 
@@ -77,7 +77,7 @@ His name was Johann Joachim Winckelmann.
 
 [TALKING HEAD]
 
-Winckelmann was born in 1717 in Prussia. His father was a cobbler. Dirt poor. But the kid was brilliant — taught himself Greek and Latin, worked as a schoolteacher and librarian just to survive. And in 1755, he published a book that changed everything.
+Winckelmann was born in 1717 in Prussia. His father was a shoemaker. Dirt poor. But the kid was brilliant — taught himself Greek and Latin, worked as a schoolteacher and librarian just to survive. And in 1755, he published a book that changed everything.
 
 It was called *Thoughts on the Imitation of Greek Works in Painting and Sculpture*. And in it, he made a claim that would echo for the next hundred years. He said that the defining quality of Greek art was —
 
@@ -87,7 +87,7 @@ It was called *Thoughts on the Imitation of Greek Works in Painting and Sculptur
 
 five words. That's it. five words that defined an entire century of art.
 
-What did he mean? He meant that great art should be calm. Restrained. Balanced. No screaming, no drama, no excess. Think of a Greek statue — the Apollo Belvedere, say. Perfect proportions. Serene expression. Idealized body. Pure white marble. That, Winckelmann said, was the pinnacle. Everything else was a step down.
+What did he mean? He meant that great art should be calm. Restrained. Balanced. No screaming, no drama, no excess. Think of a Greek statue — the Apollo Belvedere, say. Perfect proportions. Calm expression. Idealized body. Pure white marble. That, Winckelmann said, was the peak. Everything else was a step down.
 
 *[Small beat]*
 
@@ -145,7 +145,7 @@ David was born in Paris in 1748. His father was killed in a duel when David was 
 
 He studied under a painter named Joseph-Marie Vien, and he entered the Prix de Rome competition multiple times through the early 1770s. He lost. He entered again. Lost again. He entered a third time. Lost again.
 
-And repeated failure broke him. According to some biographical accounts, David locked himself in his room and refused to eat — convinced his life was over. The details are murky and probably embellished by later admirers, but the despair was real. He was in his mid-twenties, and the one path he'd staked everything on kept closing in his face.
+And repeated failure broke him. According to some biographical accounts, David locked himself in his room and refused to eat — convinced his life was over. The details are murky and probably exaggerated by later admirers, but the despair was real. He was in his mid-twenties, and the one path he'd staked everything on kept closing in his face.
 
 *[Pause]*
 
@@ -163,13 +163,13 @@ He went to Rome, and everything changed.
 
 He arrived in **Rome** and at first wasn’t very impressed, struggling to find his direction. But soon the ideas he had read about — especially those of **Johann Joachim Winckelmann** — came to life in front of him. He studied ancient sculptures, **Raphael**, and artists like **Caravaggio**, spending five years learning and absorbing the art around him.
 
-And when he came back to **Paris**, he was a completely different painter. The loose, colorful style of his early work was gone. In its place: austerity. Moral seriousness. Clean lines, rigid geometry, **local colors and a restrained palette — muted overall, with sharp accents guiding the viewer’s eye.** Ancient virtue, painted with absolute conviction.
+And when he came back to **Paris**, he was a completely different painter. The loose, colorful style of his early work was gone. In its place: moral seriousness. Clean lines, rigid geometry, **local colors and a restrained palette — muted overall, with sharp accents guiding the viewer’s eye.** Ancient virtue, painted with absolute conviction.
 
 He had become exactly what **Winckelmann — the theorist —** had called for. He had become Neo-Classical.
 
 *[Brief pause. Lighter tone.]*
 
-Worth noting: David wasn't alone in this. Neoclassicism wasn't only, or even mainly, about politics. Across Europe, artists adopted the style to express ideals of beauty, harmony, and timeless order inspired by ancient Greece and Rome. Painters used classical myths and historical scenes to explore heroism, virtue, and human emotion. Sculptors like Canova focused on the elegance of the human body — calm, idealized forms in perfect proportion. The style appeared in mythological paintings, portraits, architecture, decorative arts. It became a visual language of refinement and intellectual taste, with no political agenda whatsoever.
+Worth noting: David wasn't alone in this. Neoclassicism wasn't only, or even mainly, about politics. Across Europe, artists adopted the style to express ideals of beauty, harmony, and timeless order inspired by ancient Greece and Rome. Painters used classical myths and historical scenes to explore heroism, virtue, and human emotion. Sculptors like Canova focused on the elegance of the human body — calm, idealized forms in perfect proportion. The style appeared in mythological paintings, portraits, architecture, decorative arts. It became a visual language of elegance and good taste, with no political agenda whatsoever.
 
 *[BRIEF VISUAL SECTION — 3–4 works on screen, minimal voiceover]*
 
@@ -233,7 +233,7 @@ And then, in 1789 — *The Lictors Bring to Brutus the Bodies of His Sons*.
 
 Brutus — the founder of the Roman Republic — has ordered the execution of his own sons for conspiring to restore the monarchy. The bodies are being carried past him. He doesn't look. The women scream. He sits in shadow, rigid, destroyed but unbroken.
 
-This painting was displayed at the Salon just weeks after the storming of the Bastille — the Paris prison whose attack on July 14, 1789, marked the beginning of the French Revolution. The story goes that authorities tried to pull it from the exhibition, but the crowd demanded it stay. Whether that happened exactly as described is debated; some historians think the tale was polished later to make David seem more heroically embattled. Regardless, the painting’s timing was incendiary. 
+This painting was displayed at the Salon just weeks after the storming of the Bastille — the Paris prison whose attack on July 14, 1789, marked the beginning of the French Revolution. The story goes that authorities tried to pull it from the exhibition, but the crowd demanded it stay. Whether that happened exactly as described is debated; some historians think the tale was polished later to make David seem more heroically embattled. Regardless, the painting’s timing was explosive. 
 
 [TALKING HEAD]
 
@@ -263,7 +263,7 @@ A painter. Voted to kill a king.
 
 *[Let that sit for a beat]*
 
-But he didn't stop there. David became, essentially, the Revolution's visual authority. He organized festivals — massive public spectacles meant to replace Catholic ritual with Republican ceremony. He contributed to the design of uniforms and public imagery. He was deeply involved in shaping what the Revolution *looked like* — and in a world before photography, before television, that meant he had real influence over what people *believed* about it.
+But he didn't stop there. David became, essentially, the Revolution's visual authority. He organized festivals — massive public events meant to replace Catholic ritual with Republican ceremony. He contributed to the design of uniforms and public imagery. He was deeply involved in shaping what the Revolution *looked like* — and in a world before photography, before television, that meant he had real influence over what people *believed* about it.
 
 *[PRODUCTION NOTE: Verify the specific extent of David's involvement in festival design vs. uniform design vs. the Republican calendar. The festivals (especially the Festival of the Supreme Being, 1794) are well-documented; the uniforms and calendar claims need sourcing.]*
 
@@ -271,7 +271,7 @@ He was close to Robespierre — the radical Jacobin leader. Very close. He repor
 
 *[PRODUCTION NOTE: to write "a highly poisonous European plant" about hemlock on the screen]*
 
-And David signed arrest warrants. He was actively involved in the revolutionary government — sitting on the Committee of General Security, putting his name to documents that led to people being arrested, tried, and executed. He was one of many signatories, not acting alone. But consider what that means for the man who painted *The Death of Socrates*.
+And David signed arrest warrants. He was actively involved in the revolutionary government — sitting on the Committee of General Security, putting his name to documents that led to people being arrested, tried, and executed. He was one of many people who signed, not acting alone. But consider what that means for the man who painted *The Death of Socrates*.
 
 You remember that painting — Socrates in his last moments, calmly reaching for the cup of poison while his students fall apart around him. Socrates was condemned by the Athenian state for refusing to abandon his ideas. That's the subject David chose to paint, and made beautiful: a man killed by the state. And now David was the state. His name was on the paperwork.
 
@@ -301,7 +301,7 @@ Look at it.
 
 [DETAIL: Marat's face and upper body — the peaceful expression]
 
-Marat is slumped in his bath. His head is wrapped in a cloth. His skin is pale — almost luminous. His face is calm. Peaceful. He looks like he's sleeping. He looks like Christ taken down from the cross - but I’ll get to that in a sec.
+Marat is slumped in his bath. His head is wrapped in a cloth. His skin is pale — almost glowing. His face is calm. Peaceful. He looks like he's sleeping. He looks like Christ taken down from the cross - but I’ll get to that in a sec.
 
 [DETAIL: The letter in his left hand]
 
@@ -309,7 +309,7 @@ In his left hand, a letter. It reads: "It is enough that I am truly unhappy to h
 
 [DETAIL: The knife on the floor, the blood]
 
-On the floor, the knife. Bloodied. And on the wooden block beside the bath — the block Marat used as a desk — David inscribed two words:
+On the floor, the knife. Bloodied. And on the wooden block beside the bath — the block Marat used as a desk — David carved two words:
 
 [DETAIL: The inscription on the wooden block]
 
@@ -317,7 +317,7 @@ On the floor, the knife. Bloodied. And on the wooden block beside the bath — t
 
 [TALKING HEAD]
 
-Now here's what I need you to sit with. This painting is propaganda. It absolutely is. David has taken a man who was, by many accounts, paranoid, vindictive, and responsible for inciting mob violence — and turned him into a saint. The bath is clean. The body is idealized. The composition is borrowed directly from Christian art — specifically the Pietà, which is a famous image of Mary holding the body of Jesus. If you know Michelangelo's famous marble sculpture in St. Peter's Basilica: the Virgin Mary cradling the body of Christ after the crucifixion. That image. That arrangement. That specific quality of grief held perfectly still. David took it and transplanted it into a bathtub in Paris. Marat as the Revolution's crucified Christ.
+Now here's what I need you to sit with. This painting is propaganda. It absolutely is. David has taken a man who was, by many accounts, paranoid, cruel, and responsible for stirring up mob violence — and turned him into a saint. The bath is clean. The body is idealized. The composition is borrowed directly from Christian art — specifically the Pietà, which is a famous image of Mary holding the body of Jesus. If you know Michelangelo's famous marble sculpture in St. Peter's Basilica: the Virgin Mary cradling the body of Christ after the crucifixion. That image. That arrangement. That specific quality of grief held perfectly still. David took it and transplanted it into a bathtub in Paris. Marat as the Revolution's crucified Christ.
 
 *[PRODUCTION NOTE: Verify the Pietà comparison against the actual composition — the parallel is widely made in art history but worth double-checking the specifics.]*
 
@@ -391,7 +391,7 @@ And Napoleon — a master of image and spectacle — saw in David exactly what h
 
 [TALKING HEAD]
 
-*Napoleon Crossing the Alps.* 1801. You know this image. Even if you've never been to an art museum, you know this image. Napoleon on a rearing white horse, cape billowing, arm pointing forward, the names of Hannibal and Charlemagne carved into the rocks below him — as if to say: he belongs among them.
+*Napoleon Crossing the Alps.* 1801. You know this image. Even if you've never been to an art museum, you know this image. Napoleon on a rearing white horse, cape flowing, arm pointing forward, the names of Hannibal and Charlemagne carved into the rocks below him — as if to say: he belongs among them.
 
 I've seen this painting in person, and the first thing that hits you is the scale. It's enormous — roughly 260 by 220 centimeters, almost nine feet tall.
 
@@ -425,7 +425,7 @@ After Waterloo — after Napoleon's final defeat in 1815 — the Bourbon monarch
 
 David had voted to execute Louis XVI in 1793. That was twenty-two years ago. They hadn't forgotten.
 
-He was exiled. Banned from France as a regicide. He moved to Brussels. He kept painting, but the work got softer, less urgent. The fire was going out.
+He was exiled. Banned from France as a king-killer. He moved to Brussels. He kept painting, but the work got softer, less urgent. The fire was going out.
 
 He died in Brussels on December 29, 1825, at the age of seventy-seven.
 
@@ -459,11 +459,11 @@ So here's where I want to leave you.
 David understood something fundamental about images: they aren’t just decoration. They are arguments. A painting can make you believe something. It can make an idea feel noble, inevitable, even heroic. 
 His style helped make that power possible. The clean lines. The stark compositions. The restrained, controlled color. Everything is clear, deliberate, and serious. Nothing is accidental. The paintings feel certain about what they are saying — and that certainty is persuasive.
 
-And the images themselves did real work. The Oath of the Horatii didn’t just depict Roman virtue; it presented a model of duty and sacrifice. The Death of Marat didn’t simply show a political killing — it transformed Marat into a martyr of the Revolution. Napoleon Crossing the Alps didn’t document an event so much as construct a heroic image of leadership.
+And the images themselves did real work. The Oath of the Horatii didn’t just show Roman virtue; it presented a model of duty and sacrifice. The Death of Marat didn’t simply show a political killing — it transformed Marat into a martyr of the Revolution. Napoleon Crossing the Alps didn’t document an event so much as construct a heroic image of leadership.
 
 That’s David’s real legacy. Not just a style, and not only a school of followers — but a demonstration of how powerful images can shape political imagination.
 
-But the more interesting part of David’s story isn’t the propaganda. It’s the man behind it. David painted virtue, duty, and sacrifice — and he seems to have genuinely believed in those ideals. At the same time, he lived at the center of power during one of the most turbulent periods in French history.
+But the more interesting part of David’s story isn’t the propaganda. It’s the man behind it. David painted virtue, duty, and sacrifice — and he seems to have genuinely believed in those ideals. At the same time, he lived at the center of power during one of the most violent and chaotic periods in French history.
 
 That combination was rare: an artist who wasn’t just observing events, but helping shape how they were seen and remembered.
 
