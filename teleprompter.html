@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teleprompter</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #000; color: #fff; font-family: Georgia, serif; overflow: hidden; height: 100vh; }
+#controls { position: fixed; top: 0; left: 0; right: 0; z-index: 10; background: #111; padding: 10px 20px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; transition: opacity .3s; }
+#controls.hidden { opacity: 0; pointer-events: none; }
+#controls button, #controls label { color: #ccc; font-size: 14px; cursor: pointer; }
+#controls button { background: #333; border: 1px solid #555; padding: 6px 14px; border-radius: 4px; }
+#controls button:hover { background: #444; }
+#controls input[type=range] { width: 120px; }
+#prompter { position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 70%; padding: 60px 0 100vh; font-size: 42px; line-height: 1.6; white-space: pre-wrap; }
+#prompter.mirror { transform: translateX(-50%) scaleX(-1); }
+#edit-overlay { position: fixed; inset: 0; z-index: 20; background: #000e; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; }
+#edit-overlay.hidden { display: none; }
+#edit-overlay textarea { width: 80%; height: 70vh; background: #111; color: #eee; border: 1px solid #444; font-size: 18px; font-family: Georgia, serif; padding: 20px; resize: none; border-radius: 6px; }
+#edit-overlay button { margin-top: 14px; padding: 10px 30px; font-size: 18px; background: #2a6; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+.speed-val { min-width: 28px; text-align: center; color: #ccc; font-size: 14px; }
+</style>
+</head>
+<body>
+<div id="controls">
+  <button id="btn-play">▶ Play</button>
+  <label>Speed</label><input type="range" id="speed" min="1" max="30" value="3"><span class="speed-val" id="speed-val">3</span>
+  <label>Size</label><input type="range" id="fontsize" min="24" max="80" value="42"><span class="speed-val" id="size-val">42</span>
+  <button id="btn-mirror">Mirror</button>
+  <button id="btn-edit">✏ Edit</button>
+  <button id="btn-reset">↺ Reset</button>
+  <button id="btn-fs">⛶ Fullscreen</button>
+</div>
+<div id="prompter">Paste your script using the ✏ Edit button above.</div>
+<div id="edit-overlay" class="hidden">
+  <textarea id="script-input" placeholder="Paste your script here..."></textarea>
+  <button id="btn-save">Load Script</button>
+</div>
+<script>
+const p = document.getElementById('prompter'), controls = document.getElementById('controls');
+let scrolling = false, speed = 3, raf, hideTimer, acc = 0;
+
+function scroll() {
+  if (!scrolling) return;
+  acc += speed * 0.1;
+  const px = Math.floor(acc);
+  if (px >= 1) { window.scrollBy(0, px); acc -= px; }
+  raf = requestAnimationFrame(scroll);
+}
+
+function toggle() {
+  scrolling = !scrolling;
+  document.getElementById('btn-play').textContent = scrolling ? '⏸ Pause' : '▶ Play';
+  if (scrolling) scroll(); else cancelAnimationFrame(raf);
+}
+
+document.getElementById('btn-play').onclick = toggle;
+document.getElementById('speed').oninput = e => { speed = +e.target.value; document.getElementById('speed-val').textContent = speed; };
+document.getElementById('fontsize').oninput = e => { p.style.fontSize = e.target.value + 'px'; document.getElementById('size-val').textContent = e.target.value; };
+document.getElementById('btn-mirror').onclick = () => p.classList.toggle('mirror');
+document.getElementById('btn-reset').onclick = () => { window.scrollTo(0, 0); if (scrolling) toggle(); };
+document.getElementById('btn-edit').onclick = () => { document.getElementById('edit-overlay').classList.remove('hidden'); document.getElementById('script-input').value = p.textContent; };
+document.getElementById('btn-save').onclick = () => { const t = document.getElementById('script-input').value; p.textContent = t; localStorage.setItem('teleprompter-script', t); document.getElementById('edit-overlay').classList.add('hidden'); window.scrollTo(0, 0); };
+const saved = localStorage.getItem('teleprompter-script'); if (saved) p.textContent = saved;
+document.getElementById('btn-fs').onclick = () => { document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen(); };
+
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'TEXTAREA') return;
+  if (e.code === 'Space') { e.preventDefault(); toggle(); }
+  if (e.code === 'ArrowUp') { e.preventDefault(); speed = Math.max(1, speed - 1); document.getElementById('speed').value = speed; document.getElementById('speed-val').textContent = speed; }
+  if (e.code === 'ArrowDown') { e.preventDefault(); speed = Math.min(30, speed + 1); document.getElementById('speed').value = speed; document.getElementById('speed-val').textContent = speed; }
+});
+
+// Mouse wheel manually scrolls the script
+document.addEventListener('wheel', e => {
+  if (document.getElementById('edit-overlay').classList.contains('hidden')) {
+    e.preventDefault();
+    window.scrollBy(0, e.deltaY);
+  }
+}, { passive: false });
+
+// Click on prompter area toggles play/pause
+p.addEventListener('click', e => {
+  if (!document.getElementById('edit-overlay').classList.contains('hidden')) return;
+  toggle();
+});
+
+document.addEventListener('mousemove', () => { controls.classList.remove('hidden'); clearTimeout(hideTimer); if (scrolling) hideTimer = setTimeout(() => controls.classList.add('hidden'), 3000); });
+</script>
+</body>
+</html>
