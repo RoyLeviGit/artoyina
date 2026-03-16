@@ -12,9 +12,9 @@
 
 I want to read you something.
 
-This is from a letter. Written by a man to his brother. The man was thirty years old. He'd been fired from his job as an art dealer. He'd failed as a teacher. He'd been dismissed as a preacher for being too zealous — he'd been giving away his clothes and food to coal miners in Belgium, and the church decided that was too much Christianity for their taste.
+This is from a letter. Written by a man to his brother. The man was twenty-seven years old. He'd been fired from his job as an art dealer. He'd failed as a teacher. He'd been let go as a preacher for being too intense — he'd been giving away his clothes and food to coal miners in Belgium, and the church decided that was too much Christianity for their taste.
 
-He had no career. No money. No prospects. No position in society. And he'd just decided — at thirty — to become an artist.
+He had no career. No money. No future. No place in society. And he'd just decided — at twenty-seven — to become an artist.
 
 Here's what he wrote:
 
@@ -58,9 +58,9 @@ But first — a bridge.
 
 Georges Seurat. *A Sunday Afternoon on La Grande Jatte.* 1884 to 1886. It's enormous. Parisians relaxing by the Seine on a Sunday. But look at it — every figure is still, geometric, almost frozen. And if you get close, the entire painting is made of tiny dots of pure color. Thousands and thousands of dots.
 
-Seurat took Chevreul's color science from Episode 4 and made it systematic. Pointillism. Instead of brushstrokes, dots. Instead of intuition, method. It's Impressionism made scientific and monumental.
+Seurat took Chevreul's color science from Episode 4 and made it systematic. Pointillism. Instead of brushstrokes, dots. Instead of intuition, method. It's Impressionism made scientific and grand.
 
-He died at thirty-one. Meningitis. Another career cut brutally short. But he proved that Impressionism could be pushed further — that there was somewhere to go after the shimmer.
+He died at thirty-one. Sudden illness — possibly diphtheria. Another career cut short way too soon. But he proved that Impressionism could be pushed further — that there was somewhere to go after the shimmer.
 
 The three men who found where to go are the subject of this episode.
 
@@ -78,7 +78,7 @@ Remember that name. It's going to matter.
 
 Cézanne went to Paris to become a painter. He failed the entrance exam for the École des Beaux-Arts. His early work is dark, violent, thickly painted — murders, orgies, portraits slathered with a palette knife. Nothing like what he'd become. The Salon rejected him repeatedly.
 
-He met Pissarro — the elder statesman of the Impressionists — who became his mentor. Pissarro taught him to lighten his palette, to paint outdoors, to look. Cézanne exhibited with the Impressionists in 1874 and 1877. His work was the most mocked in the shows. Critics singled him out as the worst of the group.
+He met Pissarro — the oldest and wisest of the Impressionists — who became his teacher. Pissarro taught him to lighten his palette, to paint outdoors, to look. Cézanne exhibited with the Impressionists in 1874 and 1877. His work was the most mocked in the shows. Critics picked him out as the worst of the group.
 
 He retreated to Aix-en-Provence. And there, alone, working in near-total isolation, he figured out something that would change art forever.
 
@@ -86,7 +86,7 @@ He retreated to Aix-en-Provence. And there, alone, working in near-total isolati
 
 [TALKING HEAD]
 
-Here's what Cézanne realized. Impressionism captured light and color beautifully — but it lost solidity. A Monet cathedral dissolves into shimmer. You can see the light, but you can't feel the stone.
+Here's what Cézanne realized. Impressionism captured light and color beautifully — but it lost weight. A Monet cathedral melts into shimmer. You can see the light, but you can't feel the stone.
 
 Cézanne wanted both. The color and light of Impressionism AND the structure and weight of the Old Masters. He wanted you to see the light *and* feel the stone.
 
@@ -102,7 +102,7 @@ Mont Sainte-Victoire. The mountain outside Aix. He painted it over eighty times 
 
 [ARTWORK: *Still Life with Apples* — one of the tilting-table compositions]
 
-And his still lifes. Look at this. Apples on a table. But the table tilts. The perspective shifts. Objects are seen from slightly different angles simultaneously. The tablecloth folds in ways that don't quite make sense spatially. It's not "wrong" — it's *more right* than a single perspective could be. Because that's how you actually experience a table of apples — your eye moves, your head shifts, you see it from multiple positions.
+And his still lifes. Look at this. Apples on a table. But the table tilts. The perspective shifts. Objects are seen from slightly different angles at the same time. The tablecloth folds in ways that don't quite make sense in real space. It's not "wrong" — it's *more right* than a single perspective could be. Because that's how you actually experience a table of apples — your eye moves, your head shifts, you see it from multiple positions.
 
 This is what Picasso and Braque would take and explode into Cubism. Cézanne didn't know that. He was just trying to paint an apple honestly.
 
@@ -112,9 +112,9 @@ This is what Picasso and Braque would take and explode into Cubism. Cézanne did
 
 [TALKING HEAD — quieter, more personal]
 
-In 1886, Cézanne's childhood best friend Émile Zola — now the most famous novelist in France — published a book called *L'Œuvre*. The Masterpiece. It's a novel about a painter. A painter who has enormous ambition but can never realize his vision. Who works obsessively on a single painting and can never finish it. Who is, ultimately, a failure. And who kills himself.
+In 1886, Cézanne's childhood best friend Émile Zola — now the most famous novelist in France — published a book called *L'Œuvre*. The Masterpiece. It's a novel about a painter. A painter who has huge ambition but can never make his vision real. Who works obsessively on a single painting and can never finish it. Who is, in the end, a failure. And who kills himself.
 
-The character was transparently based on Cézanne. Everyone knew it.
+The character was clearly based on Cézanne. Everyone knew it.
 
 Cézanne read the book. He wrote Zola a brief, polite thank-you note. And they never spoke again.
 
@@ -132,13 +132,21 @@ Cézanne's first solo exhibition came in 1895. He was fifty-six years old. The d
 
 [ARTWORK: *The Large Bathers*, 8 seconds]
 
-His final masterpiece: *The Large Bathers.* Nude figures under trees, arranged in a triangular composition. The bodies are barely bodies — they're geometric forms integrated into the landscape. It's not about nudity. It's about structure. About finding the architecture of the visible world.
+His final masterpiece: *The Large Bathers.* Nude figures under trees, arranged in a triangular composition. The bodies are barely bodies — they're shapes woven into the landscape. It's not about nudity. It's about structure. About finding the bones of the visible world.
 
 He died on October 22nd, 1906. He'd been painting outdoors, got caught in a storm, collapsed. Pneumonia.
 
-The year after his death, a major retrospective was held in Paris. Picasso saw it. Braque saw it. Matisse saw it. And they understood: this man had shown them the future.
+The year after his death, a major exhibition of his work was held in Paris. Picasso saw it. Braque saw it. Matisse saw it. And they understood: this man had shown them the future.
 
 Picasso said it simply: "Cézanne was the father of us all."
+
+---
+
+## 🔗 BRIDGE: FROM STRUCTURE TO FEELING
+
+[TALKING HEAD]
+
+Cézanne found the bones underneath the surface. He answered the question: what's the *structure* of what we see? But there was another painter asking a completely different question — not what's underneath, but what's *inside*. Not the structure of the world, but the feeling of being alive in it. And he wrote it all down in letters to his brother.
 
 ---
 
@@ -152,7 +160,7 @@ Picasso said it simply: "Cézanne was the father of us all."
 
 Vincent van Gogh was born in 1853 in the Netherlands. Son of a Protestant pastor. And before he was a painter, he was a series of failures.
 
-He worked as an art dealer at his uncle's firm — in The Hague, London, Paris. He was fired. He tried to become a teacher. It didn't work. He became a lay preacher in the Borinage, a coal-mining region in Belgium. He lived among the miners in extreme poverty — gave away his clothes, his food, slept on the floor. The church dismissed him. Too zealous, they said. Too much.
+He worked as an art dealer at his uncle's firm — in The Hague, London, Paris. He was fired. He tried to become a teacher. It didn't work. He became a lay preacher in the Borinage, a coal-mining region in Belgium. He lived among the miners in extreme poverty — gave away his clothes, his food, slept on the floor. The church dismissed him. Too intense, they said. Too much.
 
 At twenty-seven, with nothing left, he decided to become an artist. He had about ten years to live. He didn't know that. But there's an urgency in everything he made that suggests, on some level, he felt it.
 
@@ -164,7 +172,7 @@ His early work is dark. Earthy. Brown and grey. Peasants in dim rooms. He was in
 
 [ARTWORK: *The Potato Eaters*, 8 seconds]
 
-*The Potato Eaters.* 1885. Five peasants eating potatoes by lamplight. It's deliberately ugly. The faces are rough, the hands are gnarled, the light is harsh. Van Gogh wanted it that way. He wrote to Theo:
+*The Potato Eaters.* 1885. Five peasants eating potatoes by lamplight. It's deliberately ugly. The faces are rough, the hands are twisted and worn, the light is harsh. Van Gogh wanted it that way. He wrote to Theo:
 
 "I have tried to emphasize that those people, eating their potatoes in the lamplight, have dug the earth with those very hands they put in the dish, and so it speaks of manual labor, and how they have honestly earned their food."
 
@@ -176,9 +184,9 @@ He wanted you to see the dirt under their fingernails. He wanted you to feel the
 
 In 1886, he moved to Paris to live with Theo, who was now an art dealer. And everything changed.
 
-He saw Impressionist paintings. He saw Japanese prints. His palette exploded — from brown and grey to the vivid, saturated colors he's known for. Blues, yellows, greens, oranges. In two years in Paris, he painted over two hundred works. Self-portraits, cityscapes, still lifes. He was absorbing everything, transforming everything.
+He saw Impressionist paintings. He saw Japanese prints. His palette exploded — from brown and grey to the vivid, bold colors he's known for. Blues, yellows, greens, oranges. In two years in Paris, he painted over two hundred works. Self-portraits, cityscapes, still lifes. He was absorbing everything, transforming everything.
 
-But Paris was also destroying him. He drank too much. He argued with everyone. His health deteriorated. He needed to get out.
+But Paris was also destroying him. He drank too much. He argued with everyone. His health got worse. He needed to get out.
 
 ### Arles
 
@@ -212,7 +220,7 @@ Nine weeks. They painted together. They argued constantly. Their philosophies cl
 
 They drank. The tension escalated.
 
-On December 23rd, 1888, after a violent argument, Van Gogh cut off part of his own left ear. Not the whole ear — the lower portion of the lobe. He wrapped it and delivered it to a woman at a local brothel. Gauguin left Arles the next day. They never saw each other again.
+On December 23rd, 1888, after a violent argument, Van Gogh cut off part of his own left ear. How much exactly is still debated — recent research suggests it was most of the ear, not just the lobe as was long believed. He wrapped it and delivered it to a woman at a local brothel. Gauguin left Arles the next day. They never saw each other again.
 
 The Hollywood version of this story is: mad genius, dramatic breakdown, severed ear. The reality is more complicated and more human. Recent scholarship suggests the breakdown was triggered by news that Theo was getting engaged — Vincent feared losing his brother's emotional and financial support. The one person who kept him alive was about to have a new priority.
 
@@ -266,9 +274,9 @@ He died on July 29th. He was thirty-seven. Theo, devastated, died six months lat
 
 I need to say something here. Because the myth of Van Gogh — the mad genius, the tortured artist, the man who cut off his ear in a frenzy of inspiration — does him a disservice.
 
-Read the letters. They're available free online — over eight hundred of them, mostly to Theo. They are not the ravings of a madman. They are the carefully considered, beautifully written thoughts of an intelligent, well-read, deeply empathetic man who happened to suffer from mental illness.
+Read the letters. They're available free online — over eight hundred of them, mostly to Theo. They are not the ravings of a madman. They are the carefully thought-out, beautifully written words of an intelligent, well-read, deeply caring man who happened to suffer from mental illness.
 
-He read voraciously — Dickens, Zola, Shakespeare, the Bible. He thought carefully about color theory, about composition, about what art could do. He was disciplined — painting a canvas a day at Auvers isn't frenzy, it's work ethic.
+He read constantly — Dickens, Zola, Shakespeare, the Bible. He thought carefully about color, about how to arrange a painting, about what art could do. He was disciplined — painting a canvas a day at Auvers isn't frenzy, it's work ethic.
 
 The myth says: he was crazy, and that's why the paintings are great. The truth is: he was thoughtful, and disciplined, and deeply human, and he suffered, and the paintings are great because of the thinking and the feeling and the work — not because of the suffering.
 
@@ -278,13 +286,21 @@ That's not a madman talking. That's a man with a blazing hearth in his soul that
 
 ---
 
+## 🔗 BRIDGE: FROM FEELING TO DREAM
+
+[TALKING HEAD]
+
+Van Gogh painted what he felt. Every brushstroke was emotion made visible. But there was a third painter in this story — the one who showed up in Arles and left nine weeks later. The one who wasn't interested in what you see OR what you feel. He wanted to paint what you dream. And to find those dreams, he ran away to the other side of the world.
+
+---
+
 ## ACT 5: GAUGUIN — THE RUNAWAY
 
 *[Underscore shifts — something more unsettled, more ambiguous.]*
 
 [TALKING HEAD]
 
-Paul Gauguin was born in 1848. And his story is the most complicated in this episode — because the paintings are extraordinary and the man is deeply problematic, and you have to hold both of those things at the same time.
+Paul Gauguin was born in 1848. And his story is the most complicated in this episode — because the paintings are extraordinary and the man is deeply troubling, and you have to hold both of those things at the same time.
 
 He was a stockbroker. Successful. Married to a Danish woman named Mette. Five children. He collected Impressionist paintings as a hobby. Started painting on Sundays.
 
@@ -312,7 +328,7 @@ In 1891, Gauguin sailed to Tahiti. He was forty-three. He wrote: "I have decided
 
 The reality was different. Tahiti had been a French colony since 1880. The capital, Papeete, had a cathedral, a governor's mansion, French colonial infrastructure. The "primitive paradise" Gauguin was looking for didn't exist. So he moved to a rural area and, to a significant degree, invented it.
 
-He took a thirteen-year-old Tahitian girl, Teha'amana, as his companion. She was one of several very young local women he had relationships with during his time in the Pacific. By any modern standard — and honestly, by many standards of his own time — this is sexual exploitation of minors in a colonial context. It's not a footnote. It's central to understanding the work.
+He took a thirteen-year-old Tahitian girl, Teha'amana, as his companion. She was one of several very young local women he had relationships with during his time in the Pacific. By any modern standard — and honestly, by many standards of his own time — this is a grown man taking advantage of children in a land his country controlled. It's not a side note. It's central to understanding the work.
 
 [ARTWORK: *Spirit of the Dead Watching*, 8 seconds]
 
@@ -320,23 +336,23 @@ He took a thirteen-year-old Tahitian girl, Teha'amana, as his companion. She was
 
 [ARTWORK: *Where Do We Come From? What Are We? Where Are We Going?*, slow pan, 10 seconds]
 
-His largest painting. *Where Do We Come From? What Are We? Where Are We Going?* 1897. A frieze read right to left: birth, life, death. Tahitian figures in a lush landscape. He claimed he painted it in a frenzy before a suicide attempt — though the suicide attempt may have been staged or exaggerated. Gauguin was a skilled self-mythologizer.
+His largest painting. *Where Do We Come From? What Are We? Where Are We Going?* 1897. A long painting meant to be read right to left: birth, life, death. Tahitian figures in a rich landscape. He claimed he painted it in a frenzy before a suicide attempt — though the suicide attempt may have been staged or exaggerated. Gauguin was a master at building his own legend.
 
 ### The Problem
 
-[TALKING HEAD — direct, unflinching]
+[TALKING HEAD — direct, no sugarcoating]
 
 I want to name this clearly, because it matters.
 
-A European man goes to a colonized land. He takes what he wants — the imagery, the mythology, the women. He constructs a fantasy of "primitive paradise" that serves his artistic needs. The real Tahiti — with its own history, its own complexity, its own modernity — is more complicated than what he paints. But he doesn't paint the real Tahiti. He paints his fantasy of it.
+A European man goes to a land his country controls. He takes what he wants — the images, the myths, the women. He builds a fantasy of "primitive paradise" that serves his art. The real Tahiti — with its own history, its own depth, its own modern life — is more complicated than what he paints. But he doesn't paint the real Tahiti. He paints his fantasy of it.
 
-The scholar Edward Said called this pattern Orientalism — the West projecting its fantasies onto the non-Western world, constructing an exotic "other" that justifies taking whatever it wants.
+The scholar Edward Said had a name for this pattern — the West projecting its fantasies onto the rest of the world, making up an exotic "other" that justifies taking whatever it wants.
 
-Gauguin is a textbook case.
+Gauguin is a perfect example.
 
 And the paintings are extraordinary. The color is unlike anything that came before. The flatness, the boldness, the willingness to paint from dream and myth rather than observation — it opened doors that the entire twentieth century walked through.
 
-Both things are true. The paintings are extraordinary. The man was exploitative. You don't have to choose. You have to hold both.
+Both things are true. The paintings are extraordinary. The man took advantage of people. You don't have to choose. You have to hold both.
 
 He died in 1903, in the Marquesas Islands. Alone. Sick with syphilis. In legal trouble with the colonial authorities. He was fifty-four.
 
@@ -352,9 +368,9 @@ Three men. Three questions. Three answers.
 
 Cézanne asked: what's the structure underneath? His answer led to Cubism — Picasso, Braque, and the entire architecture of twentieth-century art.
 
-Van Gogh asked: what do I feel? His answer led to Expressionism — the idea that art expresses inner life, that color and form can carry emotion directly, without representation.
+Van Gogh asked: what do I feel? His answer led to Expressionism — the idea that art shows inner life, that color and shape can carry emotion directly, without showing anything real.
 
-Gauguin asked: what do I dream? His answer led to Symbolism, to Primitivism, to the idea that art can draw from myth, memory, and the unconscious.
+Gauguin asked: what do I dream? His answer led to Symbolism, to the idea that art can draw from myth, memory, and the deep parts of the mind we don't control.
 
 After Impressionism broke the rules, what do you replace them with? These three gave three completely different answers. All three were right. All three were incomplete. And all three died before the world caught up.
 
@@ -368,7 +384,7 @@ Cézanne died painting in a storm. Van Gogh died in a wheat field. Gauguin died 
 
 These three men proved that art didn't have to show what you see. It could show what you feel. What you know. What you dream.
 
-But there was another group of artists who took that idea even further — into the realm of myth, nightmare, and symbol. One of them spent decades making black-and-white nightmares before suddenly exploding into color. Another painted elaborate mythological fantasies and then accidentally trained the most radical painters of the next century. And one of them, in Vienna, was about to paint gold and sex and death in a way that would scandalize an empire.
+But there was another group of artists who took that idea even further — into the realm of myth, nightmare, and symbol. One of them spent decades making black-and-white nightmares before suddenly exploding into color. Another painted detailed mythological dream-worlds and then accidentally trained the most radical painters of the next century. And one of them, in Vienna, was about to paint gold and sex and death in a way that would shock an empire.
 
 That's next time. The last episode. The dreamers and the decorators.
 
@@ -406,3 +422,57 @@ That's next time. The last episode. The dreamers and the decorators.
 - "A blazing hearth in his soul that nobody came to sit by."
 
 **The Van Gogh section is the longest.** That's intentional. He's the emotional center of the series. The letters are the most powerful primary source material across all six episodes. Use them.
+
+---
+
+## CHAPTER OUTLINE
+
+| Chapter | Time Estimate | What Happens |
+|---|---|---|
+| **ACT 1: Cold Open** | ~3 min | A letter from Van Gogh to Theo. "The lowest of the low." Sets up the whole episode. |
+| **ACT 2: After Impressionism, What?** | ~5 min | The problem with Impressionism — all surface, no structure. Seurat as the bridge. Three questions, three painters. |
+| **ACT 3: Cézanne** | ~12 min | The recluse. Geometry underneath the surface. Mont Sainte-Victoire. The break with Zola. Late recognition. "The father of us all." |
+| **🔗 Bridge** | ~1 min | From structure to feeling — Van Gogh asked a different question. |
+| **ACT 4: Van Gogh** | ~18 min | The failures before painting. The Dutch period. Paris. Arles — the most productive period in art history. The ear. Saint-Rémy and *The Starry Night*. Auvers and death. The man vs. the myth. |
+| **🔗 Bridge** | ~1 min | From feeling to dream — Gauguin wanted something else entirely. |
+| **ACT 5: Gauguin** | ~10 min | The stockbroker who left his family. Brittany. Tahiti. The extraordinary paintings and the troubling man. Edward Said. |
+| **ACT 6: Three Paths Forward** | ~4 min | Three questions, three answers, three deaths. The hook to Episode 6 — the dreamers and the decorators. |
+
+---
+
+## PRONUNCIATION GUIDE
+
+| Word / Name | How to Say It |
+|---|---|
+| Paul Cézanne | POHL say-ZAHN |
+| Vincent van Gogh | VIN-sent van GOKH (Dutch) or van GOH (common English) |
+| Paul Gauguin | POHL goh-GAN |
+| Émile Zola | ay-MEEL ZOH-lah |
+| Aix-en-Provence | EX-ahn-proh-VAHNSS |
+| Mont Sainte-Victoire | mohn sant-veek-TWAHR |
+| Georges Seurat | ZHORZH suh-RAH |
+| La Grande Jatte | lah grahnd ZHAHT |
+| Teha'amana | teh-hah-ah-MAH-nah |
+| L'Œuvre | LUHV-ruh |
+| Ambroise Vollard | ahm-BWAHZ voh-LAHR |
+| Pont-Aven | pohn-tah-VEN |
+| Marquesas | mar-KAY-sahs |
+| Borinage | boh-ree-NAHZH |
+| Auvers-sur-Oise | oh-VAIR-soor-WAHZ |
+| Saint-Rémy-de-Provence | san-reh-MEE-duh-proh-VAHNSS |
+
+---
+
+## FACT-CHECK NOTES FOR REVIEW
+
+- ✅ Van Gogh decided to become artist at 27 (born 1853, decided ~1880) — confirmed
+- ✅ Van Gogh total works ~2,100 (900 paintings + 1,100 drawings) — confirmed
+- ✅ Arles: ~200 paintings in 15 months — confirmed (sources range 188–300+)
+- ✅ Cézanne born 1839, died Oct 22, 1906 — confirmed
+- ✅ Zola published *L'Œuvre* 1886, friendship ended — confirmed
+- ✅ Gauguin born 1848, died 1903 in Marquesas — confirmed
+- ⚠️ Seurat cause of death: script now says "possibly diphtheria." Sources disagree — some say diphtheria, some say undiagnosed. Keep it vague.
+- ⚠️ Van Gogh ear: script now notes the debate. Recent 2016 research (Bernadette Murphy) suggests most of the ear was cut. Earlier accounts said just the lobe. Keep it honest about the uncertainty.
+- ⚠️ Teha'amana's age: Gauguin claimed she was 13. Some recent scholarship questions whether she existed as described, or whether Gauguin exaggerated/invented details. The script's framing is fair but worth noting the uncertainty.
+- ⚠️ Van Gogh's death: script says he "shot himself." Some historians (notably Steven Naifeh and Gregory White Smith) have argued he may have been shot accidentally by local boys. The suicide account is the traditional and majority view, but it's not 100% settled.
+- ⚠️ "Over two thousand works of art" — more precisely ~2,100. The round number is fine for spoken delivery.
