@@ -14,7 +14,9 @@ April 15th, 1874. Paris. A photographer's studio on the Boulevard des Capucines 
 
 A group of painters has pooled their money to rent this space. They've hung 165 works on the walls. There's no jury. No prizes. No official stamp of approval. Just paintings, and a door that's open to anyone who wants to walk in.
 
-These painters have been rejected by the Salon — some of them repeatedly. They're broke. Several of them can barely afford paint. They've been told, over and over, that their work is unfinished, incompetent, ugly. And their response is: fine. We'll show it ourselves.
+These painters have been rejected by the Salon — some of them repeatedly. They're broke. Several of them can barely afford paint. They've been told, over and over, that their work is unfinished, incompetent, ugly.
+
+And their response is: fine. We'll show it ourselves.
 
 A critic named Louis Leroy walks in. He looks around. He writes a review. It's mocking, sarcastic, full of scorn. He takes the title of one painting — *Impression, Sunrise* by Claude Monet — and uses it as a punchline. He calls the whole group "Impressionists."
 
@@ -22,7 +24,9 @@ He doesn't mean it as a compliment.
 
 *[Beat]*
 
-Fifty years later, their paintings will be the most beloved, most reproduced, most expensive art in the world. Monet's *Water Lilies* will hang in a room built just for them in Paris. Renoir's dancers will be on a billion postcards. Degas's ballerinas will be everywhere. Mary Cassatt's mothers and children will hang in the greatest museums in America — museums she personally helped fill.
+Fifty years later, their paintings will be the most beloved, most reproduced, most expensive art in the world. Monet's *Water Lilies* will hang in a room built just for them in Paris. Renoir's dancers will be on a billion postcards. Degas's ballerinas will be everywhere.
+
+Mary Cassatt's mothers and children will hang in the greatest museums in America — museums she personally helped fill.
 
 But on that April morning in 1874, they were just a group of friends who'd been told "no" so many times they decided to say it back.
 
@@ -96,7 +100,9 @@ Monet later said: "It was as if a veil was torn from my eyes. I understood what 
 
 That's the moment. A teenager on the Normandy coast, watching a man paint the sky, and suddenly understanding that painting isn't about copying what you know — it's about seeing what's actually there.
 
-He went to Paris. Refused to follow the school's program. Met Renoir, Sisley, and Bazille in a studio — the core of the future group. They painted together, argued together, starved together. Monet was rejected by the Salon repeatedly. He was desperately poor for years. He begged friends for money. He couldn't afford paint.
+He went to Paris. Refused to follow the school's program. Met Renoir, Sisley, and Bazille in a studio — the core of the future group. They painted together, argued together, starved together.
+
+Monet was rejected by the Salon repeatedly. He was desperately poor for years. He begged friends for money. He couldn't afford paint.
 
 ### Impression, Sunrise
 
@@ -142,7 +148,9 @@ He was watching his wife die. And before he could even think about grief — bef
 
 He painted her on her deathbed. And he was horrified at himself for doing it.
 
-This is the artist's eye as both gift and curse. The ability to see — really see — everything. Including the things you don't want to see. Including the things that should be private. Monet couldn't turn it off. Nobody who paints like that can.
+This is the artist's eye as both gift and curse. The ability to see — really see — everything. Including the things you don't want to see. Including the things that should be private.
+
+Monet couldn't turn it off. Nobody who paints like that can.
 
 ### The Series Paintings
 
@@ -172,9 +180,13 @@ And then — the Water Lilies.
 
 Monet moved to Giverny in 1883. He built a garden. He designed a water lily pond. A Japanese bridge. He literally constructed his own subject matter.
 
-And then he painted it. For thirty years. Hundreds of paintings. The late ones are enormous — six feet tall, fourteen feet wide. And they're almost abstract. There's no horizon line. No sky. No ground. Just water, reflections, and flowers. The surface of the pond becomes the entire world.
+And then he painted it. For thirty years. Hundreds of paintings. The late ones are enormous — six feet tall, fourteen feet wide. And they're almost abstract. There's no horizon line. No sky. No ground. Just water, reflections, and flowers.
 
-His eyesight was failing — cataracts clouding his vision. The late paintings get blurrier, the colors shift. He destroyed many canvases he was unhappy with. But the ones that survived are extraordinary. They point toward abstract art decades before it existed.
+The surface of the pond becomes the entire world.
+
+His eyesight was failing — cataracts clouding his vision. The late paintings get blurrier, the colors shift. He destroyed many canvases he was unhappy with.
+
+But the ones that survived are extraordinary. They point toward abstract art decades before it existed.
 
 The Orangerie in Paris — two oval rooms, eight massive panels, donated by Monet to France. Walking into those rooms is one of the great art experiences in the world. You're surrounded. The paintings wrap around you. You're inside the pond.
 
@@ -200,7 +212,9 @@ Now I want to tell you about someone whose story shows everything Impressionism 
 
 Mary Cassatt was born in 1844 in Allegheny City, Pennsylvania — now part of Pittsburgh. Wealthy family. Her father was a stockbroker. She traveled Europe as a child and decided to become an artist at fifteen.
 
-The problem: she was a woman. In the 1860s, women couldn't attend the École des Beaux-Arts in Paris. They couldn't draw from nude models. They couldn't access the same training as men. Cassatt studied at the Pennsylvania Academy of the Fine Arts, got frustrated by the limitations, and moved to Paris in 1866 to study privately.
+The problem: she was a woman. In the 1860s, women couldn't attend the École des Beaux-Arts in Paris. They couldn't draw from nude models. They couldn't access the same training as men.
+
+Cassatt studied at the Pennsylvania Academy of the Fine Arts, got frustrated by the limitations, and moved to Paris in 1866 to study privately.
 
 She exhibited at the Salon and had some success. But she felt boxed in. The jury system — the same system that had frustrated Courbet, that had rejected Monet — felt like a cage.
 
@@ -226,13 +240,17 @@ But here's what makes it radical: she painted these scenes from the *inside*.
 
 [ARTWORK: *The Child's Bath*, 8 seconds]
 
-*The Child's Bath.* 1893. A mother bathing a child. But look at the angle — we're looking down from above. We're in the room. We're standing right there. The intimacy is physical — you can almost feel the water, the weight of the child, the mother's hands.
+*The Child's Bath.* 1893. A mother bathing a child. But look at the angle — we're looking down from above. We're in the room. We're standing right there.
+
+The intimacy is physical — you can almost feel the water, the weight of the child, the mother's hands.
 
 This isn't a man painting a woman from across the room. This is a woman painting a woman's experience from inside it. In a movement where men painted women constantly — Renoir's nudes, Degas's dancers — Cassatt offered the view from the other side.
 
 [ARTWORK: *Little Girl in a Blue Armchair*, 5–8 seconds]
 
-*Little Girl in a Blue Armchair.* 1878. A child sprawled in an oversized chair, bored and restless. Legs apart. Slouching. Completely natural. No posing, no sugar-coating, no "isn't she adorable." Just a kid being a kid. It's one of the most honest paintings of childhood I've ever seen.
+*Little Girl in a Blue Armchair.* 1878. A child sprawled in an oversized chair, bored and restless. Legs apart. Slouching. Completely natural.
+
+No posing, no sugar-coating, no "isn't she adorable." Just a kid being a kid. It's one of the most honest paintings of childhood I've ever seen.
 
 Her prints are extraordinary too — a series of color prints inspired by Japanese woodblock art that are technically as good as anything the Impressionists made. They're often overlooked. They shouldn't be.
 
@@ -242,9 +260,13 @@ Her prints are extraordinary too — a series of color prints inspired by Japane
 
 Cassatt never married. She chose art over family life — a radical choice for a woman of her background and time. "I am independent!" she wrote. "I can live alone and I love to work."
 
-She was financially independent — family money plus sales — which gave her a freedom most women artists didn't have. And she used that freedom not just for herself. She actively promoted other women artists. She helped American collectors — especially Louisine Havemeyer — build their Impressionist collections. She's a major reason American museums have so many Impressionist paintings today. Every time you see a Monet or a Degas in an American museum, there's a decent chance Mary Cassatt had something to do with it being there.
+She was financially independent — family money plus sales — which gave her a freedom most women artists didn't have. And she used that freedom not just for herself.
 
-And I want to mention Berthe Morisot — the other major woman Impressionist. She exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro. Two of the most committed members of the group were women. That's not a footnote. That's central to the story.
+She actively promoted other women artists. She helped American collectors — especially Louisine Havemeyer — build their Impressionist collections. She's a major reason American museums have so many Impressionist paintings today. Every time you see a Monet or a Degas in an American museum, there's a decent chance Mary Cassatt had something to do with it being there.
+
+And I want to mention Berthe Morisot — the other major woman Impressionist. She exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro.
+
+Two of the most committed members of the group were women. That's not a footnote. That's central to the story.
 
 ---
 
@@ -258,13 +280,17 @@ Let me give you the rest of the group in quick strokes.
 
 [ARTWORK: Degas, *The Dance Class*, 5–8 seconds]
 
-Edgar Degas. The one who didn't like being called an Impressionist — he preferred "Realist" or "Independent." He rarely painted outdoors. His subjects: ballet dancers, horse races, laundresses, women bathing. But look at this composition. *The Dance Class.* The main figure is off to the side. The space is cropped, unbalanced, like a photograph caught mid-moment. The way he arranges the picture is as groundbreaking as Monet's color. Degas was reinventing how a painting is *structured*.
+Edgar Degas. The one who didn't like being called an Impressionist — he preferred "Realist" or "Independent." He rarely painted outdoors. His subjects: ballet dancers, horse races, laundresses, women bathing.
+
+But look at this composition. *The Dance Class.* The main figure is off to the side. The space is cropped, unbalanced, like a photograph caught mid-moment. The way he arranges the picture is as groundbreaking as Monet's color. Degas was reinventing how a painting is *structured*.
 
 [ARTWORK: Renoir, *Bal du moulin de la Galette*, 5–8 seconds]
 
 Pierre-Auguste Renoir. The one who loved beauty. *Bal du moulin de la Galette* — a dance in Montmartre. Sunlight coming through trees, falling in patches on the dancers. It's pure joy. If Monet chased light and Degas chased movement, Renoir chased pleasure.
 
-And Camille Pissarro. The oldest of the group. Born in the Caribbean — the Danish West Indies — to a Jewish family. The most politically radical of the group — an anarchist. And the only one who exhibited in all eight independent exhibitions. He taught and guided nearly everyone who came through — including Cézanne and Gauguin, who we'll meet next episode. Cézanne called him "the humble and giant Pissarro." That's a beautiful phrase.
+And Camille Pissarro. The oldest of the group. Born in the Caribbean — the Danish West Indies — to a Jewish family. The most politically radical of the group — an anarchist. And the only one who exhibited in all eight independent exhibitions.
+
+He taught and guided nearly everyone who came through — including Cézanne and Gauguin, who we'll meet next episode. Cézanne called him "the humble and giant Pissarro." That's a beautiful phrase.
 
 ---
 
@@ -278,7 +304,9 @@ What did the Impressionists prove?
 
 They proved you don't need the Salon. You don't need a jury. You don't need permission. You can show your own work, on your own terms, in a rented photographer's studio on the Boulevard des Capucines. Courbet did it once. The Impressionists made it a movement.
 
-They proved that a painting doesn't have to be "finished" in the academic sense. The brushstroke isn't a flaw — it's the point. It captures the moment, the light, the act of seeing. The art schools wanted smooth, invisible surfaces. The Impressionists said: the world doesn't hold still. Why should a painting pretend it does?
+They proved that a painting doesn't have to be "finished" in the academic sense. The brushstroke isn't a flaw — it's the point. It captures the moment, the light, the act of seeing.
+
+The art schools wanted smooth, invisible surfaces. The Impressionists said: the world doesn't hold still. Why should a painting pretend it does?
 
 And they proved that the subject of a painting can be light itself. Not a story. Not a moral. Not a hero. Just light, falling on water, on stone, on skin, changing everything it touches.
 

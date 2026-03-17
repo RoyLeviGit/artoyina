@@ -16,7 +16,9 @@ Paris, 1818. Napoleon has been gone three years. The Bourbon monarchy is back. A
 
 Not for style. He shaved it so he wouldn't be tempted to go outside. He wanted total isolation. Total focus.
 
-The room smells like death. And I mean that literally. He's been going to the city morgue, and he's been bringing things back. Severed limbs. Heads. He's studying them. Painting them. His friends come to visit and they can barely breathe.
+The room smells like death. And I mean that literally. He's been going to the city morgue, and he's been bringing things back. Severed limbs. Heads. He's studying them. Painting them.
+
+His friends come to visit and they can barely breathe.
 
 In the middle of the studio, he's built a wooden raft. A scale model. He's been interviewing two men — survivors of a shipwreck. Not just any shipwreck. A shipwreck where, after thirteen days adrift on the open ocean, the survivors ate the dead.
 
@@ -40,7 +42,9 @@ Last time, we left David in exile. The most powerful painter in France, banished
 
 But the world had changed. Napoleon was gone. The old monarchies were back. And an entire generation had grown up watching the Enlightenment's promises collapse. Reason was supposed to fix everything. It didn't. The Revolution was supposed to bring liberty. It brought the Terror. Napoleon was supposed to bring order. He brought twenty years of war.
 
-So a new generation started asking a different question. Not "what is true?" but "what do I *feel*?"
+So a new generation started asking a different question.
+
+Not "what is true?" but "what do I *feel*?"
 
 *[Beat]*
 
@@ -58,7 +62,9 @@ The sublime is — okay, have you ever stood at the edge of a cliff? Or watched 
 
 That's the sublime. The Irish-British philosopher Edmund Burke defined it in 1757: the experience of awe mixed with terror in the face of something vast, powerful, or incomprehensible.
 
-The Romantics didn't want beauty. Beauty is pleasant. Beauty is a painting of a woman on a swing. The Romantics wanted *overwhelm*. They wanted art that made you feel like you were standing at the edge of something enormous.
+The Romantics didn't want beauty. Beauty is pleasant. Beauty is a painting of a woman on a swing.
+
+The Romantics wanted *overwhelm*. They wanted art that made you feel like you were standing at the edge of something enormous.
 
 And no painting captures that better than this one.
 
@@ -178,7 +184,9 @@ And then, in 1824, he died. Years of horse-riding injuries had left him bedridde
 
 *[Beat]*
 
-If Géricault had lived, the whole story of Romanticism might be different. But he didn't. And the mantle passed to his friend. A painter who had watched the creation of the Raft from up close, who posed for one of the dying figures in it, and who was about to take everything Géricault had started and push it further than anyone imagined.
+If Géricault had lived, the whole story of Romanticism might be different. But he didn't. And the mantle passed to his friend.
+
+A painter who had watched the creation of the Raft from up close, who posed for one of the dying figures in it, and who was about to take everything Géricault had started and push it further than anyone imagined.
 
 ---
 
@@ -220,7 +228,9 @@ One critic called it "the massacre of painting." Delacroix took that as a compli
 
 *[Pause — let that land]*
 
-And here's a detail I love. At the same 1824 Salon, Delacroix saw landscapes by the English painter John Constable. He was so struck by Constable's use of color — the way he broke up greens and blues into separate touches — that he reportedly went back to his own painting, shortly before the exhibition opened, and repainted parts of it. He was absorbing everything. He was hungry.
+And here's a detail I love. At the same 1824 Salon, Delacroix saw landscapes by the English painter John Constable. He was so struck by Constable's use of color — the way he broke up greens and blues into separate touches — that he reportedly went back to his own painting, shortly before the exhibition opened, and repainted parts of it.
+
+He was absorbing everything. He was hungry.
 
 ### Sardanapalus
 
@@ -236,7 +246,9 @@ But the painting that really declared war — the painting that said "I am not D
 
 An Assyrian king. His empire is falling. His enemies are at the gates. And rather than surrender, he orders everything destroyed. His concubines. His horses. His treasures. Everything. He reclines on a massive red bed and watches it all burn.
 
-Look at this painting compared to anything David ever made. David's compositions are rigid, geometric, controlled — every figure in its place, every line serving the message. This? This is a whirlpool. Bodies twist and writhe. A horse rears. A woman is being stabbed. Jewels and fabric cascade off the bed. The color is hot — reds and golds against cool shadow — and the brushwork is wild. Delacroix is using *color itself* to create movement rather than line. This is what Ingres found so threatening — the brushwork was doing work that, in academic painting, only drawing was supposed to do.
+Look at this painting compared to anything David ever made. David's compositions are rigid, geometric, controlled — every figure in its place, every line serving the message. This? This is a whirlpool. Bodies twist and writhe. A horse rears. A woman is being stabbed. Jewels and fabric cascade off the bed.
+
+The color is hot — reds and golds against cool shadow — and the brushwork is wild. Delacroix is using *color itself* to create movement rather than line. This is what Ingres found so threatening — the brushwork was doing work that, in academic painting, only drawing was supposed to do.
 
 The Salon was horrified. Even Delacroix's supporters were uneasy. This painting nearly ended his career. It was too much. Too chaotic. Too sensual. Too *everything*.
 
@@ -334,7 +346,9 @@ And then he wrote something extraordinary in his journal:
 
 *[Let that land]*
 
-Think about what he's saying. He went to North Africa — to a living, contemporary culture — and what he saw was... ancient Greece. The "noble simplicity" that Winckelmann had described, the calm dignity that David had tried to paint from marble statues — Delacroix found it in living people. Walking around. Going about their day.
+Think about what he's saying. He went to North Africa — to a living, contemporary culture — and what he saw was... ancient Greece. The "noble simplicity" that Winckelmann had described, the calm dignity that David had tried to paint from marble statues — Delacroix found it in living people.
+
+Walking around. Going about their day.
 
 The irony is extraordinary. Winckelmann invented an imaginary Greece from Roman copies. David painted it from sculptures. And Delacroix found it — or thought he found it — in Morocco. If Winckelmann had been alive to hear this, he probably would have been delighted, and also deeply confused.
 
@@ -350,11 +364,15 @@ Picasso saw this painting and was so obsessed with it that he painted fifteen va
 
 But I want to name something here, because it matters. Delacroix was genuinely fascinated by what he saw in North Africa. His notebooks are detailed, respectful, curious. He wasn't mocking or dismissive.
 
-But he was also a European man, traveling under colonial protection, projecting his own fantasies onto a culture that was being colonized by his country. He saw what he wanted to see — ancient Greece, exotic beauty, a world untouched by modernity. The real North Africa — with its own history, its own complexity, its own modernity — was more complicated than what he painted.
+But he was also a European man, traveling under colonial protection, projecting his own fantasies onto a culture that was being colonized by his country. He saw what he wanted to see — ancient Greece, exotic beauty, a world untouched by modernity.
+
+The real North Africa — with its own history, its own complexity, its own modernity — was more complicated than what he painted.
 
 This tension — between genuine fascination and colonial projection — is something we'll come back to later in the series, when we talk about Gauguin in Tahiti. Delacroix is the early, relatively gentle version of a pattern that gets much more troubling later.
 
-And honestly? When I look at *Women of Algiers* knowing all of this, I feel two things at once. The painting is extraordinary — the color, the intimacy, the light. And it's also a fantasy. A beautiful, deeply partial fantasy, painted by someone who had the power to walk into that room and the freedom to decide what it meant. The women in the painting didn't get to tell their side. That doesn't make the painting less beautiful. But it does make the beauty more complicated.
+And honestly? When I look at *Women of Algiers* knowing all of this, I feel two things at once. The painting is extraordinary — the color, the intimacy, the light. And it's also a fantasy. A beautiful, deeply partial fantasy, painted by someone who had the power to walk into that room and the freedom to decide what it meant.
+
+The women in the painting didn't get to tell their side. That doesn't make the painting less beautiful. But it does make the beauty more complicated.
 
 ---
 
@@ -382,13 +400,17 @@ He was the poet who explained the painters to the world. And he was right.
 
 [TALKING HEAD]
 
-Delacroix spent his later years on major government commissions — murals in the Palais Bourbon, the Luxembourg Palace, the Chapel of the Holy Angels at Saint-Sulpice. His late work is extraordinary. It gets looser, freer, almost abstract. The brushwork dissolves. You can see, in those late murals, the seeds of everything that's coming — Impressionism, Expressionism, even abstraction.
+Delacroix spent his later years on major government commissions — murals in the Palais Bourbon, the Luxembourg Palace, the Chapel of the Holy Angels at Saint-Sulpice. His late work is extraordinary. It gets looser, freer, almost abstract.
+
+The brushwork dissolves. You can see, in those late murals, the seeds of everything that's coming — Impressionism, Expressionism, even abstraction.
 
 His health declined through the 1850s. Tuberculosis.
 
 He died on August 13th, 1863, in Paris. His studio and notebooks contained thousands of works — studies, sketches, finished paintings.
 
-And here's the detail that matters: his funeral was attended by several of the young painters who would go on to become the Impressionists. Bazille was there. Monet and Renoir likely were too. They revered him. They saw in his color, his freedom, his refusal to submit to the Académie's rules, a path forward.
+And here's the detail that matters: his funeral was attended by several of the young painters who would go on to become the Impressionists. Bazille was there. Monet and Renoir likely were too.
+
+They revered him. They saw in his color, his freedom, his refusal to submit to the Académie's rules, a path forward.
 
 Delacroix didn't know it, but he was handing the torch to the next generation.
 
@@ -402,7 +424,9 @@ It said: feel everything. The mind isn't enough. Reason isn't enough. Art should
 
 And it delivered. The Raft of the Medusa is overwhelming. Liberty Leading the People is overwhelming. Sardanapalus is overwhelming. Friedrich's Wanderer is overwhelming in its silence.
 
-But there's a risk. If you chase feeling — if emotion is the only measure — where do you stop? Sardanapalus is magnificent, and it's also kind of insane. Romanticism opened a door that can't be closed. And I think the risk was worth it — I'd rather live in a world with Sardanapalus in it than without it — but it's a real question. Once you say "feeling is enough," you've lost the guardrails. And someone, eventually, was going to notice that.
+But there's a risk. If you chase feeling — if emotion is the only measure — where do you stop? Sardanapalus is magnificent, and it's also kind of insane. Romanticism opened a door that can't be closed.
+
+And I think the risk was worth it — I'd rather live in a world with Sardanapalus in it than without it — but it's a real question. Once you say "feeling is enough," you've lost the guardrails. And someone, eventually, was going to notice that.
 
 *[PERSONAL OPINION — REVISIT: Does the above reflect what you actually want to say about Romanticism as a risk? Sit with it before locking.]*
 
@@ -412,7 +436,9 @@ What if, instead of painting gods and heroes and revolutions and fantasies, you 
 
 *[Beat]*
 
-What if you painted a funeral in a small town? With ugly people. And a dog. At the size of a history painting. What if you built your own exhibition hall when the Salon rejected you, and you told the entire art establishment to go to hell?
+What if you painted a funeral in a small town? With ugly people. And a dog. At the size of a history painting.
+
+What if you built your own exhibition hall when the Salon rejected you, and you told the entire art establishment to go to hell?
 
 One man did exactly that. His name was Gustave Courbet. He was the loudest, most arrogant, most brilliant troublemaker in nineteenth-century Paris. And everyone lost their mind.
 

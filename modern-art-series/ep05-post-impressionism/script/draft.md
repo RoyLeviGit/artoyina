@@ -14,7 +14,9 @@ I want to read you something.
 
 This is from a letter. Written by a man to his brother. The man was twenty-seven years old. He'd been fired from his job as an art dealer. He'd failed as a teacher. He'd been let go as a preacher for being too intense — he'd been giving away his clothes and food to coal miners in Belgium, and the church decided that was too much Christianity for their taste.
 
-He had no career. No money. No future. No place in society. And he'd just decided — at twenty-seven — to become an artist.
+He had no career. No money. No future. No place in society.
+
+And he'd just decided — at twenty-seven — to become an artist.
 
 Here's what he wrote:
 
@@ -40,7 +42,9 @@ None of them lived to see how much it mattered.
 
 Last episode, we left the Impressionists triumphant. They'd captured light, color, the shimmer of the moment. They'd broken free from the Salon. They'd changed how people see.
 
-But by the 1880s, some artists felt that Impressionism had a problem. It captured the surface of things beautifully — but it lost something underneath. A Monet haystack shimmers with light, but it doesn't feel like you could touch it. An Impressionist landscape is gorgeous, but it's all sensation and no structure. All eye and no mind.
+But by the 1880s, some artists felt that Impressionism had a problem. It captured the surface of things beautifully — but it lost something underneath.
+
+A Monet haystack shimmers with light, but it doesn't feel like you could touch it. An Impressionist landscape is gorgeous, but it's all sensation and no structure. All eye and no mind.
 
 Three painters looked at Impressionism and asked three different questions:
 
@@ -56,7 +60,9 @@ But first — a bridge.
 
 [TALKING HEAD]
 
-Georges Seurat. *A Sunday Afternoon on La Grande Jatte.* 1884 to 1886. It's enormous. Parisians relaxing by the Seine on a Sunday. But look at it — every figure is still, geometric, almost frozen. And if you get close, the entire painting is made of tiny dots of pure color. Thousands and thousands of dots.
+Georges Seurat. *A Sunday Afternoon on La Grande Jatte.* 1884 to 1886. It's enormous. Parisians relaxing by the Seine on a Sunday. But look at it — every figure is still, geometric, almost frozen.
+
+And if you get close, the entire painting is made of tiny dots of pure color. Thousands and thousands of dots.
 
 Seurat took Chevreul's color science from Episode 4 and made it systematic. Pointillism. Instead of brushstrokes, dots. Instead of intuition, method. It's Impressionism made scientific and grand.
 
@@ -94,7 +100,9 @@ His solution — and this is one of the most important ideas in the history of a
 
 "Treat nature by the cylinder, the sphere, the cone, everything brought into proper perspective."
 
-A mountain is a cone. An apple is a sphere. A tree trunk is a cylinder. Find the geometry underneath the surface, and then rebuild the image from those forms using color.
+A mountain is a cone. An apple is a sphere. A tree trunk is a cylinder.
+
+Find the geometry underneath the surface, and then rebuild the image from those forms using color.
 
 [ARTWORK: Mont Sainte-Victoire — show two or three versions side by side]
 
@@ -102,7 +110,9 @@ Mont Sainte-Victoire. The mountain outside Aix. He painted it over eighty times 
 
 [ARTWORK: *Still Life with Apples* — one of the tilting-table compositions]
 
-And his still lifes. Look at this. Apples on a table. But the table tilts. The perspective shifts. Objects are seen from slightly different angles at the same time. The tablecloth folds in ways that don't quite make sense in real space. It's not "wrong" — it's *more right* than a single perspective could be. Because that's how you actually experience a table of apples — your eye moves, your head shifts, you see it from multiple positions.
+And his still lifes. Look at this. Apples on a table. But the table tilts. The perspective shifts. Objects are seen from slightly different angles at the same time. The tablecloth folds in ways that don't quite make sense in real space.
+
+It's not "wrong" — it's *more right* than a single perspective could be. Because that's how you actually experience a table of apples — your eye moves, your head shifts, you see it from multiple positions.
 
 This is what Picasso and Braque would take and explode into Cubism. Cézanne didn't know that. He was just trying to paint an apple honestly.
 
@@ -112,7 +122,9 @@ This is what Picasso and Braque would take and explode into Cubism. Cézanne did
 
 [TALKING HEAD — quieter, more personal]
 
-In 1886, Cézanne's childhood best friend Émile Zola — now the most famous novelist in France — published a book called *L'Œuvre*. The Masterpiece. It's a novel about a painter. A painter who has huge ambition but can never make his vision real. Who works obsessively on a single painting and can never finish it. Who is, in the end, a failure. And who kills himself.
+In 1886, Cézanne's childhood best friend Émile Zola — now the most famous novelist in France — published a book called *L'Œuvre*. The Masterpiece. It's a novel about a painter. A painter who has huge ambition but can never make his vision real.
+
+Who works obsessively on a single painting and can never finish it. Who is, in the end, a failure. And who kills himself.
 
 The character was clearly based on Cézanne. Everyone knew it.
 
@@ -128,7 +140,9 @@ When Zola died in 1902, Cézanne reportedly wept. The friendship was the deepest
 
 [TALKING HEAD]
 
-Cézanne's first solo exhibition came in 1895. He was fifty-six years old. The dealer Ambroise Vollard organized it. And the younger generation of painters — the ones who would become the Fauves, the Cubists, the future of art — walked in and were stunned.
+Cézanne's first solo exhibition came in 1895. He was fifty-six years old. The dealer Ambroise Vollard organized it.
+
+And the younger generation of painters — the ones who would become the Fauves, the Cubists, the future of art — walked in and were stunned.
 
 [ARTWORK: *The Large Bathers*, 8 seconds]
 
@@ -160,7 +174,9 @@ Cézanne found the bones underneath the surface. He answered the question: what'
 
 Vincent van Gogh was born in 1853 in the Netherlands. Son of a Protestant pastor. And before he was a painter, he was a series of failures.
 
-He worked as an art dealer at his uncle's firm — in The Hague, London, Paris. He was fired. He tried to become a teacher. It didn't work. He became a lay preacher in the Borinage, a coal-mining region in Belgium. He lived among the miners in extreme poverty — gave away his clothes, his food, slept on the floor. The church dismissed him. Too intense, they said. Too much.
+He worked as an art dealer at his uncle's firm — in The Hague, London, Paris. He was fired. He tried to become a teacher. It didn't work.
+
+He became a lay preacher in the Borinage, a coal-mining region in Belgium. He lived among the miners in extreme poverty — gave away his clothes, his food, slept on the floor. The church dismissed him. Too intense, they said. Too much.
 
 At twenty-seven, with nothing left, he decided to become an artist. He had about ten years to live. He didn't know that. But there's an urgency in everything he made that suggests, on some level, he felt it.
 
@@ -184,7 +200,9 @@ He wanted you to see the dirt under their fingernails. He wanted you to feel the
 
 In 1886, he moved to Paris to live with Theo, who was now an art dealer. And everything changed.
 
-He saw Impressionist paintings. He saw Japanese prints. His palette exploded — from brown and grey to the vivid, bold colors he's known for. Blues, yellows, greens, oranges. In two years in Paris, he painted over two hundred works. Self-portraits, cityscapes, still lifes. He was absorbing everything, transforming everything.
+He saw Impressionist paintings. He saw Japanese prints. His palette exploded — from brown and grey to the vivid, bold colors he's known for. Blues, yellows, greens, oranges.
+
+In two years in Paris, he painted over two hundred works. Self-portraits, cityscapes, still lifes. He was absorbing everything, transforming everything.
 
 But Paris was also destroying him. He drank too much. He argued with everyone. His health got worse. He needed to get out.
 
@@ -220,9 +238,13 @@ Nine weeks. They painted together. They argued constantly. Their philosophies cl
 
 They drank. The tension escalated.
 
-On December 23rd, 1888, after a violent argument, Van Gogh cut off part of his own left ear. How much exactly is still debated — recent research suggests it was most of the ear, not just the lobe as was long believed. He wrapped it and delivered it to a woman at a local brothel. Gauguin left Arles the next day. They never saw each other again.
+On December 23rd, 1888, after a violent argument, Van Gogh cut off part of his own left ear. How much exactly is still debated — recent research suggests it was most of the ear, not just the lobe as was long believed.
 
-The Hollywood version of this story is: mad genius, dramatic breakdown, severed ear. The reality is more complicated and more human. Recent scholarship suggests the breakdown was triggered by news that Theo was getting engaged — Vincent feared losing his brother's emotional and financial support. The one person who kept him alive was about to have a new priority.
+He wrapped it and delivered it to a woman at a local brothel. Gauguin left Arles the next day. They never saw each other again.
+
+The Hollywood version of this story is: mad genius, dramatic breakdown, severed ear. The reality is more complicated and more human.
+
+Recent scholarship suggests the breakdown was triggered by news that Theo was getting engaged — Vincent feared losing his brother's emotional and financial support. The one person who kept him alive was about to have a new priority.
 
 It wasn't madness. It was terror.
 
@@ -244,7 +266,9 @@ In May 1889, Van Gogh voluntarily admitted himself to the asylum at Saint-Paul-d
 
 A swirling sky. Blazing stars. A crescent moon. A dark cypress rising like a flame. And below, a quiet village, sleeping.
 
-It's the most reproduced painting in the world. It's on a billion posters, mugs, phone cases. And here's the thing — Van Gogh didn't think much of it. He preferred other works from this period. He mentioned it to Theo almost in passing.
+It's the most reproduced painting in the world. It's on a billion posters, mugs, phone cases.
+
+And here's the thing — Van Gogh didn't think much of it. He preferred other works from this period. He mentioned it to Theo almost in passing.
 
 He wrote: "This morning I saw the countryside from my window a long time before sunrise, with nothing but the morning star, which looked very big."
 
@@ -274,7 +298,9 @@ He died on July 29th. He was thirty-seven. Theo, devastated, died six months lat
 
 I need to say something here. Because the myth of Van Gogh — the mad genius, the tortured artist, the man who cut off his ear in a frenzy of inspiration — does him a disservice.
 
-Read the letters. They're available free online — over eight hundred of them, mostly to Theo. They are not the ravings of a madman. They are the carefully thought-out, beautifully written words of an intelligent, well-read, deeply caring man who happened to suffer from mental illness.
+Read the letters. They're available free online — over eight hundred of them, mostly to Theo. They are not the ravings of a madman.
+
+They are the carefully thought-out, beautifully written words of an intelligent, well-read, deeply caring man who happened to suffer from mental illness.
 
 He read constantly — Dickens, Zola, Shakespeare, the Bible. He thought carefully about color, about how to arrange a painting, about what art could do. He was disciplined — painting a canvas a day at Auvers isn't frenzy, it's work ethic.
 
@@ -316,7 +342,9 @@ Before Tahiti, Gauguin went to Brittany — to Pont-Aven, a village in the far w
 
 [ARTWORK: *Vision After the Sermon (Jacob Wrestling with the Angel)*, 8 seconds]
 
-*Vision After the Sermon.* 1888. Breton women in white caps, fresh from a sermon, watching a biblical vision — Jacob wrestling the angel. But look at the ground. It's bright red. Not earth-colored. Red. And there's no perspective, no depth — just flat, bold areas of color separated by dark outlines, like a stained-glass window.
+*Vision After the Sermon.* 1888. Breton women in white caps, fresh from a sermon, watching a biblical vision — Jacob wrestling the angel. But look at the ground. It's bright red. Not earth-colored. Red.
+
+And there's no perspective, no depth — just flat, bold areas of color separated by dark outlines, like a stained-glass window.
 
 This is the break with Impressionism. Gauguin isn't painting what he sees. He's painting what the women *believe*. The vision is as real as the women watching it. Inner experience and outer reality occupy the same canvas.
 
@@ -326,17 +354,25 @@ This is the break with Impressionism. Gauguin isn't painting what he sees. He's 
 
 In 1891, Gauguin sailed to Tahiti. He was forty-three. He wrote: "I have decided on Tahiti... and I hope to cultivate my art there in the wild and primitive state."
 
-The reality was different. Tahiti had been a French colony since 1880. The capital, Papeete, had a cathedral, a governor's mansion, French colonial infrastructure. The "primitive paradise" Gauguin was looking for didn't exist. So he moved to a rural area and, to a significant degree, invented it.
+The reality was different. Tahiti had been a French colony since 1880. The capital, Papeete, had a cathedral, a governor's mansion, French colonial infrastructure.
 
-He took a thirteen-year-old Tahitian girl, Teha'amana, as his companion. She was one of several very young local women he had relationships with during his time in the Pacific. By any modern standard — and honestly, by many standards of his own time — this is a grown man taking advantage of children in a land his country controlled. It's not a side note. It's central to understanding the work.
+The "primitive paradise" Gauguin was looking for didn't exist. So he moved to a rural area and, to a significant degree, invented it.
+
+He took a thirteen-year-old Tahitian girl, Teha'amana, as his companion. She was one of several very young local women he had relationships with during his time in the Pacific.
+
+By any modern standard — and honestly, by many standards of his own time — this is a grown man taking advantage of children in a land his country controlled. It's not a side note. It's central to understanding the work.
 
 [ARTWORK: *Spirit of the Dead Watching*, 8 seconds]
 
-*Spirit of the Dead Watching.* 1892. A young Tahitian woman lying face-down on a bed, a dark spirit behind her. Gauguin said it was inspired by Teha'amana's fear of ghosts. It's a powerful painting — the color, the composition, the tension between the living body and the watching spirit. But it's also a European man painting a naked teenage girl and framing it through his own interpretation of her culture.
+*Spirit of the Dead Watching.* 1892. A young Tahitian woman lying face-down on a bed, a dark spirit behind her. Gauguin said it was inspired by Teha'amana's fear of ghosts.
+
+It's a powerful painting — the color, the composition, the tension between the living body and the watching spirit. But it's also a European man painting a naked teenage girl and framing it through his own interpretation of her culture.
 
 [ARTWORK: *Where Do We Come From? What Are We? Where Are We Going?*, slow pan, 10 seconds]
 
-His largest painting. *Where Do We Come From? What Are We? Where Are We Going?* 1897. A long painting meant to be read right to left: birth, life, death. Tahitian figures in a rich landscape. He claimed he painted it in a frenzy before a suicide attempt — though the suicide attempt may have been staged or exaggerated. Gauguin was a master at building his own legend.
+His largest painting. *Where Do We Come From? What Are We? Where Are We Going?* 1897. A long painting meant to be read right to left: birth, life, death. Tahitian figures in a rich landscape.
+
+He claimed he painted it in a frenzy before a suicide attempt — though the suicide attempt may have been staged or exaggerated. Gauguin was a master at building his own legend.
 
 ### The Problem
 
@@ -344,7 +380,9 @@ His largest painting. *Where Do We Come From? What Are We? Where Are We Going?* 
 
 I want to name this clearly, because it matters.
 
-A European man goes to a land his country controls. He takes what he wants — the images, the myths, the women. He builds a fantasy of "primitive paradise" that serves his art. The real Tahiti — with its own history, its own depth, its own modern life — is more complicated than what he paints. But he doesn't paint the real Tahiti. He paints his fantasy of it.
+A European man goes to a land his country controls. He takes what he wants — the images, the myths, the women. He builds a fantasy of "primitive paradise" that serves his art.
+
+The real Tahiti — with its own history, its own depth, its own modern life — is more complicated than what he paints. But he doesn't paint the real Tahiti. He paints his fantasy of it.
 
 The scholar Edward Said had a name for this pattern — the West projecting its fantasies onto the rest of the world, making up an exotic "other" that justifies taking whatever it wants.
 

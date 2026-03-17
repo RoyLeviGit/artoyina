@@ -16,7 +16,9 @@ In one building, a doctor is writing a book about dreams. He believes that under
 
 In another building, a composer is conducting an opera about death and resurrection. The music is enormous, overwhelming, almost unbearably beautiful.
 
-And in a white building with a golden dome — a dome made of gilded laurel leaves that the Viennese have nicknamed "the golden cabbage" — a painter is covering an entire wall with gold leaf, naked bodies, and a knight in shining armor. All in honor of Beethoven. All in honor of the idea that art can save you.
+And in a white building with a golden dome — a dome made of gilded laurel leaves that the Viennese have nicknamed "the golden cabbage" — a painter is covering an entire wall with gold leaf, naked bodies, and a knight in shining armor.
+
+All in honor of Beethoven. All in honor of the idea that art can save you.
 
 The doctor is Sigmund Freud. The composer is Gustav Mahler. The painter is Gustav Klimt.
 
@@ -58,7 +60,9 @@ But here's the irony that makes Moreau's story perfect. In 1892, he was appointe
 
 *[Beat]*
 
-Think about that. The most careful, detail-obsessed painter in Paris — a man who spent months on a single canvas — accidentally trained the man who would invent Fauvism, the wildest, most out-of-control color movement in history. Moreau told his students to trust their instincts, to look at color, to find their own way. And they used that freedom to destroy everything he stood for.
+Think about that. The most careful, detail-obsessed painter in Paris — a man who spent months on a single canvas — accidentally trained the man who would invent Fauvism, the wildest, most out-of-control color movement in history.
+
+Moreau told his students to trust their instincts, to look at color, to find their own way. And they used that freedom to destroy everything he stood for.
 
 The most conservative painter in Paris accidentally trained the most radical painters of the next century. Art history is full of ironies. This is one of the best.
 
@@ -72,7 +76,9 @@ And then there's Odilon Redon. Whose story is one of the most dramatic transform
 
 For over twenty years — from the 1870s through the early 1890s — Redon worked almost exclusively in black and white. Charcoal drawings and black-and-white prints. He called them his "Noirs." His Blacks.
 
-And they're nightmares. A giant eyeball floating like a hot-air balloon. A smiling spider with a human face. A cyclops. Strange hybrid creatures that look like they crawled out of a fever dream. He was influenced by Edgar Allan Poe, by Darwin, by what he saw under a microscope. The Symbolist poets — Mallarmé, Huysmans — championed him.
+And they're nightmares. A giant eyeball floating like a hot-air balloon. A smiling spider with a human face. A cyclops. Strange hybrid creatures that look like they crawled out of a fever dream.
+
+He was influenced by Edgar Allan Poe, by Darwin, by what he saw under a microscope. The Symbolist poets — Mallarmé, Huysmans — championed him.
 
 And then, around the age of fifty, something changed.
 
@@ -80,7 +86,9 @@ And then, around the age of fifty, something changed.
 
 [TALKING HEAD]
 
-He exploded into color. Glowing pastels. Rich oils. Flowers, butterflies, mythological scenes bathed in light. The darkness didn't disappear — it changed shape. *The Cyclops* — a one-eyed giant peering over a hillside at a sleeping woman — is painted in the most tender, glowing color. The monster is in love. It's gentle. It's strange. It's beautiful.
+He exploded into color. Glowing pastels. Rich oils. Flowers, butterflies, mythological scenes bathed in light. The darkness didn't disappear — it changed shape.
+
+*The Cyclops* — a one-eyed giant peering over a hillside at a sleeping woman — is painted in the most tender, glowing color. The monster is in love. It's gentle. It's strange. It's beautiful.
 
 Why the change? His son was born. His brother died. He went through a personal crisis and came out the other side. He said he "emerged from the shadows."
 
@@ -90,7 +98,9 @@ The before and after is the story. Two decades of darkness, then an explosion of
 
 [TALKING HEAD]
 
-Symbolism wasn't a style. It was an attitude. The idea that art should suggest, not describe. That it should create moods, not tell stories. That the most important things — love, death, desire, the sacred — can't be painted directly. They can only be hinted at. Approached sideways. Felt rather than seen.
+Symbolism wasn't a style. It was an attitude. The idea that art should suggest, not describe. That it should create moods, not tell stories.
+
+That the most important things — love, death, desire, the sacred — can't be painted directly. They can only be hinted at. Approached sideways. Felt rather than seen.
 
 The Symbolist poets put it best. Mallarmé said: "To name an object is to suppress three-quarters of the enjoyment of the poem." Don't name it. Suggest it. Let the viewer — the reader — complete the picture in their own mind.
 
@@ -116,7 +126,9 @@ So the Symbolists turned inward — to dreams, myths, the things you can't see. 
 
 Gustav Klimt was born in 1862, near Vienna. And here's a detail that matters: his father was a gold engraver. Gold was literally in his blood.
 
-He trained at the Vienna School of Arts and Crafts — not the fine arts academy. The applied arts school. This shaped everything. Klimt never saw a hard line between "fine art" and "decorative art." A painting and a mosaic and a piece of jewelry were all art to him. That refusal to separate high and low, fine and decorative, would become his defining quality.
+He trained at the Vienna School of Arts and Crafts — not the fine arts academy. The applied arts school. This shaped everything. Klimt never saw a hard line between "fine art" and "decorative art." A painting and a mosaic and a piece of jewelry were all art to him.
+
+That refusal to separate high and low, fine and decorative, would become his defining quality.
 
 His early career was conventional and hugely successful. He painted ceilings, stairwells, theater curtains — decorative work for public buildings. Technically brilliant. Completely safe.
 
@@ -134,7 +146,9 @@ Klimt delivered something completely different.
 
 *Philosophy* showed a column of tangled naked bodies drifting through empty space — not wise, not rational, just... lost. Floating in darkness. *Medicine* featured a skeleton — Death — standing among the naked bodies. *Jurisprudence* showed a man being swallowed by tentacle-like shapes, surrounded by figures of revenge.
 
-The university professors were furious. Eighty-seven of them signed a letter against the paintings. The press attacked him. Politicians got involved. This was supposed to celebrate reason, knowledge, the power of the mind. Instead, Klimt had painted suffering, sex, death, and the limits of what humans can understand.
+The university professors were furious. Eighty-seven of them signed a letter against the paintings. The press attacked him. Politicians got involved.
+
+This was supposed to celebrate reason, knowledge, the power of the mind. Instead, Klimt had painted suffering, sex, death, and the limits of what humans can understand.
 
 His response:
 
@@ -144,9 +158,13 @@ He withdrew the paintings and returned his fee. He would never accept a public c
 
 *[Beat]*
 
-And then the paintings were seized by the Nazis during World War II and destroyed in a fire at Schloss Immendorf in 1945. We only have black-and-white photographs. Like Courbet's *Stone Breakers*, they exist now only as ghosts.
+And then the paintings were seized by the Nazis during World War II and destroyed in a fire at Schloss Immendorf in 1945. We only have black-and-white photographs.
 
-Think about the parallel to Episode 1. David used his art to serve the state — he designed festivals for the Revolution, painted propaganda for Napoleon. Klimt was asked to serve the state and refused. David said yes to power. Klimt said no. Both paid a price.
+Like Courbet's *Stone Breakers*, they exist now only as ghosts.
+
+Think about the parallel to Episode 1. David used his art to serve the state — he designed festivals for the Revolution, painted propaganda for Napoleon. Klimt was asked to serve the state and refused.
+
+David said yes to power. Klimt said no. Both paid a price.
 
 ### The Secession
 
@@ -160,7 +178,9 @@ They called it the Vienna Secession.
 
 "To every age its art, to every art its freedom."
 
-They built their own exhibition hall — designed by Joseph Maria Olbrich. It's still standing. A white cube topped with a golden dome of gilded laurel leaves. The Viennese called it "the golden cabbage." It's one of the most beautiful buildings in Vienna.
+They built their own exhibition hall — designed by Joseph Maria Olbrich. It's still standing. A white cube topped with a golden dome of gilded laurel leaves.
+
+The Viennese called it "the golden cabbage." It's one of the most beautiful buildings in Vienna.
 
 Klimt was the first president.
 
@@ -168,7 +188,9 @@ And in 1902, for the Secession's fourteenth exhibition — dedicated to Beethove
 
 [ARTWORK: *The Beethoven Frieze* — pan across sections, 10 seconds]
 
-The Beethoven Frieze. A hundred and twelve feet long. A story about the human search for happiness. On one wall: dark forces — disease, madness, death, shown as ugly, twisting figures. On another: the golden knight, armored and determined. And at the end: the embrace. A man and woman, wrapped in gold, kissing. Beneath them, an inscription from Schiller's "Ode to Joy" — the text Beethoven set in his Ninth Symphony:
+The Beethoven Frieze. A hundred and twelve feet long. A story about the human search for happiness. On one wall: dark forces — disease, madness, death, shown as ugly, twisting figures. On another: the golden knight, armored and determined.
+
+And at the end: the embrace. A man and woman, wrapped in gold, kissing. Beneath them, an inscription from Schiller's "Ode to Joy" — the text Beethoven set in his Ninth Symphony:
 
 "This kiss to the whole world."
 
@@ -184,7 +206,9 @@ And now we arrive at the Klimt everyone knows.
 
 *Portrait of Adele Bloch-Bauer I.* 1907. The Woman in Gold.
 
-Look at it. Her face is real — painted with careful, lifelike detail. Her hands are real. But everything else — her dress, the chair, the background — dissolves into a sea of gold leaf and geometric patterns. Spirals, triangles, eyes, rectangles. The boundary between the person and the decoration disappears. She's emerging from the gold. Or sinking into it. Or both.
+Look at it. Her face is real — painted with careful, lifelike detail. Her hands are real. But everything else — her dress, the chair, the background — dissolves into a sea of gold leaf and geometric patterns. Spirals, triangles, eyes, rectangles.
+
+The boundary between the person and the decoration disappears. She's emerging from the gold. Or sinking into it. Or both.
 
 This painting was looted by the Nazis, fought over in court for decades, and eventually returned to the Bloch-Bauer heirs. It sold for a hundred and thirty-five million dollars in 2006. At the time, the most expensive painting ever sold.
 
@@ -192,9 +216,13 @@ But the price isn't the point. The point is what Klimt is doing with gold.
 
 [TALKING HEAD]
 
-The gold isn't just pretty. It's ancient. Think of the mosaics in Ravenna, Italy — those flat, golden, sacred images of Christ and the saints. Klimt saw those mosaics on a trip to Italy and they changed his work forever. Gold, in that old tradition, means the sacred. The holy. The eternal.
+The gold isn't just pretty. It's ancient. Think of the mosaics in Ravenna, Italy — those flat, golden, sacred images of Christ and the saints.
 
-But Klimt's subjects aren't saints. They're lovers. They're women. They're bodies. He's taking the language of sacred art and using it for sexual art. He's closing the gap between the holy image and the pinup. Between worship and desire.
+Klimt saw those mosaics on a trip to Italy and they changed his work forever. Gold, in that old tradition, means the sacred. The holy. The eternal.
+
+But Klimt's subjects aren't saints. They're lovers. They're women. They're bodies. He's taking the language of sacred art and using it for sexual art.
+
+He's closing the gap between the holy image and the pinup. Between worship and desire.
 
 That's his genius. And that's why the paintings are so powerful. They feel sacred and sexual at the same time. They feel like prayer and like desire. And Klimt doesn't see a contradiction. Because for him, there isn't one.
 
@@ -208,17 +236,23 @@ That's his genius. And that's why the paintings are so powerful. They feel sacre
 
 *The Kiss.* 1907 to 1908.
 
-A couple kneeling on a cliff of flowers. Wrapped in golden robes. His robe has rectangular patterns. Hers has circular ones. Masculine geometry, feminine curves — but they're merging. The boundaries dissolving. His face is hidden — pressed against hers. Her eyes are closed. Her hand rests on his neck.
+A couple kneeling on a cliff of flowers. Wrapped in golden robes. His robe has rectangular patterns. Hers has circular ones. Masculine geometry, feminine curves — but they're merging. The boundaries dissolving.
+
+His face is hidden — pressed against hers. Her eyes are closed. Her hand rests on his neck.
 
 It's tender. It's charged. It's unforgettable. It's probably the most copied painting in the world after the Mona Lisa and Starry Night.
 
-And it's the peak of everything this series has been about. The line between fine art and decoration — gone. The line between the sacred and the sexual — gone. The line between the inner world and the outer world — gone.
+And it's the peak of everything this series has been about. The line between fine art and decoration — gone. The line between the sacred and the sexual — gone.
+
+The line between the inner world and the outer world — gone.
 
 ### Emilie
 
 [TALKING HEAD — brief, intimate]
 
-Klimt's lifelong companion was Emilie Flögé. A fashion designer. They were together for over twenty years. Whether they were lovers or something else — a deep, non-romantic bond — is debated. Klimt had many affairs and may have fathered as many as fourteen children with various women, though only six are confirmed. But Emilie was the constant.
+Klimt's lifelong companion was Emilie Flögé. A fashion designer. They were together for over twenty years. Whether they were lovers or something else — a deep, non-romantic bond — is debated.
+
+Klimt had many affairs and may have fathered as many as fourteen children with various women, though only six are confirmed. But Emilie was the constant.
 
 She burned their letters after his death. We'll never know the full story.
 
@@ -252,15 +286,21 @@ That's Art Nouveau. And its goal was huge: make everything beautiful. Everything
 
 [TALKING HEAD]
 
-The roots go back to William Morris and the Arts and Crafts movement in England. Morris looked at the industrial revolution — the cheap, ugly, lifeless objects filling people's homes — and said: this is killing beauty. We need to bring art and craft back together. Handmade furniture. Handmade textiles. Handmade books.
+The roots go back to William Morris and the Arts and Crafts movement in England. Morris looked at the industrial revolution — the cheap, ugly, lifeless objects filling people's homes — and said: this is killing beauty.
 
-Art Nouveau took that idea but made a key turn. Morris rejected the machine. Art Nouveau embraced it. Alphonse Mucha's posters were printed by the thousands. Art Nouveau was democratic — it wanted beauty in everyday life, not just in the homes of the rich.
+We need to bring art and craft back together. Handmade furniture. Handmade textiles. Handmade books.
+
+Art Nouveau took that idea but made a key turn. Morris rejected the machine. Art Nouveau embraced it.
+
+Alphonse Mucha's posters were printed by the thousands. Art Nouveau was democratic — it wanted beauty in everyday life, not just in the homes of the rich.
 
 [ARTWORK: Mucha posters — *Gismonda*, *Job*, 5 seconds]
 
 [TALKING HEAD]
 
-Mucha. Czech artist working in Paris. He became famous overnight when he designed a poster for Sarah Bernhardt's play *Gismonda* in 1894. Flowing hair, floral borders, curving lines, beautiful women surrounded by decorative patterns. This became the graphic design of 1900. If you've ever seen an Art Nouveau poster, you've seen Mucha's influence.
+Mucha. Czech artist working in Paris. He became famous overnight when he designed a poster for Sarah Bernhardt's play *Gismonda* in 1894.
+
+Flowing hair, floral borders, curving lines, beautiful women surrounded by decorative patterns. This became the graphic design of 1900. If you've ever seen an Art Nouveau poster, you've seen Mucha's influence.
 
 ### Gaudí
 
@@ -280,15 +320,21 @@ Casa Batlló — an apartment building that looks like it's made of bones and sc
 
 Park Güell — mosaic benches, gingerbread houses, a mosaic salamander that's become the symbol of Barcelona.
 
-Gaudí was deeply religious and lived more and more simply as he got older. In 1926, he was hit by a tram. Nobody recognized him — the architect of the most extraordinary buildings in Europe looked like a beggar. He died three days later.
+Gaudí was deeply religious and lived more and more simply as he got older. In 1926, he was hit by a tram.
+
+Nobody recognized him — the architect of the most extraordinary buildings in Europe looked like a beggar. He died three days later.
 
 [ARTWORK/PHOTO: Horta, Hôtel Tassel staircase, 5 seconds]
 
-And Victor Horta in Brussels — the Hôtel Tassel, 1893. The first true Art Nouveau building. Iron and glass used as decorative elements. The staircase curves like a whip — the famous "whiplash curve." Every detail designed — door handles, stair rails, light fixtures. The building is a total work of art.
+And Victor Horta in Brussels — the Hôtel Tassel, 1893. The first true Art Nouveau building. Iron and glass used as decorative elements.
+
+The staircase curves like a whip — the famous "whiplash curve." Every detail designed — door handles, stair rails, light fixtures. The building is a total work of art.
 
 *[MAP/GRAPHIC: Art Nouveau across Europe — Paris, Brussels, Vienna, Barcelona, Glasgow]*
 
-Art Nouveau went by different names across Europe. Art Nouveau in France and Belgium. Jugendstil in Germany and Austria. Stile Liberty in Italy. Modernisme in Catalonia. Glasgow Style in Scotland. Different names, same idea: erase the line between art and life.
+Art Nouveau went by different names across Europe. Art Nouveau in France and Belgium. Jugendstil in Germany and Austria. Stile Liberty in Italy. Modernisme in Catalonia. Glasgow Style in Scotland.
+
+Different names, same idea: erase the line between art and life.
 
 ---
 
@@ -308,7 +354,9 @@ In 1908, an architect in Vienna named Adolf Loos wrote an essay with one of the 
 
 "The evolution of culture is synonymous with the removal of ornament."
 
-Loos looked at Art Nouveau — all those flowing lines, all those floral patterns, all that decoration — and saw waste. Wasted work. Wasted material. Wasted money. He argued that decoration was a sign of a culture that hasn't grown up yet. That a truly advanced society strips things down to their core. That beauty *is* simplicity.
+Loos looked at Art Nouveau — all those flowing lines, all those floral patterns, all that decoration — and saw waste. Wasted work. Wasted material. Wasted money.
+
+He argued that decoration was a sign of a culture that hasn't grown up yet. That a truly advanced society strips things down to their core. That beauty *is* simplicity.
 
 And across the Atlantic, the American architect Louis Sullivan was making a parallel argument:
 
@@ -322,7 +370,9 @@ A building should express its purpose. Not disguise it. Not decorate it. Express
 
 These two ideas — ornament is crime, form follows function — predicted the entire twentieth century of design. The clean lines of Modernism. The glass-and-steel towers. The Bauhaus. The "less is more" philosophy. Everything that came after Art Nouveau was, in some sense, a reaction against it.
 
-But here's the thing. This argument isn't over. It's still happening. Every time someone argues about "less is more" versus "more is more" — every time someone looks at a sleek glass building and says "it's cold" or looks at a decorated building and says "it's too much" — they're replaying Klimt versus Loos. Art Nouveau versus Modernism. Beauty as ornament versus beauty as simplicity.
+But here's the thing. This argument isn't over. It's still happening. Every time someone argues about "less is more" versus "more is more" — every time someone looks at a sleek glass building and says "it's cold" or looks at a decorated building and says "it's too much" — they're replaying Klimt versus Loos. Art Nouveau versus Modernism.
+
+Beauty as ornament versus beauty as simplicity.
 
 I don't think either side is right. I think the tension between them is the point.
 
