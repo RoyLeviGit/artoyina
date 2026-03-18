@@ -26,7 +26,7 @@ And this painter — this obsessive, half-mad, brilliant young man — is going 
 
 His name was Théodore Géricault. The painting was *The Raft of the Medusa*. And it cracked open the door to a completely new kind of art.
 
-But Géricault wouldn't live to walk through that door. He'd be dead at thirty-two. The man who walked through it — his friend, his studio-mate, the painter who would become the most important Romantic painter in France — was named Eugène Delacroix.
+But Géricault wouldn't live to walk through that door. He'd be dead at thirty-two. The man who walked through it — his friend, his studio-mate, the painter who would become arguably the most important Romantic painter in France — was named Eugène Delacroix.
 
 This is their story.
 
@@ -40,7 +40,7 @@ This is their story.
 
 Last time, we left David in exile. The most powerful painter in France, banished to Brussels for voting to kill a king. His student Ingres was carrying the torch for the Neo-Classical tradition — defending line, reason, classical subjects, the whole program — mostly from Rome, where he'd been living for years.
 
-But the world had changed. Napoleon was gone. The old monarchies were back. And an entire generation had grown up watching the Enlightenment's promises collapse. Reason was supposed to fix everything. It didn't. The Revolution was supposed to bring liberty. It brought the Terror. Napoleon was supposed to bring order. He brought twenty years of war.
+But the world had changed. Napoleon was gone. The old monarchies were back. And an entire generation had grown up watching the promises of the Enlightenment — that 18th-century belief that reason and science could answer everything — collapse. Reason was supposed to fix everything. It didn’t. The Revolution was supposed to bring liberty. It brought mass executions. Napoleon was supposed to bring order. He brought twenty years of war.
 
 So a new generation started asking a different question.
 
@@ -50,8 +50,7 @@ Not "what is true?" but "what do I *feel*?"
 
 That's Romanticism. Not a style, exactly. More like a shift in what matters. The Enlightenment said: trust your mind. Romanticism said: trust your gut. Your emotions. Your instincts. The things that reason can't explain.
 
-In literature, this is Byron, Shelley, Keats — poets who burned bright and died young. In music, it's Beethoven's late work — those quartets that sound like a man arguing with God. In philosophy, it's the rehabilitation of everything the Enlightenment had tried to tame: passion, intuition, the irrational, the wild.
-
+It wasn’t only painting. Across music, poetry, and philosophy, people were saying the same thing: reason alone isn’t enough.
 And in art, it starts with a concept that the Romantics were obsessed with. A concept called the sublime.
 
 ### The Sublime
@@ -66,7 +65,7 @@ The Romantics didn't want beauty. Beauty is pleasant. Beauty is a painting of a 
 
 The Romantics wanted *overwhelm*. They wanted art that made you feel like you were standing at the edge of something enormous.
 
-And no painting captures that better than this one.
+And one of the paintings that captures it best is this one.
 
 *[Music drops out.]*
 
@@ -82,15 +81,19 @@ A man standing on a rocky peak, his back to us. We can't see his face. We see wh
 
 That's the Romantic project in one image. The individual, confronting the infinite.
 
-Friedrich was German — Romanticism wasn't just a French thing. He'd lost his mother at seven, a sister at eight, and his brother drowned saving him from falling through ice when he was thirteen.
+Friedrich was German — Romanticism wasn't just a French thing. He carried deep personal grief his whole life. His paintings are quiet — no violence, no drama — but they hit just as hard as anything Delacroix ever made. Sometimes harder.
 
-*[slight pause]*
+*[Brief visual section — 2 works on screen, minimal voiceover]*
 
-There's a lot going on in that biography.
+*[ARTWORK: Turner, *The Fighting Temeraire*, 4 seconds | Turner, *Snow Storm — Steam-Boat off a Harbour's Mouth*, 4 seconds]*
 
-He carried that grief his entire life. His paintings are quiet — no violence, no drama — but they hit just as hard as anything Delacroix ever made. Sometimes harder.
+Friedrich wasn't alone. Across Europe, a whole generation was pushing in the same direction. In Britain, J.M.W. Turner was painting light and weather as if the natural world wa,s barely contained — storms, sunsets, ships dissolving into atmosphere. His paintings don't want you to understand them. They want to overwhelm you.
 
-But the painting that truly announced Romanticism to the world — the painting that said "something new is happening and you can't ignore it" — wasn't quiet at all.
+The Romantic painter had a set of obsessions: big, crushing nature. The individual lost in something vast. Intense color and dramatic light. History, myth, and far-off places — anywhere that felt raw and alive compared to the grey routine of modern Paris.
+
+That was the mood. Now it needed a moment.
+
+But the painting that truly announced Romanticism to the world — the painting that said "something new is happening and you can't ignore it" — was raw, chaotic, and impossible to ignore.
 
 ---
 
@@ -102,7 +105,7 @@ But the painting that truly announced Romanticism to the world — the painting 
 
 [TALKING HEAD]
 
-June 1816. A French naval frigate called the *Méduse* is sailing to Senegal. On board: soldiers, settlers, the new colonial governor. And commanding the ship: a captain named Hugues Duroy de Chaumareys, who had barely sailed in twenty years. He got the job through political connections to the newly restored Bourbon monarchy. He was, by all accounts, spectacularly incompetent.
+June 1816. A French warship called the *Méduse* is sailing to Senegal. On board: soldiers, settlers, the new colonial governor. And commanding the ship: a captain named Hugues Duroy de Chaumareys, who had barely sailed in twenty years. He got the job through political connections to the newly restored Bourbon monarchy. He was, by all accounts, spectacularly incompetent.
 
 The *Méduse* ran aground on a sandbank off the coast of West Africa. And there weren't enough lifeboats.
 
@@ -114,7 +117,7 @@ Whether it was deliberate or accidental is still debated. But the result was the
 
 *[Pace slows]*
 
-What followed — over thirteen days — is one of the most horrifying stories in maritime history. By the second night, fights broke out. Men went mad. Some threw themselves into the sea. By day four, the survivors began eating the dead.
+What followed — over thirteen days — is one of the most horrifying survival stories in maritime history. By the second night, fights broke out. Men went mad. Some threw themselves into the sea. By day four, the survivors began eating the dead.
 
 When the raft was finally spotted by a passing ship — the *Argus* — thirteen days later, fifteen people were still alive. Five more died shortly after rescue.
 
@@ -124,19 +127,15 @@ And a twenty-seven-year-old painter named Théodore Géricault read that book an
 
 ### The Process
 
-[TALKING HEAD — leaning in, almost incredulous]
+[TALKING HEAD — leaning in]
 
-What Géricault did next is — I mean, it's the most extreme artistic process I've ever heard of.
+What Géricault did next is extraordinary even by... well, by any standards
 
-He tracked down Corréard and Savigny. Interviewed them. Had them sit for him and describe everything — the raft, the bodies, the weather, the moment they saw the ship.
+He tracked down two of the survivors. Interviewed them. Had them sit for him and describe everything — the raft, the bodies, the weather, the moment they saw the ship.
+He built a scale model of the raft in his studio. 
+He went to the morgue — repeatedly — and brought back severed limbs and heads to study how dead flesh looks. He visited hospitals to sketch the dying. His friends described the studio as a slaughterhouse. The smell was unbearable.
 
-He built a scale model of the raft in his studio.
-
-He went to the morgue. Repeatedly. He brought back severed limbs and heads to study the color of dead flesh, the way muscles look after death, the texture of decomposition. His friends described the studio as a charnel house. The smell was unbearable.
-
-He shaved his head so he wouldn't go out. He wanted nothing — no social life, no distractions — between him and this painting.
-
-He studied the effects of starvation on the human body. He visited hospitals to sketch the dying.
+He shaved his head so he wouldn’t be tempted to go outside — he wanted no distractions.
 
 Eighteen months. That's how long it took. And the result was a painting roughly sixteen by twenty-three and a half feet.
 
@@ -176,9 +175,9 @@ Géricault chose to paint the most uncertain moment. Not the rescue. Not the suf
 
 That's not a Neo-Classical painting. There's no moral lesson. No ancient hero. No "noble simplicity." It's a painting about real people, a real disaster, and the raw, animal desperation to survive. And it's painted at the scale that the Académie reserved for the death of gods and kings.
 
-And look at *how* it's painted. The palette is dark and theatrical — Géricault had studied Caravaggio in Rome, and you can feel it. Deep shadows, dramatic light cutting across the bodies. The surface is impasted in places, almost sculptural — you can see the paint built up, physical, heavy. And the composition deliberately echoes classical structures — a triangle, like the Horatii — but fills it with chaos. He's using the old architecture to hold together something completely new.
+And look at *how* it's painted. Deep shadows. Dramatic light cutting across the bodies. Géricault had studied Caravaggio in Rome, and you can feel it. The composition deliberately echoes classical structures — a triangle, like the Horatii — but fills it with chaos. He used the old architecture to hold together something completely new.
 
-The Salon didn't know what to do with it. The government was embarrassed — this was an indictment of their incompetence. Critics were divided. Géricault took the painting to London, where it was a sensation.
+The Salon didn't know what to do with it. The government was embarrassed — this was an attack on their incompetence. Critics were divided. Géricault took the painting to London, where it was a sensation.
 
 And then, in 1824, he died. Years of horse-riding injuries had left him bedridden, his health in collapse. He was thirty-two years old.
 
@@ -187,6 +186,8 @@ And then, in 1824, he died. Years of horse-riding injuries had left him bedridde
 If Géricault had lived, the whole story of Romanticism might be different. But he didn't. And the mantle passed to his friend.
 
 A painter who had watched the creation of the Raft from up close, who posed for one of the dying figures in it, and who was about to take everything Géricault had started and push it further than anyone imagined.
+
+*[OPTIONAL BRIDGE: Géricault cracked the door open. His friend was about to walk through it — and then keep going until he'd left the whole building behind.]*
 
 ---
 
@@ -198,7 +199,7 @@ A painter who had watched the creation of the Raft from up close, who posed for 
 
 [TALKING HEAD]
 
-Eugène Delacroix was born in 1798. Officially, his father was Charles Delacroix, a diplomat. But there's a problem with that story. Charles had a medical condition — a massive tumor — that almost certainly made him infertile at the time Eugène was conceived.
+Eugène Delacroix was born in 1798. Officially, his father was Charles Delacroix, a diplomat. But there's a problem with that story. Charles had a medical condition — a massive tumor — that almost certainly left him unable to father children at the time Eugène was conceived.
 
 The rumor — whispered throughout Delacroix's life — was that his real father was Talleyrand. *The* Talleyrand. The most powerful diplomat in France — the man who had survived every regime from the Revolution through Napoleon by being smarter than everyone in the room.
 
@@ -216,7 +217,7 @@ Delacroix's Salon debut came in 1822. He was twenty-four.
 
 [ARTWORK: *The Barque of Dante*, 5 seconds]
 
-*The Barque of Dante.* Dante and Virgil crossing the river Styx, surrounded by the damned. The flesh of the drowning figures is painted with a visceral intensity that shocked people. This wasn't the smooth, polished surface of Ingres. This was paint that looked like flesh — wet, raw, alive.
+*The Barque of Dante.* Dante and Virgil crossing the river Styx, surrounded by the damned. The flesh of the drowning figures is painted with a raw, physical intensity that shocked people. This wasn't the smooth, polished surface of Ingres. This was paint that looked like flesh — wet, raw, alive.
 
 Two years later, he went bigger.
 
@@ -228,9 +229,7 @@ One critic called it "the massacre of painting." Delacroix took that as a compli
 
 *[Pause — let that land]*
 
-And here's a detail I love. At the same 1824 Salon, Delacroix saw landscapes by the English painter John Constable. He was so struck by Constable's use of color — the way he broke up greens and blues into separate touches — that he reportedly went back to his own painting, shortly before the exhibition opened, and repainted parts of it.
-
-He was absorbing everything. He was hungry.
+And here's a detail worth noting. At the same 1824 Salon, Delacroix saw landscapes by the English painter John Constable. He was reportedly so struck by Constable's use of color — the way he broke up greens and blues into separate touches — that he went back to his own painting and repainted parts of it before the show opened. He was absorbing everything.
 
 ### Sardanapalus
 
@@ -246,9 +245,9 @@ But the painting that really declared war — the painting that said "I am not D
 
 An Assyrian king. His empire is falling. His enemies are at the gates. And rather than surrender, he orders everything destroyed. His concubines. His horses. His treasures. Everything. He reclines on a massive red bed and watches it all burn.
 
-Look at this painting compared to anything David ever made. David's compositions are rigid, geometric, controlled — every figure in its place, every line serving the message. This? This is a whirlpool. Bodies twist and writhe. A horse rears. A woman is being stabbed. Jewels and fabric cascade off the bed.
+Compare this to anything David ever made. David controlled every inch — rigid figures, clean lines, each element in its place. This is a whirlpool. Bodies twist. A horse rears. A woman is being stabbed. Jewels cascade off the bed. And all of it — the chaos, the movement, the drama — is driven by color. Hot reds and golds against cool shadow. No careful outline holding it together. Just paint.
 
-The color is hot — reds and golds against cool shadow — and the brushwork is wild. Delacroix is using *color itself* to create movement rather than line. This is what Ingres found so threatening — the brushwork was doing work that, in academic painting, only drawing was supposed to do.
+That was the provocation. Academic painting emphasized drawing first, color second. Drawing was considered the serious part; color was just filling it in. Delacroix flipped it. And to Ingres, that wasn’t just a different style — it challenged everything painting was supposed to be.
 
 The Salon was horrified. Even Delacroix's supporters were uneasy. This painting nearly ended his career. It was too much. Too chaotic. Too sensual. Too *everything*.
 
@@ -282,7 +281,7 @@ They were once both appointed to the same committee and had to sit next to each 
 
 But here's the thing — this wasn't petty. This was a genuine philosophical war about what art is *for*. Should a painting appeal to your mind or your gut? Should it be drawn or painted? Should it teach you something or make you feel something?
 
-Line versus color. Reason versus emotion. It's the same argument that runs through this entire series. And in the 1820s and '30s, it had two faces: Ingres and Delacroix.
+Line versus color. Reason versus emotion. In the 1820s and '30s, it had two faces: Ingres and Delacroix.
 
 ### Liberty
 
@@ -290,7 +289,7 @@ Line versus color. Reason versus emotion. It's the same argument that runs throu
 
 And then came 1830.
 
-The July Revolution. Three days of street fighting in Paris. Barricades. Gunfire. Charles X — the last Bourbon king — was toppled. A new, more liberal monarchy was installed.
+The July Revolution. Three days of street fighting in Paris. Barricades. Gunfire. Charles the Tenth — the last Bourbon king — was overthrown. A new, more liberal monarchy was installed.
 
 Delacroix wasn't a revolutionary. He wasn't David — he didn't join a political party, didn't vote on anyone's execution. He was a moderate. But the spectacle of it — the energy, the chaos, the bodies in the streets — moved him deeply.
 
@@ -308,12 +307,11 @@ At the center: Marianne. The female allegory of France. Bare-breasted, holding t
 
 [DETAIL: The boy with pistols]
 
-Beside her: a boy with two pistols. He's maybe twelve. He's terrified and exhilarated. Hugo reportedly drew on this figure as inspiration for Gavroche in *Les Misérables* — though he never said so directly.
+Beside her: a boy with two pistols. He's maybe twelve. He's terrified and excited.
 
 [DETAIL: The man in the top hat]
 
-A man in a top hat — the bourgeoisie. A worker in a white shirt. A soldier. Every class, fighting together.
-
+A man in a top hat — the middle class. A worker in a white shirt. A soldier. People of every class and age, fighting together.
 [DETAIL: The dead bodies in the foreground]
 
 And at the bottom: the dead. Sprawled, tangled, half-undressed. The cost.
@@ -324,7 +322,9 @@ Now, I want you to compare this to David's political paintings. David was a true
 
 Delacroix didn't do any of that. He painted the *feeling* of revolution. The light in this painting is impossible — it's theatrical, dramatic, not how a Paris street actually looks during a battle. The composition is staged. Marianne is an allegory, not a person.
 
-David painted ideology. Delacroix painted emotion. That's the difference between Neo-Classicism and Romanticism, right there, in one comparison.
+David painted ideology. Delacroix painted emotion. That might be the clearest single way to see the gap between Neo-Classicism and Romanticism — not the only difference, but one of the deepest.
+
+*[OPTIONAL BRIDGE: Delacroix had found his voice painting revolution and myth in Paris. The next thing that changed him completely wouldn't come from Paris at all.]*
 
 ---
 
@@ -334,23 +334,11 @@ David painted ideology. Delacroix painted emotion. That's the difference between
 
 [TALKING HEAD]
 
-In 1832, Delacroix got an invitation that changed his life. A diplomatic mission to Morocco and Algeria. France had just invaded Algeria two years earlier — this was a colonial enterprise, and Delacroix was traveling under its protection.
+In 1832, Delacroix got an invitation that changed his life. France had sent an official diplomatic mission to Morocco, and Delacroix was invited to join as its artist — by this point his fame was significant enough, and his connections in government circles deep enough, that having him along carried its own prestige. France had also invaded Algeria two years earlier, and the whole trip was a colonial enterprise. Delacroix was traveling under its protection.
 
 He went. And it rewired his brain.
 
-He filled notebooks with sketches, watercolors, and notes. He was overwhelmed by the light, the color, the architecture, the people. Everything was different from Paris — more vivid, more intense, more alive.
-
-And then he wrote something extraordinary in his journal:
-
-"The Greeks and Romans are here at my door, in the Arabs who wrap themselves in a white blanket and look like Cato or Brutus." *[PRODUCTION NOTE: From Delacroix's Journal — cite by name in video description]*
-
-*[Let that land]*
-
-Think about what he's saying. He went to North Africa — to a living, contemporary culture — and what he saw was... ancient Greece. The "noble simplicity" that Winckelmann had described, the calm dignity that David had tried to paint from marble statues — Delacroix found it in living people.
-
-Walking around. Going about their day.
-
-The irony is extraordinary. Winckelmann invented an imaginary Greece from Roman copies. David painted it from sculptures. And Delacroix found it — or thought he found it — in Morocco. If Winckelmann had been alive to hear this, he probably would have been delighted, and also deeply confused.
+He filled notebooks with sketches, watercolors, and notes. He was overwhelmed by the light, the color, the architecture, the people. Everything looked different from Paris — the light sharper, the colors stronger, the streets and people unlike anything he had seen before.
 
 [ARTWORK: *Women of Algiers in Their Apartment*, 8–10 seconds]
 
@@ -370,9 +358,9 @@ The real North Africa — with its own history, its own complexity, its own mode
 
 This tension — between genuine fascination and colonial projection — is something we'll come back to later in the series, when we talk about Gauguin in Tahiti. Delacroix is the early, relatively gentle version of a pattern that gets much more troubling later.
 
-And honestly? When I look at *Women of Algiers* knowing all of this, I feel two things at once. The painting is extraordinary — the color, the intimacy, the light. And it's also a fantasy. A beautiful, deeply partial fantasy, painted by someone who had the power to walk into that room and the freedom to decide what it meant.
+*Women of Algiers* holds both things at once. The painting is extraordinary — the color, the warmth, the sense of actually being inside that room. And it's also a fantasy. A beautiful, partial fantasy made by someone who had the power to walk in and the freedom to decide what it all meant. The women in the painting had no say in how they were shown. That doesn't make the painting less beautiful. It makes the beauty more complicated.
 
-The women in the painting didn't get to tell their side. That doesn't make the painting less beautiful. But it does make the beauty more complicated.
+*[OPTIONAL BRIDGE: North Africa had changed Delacroix's color, his sense of light, his whole way of seeing. Back in Paris, one man understood exactly what had happened — and why it mattered.]*
 
 ---
 
@@ -382,35 +370,27 @@ The women in the painting didn't get to tell their side. That doesn't make the p
 
 [TALKING HEAD]
 
-There was a poet in Paris who understood what Delacroix was doing better than anyone. Better, maybe, than Delacroix understood himself.
+There was a poet in Paris who understood Delacroix better than almost anyone.
 
-His name was Charles Baudelaire. And in 1846, he wrote a Salon review that contained the single best definition of Romanticism I've ever read.
+His name was Charles Baudelaire. In 1846, he wrote a Salon review with one of the sharpest definitions of Romanticism ever put on paper.
 
 *[ON-SCREEN TEXT: "Romanticism is precisely situated neither in choice of subjects nor in exact truth, but in a mode of feeling." — Baudelaire, Salon of 1846]*
 
 "Romanticism is precisely situated neither in choice of subjects nor in exact truth, but in a mode of feeling."
 
-A mode of feeling. Not what you paint. Not how accurately you paint it. But how it makes you *feel*. That's Romanticism in one sentence.
-
-Baudelaire championed Delacroix for decades. He called him "the most suggestive of all painters" — the one whose works "make one think the most, and recall to the memory the greatest number of poetic feelings and thoughts." *[PRODUCTION NOTE: Both Baudelaire quotes from the Salon of 1846 — cite in video description]*
-
-He was the poet who explained the painters to the world. And he was right.
+Not what you paint. Not how accurately. But the feeling it creates. Baudelaire championed Delacroix for decades — calling him "the most suggestive of all painters." *[PRODUCTION NOTE: Both Baudelaire quotes from the Salon of 1846 — cite in video description]*
 
 ### The Late Years
 
 [TALKING HEAD]
 
-Delacroix spent his later years on major government commissions — murals in the Palais Bourbon, the Luxembourg Palace, the Chapel of the Holy Angels at Saint-Sulpice. His late work is extraordinary. It gets looser, freer, almost abstract.
-
-The brushwork dissolves. You can see, in those late murals, the seeds of everything that's coming — Impressionism, Expressionism, even abstraction.
+Delacroix spent his later years on major government commissions — murals in the Palais Bourbon, the Luxembourg Palace, the Chapel of the Holy Angels at Saint-Sulpice. This might seem surprising for a painter who had spent years shocking the Salon. The explanation is that government commissions for public buildings worked differently from the Salon — a minister could hire whoever he chose. And by the 1830s, Delacroix had enough powerful supporters in political circles, and enough of a reputation, that he was too significant to keep ignoring. Liberty Leading the People had helped: however uncomfortable the Salon found his style, that painting had made him a national figure. His late work is extraordinary. It gets looser, freer, almost abstract. The brushwork dissolves. You can see, in those late murals, the seeds of everything that's coming — Impressionism, Expressionism, even abstraction.
 
 His health declined through the 1850s. Tuberculosis.
 
 He died on August 13th, 1863, in Paris. His studio and notebooks contained thousands of works — studies, sketches, finished paintings.
 
-And here's the detail that matters: his funeral was attended by several of the young painters who would go on to become the Impressionists. Bazille was there. Monet and Renoir likely were too.
-
-They revered him. They saw in his color, his freedom, his refusal to submit to the Académie's rules, a path forward.
+And here's the detail that matters: his funeral was attended by several of the young painters who would go on to become the Impressionists. Bazille was there. Monet and Renoir likely were too. They admired him. They saw in his color, his freedom, his refusal to submit to the Académie's rules, a path forward.
 
 Delacroix didn't know it, but he was handing the torch to the next generation.
 
@@ -472,8 +452,7 @@ That's next time.
 - "He shaved his head so he wouldn't be tempted to go outside."
 - "The massacre of painting." Delacroix took that as a compliment.
 - "Painted with a drunken broom." / "The complete expression of an incomplete intelligence."
-- "The Greeks and Romans are here at my door."
-- "A mode of feeling."
+-"A mode of feeling."
 
 **Potential cuts if long:**
 - Turner and The Slave Ship (already cut from outline — Friedrich carries the non-French Romanticism)
@@ -509,3 +488,83 @@ That's next time.
 - [x] Caravaggio influence on the Raft's palette — confirmed by Wikipedia ("Caravaggesque").
 - [x] Picasso's 15 variations of Women of Algiers — confirmed (series A through O, 1954–55).
 - [x] France invaded Algeria 1830, Delacroix traveled 1832 — confirmed.
+
+---
+
+### CHAPTER OUTLINE
+
+**ACT 1 — Cold Open**
+- Paris, 1818: Géricault, shaved head, scale model, the morgue
+- The shipwreck of the *Méduse* and its scale
+- Géricault's death at 32; the torch passes to Delacroix
+- *[OPTIONAL BRIDGE: Romanticism had a mood. Now it needed a moment.]*
+
+**ACT 2 — The World After David**
+- The collapse of the Enlightenment's promises; the Romantic reaction
+- Romanticism as a shift in what matters: from reason to feeling
+- Beethoven, Byron, Shelley — it wasn't only painting
+- The Sublime: Burke, 1757; awe mixed with terror
+- Friedrich: *Wanderer Above the Sea of Fog* — the individual confronting the infinite
+- Romanticism across Europe: Turner's storms and atmosphere
+- *[OPTIONAL BRIDGE: Romanticism had a mood. Now it needed a moment. One painting would give it one.]*
+
+**ACT 3 — The Raft**
+- The real story of the *Méduse*: political incompetence, the tow ropes cut, thirteen days adrift
+- Géricault's obsessive process: morgue visits, scale model, 18 months
+- *The Raft of the Medusa* (1819): composition, the "uncertain moment," scale
+- How it breaks from Neo-Classicism: real people at history-painting scale, no moral lesson
+- The Salon's discomfort; the London success; Géricault's death
+- *[OPTIONAL BRIDGE: Géricault cracked the door open. His friend was about to walk through it.]*
+
+**ACT 4 — Delacroix**
+- The Talleyrand paternity rumor — the perfect Romantic origin story
+- *The Barque of Dante* (1822) and *The Massacre at Chios* (1824): raw paint, emotional intensity
+- The Constable influence on *Massacre at Chios*
+- *The Death of Sardanapalus* (1827): color over line, the Salon is horrified
+- The Ingres-Delacroix rivalry: line vs. color, reason vs. emotion
+- *Liberty Leading the People* (1830): ideology vs. feeling; David compared to Delacroix
+- *[OPTIONAL BRIDGE: Delacroix had found his voice in Paris. The next thing that changed him wouldn't come from Paris at all.]*
+
+**ACT 5 — North Africa**
+- The 1832 diplomatic mission to Morocco: how he got the invitation; the colonial context
+- The notebooks: overwhelmed by light, color, architecture, people
+-*Women of Algiers in Their Apartment* (1834): intimacy, color, Picasso's 15 variations
+- The colonial critique: genuine fascination vs. projection; a pattern that returns with Gauguin
+- *[OPTIONAL BRIDGE: North Africa had changed everything. Back in Paris, one man understood why.]*
+
+**ACT 6 — Baudelaire and the Legacy**
+- Baudelaire, 1846: "a mode of feeling"
+- The late government commissions: how he got them; what the late work looks like
+- Delacroix's death, 1863; the Impressionists at his funeral
+- The risk of Romanticism: when feeling is the only measure, where do you stop?
+- Bridge to Episode 3: Courbet, Realism, painting the world exactly as it is
+
+---
+
+### PRONUNCIATION GUIDE
+
+These names and words appear in the script and may need practice before recording:
+
+- **Théodore Géricault** — Tay-oh-DOR ZHAY-ree-KOH
+- **Eugène Delacroix** — Uh-ZHEN Duh-la-KWAH
+- **Méduse** — May-DYOOZ
+- **Hugues Duroy de Chaumareys** — Hyoog Dyoo-RWAH duh Sho-mah-RAY
+- **Corréard** — Koh-ray-AR
+- **Savigny** — Sah-veen-YEE
+- **Caspar David Friedrich** — KAS-par DAH-veed FREE-drikh
+- **Jean-Auguste-Dominique Ingres** — Zhahn oh-GOOST doh-mee-NEEK ANG-gruh
+- **Pierre-Narcisse Guérin** — Pyair Nar-SEES Gay-RAN
+- **Talleyrand** — TAL-ee-rand (French: Tal-ee-RAHN)
+- **Winckelmann** — VINK-el-mahn
+- **Baudelaire** — Bode-LAIR
+- **Sardanapalus** — Sar-dan-AP-uh-lus
+- **Chios** — KY-oss
+- **Palais Bourbon** — Pah-LAY Boor-BON
+- **Saint-Sulpice** — San Sool-PEES
+- **J.M.W. Turner** — say in full: Joseph Mallord William Turner
+- **Edmund Burke** — common, no issue
+- **Barque** (as in *The Barque of Dante*) — BARK
+- **Styx** — STIKS
+- **Marianne** — Mah-ree-ANN (French: Mah-ree-AHN)
+- **Montagnards** — Mon-tahn-YAR
+- **Jacobins** — ZHAK-oh-ban (French) / JAK-oh-binz (English acceptable)
