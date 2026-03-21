@@ -12,22 +12,13 @@
 
 [TALKING HEAD]
 
-Paris, 1818. Napoleon has been gone three years. The Bourbon monarchy is back. And a twenty-six-year-old painter has shaved his head.
+A young painter has a weird smell coming out of his studio.
+When friends come to visit, they can barely breathe. The room smells like death. Wait — are those actual human body parts in his studio? Arms and legs… is that a severed head on the roof?
 
-Not for style. He shaved it so he wouldn't be tempted to go outside. He wanted total isolation. Total focus.
+It’s Paris, 1818. Napoleon has been gone for three years. The Bourbon monarchy is back. The art world is controlled by the Académie, led by David’s star student, Ingres. And a young artist named Théodore Géricault is working on something enormous. Something that’s going to make Paris very uncomfortable.
+Tragically, he’d be dead at thirty-two. But his friend — also an artist influenced by him — would become one of the key figures of French Romanticism. His name was Eugène Delacroix.
 
-The room smells like death. And I mean that literally. He's been going to the city morgue, and he's been bringing things back. Severed limbs. Heads. He's studying them. Painting them.
-
-His friends come to visit and they can barely breathe.
-
-In the middle of the studio, he's built a wooden raft. A scale model. He's been interviewing two men — survivors of a shipwreck. Not just any shipwreck. A shipwreck where, after thirteen days adrift on the open ocean, the survivors ate the dead.
-
-And this painter — this obsessive, half-mad, brilliant young man — is going to turn that story into one of the most unsettling paintings Paris has ever seen.
-His name was Théodore Géricault. The painting was *The Raft of the Medusa*. And it cracked open the door to a completely new kind of art.
-
-But Géricault wouldn't live to walk through that door. He'd be dead at thirty-two. The man who walked through it — his friend, the painter who would become arguably the most important Romantic painter in France — was named Eugène Delacroix.
-
-This is their story.
+This is their story — the story of Romantic art.
 
 ---
 
@@ -133,7 +124,7 @@ What Géricault did next is extraordinary even by... well, by any standards
 
 He tracked down the two survivors. Interviewed them. Had them sit for him and describe everything — the raft, the bodies, the weather, the moment they saw the ship.
 He built a scale model of the raft in his studio. 
-He went to the morgue — repeatedly — and brought back severed limbs and heads to study how dead flesh looks. He visited hospitals to sketch the dying. His friends described the studio as a slaughterhouse. The smell was unbearable.
+He went to the morgue — repeatedly — and brought back severed body parts to study how dead flesh looks. He visited hospitals to sketch the dying. His friends described the studio as a slaughterhouse. The smell was unbearable.
 
 He shaved his head so he wouldn’t be tempted to go outside — he wanted no distractions.
 
@@ -184,8 +175,6 @@ And then, in 1824, he died. Years of horse-riding injuries had left him bedridde
 *[Beat]*
 
 If Géricault had lived, the whole story of Romanticism might be different. But he didn't. The torch passed to his friend — a painter who had watched the Raft being made from up close, who posed for one of the dying figures in it, and who was about to take everything Géricault had started and push it further than anyone imagined.
-
-[Eugène Delacroix (1798–1863), who modelled for the figure in the foreground with face turned downward and one arm outstretched.]
 *[OPTIONAL BRIDGE: Géricault cracked the door open. His friend was about to walk through it — and then keep going until he'd left the whole building behind.]*
 
 ---
@@ -208,6 +197,12 @@ It's a great origin story for a Romantic painter — the illegitimate son of pow
 
 His father died when he was seven. His mother when he was sixteen. By eighteen, he was essentially alone in the world. Then he met Géricault. That friendship changed everything.
 
+Both of them had studied under the painter Pierre-Narcisse Guérin — a strict Neoclassicist who gave them a solid technical foundation. Géricault was older and already pushing against the rules. Delacroix watched him do it. 
+
+When Géricault began working on The Raft of the Medusa, Delacroix was close to the process — he even posed for one of the dying figures. Watching Géricault work — the research, the intensity, the refusal to make it comfortable or beautiful — left a mark on him. Not just as a technical lesson, but as a kind of permission. You could go this far. You could paint things like this.
+
+[*Eugène Delacroix (1798–1863), who modelled for the figure in the foreground with face turned downward and one arm outstretched.*]
+
 ### The Early Work
 
 [TALKING HEAD]
@@ -222,7 +217,7 @@ Two years later, he went bigger.
 
 [ARTWORK: *The Massacre at Chios*, 8 seconds]
 
-*The Massacre at Chios.* 1824. Based on a real event — Greek civilians slaughtered by Ottoman troops during the Greek War of Independence. Look at the details. See how different it is from any painting we talked about in the previous video? It’s such a disturbing, intense scene. The painting is enormous, brutal, and rendered with a looseness of brushwork and emotional intensity that made the Académie deeply uncomfortable.
+*The Massacre at Chios.* 1824. Based on a real event — Greek civilians slaughtered by Ottoman troops during the Greek War of Independence. Look at the details. See how different it is from any painting we talked about in the previous video? It’s such a disturbing, intense scene. The painting is enormous, brutal, and painted with a looseness of brushwork and emotional intensity that made the Académie deeply uncomfortable.
 
 One critic called it "the massacre of painting." Delacroix took that as a compliment.
 
@@ -318,7 +313,7 @@ David painted ideology. Delacroix painted emotion. That might be the clearest si
 
 [TALKING HEAD]
 
-In 1832, Delacroix got an invitation that changed his life. France had sent an official diplomatic mission to Morocco, and Delacroix was invited to join as its artist — by this point his fame was significant enough, and his connections in government circles deep enough, that having him along carried its own prestige. France had also invaded Algeria two years earlier, and the whole trip was a colonial enterprise. Delacroix was traveling under its protection.
+In 1832, Delacroix got an invitation that changed his life. France had sent an official diplomatic mission to Morocco, and Delacroix was invited to join as its artist — by this point his fame was significant enough, and his connections in government circles deep enough, that having him along carried its own prestige. France had also invaded Algeria two years earlier, and the whole trip was a colonial mission. Delacroix was traveling under its protection.
 
 He went. And it rewired his brain.
 
@@ -328,8 +323,7 @@ He filled notebooks with sketches, watercolors, and notes. He was overwhelmed by
 
 [TALKING HEAD]
 
-*Women of Algiers in Their Apartment.* 1834. Painted from memory after Delacroix visited a harem — a rare privilege for a European man.
-
+*Women of Algiers in Their Apartment.* 1834. Painted from memory after Delacroix was given rare access to the private living quarters of an Algerian household.
 Three women in a richly decorated interior. A servant on the right. The colors are warm — reds, golds, deep greens. The light is soft. It's intimate. You feel like you're in the room.
 
 Picasso saw this painting and was so obsessed with it that he painted around fifteen variations of it. That's how deep the influence goes.
@@ -359,7 +353,7 @@ His name was Charles Baudelaire. In 1846, he wrote a Salon review with one of th
 
 "Romanticism is precisely situated neither in choice of subjects nor in exact truth, but in a mode of feeling."
 
-Not what you paint. Not how accurately. But the feeling it creates. Baudelaire championed Delacroix for decades — calling him "the most suggestive of all painters." *[PRODUCTION NOTE: Both Baudelaire quotes from the Salon of 1846 — cite in video description]*
+Not what you paint. Not how accurately. But the feeling it creates. Baudelaire praised Delacroix for decades — calling him "the most suggestive of all painters." *[PRODUCTION NOTE: Both Baudelaire quotes from the Salon of 1846 — cite in video description]*
 
 ### The Late Years
 
@@ -473,8 +467,7 @@ That's next time.
 ### CHAPTER OUTLINE
 
 **ACT 1 — Cold Open**
-- Paris, 1818: a painter has shaved his head, filled his studio with body parts, built a scale raft
-- The shipwreck of the *Méduse*; thirteen days adrift; survivors ate the dead
+- Paris, 1818: a painter has shaved his head, working on something enormous, room smells like death
 - Géricault introduced; his death at 32; the torch passes to Delacroix
 - *[OPTIONAL BRIDGE: All it needed was one painting — something so raw it couldn't be ignored.]*
 
@@ -499,17 +492,19 @@ That's next time.
 
 **ACT 4 — Delacroix**
 - The Talleyrand paternity rumor; parents dead by 16; meets Géricault
+- Both studied under Guérin; Géricault already pushing against the rules; Delacroix watched and posed for the Raft
+- Géricault's influence on Delacroix: permission to go further
 - *The Barque of Dante* (1822): raw flesh, paint like skin — nothing like Ingres
 - *The Massacre at Chios* (1824): brutality and looseness; "the massacre of painting"
 - *The Death of Sardanapalus* (1827): color drives movement, not line — the provocation explained
 - The Ingres-Delacroix feud: line vs. color, reason vs. emotion, not just personal
 - *Liberty Leading the People* (1830): the feeling of revolution vs. David's ideology of revolution
-- *[OPTIONAL BRIDGE: Delacroix had found his voice in Paris. The next thing that changed him wouldn't come from Paris at all.]*
+- *[OPTIONAL BRIDGE: He knew what he was painting for. What he hadn't found yet was a place that would transform his whole sense of color.]*
 
 **ACT 5 — North Africa**
 - 1832: invited to join a French diplomatic mission to Morocco; the colonial context
 - Notebooks filled with light, color, people unlike anything in Paris
-- *Women of Algiers in Their Apartment* (1834): warmth, intimacy; Picasso's 15 variations
+- *Women of Algiers in Their Apartment* (1834): painted from memory after rare access to private quarters; warmth, intimacy; Picasso's 15 variations
 - The colonial critique: genuine fascination alongside placing his own fantasies onto another culture; a pattern that returns with Gauguin
 - *[OPTIONAL BRIDGE: North Africa had changed Delacroix's color, his sense of light, his whole way of seeing. Back in Paris, one man understood exactly what had happened.]*
 
@@ -519,7 +514,6 @@ That's next time.
 - Late work: looser, freer, almost abstract — seeds of Impressionism visible
 - Death, 1863; the Impressionists at his funeral
 - The risk of Romanticism: once feeling is enough, where do you stop?
-- *[PERSONAL OPINION NEEDED]*
 - Bridge to Episode 3: Courbet — what if you just painted the world exactly as it is?
 
 ---
