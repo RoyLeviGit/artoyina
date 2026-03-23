@@ -40,17 +40,17 @@ His name was Gustave Courbet. And that painting — *A Burial at Ornans* — cha
 
 To understand Courbet, you need to understand 1848. Because 1848 is the year Europe caught fire.
 
-In February, revolution broke out in France — again. King Louis-Philippe was thrown out. The Second Republic was declared. And the revolutionary fever spread: Vienna, Berlin, Milan, Budapest, Prague. They called it the Springtime of Peoples. For a brief, exciting moment, it looked like the old order was finally going to fall.
+In February, revolution broke out in France — yes...again. King Louis-Philippe was thrown out. The Second Republic was declared. And the revolutionary fever spread: Vienna, Berlin, Milan, Budapest, Prague. They called it the Springtime of Peoples. For a brief, exciting moment, it looked like the old order was finally going to fall.
 
 And then it didn't.
 
-In France, the June Days uprising — workers demanding jobs and rights — was crushed by the government. Thousands killed. Thousands more sent away. And within three years, Louis-Napoleon — Napoleon's nephew — grabbed power and declared himself Emperor Napoleon III.
+In France, the June Days uprising — workers demanding jobs and rights — was crushed by the government. Hundreds were killed in the streets. Thousands more arrested and sent away. And within three years, Louis-Napoleon — Napoleon's nephew — grabbed power and declared himself Emperor Napoleon III.
 
 The Republic was dead. Again.
 
-The Romantic dream of revolution — the dream Delacroix had painted in *Liberty Leading the People* — met reality. And reality won.
+The Romantic dream of revolution — the dream Delacroix had painted in *Liberty Leading the People* — met reality. And it began to fall apart.
 
-So a new generation of artists started asking a different question. Not "what should the world look like?" but "what does the world actually look like?" Not ideals. Not dreams. Not feelings. Just... what's there.
+So a new generation of artists started asking a different question. Not “what should the world look like?” as the Neoclassicists asked, and not “what does the world feel like?” as the Romantics asked, but “what does the world actually look like?” Not ideals. Not dreams. Not feelings. Just… what’s there.
 
 ### Photography
 
@@ -60,7 +60,7 @@ And there was another reason to ask that question. Because by 1850, a machine co
 
 The daguerreotype had been invented in 1839. By the 1850s, photography was everywhere. And it created a crisis for painters. If a machine can show you exactly what something looks like — why paint it?
 
-Realism's answer — and it's a good one — is that a painting isn't a photograph. A photograph records. A painting reads into things. A photograph shows you what's there. A painting shows you what it *means*. The camera captures the surface. The painter chooses what to highlight, what to leave out, what to make you feel.
+Realism's answer is that a painting isn't a photograph. A photograph records. A painting reads into things. A photograph shows you what's there. A painting shows you what it *means*. The camera captures the surface. The painter chooses what to highlight, what to leave out, what to make you feel.
 
 But the pressure was real. Photography was pushing painting toward a choice: either go inward — toward feeling, toward the abstract, toward the personal — or go deeper into reality than a camera ever could. Realism chose the second path.
 
@@ -84,6 +84,8 @@ The government took his cartoons seriously because they *worked*.
 
 But *Rue Transnonain* isn't a cartoon. It's journalism. It's as powerful as Géricault's Raft, and it's the size of a newspaper page. Daumier proved you didn't need a massive canvas to tell the truth. You just needed to look.
 
+*[OPTIONAL BRIDGE: A generation had grown up watching revolution fail. Photography was pushing painting toward a choice. Into that moment stepped one man who had a very clear answer — and zero interest in being polite about it.]*
+
 ---
 
 ## ACT 3: COURBET
@@ -94,11 +96,11 @@ But *Rue Transnonain* isn't a cartoon. It's journalism. It's as powerful as Gér
 
 [TALKING HEAD]
 
-Gustave Courbet was born in 1819 in Ornans — a small town in eastern France. His father was a well-off farmer. Not poor, but not Parisian. And Courbet never let anyone forget where he came from. His whole career was built on being the outsider, the provincial, the man who didn't play by Paris's rules.
+Gustave Courbet was born in 1819 in Ornans — a small town in eastern France. His father was a prosperous landowner. Not poor, but not Parisian. And Courbet never let anyone forget where he came from. His whole career was built on being the outsider, the man from the country, the one who didn't play by Paris's rules.
 
 He went to Paris in 1839, supposedly to study law. He abandoned law immediately and started painting. He was mostly self-taught — he spent hours in the Louvre studying Rembrandt, Velázquez, the Venetians. He turned down formal training. He didn't want to learn the rules. He wanted to break them.
 
-And from the very beginning, he was building a persona. His early self-portraits are fascinating — he paints himself as a romantic hero, a wounded man, a desperate man, a man with a pipe, a man meeting a rich supporter on the road. He's trying on identities like costumes. He was building a brand before branding existed.
+And from the very beginning, he was building a persona. His early self-portraits are fascinating — he paints himself as a romantic hero, a wounded man, a desperate man, a man with a pipe, a man meeting a rich supporter on the road. He's trying on identities like costumes. He was building a public image before anyone had a word for it.
 
 There's a quote linked to him — it might not be real, but it's perfect: "Show me an angel and I'll paint one."
 
@@ -122,7 +124,7 @@ In 1849, Courbet went home to Ornans and started work on the painting that would
 
 [TALKING HEAD — slow, deliberate]
 
-I want you to look at this painting the way Paris saw it in 1850.
+Look at this painting the way Paris saw it in 1850.
 
 [DETAIL: The mourners' faces — not prettied up, specific, real]
 
@@ -168,7 +170,7 @@ Now, here's something I need to tell you. This painting was destroyed. In Februa
 
 *[Beat]*
 
-There's something almost unbearably sad about that. A painting about how workers are used up and thrown away — about people whose labor is spent and forgotten — was itself used up and forgotten.
+There's something almost unbearably fitting about that. A painting about how workers are used up and thrown away — about people whose labor is spent and forgotten — was itself used up and forgotten.
 
 Destroyed as a side effect of war. The painting about nameless loss became a nameless loss.
 
@@ -258,6 +260,8 @@ The ego is breathtaking. But here's the thing — it's also kind of earned. Beca
 
 He was standing between the real world and the art world and saying: these two things need to talk to each other. Art needs to be about life. And life deserves art.
 
+*[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
+
 ---
 
 ## ACT 5: THE FALL
@@ -310,13 +314,13 @@ He died on New Year's Eve, 1877. In La Tour-de-Peilz, Switzerland. He was fifty-
 
 *[Beat]*
 
-There's a parallel to David here that I can't ignore. Both painters got tangled up in revolutionary politics. Both ended in exile. Both died in foreign countries.
+There's a parallel to David here worth noting. Both painters got tangled up in revolutionary politics. Both ended in exile. Both died in foreign countries.
 
 But there's a key difference. David switched sides — from the Revolution to Napoleon — without missing a beat. Courbet never did. He stayed a radical to the end. He paid for it with everything.
 
-Near the end of his life, he wrote something that I think is the best goodbye any artist has ever written for themselves:
+Near the end of his life, he wrote what might be the most powerful farewell any artist has ever left behind:
 
-"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any régime except the régime of liberty.'"
+"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any régime except the régime of liberty.'" *[PRODUCTION NOTE: Verify exact source and translation of this quote — cite in video description]*
 
 ---
 
@@ -340,7 +344,7 @@ Every independent exhibition that came after him — the Impressionists in 1874,
 
 There's a short story by Balzac called *The Unknown Masterpiece* — about a painter who chases reality so obsessively that he destroys his own painting. He works and reworks it until there's nothing left but a chaos of color with one perfect foot emerging from the mess.
 
-Courbet knew that story. He was determined not to make the same mistake — to chase truth without losing the painting.
+Whether Courbet knew the story directly or not, the parallels are hard to miss. He was determined not to make the same mistake — to chase truth without losing the painting. *[FACT CHECK: Direct connection between Courbet and the Balzac story is suggestive but not documented — keep as implication, not fact]*
 
 Cézanne, in Episode 5, will connect with that story on a much deeper level. But that's later.
 
@@ -389,43 +393,90 @@ That's next time.
 
 ---
 
-## CHAPTER OUTLINE
+### CHAPTER OUTLINE
 
-| Chapter | Time Estimate | What Happens |
-|---|---|---|
-| **ACT 1: Cold Open** | ~3 min | The scene: walking into the 1850 Salon and seeing *A Burial at Ornans*. Paris is shocked. We meet Courbet. |
-| **ACT 2: The World in 1848** | ~8 min | The revolutions of 1848 and their failure. Photography's challenge to painting. Daumier's *Rue Transnonain* as proto-Realism. |
-| **ACT 3: Courbet** | ~12 min | Courbet's background, his self-made persona. Deep dive into *A Burial at Ornans* and *The Stone Breakers* (and its destruction). Millet as the quieter counterpart — *The Gleaners*, *The Angelus*. |
-| **🔗 Bridge** | ~1 min | Courbet has proven his point — but the system still controls who gets seen. He's about to change that. |
-| **ACT 4: The Pavilion** | ~6 min | Courbet builds his own exhibition hall in 1855. *The Painter's Studio* — Courbet puts himself at the center of the world. |
-| **ACT 5: The Fall** | ~8 min | *The Origin of the World*. The Franco-Prussian War, the Paris Commune, the Vendôme Column. Courbet's arrest, exile, and death. The parallel to David. |
-| **ACT 6: The Legacy** | ~4 min | What Courbet proved. The Balzac connection. The hook to Episode 4 — the Impressionists. |
+**ACT 1 — Cold Open**
+- Walking into the 1850 Salon and seeing *A Burial at Ornans* — ten feet tall, twenty-two feet wide, a funeral in a village nobody's heard of
+- Real faces, bad posture, a dog — nobody made to look better than they are
+- Paris loses its mind; critics outraged by the scale
+- Courbet introduced: loud, full of himself, and completely unbothered
+
+**ACT 2 — The World in 1848**
+- The revolutions of 1848: France, Vienna, Berlin, Budapest — the Springtime of Peoples
+- The June Days: crushed. Louis-Napoleon seizes power. The Republic dies, again.
+- The Romantic dream of revolution met reality — and reality won
+- Photography invented 1839 — by 1850 it's everywhere; the crisis it creates for painters
+- A painting isn't a photograph: it reads, it chooses, it means something
+- Daumier's *Rue Transnonain* (1834): journalism disguised as a print — Realism before it had a name
+- *[OPTIONAL BRIDGE: A generation had grown up watching revolution fail. Photography was pushing painting toward a choice. Into that moment stepped one man who had a very clear answer — and zero interest in being polite about it.]*
+
+**ACT 3 — Courbet**
+- Born 1819, Ornans; father a prosperous landowner; not Parisian, never pretended to be
+- Self-taught in the Louvre; turned down formal training; building a public image before anyone had a word for it
+- "Show me an angel and I'll paint one" — Courbet in six words
+- *A Burial at Ornans* (1849–50): real people, real faces, painted life-size at history-painting scale
+- The challenge is the size — ordinary people given the scale of kings; critics furious
+- *The Stone Breakers* (1849): labor with no story, no hope of change — destroyed in the Dresden bombing, 1945
+- Millet: the quieter counterpart; *The Gleaners* (1857) — weight and dignity, subject matter of the lowest farm labor; *The Angelus* — Dalí's obsession
+
+**ACT 3 → 4 — From Truth to Defiance** *(spoken bridge section)*
+- Courbet has proven his point — but the Salon still controls who gets seen
+- He's about to do something nobody in art history has done before
+
+**ACT 4 — The Pavilion**
+- 1855 World's Fair: Courbet submits 14 paintings; jury rejects the two that matter most
+- He builds his own exhibition hall across the street — the Pavilion of Realism
+- First time in modern art history an artist mounted a major solo show outside the system
+- "To create living art — this is my goal."
+- *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right, him connecting them; Baudelaire in the corner reading
+- *[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
+
+**ACT 5 — The Fall**
+- *The Origin of the World* (1866): no mythology, no excuse, just a body as it is — the logical end of his whole project
+- 1870: Franco-Prussian War, France loses badly, Napoleon III captured; Paris surrounded for four months
+- March 1871: the Paris Commune — seventy-two days as its own city
+- Courbet elected to the Commune's council; put in charge of protecting art and museums
+- The Vendôme Column: torn down May 16, 1871; Courbet's name attached to the decision
+- Bloody Week: French army retakes Paris; thousands killed; Courbet arrested, sentenced to six months
+- Ordered to pay 323,000 francs to rebuild the Column; flees to Switzerland 1873
+- Dies in exile, New Year's Eve 1877; the debt still unpaid
+- The parallel to David — both exiled, both died abroad; but Courbet never switched sides
+
+**ACT 6 — The Legacy**
+- What Courbet proved: real life is a worthy subject; the system can be rejected; the Salon is not the only way
+- The Balzac connection (*The Unknown Masterpiece*) — chasing truth without losing the painting
+- Hook to Episode 4: not "what is real life?" but "what does it actually *look like*?" — the Impressionists
 
 ---
 
-## PRONUNCIATION GUIDE
+### PRONUNCIATION GUIDE
 
-| Word / Name | How to Say It |
-|---|---|
-| Gustave Courbet | goo-STAHV koor-BAY |
-| Ornans | or-NAHN |
-| Honoré Daumier | oh-noh-RAY doh-MYAY |
-| Jean-François Millet | zhahn-frahn-SWAH mee-YAY |
-| Barbizon | bar-bee-ZOHN |
-| Fontainebleau | fohn-TEN-bloh |
-| Proudhon | proo-DOHN |
-| Vendôme | vahn-DOHM |
-| La Tour-de-Peilz | lah TOOR-duh-PAY |
-| Musée d'Orsay | mew-ZAY dor-SAY |
-| Baudelaire | boh-deh-LAIR |
-| Balzac | bal-ZAK |
-| Daguerreotype | dah-GAIR-oh-type |
-| Géricault | zhay-ree-KOH |
-| Velázquez | veh-LAHZ-kez |
+These names and words appear in the script and may need practice before recording:
+
+- **Gustave Courbet** — goo-STAHV koor-BAY
+- **Ornans** — or-NAHN
+- **Honoré Daumier** — oh-noh-RAY doh-MYAY
+- **Jean-François Millet** — zhahn-frahn-SWAH mee-YAY
+- **Barbizon** — bar-bee-ZOHN
+- **Fontainebleau** — fohn-TEN-bloh
+- **Pierre-Joseph Proudhon** — Pyair Zhoh-ZEF proo-DOHN
+- **Vendôme** — vahn-DOHM
+- **La Tour-de-Peilz** — lah TOOR-duh-PAY
+- **Musée d'Orsay** — mew-ZAY dor-SAY
+- **Baudelaire** — bode-LAIR
+- **Balzac** — bal-ZAK
+- **Daguerreotype** — dah-GAIR-oh-type (Louis Daguerre: loo-EE dah-GAIR)
+- **Géricault** — ZHAY-ree-KOH
+- **Velázquez** — veh-LAHZ-kez
+- **Rembrandt** — REM-brant
+- **Louis-Philippe** — loo-EE fee-LEEP
+- **Louis-Napoléon** — loo-EE nah-poh-lay-OHN
+- **Rue Transnonain** — roo trahn-noh-NAN
+- **Palais Bourbon** — pah-LAY boor-BON (mentioned in context of Delacroix; may appear in recap)
 
 ---
 
-## FACT-CHECK NOTES FOR REVIEW
+### FACT-CHECK NOTES FOR REVIEW
 
 - ✅ Courbet born 1819 Ornans — confirmed
 - ✅ Burial at Ornans dimensions ~10 x 22 feet — confirmed (315 x 668 cm)
@@ -434,5 +485,11 @@ That's next time.
 - ✅ Vendôme Column demolished May 16, 1871 — confirmed
 - ✅ Courbet ordered to pay 323,000 francs — confirmed
 - ✅ Courbet died Dec 31, 1877, La Tour-de-Peilz — confirmed
-- ⚠️ "Show me an angel and I'll paint one" — widely attributed but may be paraphrased. Script already notes this.
-- ⚠️ Courbet's father described as "well-off farmer" — sources say "landowner" or "prosperous farmer." Close enough, but double-check.
+- ✅ Daguerreotype invented 1839 — confirmed (announced publicly August 19, 1839)
+- ✅ Paris Commune lasted 72 days (March 18 – May 28, 1871) — confirmed (71 days; "seventy-two" is close enough or adjust to "around seventy")
+- ✅ Dalí wrote a book about *The Angelus* — confirmed (*The Tragic Myth of Millet's Angelus*, written 1930s, published 1963)
+- ✅ First Impressionist exhibition: 1874 — confirmed
+- ⚠️ "Show me an angel and I'll paint one" — widely attributed but original source unclear. Script flags this.
+- ⚠️ Courbet quote ("I am fifty years old...") — needs exact source and translation verified. Production note in script flags this.
+- ⚠️ Direct connection between Courbet and Balzac's *The Unknown Masterpiece* — suggestive but not documented. Fact-check note in script flags this.
+- ⚠️ June Days casualty count: updated to "hundreds killed, thousands arrested" — the exact figures are disputed across sources; current hedging is appropriate.
