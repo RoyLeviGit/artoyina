@@ -2,3 +2,8 @@
 .obsidian/
 editing/
 .env
+.kiro/
+*.flac
+modern-art-series/_series-wide/music/**/*.mp3
+modern-art-series/**/visuals/graphics/*.mp4
+

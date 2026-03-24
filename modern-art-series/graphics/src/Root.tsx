@@ -7,22 +7,26 @@ import { ExileRoute } from "./ep01/ExileRoute";
 import { PompeiiMap } from "./ep01/PompeiiMap";
 import { ParisMap } from "./ep01/ParisMap";
 
+const FPS = 59.97;
+const W = 3840;
+const H = 2160;
+
 export const RemotionRoot: React.FC = () => {
   return (
     <Folder name="ep01-neoclassicism">
       <Folder name="text-cards">
-        <Composition id="ep01-quote-winckelmann" component={QuoteWinckelmann} durationInFrames={150} fps={30} width={1920} height={1080} />
-        <Composition id="ep01-quote-hemlock" component={QuoteHemlock} durationInFrames={150} fps={30} width={1920} height={1080} />
-        <Composition id="ep01-quote-patriotism" component={QuotePatriotism} durationInFrames={150} fps={30} width={1920} height={1080} />
-        <Composition id="ep01-dates-revolution" component={RevolutionDates} durationInFrames={210} fps={30} width={1920} height={1080} />
+        <Composition id="ep01-quote-winckelmann" component={QuoteWinckelmann} durationInFrames={300} fps={FPS} width={W} height={H} />
+        <Composition id="ep01-quote-hemlock" component={QuoteHemlock} durationInFrames={300} fps={FPS} width={W} height={H} />
+        <Composition id="ep01-quote-patriotism" component={QuotePatriotism} durationInFrames={300} fps={FPS} width={W} height={H} />
+        <Composition id="ep01-dates-revolution" component={RevolutionDates} durationInFrames={420} fps={FPS} width={W} height={H} />
       </Folder>
       <Folder name="timeline">
-        <Composition id="ep01-timeline-david" component={DavidTimeline} durationInFrames={300} fps={30} width={1920} height={1080} />
+        <Composition id="ep01-timeline-david" component={DavidTimeline} durationInFrames={600} fps={FPS} width={W} height={H} />
       </Folder>
       <Folder name="maps">
-        <Composition id="ep01-map-exile" component={ExileRoute} durationInFrames={240} fps={30} width={1920} height={1080} />
-        <Composition id="ep01-map-pompeii" component={PompeiiMap} durationInFrames={270} fps={30} width={1920} height={1080} />
-        <Composition id="ep01-map-paris" component={ParisMap} durationInFrames={270} fps={30} width={1920} height={1080} />
+        <Composition id="ep01-map-exile" component={ExileRoute} durationInFrames={480} fps={FPS} width={W} height={H} />
+        <Composition id="ep01-map-pompeii" component={PompeiiMap} durationInFrames={540} fps={FPS} width={W} height={H} />
+        <Composition id="ep01-map-paris" component={ParisMap} durationInFrames={540} fps={FPS} width={W} height={H} />
       </Folder>
     </Folder>
   );

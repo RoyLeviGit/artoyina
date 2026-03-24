@@ -354,7 +354,7 @@ And in prison, he did something remarkable.
 [SILENCE — 5 seconds]
 
 [TALKING HEAD — quiet]
-
+ 
 He painted himself. Not as a hero. Not as a martyr. Not as a Roman senator or a Greek philosopher. Just... himself. A middle-aged man with a swollen cheek — he had a facial tumor that distorted his features — holding a palette, looking out at you with an expression that's hard to read. Surprise? Confusion? Honesty?
 
 I think it might be the most intimate thing he ever painted. Because it wasn't for anyone. It wasn't for the Salon, or the Revolution, or Napoleon. It was just a man, in a cell, looking at himself.
