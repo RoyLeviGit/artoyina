@@ -1,0 +1,1015 @@
+1
+00:00:00,008 --> 00:00:00,792
+Okay.
+
+2
+00:00:00,792 --> 00:00:01,875
+Imagine this.
+
+3
+00:00:01,875 --> 00:00:05,277
+It's January 21st, 1793.
+
+4
+00:00:05,277 --> 00:00:08,478
+France is 4 years into a revolution.
+
+5
+00:00:08,478 --> 00:00:10,179
+The monarchy has collapsed.
+
+6
+00:00:10,179 --> 00:00:12,330
+The church has been dismantled.
+
+7
+00:00:12,330 --> 00:00:15,181
+The old aristocratic order, gone.
+
+8
+00:00:15,181 --> 00:00:17,066
+The country is trying to build itself
+
+9
+00:00:17,066 --> 00:00:19,783
+from scratch, and nobody is quite sure
+
+10
+00:00:19,783 --> 00:00:20,951
+it's going to work.
+
+11
+00:00:20,951 --> 00:00:21,784
+You're in Paris,
+
+12
+00:00:21,784 --> 00:00:23,752
+sitting in the National Convention,
+
+13
+00:00:23,752 --> 00:00:26,186
+the new revolutionary parliament,
+
+14
+00:00:26,186 --> 00:00:27,904
+and a vote is being taken.
+
+15
+00:00:27,904 --> 00:00:29,288
+Should the King of France
+
+16
+00:00:29,288 --> 00:00:30,505
+be put to death?
+
+17
+00:00:30,505 --> 00:00:31,605
+now, the room
+
+18
+00:00:31,605 --> 00:00:35,541
+is full of politicians, lawyers, revolutionaries,
+
+19
+00:00:35,541 --> 00:00:37,925
+but sitting amongst them, voting,
+
+20
+00:00:37,925 --> 00:00:40,526
+is a painter, the most famous painter
+
+21
+00:00:40,526 --> 00:00:41,627
+in France, a man
+
+22
+00:00:41,627 --> 00:00:43,961
+whose paintings hang in the Louvre,
+
+23
+00:00:43,961 --> 00:00:45,595
+whose work has made grown men
+
+24
+00:00:45,595 --> 00:00:47,546
+weep in public.
+
+25
+00:00:47,546 --> 00:00:49,930
+And when his name is called,
+
+26
+00:00:49,930 --> 00:00:51,047
+he stands up,
+
+27
+00:00:51,047 --> 00:00:53,248
+and he votes yes.
+
+28
+00:00:53,248 --> 00:00:55,349
+He votes to kill the king.
+
+29
+00:00:55,349 --> 00:00:57,183
+His name was Jacques-Louis David,
+
+30
+00:00:57,183 --> 00:00:59,418
+and that vote, a painter
+
+31
+00:00:59,418 --> 00:01:00,852
+voting on the life of a king,
+
+32
+00:01:00,852 --> 00:01:03,036
+would define everything that came after,
+
+33
+00:01:03,036 --> 00:01:04,537
+For better and for worse.
+
+34
+00:01:04,537 --> 00:01:06,621
+But to understand how he got there,
+
+35
+00:01:06,621 --> 00:01:08,439
+we first need to ask:
+
+36
+00:01:08,439 --> 00:01:10,389
+How does a painter ends up
+
+37
+00:01:10,389 --> 00:01:11,823
+with that kind of power?
+
+38
+00:01:11,823 --> 00:01:13,191
+To understand that, we need
+
+39
+00:01:13,191 --> 00:01:15,542
+to go way back before David,
+
+40
+00:01:15,542 --> 00:01:18,026
+before the revolution, back to a time
+
+41
+00:01:18,026 --> 00:01:20,527
+when French art looked very different.
+
+42
+00:01:20,527 --> 00:01:20,811
+how do
+
+43
+00:01:20,811 --> 00:01:22,278
+you pronounce the name?
+
+44
+00:01:22,278 --> 00:01:24,913
+Jean-Honoré Fragonard.
+
+45
+00:01:24,913 --> 00:01:26,697
+Jean-Honoré Fra-Fragonard.
+
+46
+00:01:26,697 --> 00:01:28,581
+Look at this painting, The Swing
+
+47
+00:01:28,581 --> 00:01:31,699
+by Jean-Honoré Fragonard, 1767.
+
+48
+00:01:31,699 --> 00:01:33,266
+A woman swings her shoe,
+
+49
+00:01:33,266 --> 00:01:34,934
+flying toward the little angel
+
+50
+00:01:34,934 --> 00:01:36,484
+who gestures shh
+
+51
+00:01:36,484 --> 00:01:38,335
+to show a secret is unfolding.
+
+52
+00:01:38,335 --> 00:01:39,686
+A man hides in the bushes,
+
+53
+00:01:39,686 --> 00:01:41,236
+looking up her skirt
+
+54
+00:01:41,236 --> 00:01:44,004
+while the older man pushes the swing,
+
+55
+00:01:44,004 --> 00:01:45,955
+unaware of what's happening.
+
+56
+00:01:45,955 --> 00:01:48,957
+This painting is witty, flirtatious,
+
+57
+00:01:48,957 --> 00:01:50,824
+and entirely wrapped up
+
+58
+00:01:50,824 --> 00:01:52,141
+in the private pleasures
+
+59
+00:01:52,141 --> 00:01:53,242
+of the ruling class.
+
+60
+00:01:53,242 --> 00:01:56,176
+And the French aristocracy loved this stuff.
+
+61
+00:01:56,176 --> 00:01:57,044
+This was the art
+
+62
+00:01:57,044 --> 00:01:58,227
+of the ruling class.
+
+63
+00:01:58,227 --> 00:02:00,112
+Rococo, they called it. Light,
+
+64
+00:02:00,112 --> 00:02:01,979
+decorative, charming, sexy.
+
+65
+00:02:01,979 --> 00:02:03,196
+Say Boucher.
+
+66
+00:02:03,196 --> 00:02:05,497
+Painters like Boucher and Fragonard
+
+67
+00:02:05,497 --> 00:02:08,132
+made a fortune painting exactly this.
+
+68
+00:02:08,132 --> 00:02:10,533
+Beautiful people doing beautiful things
+
+69
+00:02:10,533 --> 00:02:11,817
+in beautiful gardens.
+
+70
+00:02:11,817 --> 00:02:15,252
+But by the 1760s,
+
+71
+00:02:15,252 --> 00:02:17,119
+not everyone was charmed.
+
+72
+00:02:17,119 --> 00:02:18,970
+The critic Denis Diderot,
+
+73
+00:02:18,970 --> 00:02:21,338
+one of the sharpest minds in France,
+
+74
+00:02:21,338 --> 00:02:23,355
+looked at Boucher's paintings
+
+75
+00:02:23,355 --> 00:02:23,989
+and wrote.
+
+76
+00:02:23,989 --> 00:02:26,090
+What colors, what variety,
+
+77
+00:02:26,090 --> 00:02:28,407
+what a wealth of objects and ideas.
+
+78
+00:02:28,407 --> 00:02:31,459
+This man has everything except truth.
+
+79
+00:02:31,459 --> 00:02:32,793
+Except truth.
+
+80
+00:02:32,793 --> 00:02:34,127
+That's the key word,
+
+81
+00:02:34,127 --> 00:02:37,912
+because underneath all that silk and powder,
+
+82
+00:02:37,912 --> 00:02:41,763
+France was rottingThe monarchy was broke,
+
+83
+00:02:41,763 --> 00:02:44,715
+the peasants were starving, and the art,
+
+84
+00:02:44,715 --> 00:02:48,216
+the officials celebrated expensive art
+
+85
+00:02:48,216 --> 00:02:50,901
+was paintings of aristocrats on swings.
+
+86
+00:02:50,901 --> 00:02:52,018
+It couldn't last.
+
+87
+00:02:52,018 --> 00:02:54,419
+And right around this time something happened
+
+88
+00:02:54,419 --> 00:02:57,187
+that changed the direction of European culture.
+
+89
+00:02:57,187 --> 00:02:58,654
+They dug up Pompeii.
+
+90
+00:02:58,654 --> 00:03:01,906
+well, first Herculaneum in 1730
+
+91
+00:03:01,906 --> 00:03:05,341
+8, then Pompeii in 1740 8.
+
+92
+00:03:05,341 --> 00:03:07,592
+2 entire Roman cities
+
+93
+00:03:07,592 --> 00:03:08,959
+buried by a volcano
+
+94
+00:03:08,959 --> 00:03:12,777
+in 70 9 AD, suddenly visible again.
+
+95
+00:03:12,777 --> 00:03:15,512
+And it wasn't just columns
+
+96
+00:03:15,512 --> 00:03:18,263
+and statues, it was everything.
+
+97
+00:03:18,263 --> 00:03:20,147
+Houses, wall paintings,
+
+98
+00:03:20,147 --> 00:03:23,182
+furniture, graffiti, bread still in the ovens.
+
+99
+00:03:23,182 --> 00:03:26,300
+An entire civilization frozen in time.
+
+100
+00:03:26,300 --> 00:03:27,601
+And among the educated,
+
+101
+00:03:27,601 --> 00:03:29,635
+wealthy classes of Europe, this sparked
+
+102
+00:03:29,635 --> 00:03:32,203
+a kind of ancient world mania.
+
+103
+00:03:32,203 --> 00:03:34,587
+Greek furniture, Roman architecture,
+
+104
+00:03:34,587 --> 00:03:35,988
+cl-classical hairstyles.
+
+105
+00:03:35,988 --> 00:03:38,389
+If you were a wealthy young man,
+
+106
+00:03:38,389 --> 00:03:40,089
+you went on the Grand Tour.
+
+107
+00:03:40,089 --> 00:03:41,490
+You traveled to Rome,
+
+108
+00:03:41,490 --> 00:03:43,524
+you sketched the ruins, you came back,
+
+109
+00:03:43,524 --> 00:03:45,175
+and you told everyone
+
+110
+00:03:45,175 --> 00:03:46,842
+how cultured you were.
+
+111
+00:03:46,842 --> 00:03:49,494
+It was the 18th century version
+
+112
+00:03:49,494 --> 00:03:50,544
+of studying abroad
+
+113
+00:03:50,544 --> 00:03:52,762
+and making it your whole personality
+
+114
+00:03:52,762 --> 00:03:55,129
+But the person who turned this obsession
+
+115
+00:03:55,129 --> 00:03:57,180
+into a complete theory, the person
+
+116
+00:03:57,180 --> 00:03:59,615
+who gave the educated classes of Europe
+
+117
+00:03:59,615 --> 00:04:02,149
+a framework for why ancient Greece
+
+118
+00:04:02,149 --> 00:04:04,267
+was the peak of human achievement,
+
+119
+00:04:04,267 --> 00:04:05,617
+was a man who never
+
+120
+00:04:05,617 --> 00:04:07,452
+painted a single painting.
+
+121
+00:04:07,452 --> 00:04:10,019
+Not a painter, not an architect,
+
+122
+00:04:10,019 --> 00:04:11,904
+a writer, a critic.
+
+123
+00:04:11,904 --> 00:04:14,605
+His name was John Joachim Winckelmann.
+
+124
+00:04:14,605 --> 00:04:18,040
+Winckelmann was born in 1717 in Prussia
+
+125
+00:04:18,040 --> 00:04:20,941
+His father was a shoemaker, dirt
+
+126
+00:04:20,941 --> 00:04:23,609
+poor, but the kid was brilliant.
+
+127
+00:04:23,609 --> 00:04:25,543
+Taught himself Greek and Latin,
+
+128
+00:04:25,543 --> 00:04:26,760
+worked as a school teacher
+
+129
+00:04:26,760 --> 00:04:28,694
+and a librarian just to survive,
+
+130
+00:04:28,694 --> 00:04:31,896
+and in 1755, he published a book
+
+131
+00:04:31,896 --> 00:04:33,363
+that changed everything.
+
+132
+00:04:33,363 --> 00:04:34,547
+It was called Thoughts
+
+133
+00:04:34,547 --> 00:04:36,481
+on the Imitation of Greek Works
+
+134
+00:04:36,481 --> 00:04:38,916
+in Painting and Sculpture, and in it,
+
+135
+00:04:38,916 --> 00:04:40,666
+he made the claim that would echo
+
+136
+00:04:40,666 --> 00:04:42,601
+for the next hundred years.
+
+137
+00:04:42,601 --> 00:04:44,752
+He said that the defining quality
+
+138
+00:04:44,752 --> 00:04:45,952
+of Greek art was...
+
+139
+00:04:45,952 --> 00:04:48,770
+noble simplicity and quiet grandeur.
+
+140
+00:04:48,770 --> 00:04:50,121
+5 words.
+
+141
+00:04:50,121 --> 00:04:51,288
+That's it.
+
+142
+00:04:51,288 --> 00:04:53,105
+5 words that defined
+
+143
+00:04:53,105 --> 00:04:55,640
+an entire century of art.
+
+144
+00:04:55,640 --> 00:04:57,207
+What did he mean?
+
+145
+00:04:57,207 --> 00:04:59,325
+He meant that great art
+
+146
+00:04:59,325 --> 00:05:02,226
+should be calm, restrained, balanced.
+
+147
+00:05:02,226 --> 00:05:05,094
+Not screaming, no drama, no excess.
+
+148
+00:05:05,094 --> 00:05:07,012
+Think of a Greek statue.
+
+149
+00:05:07,012 --> 00:05:09,496
+Perfect proportions, calm expression,
+
+150
+00:05:09,496 --> 00:05:13,048
+idealized body, pure white marble.
+
+151
+00:05:13,048 --> 00:05:16,282
+That, Winckelmann said, was the peak.
+
+152
+00:05:16,282 --> 00:05:18,383
+Everything else was step down.
+
+153
+00:05:18,383 --> 00:05:19,901
+one small problem
+
+154
+00:05:19,901 --> 00:05:22,902
+with this, the ancient Greeks
+
+155
+00:05:22,902 --> 00:05:26,437
+did not make pure white marble statues.
+
+156
+00:05:26,437 --> 00:05:28,855
+Their statues were painted
+
+157
+00:05:28,855 --> 00:05:31,739
+vivid, garnished colors, bright red lips,
+
+158
+00:05:31,739 --> 00:05:33,673
+blue eyes, yellow hair.
+
+159
+00:05:33,673 --> 00:05:35,057
+We only know this now
+
+160
+00:05:35,057 --> 00:05:36,791
+from chemical analysis
+
+161
+00:05:36,791 --> 00:05:39,509
+and faint traces of pigment.
+
+162
+00:05:39,509 --> 00:05:41,344
+Winckelmann had no idea.
+
+163
+00:05:41,344 --> 00:05:43,978
+He built an entire aesthetic philosophy
+
+164
+00:05:43,978 --> 00:05:45,545
+around the wrong thing.
+
+165
+00:05:45,545 --> 00:05:48,964
+His idea of noble simplicity
+
+166
+00:05:48,964 --> 00:05:51,048
+was, at least in part,
+
+167
+00:05:51,048 --> 00:05:53,466
+the result of 2,000 years
+
+168
+00:05:53,466 --> 00:05:56,667
+of paint wearing off, which is
+
+169
+00:05:56,667 --> 00:05:58,068
+either a great argument
+
+170
+00:05:58,068 --> 00:06:00,869
+for the power of an idea
+
+171
+00:06:00,869 --> 00:06:02,903
+or a cautionary tale
+
+172
+00:06:02,903 --> 00:06:05,454
+about inventing a perfect past
+
+173
+00:06:05,454 --> 00:06:08,489
+to criticize an imperfect present.
+
+174
+00:06:08,489 --> 00:06:10,323
+He moved to Rome, got access
+
+175
+00:06:10,323 --> 00:06:13,091
+to the greatest collections of ancient art
+
+176
+00:06:13,091 --> 00:06:16,259
+in the world, and in 1764
+
+177
+00:06:16,259 --> 00:06:19,594
+published History of the Art of Antiquity,
+
+178
+00:06:19,594 --> 00:06:23,346
+which transformed the discipline of art history.
+
+179
+00:06:23,346 --> 00:06:26,364
+People had written about individual artists
+
+180
+00:06:26,364 --> 00:06:31,099
+before, but Winckelmann organized everything around styles
+
+181
+00:06:31,099 --> 00:06:33,600
+and periods, tracing the rise and fall
+
+182
+00:06:33,600 --> 00:06:36,451
+of entire civilizations through their art.
+
+183
+00:06:36,451 --> 00:06:39,253
+That framework, we still use it today
+
+184
+00:06:39,253 --> 00:06:40,370
+Now here's the thing
+
+185
+00:06:40,370 --> 00:06:41,837
+and this is important
+
+186
+00:06:41,837 --> 00:06:45,005
+Winckelmann never went to Greece.
+
+187
+00:06:45,005 --> 00:06:47,856
+His entire philosophy of Greek art
+
+188
+00:06:47,856 --> 00:06:50,007
+was based on Roman copies.
+
+189
+00:06:50,007 --> 00:06:52,258
+He was building a fantasy of Greece
+
+190
+00:06:52,258 --> 00:06:55,960
+from secondhand evidence, and he did it
+
+191
+00:06:55,960 --> 00:06:59,678
+so convincingly that everyone believed him.
+
+192
+00:06:59,678 --> 00:07:02,630
+He was murdered in 1760 8
+
+193
+00:07:02,630 --> 00:07:03,647
+in Trieste
+
+194
+00:07:03,647 --> 00:07:05,531
+at the age of 50,
+
+195
+00:07:05,531 --> 00:07:07,082
+stabbed by a man he'd met
+
+196
+00:07:07,082 --> 00:07:08,015
+in an inn
+
+197
+00:07:08,015 --> 00:07:11,267
+The circumstances suggest a sexual encounter
+
+198
+00:07:11,267 --> 00:07:12,701
+gone wrong.
+
+199
+00:07:12,701 --> 00:07:15,786
+Winckelmann's letters express intense romantic feelings
+
+200
+00:07:15,786 --> 00:07:17,103
+toward young men,
+
+201
+00:07:17,103 --> 00:07:20,238
+and most scholars read him as gay.
+
+202
+00:07:20,238 --> 00:07:21,988
+Though, as with so
+
+203
+00:07:21,988 --> 00:07:23,823
+much of his life, certainty
+
+204
+00:07:23,823 --> 00:07:24,906
+is hard to come by.
+
+205
+00:07:24,906 --> 00:07:26,007
+What we can say
+
+206
+00:07:26,007 --> 00:07:27,841
+is it adds another layer
+
+207
+00:07:27,841 --> 00:07:29,909
+to his lifelong idealization
+
+208
+00:07:29,909 --> 00:07:31,092
+of the male Greek body.
+
+209
+00:07:31,092 --> 00:07:32,493
+What matters for us is
+
+210
+00:07:32,493 --> 00:07:35,861
+this, Winckelmann created the idea.
+
+211
+00:07:35,861 --> 00:07:38,712
+He built the intellectual framework.
+
+212
+00:07:38,712 --> 00:07:40,513
+Now, someone needed
+
+213
+00:07:40,513 --> 00:07:42,014
+to turn it into paintings.
+
+214
+00:07:42,014 --> 00:07:43,081
+but first you need
+
+215
+00:07:43,081 --> 00:07:44,648
+to understand how the art
+
+216
+00:07:44,648 --> 00:07:48,550
+world actually worked in 17th century France,
+
+217
+00:07:48,550 --> 00:07:50,951
+because it was a system,
+
+218
+00:07:50,951 --> 00:07:54,570
+rigid, hierarchical, and brutally competitive.
+
+219
+00:07:54,570 --> 00:07:56,070
+There was one exhibition
+
+220
+00:07:56,070 --> 00:07:58,271
+that mattered above all others,
+
+221
+00:07:58,271 --> 00:08:01,006
+the Salon run by the Académie Royale,
+
+222
+00:08:01,006 --> 00:08:02,256
+held at the Louvre.
+
+223
+00:08:02,256 --> 00:08:04,324
+If you got into the Salon,
+
+224
+00:08:04,324 --> 00:08:05,658
+you had a career.
+
+225
+00:08:05,658 --> 00:08:08,609
+There were other patrons, other venues,
+
+226
+00:08:08,609 --> 00:08:11,877
+but nothing with the Salon's reach, prestige,
+
+227
+00:08:11,877 --> 00:08:13,094
+or power.
+
+228
+00:08:13,094 --> 00:08:15,412
+To be excluded from the Salon
+
+229
+00:08:15,412 --> 00:08:16,746
+was to be invisible.
+
+230
+00:08:16,746 --> 00:08:17,997
+And within the salon
+
+231
+00:08:17,997 --> 00:08:19,764
+there was a strict hierarchy
+
+232
+00:08:19,764 --> 00:08:21,948
+of what you were allowed to paint.
+
+233
+00:08:21,948 --> 00:08:25,333
+At the top, history paintings, scenes
+
+234
+00:08:25,333 --> 00:08:27,401
+from the Bible, from mythology,
+
+235
+00:08:27,401 --> 00:08:28,735
+from ancient history,
+
+236
+00:08:28,735 --> 00:08:30,652
+the noblest form of art.
+
+237
+00:08:30,652 --> 00:08:32,853
+And at the very bottom, still life.
+
+238
+00:08:32,853 --> 00:08:34,471
+This hierarchy matters.
+
+239
+00:08:34,471 --> 00:08:37,455
+It explains everything about what's coming.
+
+240
+00:08:37,455 --> 00:08:38,839
+It explains why
+
+241
+00:08:38,839 --> 00:08:40,723
+David painted Greek heroes.
+
+242
+00:08:40,723 --> 00:08:41,440
+The other thing
+
+243
+00:08:41,440 --> 00:08:42,441
+you need to know about
+
+244
+00:08:42,441 --> 00:08:44,008
+is the Prix de Rome,
+
+245
+00:08:44,008 --> 00:08:45,709
+the most prestigious prize
+
+246
+00:08:45,709 --> 00:08:47,226
+a young artist could win.
+
+247
+00:08:47,226 --> 00:08:48,327
+you win the Prix de Rome,
+
+248
+00:08:48,327 --> 00:08:49,761
+you get a funded trip
+
+249
+00:08:49,761 --> 00:08:52,012
+to the French Academy in Rome.
+
+250
+00:08:52,012 --> 00:08:53,863
+Years of studying the masters,
+
+251
+00:08:53,863 --> 00:08:55,430
+the ruins, the sculpture.
+
+252
+00:08:55,430 --> 00:08:58,031
+And a young painter named Jacques-Louis David
+
+253
+00:08:58,031 --> 00:09:00,949
+wanted it more than everything.
+
+254
+00:09:00,949 --> 00:09:03,700
+He failed 3 times.

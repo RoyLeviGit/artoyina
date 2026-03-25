@@ -1,6 +1,10 @@
 .DS_Store
 .obsidian/
-editing/
+editing/**/gelem/
+editing/**/*.prin
+editing/**/Adobe Premiere Pro Auto-Save/
+editing/**/Adobe Premiere Pro Audio Previews/
+editing/**/cutback/
 .env
 .kiro/
 *.flac

@@ -1,0 +1,3523 @@
+1
+00:00:00,008 --> 00:00:00,792
+Okay.
+
+2
+00:00:00,792 --> 00:00:01,875
+Imagine this.
+
+3
+00:00:01,875 --> 00:00:05,277
+It's January 21st, 1793.
+
+4
+00:00:05,277 --> 00:00:08,478
+France is 4 years into a revolution.
+
+5
+00:00:08,478 --> 00:00:10,179
+The monarchy has collapsed.
+
+6
+00:00:10,179 --> 00:00:12,330
+The church has been dismantled.
+
+7
+00:00:12,330 --> 00:00:15,181
+The old aristocratic order, gone.
+
+8
+00:00:15,181 --> 00:00:17,066
+The country is trying to build itself
+
+9
+00:00:17,066 --> 00:00:19,783
+from scratch, and nobody is quite sure
+
+10
+00:00:19,783 --> 00:00:20,951
+it's going to work.
+
+11
+00:00:20,951 --> 00:00:21,784
+You're in Paris,
+
+12
+00:00:21,784 --> 00:00:23,752
+sitting in the National Convention,
+
+13
+00:00:23,752 --> 00:00:26,186
+the new revolutionary parliament,
+
+14
+00:00:26,186 --> 00:00:27,904
+and a vote is being taken.
+
+15
+00:00:27,904 --> 00:00:29,288
+Should the King of France
+
+16
+00:00:29,288 --> 00:00:30,505
+be put to death?
+
+17
+00:00:30,505 --> 00:00:31,605
+now, the room
+
+18
+00:00:31,605 --> 00:00:35,541
+is full of politicians, lawyers, revolutionaries,
+
+19
+00:00:35,541 --> 00:00:37,925
+but sitting amongst them, voting,
+
+20
+00:00:37,925 --> 00:00:40,526
+is a painter, the most famous painter
+
+21
+00:00:40,526 --> 00:00:41,627
+in France, a man
+
+22
+00:00:41,627 --> 00:00:43,961
+whose paintings hang in the Louvre,
+
+23
+00:00:43,961 --> 00:00:45,595
+whose work has made grown men
+
+24
+00:00:45,595 --> 00:00:47,546
+weep in public.
+
+25
+00:00:47,546 --> 00:00:49,930
+And when his name is called,
+
+26
+00:00:49,930 --> 00:00:51,047
+he stands up,
+
+27
+00:00:51,047 --> 00:00:53,248
+and he votes yes.
+
+28
+00:00:53,248 --> 00:00:55,349
+He votes to kill the king.
+
+29
+00:00:55,349 --> 00:00:57,183
+His name was Jacques-Louis David,
+
+30
+00:00:57,183 --> 00:00:59,418
+and that vote, a painter
+
+31
+00:00:59,418 --> 00:01:00,852
+voting on the life of a king,
+
+32
+00:01:00,852 --> 00:01:03,036
+would define everything that came after,
+
+33
+00:01:03,036 --> 00:01:04,537
+For better and for worse.
+
+34
+00:01:04,537 --> 00:01:06,621
+But to understand how he got there,
+
+35
+00:01:06,621 --> 00:01:08,439
+we first need to ask:
+
+36
+00:01:08,439 --> 00:01:10,389
+How does a painter ends up
+
+37
+00:01:10,389 --> 00:01:11,823
+with that kind of power?
+
+38
+00:01:11,823 --> 00:01:13,191
+To understand that, we need
+
+39
+00:01:13,191 --> 00:01:15,542
+to go way back before David,
+
+40
+00:01:15,542 --> 00:01:18,026
+before the revolution, back to a time
+
+41
+00:01:18,026 --> 00:01:20,527
+when French art looked very different.
+
+42
+00:01:20,527 --> 00:01:20,811
+how do
+
+43
+00:01:20,811 --> 00:01:22,278
+you pronounce the name?
+
+44
+00:01:22,278 --> 00:01:24,913
+Jean-Honoré Fragonard.
+
+45
+00:01:24,913 --> 00:01:26,697
+Jean-Honoré Fra-Fragonard.
+
+46
+00:01:26,697 --> 00:01:28,581
+Look at this painting, The Swing
+
+47
+00:01:28,581 --> 00:01:31,699
+by Jean-Honoré Fragonard, 1767.
+
+48
+00:01:31,699 --> 00:01:33,266
+A woman swings her shoe,
+
+49
+00:01:33,266 --> 00:01:34,934
+flying toward the little angel
+
+50
+00:01:34,934 --> 00:01:36,484
+who gestures shh
+
+51
+00:01:36,484 --> 00:01:38,335
+to show a secret is unfolding.
+
+52
+00:01:38,335 --> 00:01:39,686
+A man hides in the bushes,
+
+53
+00:01:39,686 --> 00:01:41,236
+looking up her skirt
+
+54
+00:01:41,236 --> 00:01:44,004
+while the older man pushes the swing,
+
+55
+00:01:44,004 --> 00:01:45,955
+unaware of what's happening.
+
+56
+00:01:45,955 --> 00:01:48,957
+This painting is witty, flirtatious,
+
+57
+00:01:48,957 --> 00:01:50,824
+and entirely wrapped up
+
+58
+00:01:50,824 --> 00:01:52,141
+in the private pleasures
+
+59
+00:01:52,141 --> 00:01:53,242
+of the ruling class.
+
+60
+00:01:53,242 --> 00:01:56,176
+And the French aristocracy loved this stuff.
+
+61
+00:01:56,176 --> 00:01:57,044
+This was the art
+
+62
+00:01:57,044 --> 00:01:58,227
+of the ruling class.
+
+63
+00:01:58,227 --> 00:02:00,112
+Rococo, they called it. Light,
+
+64
+00:02:00,112 --> 00:02:01,979
+decorative, charming, sexy.
+
+65
+00:02:01,979 --> 00:02:03,196
+Say Boucher.
+
+66
+00:02:03,196 --> 00:02:05,497
+Painters like Boucher and Fragonard
+
+67
+00:02:05,497 --> 00:02:08,132
+made a fortune painting exactly this.
+
+68
+00:02:08,132 --> 00:02:10,533
+Beautiful people doing beautiful things
+
+69
+00:02:10,533 --> 00:02:11,817
+in beautiful gardens.
+
+70
+00:02:11,817 --> 00:02:15,252
+But by the 1760s,
+
+71
+00:02:15,252 --> 00:02:17,119
+not everyone was charmed.
+
+72
+00:02:17,119 --> 00:02:18,970
+The critic Denis Diderot,
+
+73
+00:02:18,970 --> 00:02:21,338
+one of the sharpest minds in France,
+
+74
+00:02:21,338 --> 00:02:23,355
+looked at Boucher's paintings
+
+75
+00:02:23,355 --> 00:02:23,989
+and wrote.
+
+76
+00:02:23,989 --> 00:02:26,090
+What colors, what variety,
+
+77
+00:02:26,090 --> 00:02:28,407
+what a wealth of objects and ideas.
+
+78
+00:02:28,407 --> 00:02:31,459
+This man has everything except truth.
+
+79
+00:02:31,459 --> 00:02:32,793
+Except truth.
+
+80
+00:02:32,793 --> 00:02:34,127
+That's the key word,
+
+81
+00:02:34,127 --> 00:02:37,912
+because underneath all that silk and powder,
+
+82
+00:02:37,912 --> 00:02:41,763
+France was rottingThe monarchy was broke,
+
+83
+00:02:41,763 --> 00:02:44,715
+the peasants were starving, and the art,
+
+84
+00:02:44,715 --> 00:02:48,216
+the officials celebrated expensive art
+
+85
+00:02:48,216 --> 00:02:50,901
+was paintings of aristocrats on swings.
+
+86
+00:02:50,901 --> 00:02:52,018
+It couldn't last.
+
+87
+00:02:52,018 --> 00:02:54,419
+And right around this time something happened
+
+88
+00:02:54,419 --> 00:02:57,187
+that changed the direction of European culture.
+
+89
+00:02:57,187 --> 00:02:58,654
+They dug up Pompeii.
+
+90
+00:02:58,654 --> 00:03:01,906
+well, first Herculaneum in 1730
+
+91
+00:03:01,906 --> 00:03:05,341
+8, then Pompeii in 1740 8.
+
+92
+00:03:05,341 --> 00:03:07,592
+2 entire Roman cities
+
+93
+00:03:07,592 --> 00:03:08,959
+buried by a volcano
+
+94
+00:03:08,959 --> 00:03:12,777
+in 70 9 AD, suddenly visible again.
+
+95
+00:03:12,777 --> 00:03:15,512
+And it wasn't just columns
+
+96
+00:03:15,512 --> 00:03:18,263
+and statues, it was everything.
+
+97
+00:03:18,263 --> 00:03:20,147
+Houses, wall paintings,
+
+98
+00:03:20,147 --> 00:03:23,182
+furniture, graffiti, bread still in the ovens.
+
+99
+00:03:23,182 --> 00:03:26,300
+An entire civilization frozen in time.
+
+100
+00:03:26,300 --> 00:03:27,601
+And among the educated,
+
+101
+00:03:27,601 --> 00:03:29,635
+wealthy classes of Europe, this sparked
+
+102
+00:03:29,635 --> 00:03:32,203
+a kind of ancient world mania.
+
+103
+00:03:32,203 --> 00:03:34,587
+Greek furniture, Roman architecture,
+
+104
+00:03:34,587 --> 00:03:35,988
+cl-classical hairstyles.
+
+105
+00:03:35,988 --> 00:03:38,389
+If you were a wealthy young man,
+
+106
+00:03:38,389 --> 00:03:40,089
+you went on the Grand Tour.
+
+107
+00:03:40,089 --> 00:03:41,490
+You traveled to Rome,
+
+108
+00:03:41,490 --> 00:03:43,524
+you sketched the ruins, you came back,
+
+109
+00:03:43,524 --> 00:03:45,175
+and you told everyone
+
+110
+00:03:45,175 --> 00:03:46,842
+how cultured you were.
+
+111
+00:03:46,842 --> 00:03:49,494
+It was the 18th century version
+
+112
+00:03:49,494 --> 00:03:50,544
+of studying abroad
+
+113
+00:03:50,544 --> 00:03:52,762
+and making it your whole personality
+
+114
+00:03:52,762 --> 00:03:55,129
+But the person who turned this obsession
+
+115
+00:03:55,129 --> 00:03:57,180
+into a complete theory, the person
+
+116
+00:03:57,180 --> 00:03:59,615
+who gave the educated classes of Europe
+
+117
+00:03:59,615 --> 00:04:02,149
+a framework for why ancient Greece
+
+118
+00:04:02,149 --> 00:04:04,267
+was the peak of human achievement,
+
+119
+00:04:04,267 --> 00:04:05,617
+was a man who never
+
+120
+00:04:05,617 --> 00:04:07,452
+painted a single painting.
+
+121
+00:04:07,452 --> 00:04:10,019
+Not a painter, not an architect,
+
+122
+00:04:10,019 --> 00:04:11,904
+a writer, a critic.
+
+123
+00:04:11,904 --> 00:04:14,605
+His name was John Joachim Winckelmann.
+
+124
+00:04:14,605 --> 00:04:18,040
+Winckelmann was born in 1717 in Prussia
+
+125
+00:04:18,040 --> 00:04:20,941
+His father was a shoemaker, dirt
+
+126
+00:04:20,941 --> 00:04:23,609
+poor, but the kid was brilliant.
+
+127
+00:04:23,609 --> 00:04:25,543
+Taught himself Greek and Latin,
+
+128
+00:04:25,543 --> 00:04:26,760
+worked as a school teacher
+
+129
+00:04:26,760 --> 00:04:28,694
+and a librarian just to survive,
+
+130
+00:04:28,694 --> 00:04:31,896
+and in 1755, he published a book
+
+131
+00:04:31,896 --> 00:04:33,363
+that changed everything.
+
+132
+00:04:33,363 --> 00:04:34,547
+It was called Thoughts
+
+133
+00:04:34,547 --> 00:04:36,481
+on the Imitation of Greek Works
+
+134
+00:04:36,481 --> 00:04:38,916
+in Painting and Sculpture, and in it,
+
+135
+00:04:38,916 --> 00:04:40,666
+he made the claim that would echo
+
+136
+00:04:40,666 --> 00:04:42,601
+for the next hundred years.
+
+137
+00:04:42,601 --> 00:04:44,752
+He said that the defining quality
+
+138
+00:04:44,752 --> 00:04:45,952
+of Greek art was...
+
+139
+00:04:45,952 --> 00:04:48,770
+noble simplicity and quiet grandeur.
+
+140
+00:04:48,770 --> 00:04:50,121
+5 words.
+
+141
+00:04:50,121 --> 00:04:51,288
+That's it.
+
+142
+00:04:51,288 --> 00:04:53,105
+5 words that defined
+
+143
+00:04:53,105 --> 00:04:55,640
+an entire century of art.
+
+144
+00:04:55,640 --> 00:04:57,207
+What did he mean?
+
+145
+00:04:57,207 --> 00:04:59,325
+He meant that great art
+
+146
+00:04:59,325 --> 00:05:02,226
+should be calm, restrained, balanced.
+
+147
+00:05:02,226 --> 00:05:05,094
+Not screaming, no drama, no excess.
+
+148
+00:05:05,094 --> 00:05:07,012
+Think of a Greek statue.
+
+149
+00:05:07,012 --> 00:05:09,496
+Perfect proportions, calm expression,
+
+150
+00:05:09,496 --> 00:05:13,048
+idealized body, pure white marble.
+
+151
+00:05:13,048 --> 00:05:16,282
+That, Winckelmann said, was the peak.
+
+152
+00:05:16,282 --> 00:05:18,383
+Everything else was step down.
+
+153
+00:05:18,383 --> 00:05:19,901
+one small problem
+
+154
+00:05:19,901 --> 00:05:22,902
+with this, the ancient Greeks
+
+155
+00:05:22,902 --> 00:05:26,437
+did not make pure white marble statues.
+
+156
+00:05:26,437 --> 00:05:28,855
+Their statues were painted
+
+157
+00:05:28,855 --> 00:05:31,739
+vivid, garnished colors, bright red lips,
+
+158
+00:05:31,739 --> 00:05:33,673
+blue eyes, yellow hair.
+
+159
+00:05:33,673 --> 00:05:35,057
+We only know this now
+
+160
+00:05:35,057 --> 00:05:36,791
+from chemical analysis
+
+161
+00:05:36,791 --> 00:05:39,509
+and faint traces of pigment.
+
+162
+00:05:39,509 --> 00:05:41,344
+Winckelmann had no idea.
+
+163
+00:05:41,344 --> 00:05:43,978
+He built an entire aesthetic philosophy
+
+164
+00:05:43,978 --> 00:05:45,545
+around the wrong thing.
+
+165
+00:05:45,545 --> 00:05:48,964
+His idea of noble simplicity
+
+166
+00:05:48,964 --> 00:05:51,048
+was, at least in part,
+
+167
+00:05:51,048 --> 00:05:53,466
+the result of 2,000 years
+
+168
+00:05:53,466 --> 00:05:56,667
+of paint wearing off, which is
+
+169
+00:05:56,667 --> 00:05:58,068
+either a great argument
+
+170
+00:05:58,068 --> 00:06:00,869
+for the power of an idea
+
+171
+00:06:00,869 --> 00:06:02,903
+or a cautionary tale
+
+172
+00:06:02,903 --> 00:06:05,454
+about inventing a perfect past
+
+173
+00:06:05,454 --> 00:06:08,489
+to criticize an imperfect present.
+
+174
+00:06:08,489 --> 00:06:10,323
+He moved to Rome, got access
+
+175
+00:06:10,323 --> 00:06:13,091
+to the greatest collections of ancient art
+
+176
+00:06:13,091 --> 00:06:16,259
+in the world, and in 1764
+
+177
+00:06:16,259 --> 00:06:19,594
+published History of the Art of Antiquity,
+
+178
+00:06:19,594 --> 00:06:23,346
+which transformed the discipline of art history.
+
+179
+00:06:23,346 --> 00:06:26,364
+People had written about individual artists
+
+180
+00:06:26,364 --> 00:06:31,099
+before, but Winckelmann organized everything around styles
+
+181
+00:06:31,099 --> 00:06:33,600
+and periods, tracing the rise and fall
+
+182
+00:06:33,600 --> 00:06:36,451
+of entire civilizations through their art.
+
+183
+00:06:36,451 --> 00:06:39,253
+That framework, we still use it today
+
+184
+00:06:39,253 --> 00:06:40,370
+Now here's the thing
+
+185
+00:06:40,370 --> 00:06:41,837
+and this is important
+
+186
+00:06:41,837 --> 00:06:45,005
+Winckelmann never went to Greece.
+
+187
+00:06:45,005 --> 00:06:47,856
+His entire philosophy of Greek art
+
+188
+00:06:47,856 --> 00:06:50,007
+was based on Roman copies.
+
+189
+00:06:50,007 --> 00:06:52,258
+He was building a fantasy of Greece
+
+190
+00:06:52,258 --> 00:06:55,960
+from secondhand evidence, and he did it
+
+191
+00:06:55,960 --> 00:06:59,678
+so convincingly that everyone believed him.
+
+192
+00:06:59,678 --> 00:07:02,630
+He was murdered in 1760 8
+
+193
+00:07:02,630 --> 00:07:03,647
+in Trieste
+
+194
+00:07:03,647 --> 00:07:05,531
+at the age of 50,
+
+195
+00:07:05,531 --> 00:07:07,082
+stabbed by a man he'd met
+
+196
+00:07:07,082 --> 00:07:08,015
+in an inn
+
+197
+00:07:08,015 --> 00:07:11,267
+The circumstances suggest a sexual encounter
+
+198
+00:07:11,267 --> 00:07:12,701
+gone wrong.
+
+199
+00:07:12,701 --> 00:07:15,786
+Winckelmann's letters express intense romantic feelings
+
+200
+00:07:15,786 --> 00:07:17,103
+toward young men,
+
+201
+00:07:17,103 --> 00:07:20,238
+and most scholars read him as gay.
+
+202
+00:07:20,238 --> 00:07:21,988
+Though, as with so
+
+203
+00:07:21,988 --> 00:07:23,823
+much of his life, certainty
+
+204
+00:07:23,823 --> 00:07:24,906
+is hard to come by.
+
+205
+00:07:24,906 --> 00:07:26,007
+What we can say
+
+206
+00:07:26,007 --> 00:07:27,841
+is it adds another layer
+
+207
+00:07:27,841 --> 00:07:29,909
+to his lifelong idealization
+
+208
+00:07:29,909 --> 00:07:31,092
+of the male Greek body.
+
+209
+00:07:31,092 --> 00:07:32,493
+What matters for us is
+
+210
+00:07:32,493 --> 00:07:35,861
+this, Winckelmann created the idea.
+
+211
+00:07:35,861 --> 00:07:38,712
+He built the intellectual framework.
+
+212
+00:07:38,712 --> 00:07:40,513
+Now, someone needed
+
+213
+00:07:40,513 --> 00:07:42,014
+to turn it into paintings.
+
+214
+00:07:42,014 --> 00:07:43,081
+but first you need
+
+215
+00:07:43,081 --> 00:07:44,648
+to understand how the art
+
+216
+00:07:44,648 --> 00:07:48,550
+world actually worked in 17th century France,
+
+217
+00:07:48,550 --> 00:07:50,951
+because it was a system,
+
+218
+00:07:50,951 --> 00:07:54,570
+rigid, hierarchical, and brutally competitive.
+
+219
+00:07:54,570 --> 00:07:56,070
+There was one exhibition
+
+220
+00:07:56,070 --> 00:07:58,271
+that mattered above all others,
+
+221
+00:07:58,271 --> 00:08:01,006
+the Salon run by the Académie Royale,
+
+222
+00:08:01,006 --> 00:08:02,256
+held at the Louvre.
+
+223
+00:08:02,256 --> 00:08:04,324
+If you got into the Salon,
+
+224
+00:08:04,324 --> 00:08:05,658
+you had a career.
+
+225
+00:08:05,658 --> 00:08:08,609
+There were other patrons, other venues,
+
+226
+00:08:08,609 --> 00:08:11,877
+but nothing with the Salon's reach, prestige,
+
+227
+00:08:11,877 --> 00:08:13,094
+or power.
+
+228
+00:08:13,094 --> 00:08:15,412
+To be excluded from the Salon
+
+229
+00:08:15,412 --> 00:08:16,746
+was to be invisible.
+
+230
+00:08:16,746 --> 00:08:17,997
+And within the salon
+
+231
+00:08:17,997 --> 00:08:19,764
+there was a strict hierarchy
+
+232
+00:08:19,764 --> 00:08:21,948
+of what you were allowed to paint.
+
+233
+00:08:21,948 --> 00:08:25,333
+At the top, history paintings, scenes
+
+234
+00:08:25,333 --> 00:08:27,401
+from the Bible, from mythology,
+
+235
+00:08:27,401 --> 00:08:28,735
+from ancient history,
+
+236
+00:08:28,735 --> 00:08:30,652
+the noblest form of art.
+
+237
+00:08:30,652 --> 00:08:32,853
+And at the very bottom, still life.
+
+238
+00:08:32,853 --> 00:08:34,471
+This hierarchy matters.
+
+239
+00:08:34,471 --> 00:08:37,455
+It explains everything about what's coming.
+
+240
+00:08:37,455 --> 00:08:38,839
+It explains why
+
+241
+00:08:38,839 --> 00:08:40,723
+David painted Greek heroes.
+
+242
+00:08:40,723 --> 00:08:41,440
+The other thing
+
+243
+00:08:41,440 --> 00:08:42,441
+you need to know about
+
+244
+00:08:42,441 --> 00:08:44,008
+is the Prix de Rome,
+
+245
+00:08:44,008 --> 00:08:45,709
+the most prestigious prize
+
+246
+00:08:45,709 --> 00:08:47,226
+a young artist could win.
+
+247
+00:08:47,226 --> 00:08:48,327
+you win the Prix de Rome,
+
+248
+00:08:48,327 --> 00:08:49,761
+you get a funded trip
+
+249
+00:08:49,761 --> 00:08:52,012
+to the French Academy in Rome.
+
+250
+00:08:52,012 --> 00:08:53,863
+Years of studying the masters,
+
+251
+00:08:53,863 --> 00:08:55,430
+the ruins, the sculpture.
+
+252
+00:08:55,430 --> 00:08:58,031
+And a young painter named Jacques-Louis David
+
+253
+00:08:58,031 --> 00:09:00,949
+wanted it more than everything.
+
+254
+00:09:00,949 --> 00:09:03,700
+He failed 3 times.
+
+255
+00:09:03,708 --> 00:09:06,526
+David was born in Paris, 1748.
+
+256
+00:09:06,526 --> 00:09:08,543
+His father was killed in a duel
+
+257
+00:09:08,543 --> 00:09:10,027
+when David was very young,
+
+258
+00:09:10,027 --> 00:09:12,679
+so already we're starting with violence.
+
+259
+00:09:12,679 --> 00:09:15,046
+Dead parent before age 10.
+
+260
+00:09:15,046 --> 00:09:17,764
+Every great origin story has one.
+
+261
+00:09:17,764 --> 00:09:19,865
+He was raised by well-off uncles
+
+262
+00:09:19,865 --> 00:09:21,783
+who wanted him to be an architect.
+
+263
+00:09:21,783 --> 00:09:23,400
+He wanted to paint.
+
+264
+00:09:23,400 --> 00:09:23,967
+he studied
+
+265
+00:09:23,967 --> 00:09:26,618
+under a painter named Joseph Marie Vien,
+
+266
+00:09:26,618 --> 00:09:26,735
+and
+
+267
+00:09:26,735 --> 00:09:28,619
+he entered the Prix de Rome competition
+
+268
+00:09:28,619 --> 00:09:31,637
+multiple times through the early 1770s.
+
+269
+00:09:31,637 --> 00:09:32,654
+He lost.
+
+270
+00:09:32,654 --> 00:09:34,688
+He entered again, lost again.
+
+271
+00:09:34,688 --> 00:09:37,290
+He entered a third time, lost again.
+
+272
+00:09:37,290 --> 00:09:39,674
+And repeated failure broke him.
+
+273
+00:09:39,674 --> 00:09:42,092
+According to some biographical accounts,
+
+274
+00:09:42,092 --> 00:09:44,109
+David locked himself in his room
+
+275
+00:09:44,109 --> 00:09:45,310
+and refused to eat,
+
+276
+00:09:45,310 --> 00:09:48,028
+convinced his life was over.
+
+277
+00:09:48,028 --> 00:09:49,612
+The details are murky
+
+278
+00:09:49,612 --> 00:09:53,030
+and probably exaggerated by later admirers,
+
+279
+00:09:53,030 --> 00:09:55,581
+but the despair was real.
+
+280
+00:09:55,581 --> 00:09:57,199
+he was in his mid twenties,
+
+281
+00:09:57,199 --> 00:09:59,600
+and the one path he staked everything
+
+282
+00:09:59,600 --> 00:10:02,167
+on kept closing in his face.
+
+283
+00:10:02,167 --> 00:10:04,719
+He entered again in 1774.
+
+284
+00:10:04,719 --> 00:10:06,236
+He didn't win.
+
+285
+00:10:06,236 --> 00:10:07,303
+Just kidding.
+
+286
+00:10:07,303 --> 00:10:09,487
+He finally got it.
+
+287
+00:10:09,487 --> 00:10:12,322
+He went to Rome and everything changed.
+
+288
+00:10:12,322 --> 00:10:13,489
+He arrived in Rome,
+
+289
+00:10:13,489 --> 00:10:16,791
+and at first wasn't very impressed,
+
+290
+00:10:16,791 --> 00:10:18,825
+struggling to find his direction.
+
+291
+00:10:18,825 --> 00:10:21,526
+But soon, the ideas he read about,
+
+292
+00:10:21,526 --> 00:10:23,794
+especially those of Winckelmann,
+
+293
+00:10:23,794 --> 00:10:25,645
+the art critic, came to life
+
+294
+00:10:25,645 --> 00:10:26,728
+in front of him.
+
+295
+00:10:26,728 --> 00:10:29,296
+He studied ancient sculptures, Raphael
+
+296
+00:10:29,296 --> 00:10:30,980
+and artists like Caravaggio,
+
+297
+00:10:30,980 --> 00:10:33,315
+spending 5 years learning
+
+298
+00:10:33,315 --> 00:10:35,316
+and absorbing the art around him.
+
+299
+00:10:35,316 --> 00:10:37,016
+And when he came back to Paris,
+
+300
+00:10:37,016 --> 00:10:39,517
+he was a completely different painter.
+
+301
+00:10:39,517 --> 00:10:41,352
+The loose, colorful style
+
+302
+00:10:41,352 --> 00:10:43,636
+of his early work was gone.
+
+303
+00:10:43,636 --> 00:10:46,487
+In its place, moral seriousness,
+
+304
+00:10:46,487 --> 00:10:49,939
+clean lines, rigid geometry, local colors,
+
+305
+00:10:49,939 --> 00:10:53,057
+and a restrained palette, muted overall
+
+306
+00:10:53,057 --> 00:10:54,641
+with sharp accents
+
+307
+00:10:54,641 --> 00:10:56,225
+guiding the viewer's eyes.
+
+308
+00:10:56,225 --> 00:10:59,310
+Ancient virtue painted with absolute conviction.
+
+309
+00:10:59,310 --> 00:11:01,627
+He had become exactly what Winckelmann
+
+310
+00:11:01,627 --> 00:11:03,278
+the theorist had called for.
+
+311
+00:11:03,278 --> 00:11:05,412
+He had become neoclassical.
+
+312
+00:11:05,412 --> 00:11:08,197
+Worth noting, David wasn't alone in this.
+
+313
+00:11:08,197 --> 00:11:11,715
+Across Europe, artists adopted the neoclassical style
+
+314
+00:11:11,715 --> 00:11:14,933
+to explore ideas of beauty, harmony,
+
+315
+00:11:14,933 --> 00:11:16,100
+and timeless order
+
+316
+00:11:16,100 --> 00:11:18,201
+inspired by ancient Greece and Rome.
+
+317
+00:11:18,201 --> 00:11:21,119
+Painters used classical myths and historical scenes
+
+318
+00:11:21,119 --> 00:11:24,521
+to explore heroism, virtue, and human emotion.
+
+319
+00:11:24,521 --> 00:11:27,856
+Sculptures like Canova focused on elegance
+
+320
+00:11:27,856 --> 00:11:31,107
+of the human body, calm, idealized forms
+
+321
+00:11:31,107 --> 00:11:32,724
+in perfect proportions.
+
+322
+00:11:32,724 --> 00:11:35,359
+The style appeared in mythological paintings,
+
+323
+00:11:35,359 --> 00:11:38,327
+portraits, architecture, decorative arts.
+
+324
+00:11:38,327 --> 00:11:39,961
+It became a visual language
+
+325
+00:11:39,961 --> 00:11:41,712
+of elegance and good taste.
+
+326
+00:11:41,712 --> 00:11:43,596
+David worked in the same tradition
+
+327
+00:11:43,596 --> 00:11:45,730
+as all of these artists, but what
+
+328
+00:11:45,730 --> 00:11:47,831
+he did was charge the style
+
+329
+00:11:47,831 --> 00:11:50,099
+with moral and political urgency,
+
+330
+00:11:50,099 --> 00:11:50,216
+and
+
+331
+00:11:50,216 --> 00:11:52,316
+you can see the difference immediately.
+
+332
+00:11:52,316 --> 00:11:54,317
+His first big Salon success
+
+333
+00:11:54,317 --> 00:11:58,653
+was Belisarius Begging for Alms in 1781.
+
+334
+00:11:58,653 --> 00:12:02,104
+A Roman general, once great, now blind
+
+335
+00:12:02,104 --> 00:12:03,572
+and begging in the street.
+
+336
+00:12:03,572 --> 00:12:04,889
+The message?
+
+337
+00:12:04,889 --> 00:12:07,440
+Even the greatest can be destroyed
+
+338
+00:12:07,440 --> 00:12:09,024
+by an ungrateful state.
+
+339
+00:12:09,024 --> 00:12:09,874
+People noticed.
+
+340
+00:12:09,874 --> 00:12:10,275
+Success
+
+341
+00:12:10,275 --> 00:12:11,758
+at the Salon made David
+
+342
+00:12:11,758 --> 00:12:14,160
+a full member of the Académie Royale,
+
+343
+00:12:14,160 --> 00:12:16,477
+the institute that trained French artists,
+
+344
+00:12:16,477 --> 00:12:17,811
+set official standards,
+
+345
+00:12:17,811 --> 00:12:21,013
+and decided what counted as serious painting.
+
+346
+00:12:21,013 --> 00:12:21,763
+He became
+
+347
+00:12:21,763 --> 00:12:23,897
+one of its most powerful teachers.
+
+348
+00:12:23,897 --> 00:12:25,715
+His style, his values,
+
+349
+00:12:25,715 --> 00:12:27,682
+his way of seeing passed
+
+350
+00:12:27,682 --> 00:12:30,017
+directly into the next generation.
+
+351
+00:12:30,017 --> 00:12:32,701
+He wasn't just working within the system,
+
+352
+00:12:32,701 --> 00:12:34,018
+he was shaping it.
+
+353
+00:12:34,018 --> 00:12:34,752
+But the painting
+
+354
+00:12:34,752 --> 00:12:37,220
+that changed everything, the work
+
+355
+00:12:37,220 --> 00:12:41,305
+that defined Neoclassicism came 3 years later.
+
+356
+00:12:41,305 --> 00:12:43,139
+This is The Oath of the Horatii.
+
+357
+00:12:43,139 --> 00:12:46,591
+David painted it in 1784.
+
+358
+00:12:46,591 --> 00:12:47,841
+Take a moment
+
+359
+00:12:47,841 --> 00:12:49,442
+and really look at it.
+
+360
+00:12:49,442 --> 00:12:51,510
+3 brothers, the Horatii,
+
+361
+00:12:51,510 --> 00:12:52,743
+are swearing an oath.
+
+362
+00:12:52,743 --> 00:12:54,744
+They're about to fight to the death
+
+363
+00:12:54,744 --> 00:12:57,145
+for Rome against 3 brothers
+
+364
+00:12:57,145 --> 00:12:58,463
+for a rival city.
+
+365
+00:12:58,463 --> 00:13:00,380
+Their father holds the swords.
+
+366
+00:13:00,380 --> 00:13:02,114
+The brothers reach for them.
+
+367
+00:13:02,114 --> 00:13:06,516
+Their bodies are taugh, geometric, almost architectural.
+
+368
+00:13:06,516 --> 00:13:08,200
+They're not individuals.
+
+369
+00:13:08,200 --> 00:13:09,451
+They're a machine,
+
+370
+00:13:09,451 --> 00:13:11,402
+a machine built for duty.
+
+371
+00:13:11,402 --> 00:13:12,569
+Look at the colors.
+
+372
+00:13:12,569 --> 00:13:15,937
+The brothers wear brighter, more saturated reds.
+
+373
+00:13:15,937 --> 00:13:18,488
+Your eye goes to them first,
+
+374
+00:13:18,488 --> 00:13:19,889
+and it's supposed to.
+
+375
+00:13:19,889 --> 00:13:21,206
+The women on the right
+
+376
+00:13:21,206 --> 00:13:24,658
+are painted softer, muted tones, blues, grays,
+
+377
+00:13:24,658 --> 00:13:25,425
+near white.
+
+378
+00:13:25,425 --> 00:13:26,909
+The color itself tells you
+
+379
+00:13:26,909 --> 00:13:28,143
+the moral structure
+
+380
+00:13:28,143 --> 00:13:31,044
+before you even understood what's happening.
+
+381
+00:13:31,044 --> 00:13:33,428
+Action and duty on the left, grief
+
+382
+00:13:33,428 --> 00:13:35,129
+and passivity on the right.
+
+383
+00:13:35,129 --> 00:13:36,179
+The stone background
+
+384
+00:13:36,179 --> 00:13:38,230
+is all natural browns and grays,
+
+385
+00:13:38,230 --> 00:13:40,615
+keeping your attention on the figures.
+
+386
+00:13:40,615 --> 00:13:43,099
+The colors are clean, flat,
+
+387
+00:13:43,099 --> 00:13:44,783
+and clearly separated.
+
+388
+00:13:44,783 --> 00:13:47,051
+Every form is clear and deliberate.
+
+389
+00:13:47,051 --> 00:13:48,885
+Notice also the light.
+
+390
+00:13:48,885 --> 00:13:52,637
+Harsh, directional, almost theatrical,
+
+391
+00:13:52,637 --> 00:13:54,621
+like a spotlight on a stage
+
+392
+00:13:54,621 --> 00:13:56,022
+In the composition,
+
+393
+00:13:56,022 --> 00:13:58,156
+your eye is drawn to the center,
+
+394
+00:13:58,156 --> 00:14:00,924
+to the swords, the literal pivot point
+
+395
+00:14:00,924 --> 00:14:02,575
+between duty and loss.
+
+396
+00:14:02,575 --> 00:14:04,826
+The whole thing is controlled,
+
+397
+00:14:04,826 --> 00:14:08,427
+deliberate, organized, the opposite of Rococo
+
+398
+00:14:08,427 --> 00:14:10,011
+in every possible way.
+
+399
+00:14:10,011 --> 00:14:11,228
+And then look at the right side
+
+400
+00:14:11,228 --> 00:14:13,163
+of the painting, the woman.
+
+401
+00:14:13,163 --> 00:14:16,831
+They're collapsed, weeping, because here's the thing.
+
+402
+00:14:16,831 --> 00:14:18,482
+One of the Horatii brothers
+
+403
+00:14:18,482 --> 00:14:19,732
+is married to a woman
+
+404
+00:14:19,732 --> 00:14:20,999
+from the enemy city.
+
+405
+00:14:20,999 --> 00:14:22,884
+She's actually the sister
+
+406
+00:14:22,884 --> 00:14:24,601
+of one of the enemy brothers,
+
+407
+00:14:24,601 --> 00:14:26,719
+and one of the enemy brothers
+
+408
+00:14:26,719 --> 00:14:28,753
+is engaged to a Horatii sister.
+
+409
+00:14:28,753 --> 00:14:30,404
+No matter who wins,
+
+410
+00:14:30,404 --> 00:14:32,871
+these women lose someone they love.
+
+411
+00:14:32,871 --> 00:14:34,889
+The men are rigid, vertical,
+
+412
+00:14:34,889 --> 00:14:36,373
+all straight lines.
+
+413
+00:14:36,373 --> 00:14:39,641
+The women are curved, soft, crumbling.
+
+414
+00:14:39,641 --> 00:14:41,609
+Duty on the left, grief
+
+415
+00:14:41,609 --> 00:14:43,443
+on the right, and the swords
+
+416
+00:14:43,443 --> 00:14:44,226
+in the center.
+
+417
+00:14:44,226 --> 00:14:47,061
+The message is brutal and clear.
+
+418
+00:14:47,061 --> 00:14:50,979
+Duty to the state comes before everything,
+
+419
+00:14:50,979 --> 00:14:53,214
+before love, before family,
+
+420
+00:14:53,214 --> 00:14:54,798
+before your own life.
+
+421
+00:14:54,798 --> 00:14:56,432
+When this painting was exhibited
+
+422
+00:14:56,432 --> 00:14:57,332
+at the salon,
+
+423
+00:14:57,332 --> 00:14:59,183
+people wept in front of it.
+
+424
+00:14:59,183 --> 00:15:01,434
+Not just because it was sad,
+
+425
+00:15:01,434 --> 00:15:03,252
+because it was powerful.
+
+426
+00:15:03,252 --> 00:15:05,069
+It felt like a call to action.
+
+427
+00:15:05,069 --> 00:15:06,386
+And David didn't stop.
+
+428
+00:15:06,386 --> 00:15:09,438
+In 1780 7, The Death of Socrates.
+
+429
+00:15:09,438 --> 00:15:12,089
+Socrates, condemned by the Athenian state
+
+430
+00:15:12,089 --> 00:15:13,073
+for his ideas,
+
+431
+00:15:13,073 --> 00:15:13,506
+calmly
+
+432
+00:15:13,506 --> 00:15:15,590
+reaching for the cup of poison
+
+433
+00:15:15,590 --> 00:15:18,142
+while his students fall apart around him.
+
+434
+00:15:18,142 --> 00:15:20,026
+The state is killing him,
+
+435
+00:15:20,026 --> 00:15:22,994
+and he accepts it with perfect calm.
+
+436
+00:15:22,994 --> 00:15:24,528
+You die for what you believe.
+
+437
+00:15:24,528 --> 00:15:26,895
+And then, in 1780 9,
+
+438
+00:15:26,895 --> 00:15:28,613
+the lictors bring to Brutus
+
+439
+00:15:28,613 --> 00:15:29,713
+the bodies of his sons.
+
+440
+00:15:29,713 --> 00:15:32,248
+Brutus, the founder of the Roman Republic,
+
+441
+00:15:32,248 --> 00:15:33,999
+has ordered the execution
+
+442
+00:15:33,999 --> 00:15:35,483
+of his own sons
+
+443
+00:15:35,483 --> 00:15:37,950
+for conspiring to restore the monarchy
+
+444
+00:15:37,950 --> 00:15:40,385
+The bodies are being carried past him.
+
+445
+00:15:40,385 --> 00:15:41,585
+He doesn't look.
+
+446
+00:15:41,585 --> 00:15:42,953
+The women scream.
+
+447
+00:15:42,953 --> 00:15:44,437
+He sits in shadow,
+
+448
+00:15:44,437 --> 00:15:47,138
+rigid, destroyed, but unbroken.
+
+449
+00:15:47,138 --> 00:15:49,472
+This painting was displayed at the Salon
+
+450
+00:15:49,472 --> 00:15:51,240
+just weeks after the storming
+
+451
+00:15:51,240 --> 00:15:52,190
+of the Bastille.
+
+452
+00:15:52,190 --> 00:15:53,958
+The Paris prison was attacked
+
+453
+00:15:53,958 --> 00:15:55,875
+in July 1789,
+
+454
+00:15:55,875 --> 00:15:58,626
+marked the beginning of the French Revolution.
+
+455
+00:15:58,626 --> 00:16:00,911
+The story goes that authorities tried
+
+456
+00:16:00,911 --> 00:16:02,495
+to pull it from the exhibition,
+
+457
+00:16:02,495 --> 00:16:04,579
+but the crowd demanded it to stay.
+
+458
+00:16:04,579 --> 00:16:05,546
+whether that happened
+
+459
+00:16:05,546 --> 00:16:07,997
+exactly as described is debated.
+
+460
+00:16:07,997 --> 00:16:09,615
+Some historians think
+
+461
+00:16:09,615 --> 00:16:11,332
+the tale was polished later
+
+462
+00:16:11,332 --> 00:16:14,133
+to make David seem more heroically embattled.
+
+463
+00:16:14,133 --> 00:16:18,018
+Regardless, the painting's timing was explosive.
+
+464
+00:16:18,018 --> 00:16:19,252
+Do you see what's happening?
+
+465
+00:16:19,252 --> 00:16:21,503
+These aren't just paintings anymore.
+
+466
+00:16:21,503 --> 00:16:22,904
+A painting about a man
+
+467
+00:16:22,904 --> 00:16:24,038
+who killed his sons
+
+468
+00:16:24,038 --> 00:16:26,572
+to protect the Republic, displayed in Paris
+
+469
+00:16:26,572 --> 00:16:29,073
+in summer of 1789?
+
+470
+00:16:29,073 --> 00:16:30,974
+That's not art appreciation.
+
+471
+00:16:30,974 --> 00:16:33,258
+That's a political statement, and
+
+472
+00:16:33,258 --> 00:16:34,792
+everyone in that room knew it.
+
+473
+00:16:34,792 --> 00:16:36,210
+David had spent a decade
+
+474
+00:16:36,210 --> 00:16:37,910
+painting ancient heroes
+
+475
+00:16:37,910 --> 00:16:40,262
+who sacrificed everything for the state,
+
+476
+00:16:40,262 --> 00:16:42,079
+and now, in the summer of
+
+477
+00:16:42,079 --> 00:16:45,664
+1789, the state was being torn apart
+
+478
+00:16:45,664 --> 00:16:46,631
+and rebuilt.
+
+479
+00:16:46,631 --> 00:16:47,782
+And David wasn't going
+
+480
+00:16:47,782 --> 00:16:48,999
+to just paint it,
+
+481
+00:16:48,999 --> 00:16:51,166
+he was going to join it.
+
+482
+00:16:51,166 --> 00:16:53,017
+This is where the story goes dark,
+
+483
+00:16:53,017 --> 00:16:55,068
+and I mean genuinely dark.
+
+484
+00:16:55,068 --> 00:16:57,336
+Not art world drama dark.
+
+485
+00:16:57,336 --> 00:16:58,720
+People dying dark.
+
+486
+00:16:58,720 --> 00:17:01,321
+In 1792, David was elected
+
+487
+00:17:01,321 --> 00:17:04,889
+to the National Convention, the revolutionary parliament.
+
+488
+00:17:04,889 --> 00:17:06,907
+He didn't sit with the moderates.
+
+489
+00:17:06,907 --> 00:17:08,624
+He sat with the Montagrats,
+
+490
+00:17:08,624 --> 00:17:10,825
+the radicals, the Jacobins.
+
+491
+00:17:10,825 --> 00:17:11,492
+They were led
+
+492
+00:17:11,492 --> 00:17:13,843
+by Maximilian Robespierre, the lawyer
+
+493
+00:17:13,843 --> 00:17:16,361
+who made himself the ideological heart
+
+494
+00:17:16,361 --> 00:17:17,311
+of the revolution
+
+495
+00:17:17,311 --> 00:17:18,779
+and who was rapidly becoming
+
+496
+00:17:18,779 --> 00:17:20,229
+its most feared figure.
+
+497
+00:17:20,229 --> 00:17:23,181
+And on January twenty-first, seventeen ninety-three,
+
+498
+00:17:23,181 --> 00:17:24,081
+the day I mentioned
+
+499
+00:17:24,081 --> 00:17:24,948
+at the beginning,
+
+500
+00:17:24,948 --> 00:17:25,748
+David voted
+
+501
+00:17:25,748 --> 00:17:28,733
+for the execution of King Louis XVI.
+
+502
+00:17:28,733 --> 00:17:32,085
+A painter voted to kill a king.
+
+503
+00:17:32,085 --> 00:17:33,502
+But he didn't stop there.
+
+504
+00:17:33,502 --> 00:17:37,670
+David became essentially the revolution's visual authority.
+
+505
+00:17:37,670 --> 00:17:41,355
+He organized festivals, massive public events meant
+
+506
+00:17:41,355 --> 00:17:44,957
+to replace Catholic ritual with republican ceremony.
+
+507
+00:17:44,957 --> 00:17:47,208
+He contributed to the design of uniforms
+
+508
+00:17:47,208 --> 00:17:48,592
+and public imagery.
+
+509
+00:17:48,592 --> 00:17:50,209
+He was deeply involved
+
+510
+00:17:50,209 --> 00:17:52,594
+in shaping what the revolution looked like,
+
+511
+00:17:52,594 --> 00:17:55,078
+and in a world before photography,
+
+512
+00:17:55,078 --> 00:17:56,445
+before television,
+
+513
+00:17:56,445 --> 00:17:59,080
+that meant he had real influence
+
+514
+00:17:59,080 --> 00:18:01,064
+over what people believed about it.
+
+515
+00:18:01,064 --> 00:18:02,515
+He was close to Robespierre,
+
+516
+00:18:02,515 --> 00:18:04,299
+the radical Jacobin leader.
+
+517
+00:18:04,299 --> 00:18:05,550
+Very close.
+
+518
+00:18:05,550 --> 00:18:07,267
+He reportedly said to him,
+
+519
+00:18:07,267 --> 00:18:08,768
+"If you drink hemlock,
+
+520
+00:18:08,768 --> 00:18:10,568
+I will drink it with you."
+
+521
+00:18:10,568 --> 00:18:12,686
+That's not a casual friendship.
+
+522
+00:18:12,686 --> 00:18:13,720
+That's a pact.
+
+523
+00:18:13,720 --> 00:18:15,321
+He was actively involved
+
+524
+00:18:15,321 --> 00:18:17,055
+in the revolutionary government,
+
+525
+00:18:17,055 --> 00:18:19,773
+sitting on the Committee of General Security,
+
+526
+00:18:19,773 --> 00:18:21,673
+putting his name on documents
+
+527
+00:18:21,673 --> 00:18:25,492
+that led to people being arrested, tried, and executed.
+
+528
+00:18:25,492 --> 00:18:25,825
+was
+
+529
+00:18:25,825 --> 00:18:26,876
+one of many people
+
+530
+00:18:26,876 --> 00:18:28,993
+who signed, not acting alone,
+
+531
+00:18:28,993 --> 00:18:30,811
+but consider what that means
+
+532
+00:18:30,811 --> 00:18:31,428
+for the man
+
+533
+00:18:31,428 --> 00:18:33,429
+who painted the death of Socrates.
+
+534
+00:18:33,429 --> 00:18:35,646
+You remember that painting, Socrates
+
+535
+00:18:35,646 --> 00:18:36,830
+in his last moments,
+
+536
+00:18:36,830 --> 00:18:39,098
+calmly reaching for the cup of poison
+
+537
+00:18:39,098 --> 00:18:41,516
+while his students fall apart around him?
+
+538
+00:18:41,516 --> 00:18:44,550
+Socrates was condemned by the Athenian state
+
+539
+00:18:44,550 --> 00:18:47,151
+for refusing to abandon his ideas.
+
+540
+00:18:47,151 --> 00:18:49,553
+That's the subject David chose to paint
+
+541
+00:18:49,553 --> 00:18:50,836
+and made beautiful,
+
+542
+00:18:50,836 --> 00:18:52,954
+a man killed by the state.
+
+543
+00:18:52,954 --> 00:18:55,205
+And now, David was the state.
+
+544
+00:18:55,205 --> 00:18:57,039
+His name was on the paperwork.
+
+545
+00:18:57,039 --> 00:18:59,424
+The tension between the ideals he painted
+
+546
+00:18:59,424 --> 00:19:02,492
+and the reality he served is staggering.
+
+547
+00:19:02,492 --> 00:19:05,343
+In July 1793, a shocking event
+
+548
+00:19:05,343 --> 00:19:07,727
+in revolutionary Paris gave rise to
+
+549
+00:19:07,727 --> 00:19:10,195
+one of the century's most famous paintings.
+
+550
+00:19:10,195 --> 00:19:13,130
+Jean-Paul Marat was a revolutionary journalist,
+
+551
+00:19:13,130 --> 00:19:14,147
+a radical.
+
+552
+00:19:14,147 --> 00:19:15,748
+He had a skin condition
+
+553
+00:19:15,748 --> 00:19:17,548
+that forced him to spend hours
+
+554
+00:19:17,548 --> 00:19:19,266
+in a medicinal bath,
+
+555
+00:19:19,266 --> 00:19:21,300
+where he would write, receive visitors,
+
+556
+00:19:21,300 --> 00:19:22,817
+and conduct business.
+
+557
+00:19:22,817 --> 00:19:25,418
+On July 13th, 1793,
+
+558
+00:19:25,418 --> 00:19:28,070
+a young woman named Charlotte Corday
+
+559
+00:19:28,070 --> 00:19:29,837
+talked her way into his apartment,
+
+560
+00:19:29,837 --> 00:19:34,689
+claiming to have information about counter-revolutionary plots.
+
+561
+00:19:34,689 --> 00:19:35,840
+Marat received her
+
+562
+00:19:35,840 --> 00:19:37,340
+while sitting in his bath.
+
+563
+00:19:37,340 --> 00:19:38,908
+She pulled out a knife
+
+564
+00:19:38,908 --> 00:19:40,892
+and stabbed him in the chest.
+
+565
+00:19:40,892 --> 00:19:42,860
+He died almost immediately.
+
+566
+00:19:42,860 --> 00:19:43,910
+According to accounts
+
+567
+00:19:43,910 --> 00:19:45,311
+that have been passed down,
+
+568
+00:19:45,311 --> 00:19:48,629
+though some historians treat this with caution,
+
+569
+00:19:48,629 --> 00:19:50,230
+David had visited Marat
+
+570
+00:19:50,230 --> 00:19:51,280
+the day before.
+
+571
+00:19:51,280 --> 00:19:52,330
+He knew the bath,
+
+572
+00:19:52,330 --> 00:19:53,898
+the setup, the man,
+
+573
+00:19:53,898 --> 00:19:55,449
+and when he heard the news,
+
+574
+00:19:55,449 --> 00:19:56,983
+he went to work immediately.
+
+575
+00:19:56,983 --> 00:19:57,800
+Look at it.
+
+576
+00:19:57,800 --> 00:19:59,717
+Marat is slumped in his bath.
+
+577
+00:19:59,717 --> 00:20:01,501
+His head is wrapped in a cloth.
+
+578
+00:20:01,501 --> 00:20:03,852
+His skin is pale, almost glowing.
+
+579
+00:20:03,852 --> 00:20:06,270
+His face is calm, peaceful.
+
+580
+00:20:06,270 --> 00:20:07,904
+He looks like he's sleeping.
+
+581
+00:20:07,904 --> 00:20:09,572
+He looks like Christ
+
+582
+00:20:09,572 --> 00:20:10,939
+taken down from the cross.
+
+583
+00:20:10,939 --> 00:20:11,923
+But I'll get to that
+
+584
+00:20:11,923 --> 00:20:12,423
+in a sec.
+
+585
+00:20:12,431 --> 00:20:14,148
+In his left hand, a letter.
+
+586
+00:20:14,148 --> 00:20:15,916
+Corday, Marat's murderer,
+
+587
+00:20:15,916 --> 00:20:16,950
+did use a letter
+
+588
+00:20:16,950 --> 00:20:18,450
+to get into the apartment,
+
+589
+00:20:18,450 --> 00:20:20,385
+but this isn't that letter.
+
+590
+00:20:20,385 --> 00:20:22,819
+David wrote those words himself.
+
+591
+00:20:22,819 --> 00:20:23,436
+They make
+
+592
+00:20:23,436 --> 00:20:25,170
+Marat look like a man killed
+
+593
+00:20:25,170 --> 00:20:27,071
+while helping someone in need.
+
+594
+00:20:27,071 --> 00:20:28,471
+David put it in his hand
+
+595
+00:20:28,471 --> 00:20:30,522
+on purpose as part of the myth
+
+596
+00:20:30,522 --> 00:20:31,356
+he was building.
+
+597
+00:20:31,356 --> 00:20:33,524
+On the floor, the knife, bloodied,
+
+598
+00:20:33,524 --> 00:20:35,224
+and on the wooden block
+
+599
+00:20:35,224 --> 00:20:36,308
+besides the bath,
+
+600
+00:20:36,308 --> 00:20:38,793
+the block Marat used as a desk,
+
+601
+00:20:38,793 --> 00:20:40,477
+David carved 2 words.
+
+602
+00:20:40,477 --> 00:20:42,828
+To Marat from David.
+
+603
+00:20:42,828 --> 00:20:45,763
+He signed the painting into the painting.
+
+604
+00:20:45,763 --> 00:20:48,264
+It's a dedication, a memorial,
+
+605
+00:20:48,264 --> 00:20:49,598
+and a political act.
+
+606
+00:20:49,598 --> 00:20:51,148
+Now, here's what I need you
+
+607
+00:20:51,148 --> 00:20:52,149
+to sit with.
+
+608
+00:20:52,149 --> 00:20:54,967
+This painting is propaganda.
+
+609
+00:20:54,967 --> 00:20:56,434
+It absolutely is.
+
+610
+00:20:56,434 --> 00:20:57,735
+David has taken a man
+
+611
+00:20:57,735 --> 00:21:01,003
+who was, by many accounts, paranoid, cruel,
+
+612
+00:21:01,003 --> 00:21:03,871
+and responsive for stirring up mob violence
+
+613
+00:21:03,871 --> 00:21:06,105
+And turned him into a saint.
+
+614
+00:21:06,105 --> 00:21:09,540
+The bath is clean, the body idealized.
+
+615
+00:21:09,540 --> 00:21:12,124
+The composition is borrowed directly
+
+616
+00:21:12,124 --> 00:21:15,476
+from Christian art, specifically the Pietà,
+
+617
+00:21:15,476 --> 00:21:16,810
+which is a famous image
+
+618
+00:21:16,810 --> 00:21:19,361
+of Mary holding the body of Jesus.
+
+619
+00:21:19,361 --> 00:21:22,346
+You know this Michelangelo's famous sculpture?
+
+620
+00:21:22,346 --> 00:21:24,246
+Do you see it?
+
+621
+00:21:24,246 --> 00:21:28,281
+That arrangement, that specific quality of grief
+
+622
+00:21:28,281 --> 00:21:30,199
+held perfectly still.
+
+623
+00:21:30,199 --> 00:21:33,901
+David took it and transplanted it into a bathtub in Paris.
+
+624
+00:21:33,901 --> 00:21:37,436
+Marat as the Revolution's crucified Christ.
+
+625
+00:21:37,436 --> 00:21:38,836
+David made this painting
+
+626
+00:21:38,836 --> 00:21:40,087
+to serve the revolution,
+
+627
+00:21:40,087 --> 00:21:41,237
+to turn a murderer
+
+628
+00:21:41,237 --> 00:21:42,238
+into a martyr,
+
+629
+00:21:42,238 --> 00:21:42,655
+to make
+
+630
+00:21:42,655 --> 00:21:46,990
+you feel something specific, grief, outrage, devotion
+
+631
+00:21:46,990 --> 00:21:47,690
+to the cause.
+
+632
+00:21:47,690 --> 00:21:50,541
+It's propaganda and it's a masterpiece.
+
+633
+00:21:50,541 --> 00:21:53,026
+Both are true at the same time,
+
+634
+00:21:53,026 --> 00:21:54,743
+and that tension
+
+635
+00:21:54,743 --> 00:21:56,944
+is what makes David so important
+
+636
+00:21:56,944 --> 00:21:58,362
+and so unsettling.
+
+637
+00:21:58,362 --> 00:22:04,398
+He painted virtue. He preached sacrifice. And he signed the warrants that sent people to die.
+
+638
+00:22:04,398 --> 00:22:08,283
+The revolution gave David everything: power, purpose,
+
+639
+00:22:08,283 --> 00:22:09,633
+a reason to paint
+
+640
+00:22:09,633 --> 00:22:11,101
+Now, it was about
+
+641
+00:22:11,101 --> 00:22:12,251
+to take it all back.
+
+642
+00:22:12,251 --> 00:22:13,485
+It couldn't last.
+
+643
+00:22:13,485 --> 00:22:15,936
+The revolution, like all revolutions,
+
+644
+00:22:15,936 --> 00:22:17,570
+started eating its own.
+
+645
+00:22:17,570 --> 00:22:21,355
+On July 27th, 1794, Robespierre,
+
+646
+00:22:21,355 --> 00:22:25,774
+the radical Jacobin leader, was overthrown, arrested,
+
+647
+00:22:25,774 --> 00:22:28,575
+executed the next day, and soon
+
+648
+00:22:28,575 --> 00:22:30,543
+after, they came for David.
+
+649
+00:22:30,543 --> 00:22:32,443
+He was arrested, imprisoned.
+
+650
+00:22:32,443 --> 00:22:33,994
+He came very close
+
+651
+00:22:33,994 --> 00:22:37,095
+to the guillotine himself, the same guillotine
+
+652
+00:22:37,095 --> 00:22:39,213
+he had helped send others to.
+
+653
+00:22:39,213 --> 00:22:41,798
+His students lobbied for his release.
+
+654
+00:22:41,798 --> 00:22:43,248
+It took months.
+
+655
+00:22:43,248 --> 00:22:45,916
+And in prison, he did something remarkable.
+
+656
+00:22:45,916 --> 00:22:48,617
+He painted himself not as a hero,
+
+657
+00:22:48,617 --> 00:22:49,985
+not as a martyr,
+
+658
+00:22:49,985 --> 00:22:52,169
+not as someone Roman or Greek,
+
+659
+00:22:52,169 --> 00:22:53,586
+just himself.
+
+660
+00:22:53,586 --> 00:22:56,387
+A middle-aged man with a swollen cheek.
+
+661
+00:22:56,387 --> 00:22:57,788
+he had a facial tumor
+
+662
+00:22:57,788 --> 00:22:59,656
+that distorted his features.
+
+663
+00:22:59,656 --> 00:23:01,940
+Holding a palette, looking out at you
+
+664
+00:23:01,940 --> 00:23:04,558
+with an expression that's hard to read.
+
+665
+00:23:04,558 --> 00:23:05,725
+Surprise?
+
+666
+00:23:05,725 --> 00:23:07,026
+Confusion?
+
+667
+00:23:07,026 --> 00:23:07,976
+Honesty?
+
+668
+00:23:07,976 --> 00:23:10,277
+It might be the most intimate thing
+
+669
+00:23:10,277 --> 00:23:11,494
+he ever painted
+
+670
+00:23:11,494 --> 00:23:13,879
+because it wasn't for anyone.
+
+671
+00:23:13,879 --> 00:23:15,563
+It wasn't for the salon
+
+672
+00:23:15,563 --> 00:23:17,080
+or for the revolution.
+
+673
+00:23:17,080 --> 00:23:18,664
+It was just a man
+
+674
+00:23:18,664 --> 00:23:21,082
+in a cell looking at himself.
+
+675
+00:23:21,082 --> 00:23:21,999
+And don't ask me
+
+676
+00:23:21,999 --> 00:23:24,833
+how he got painting materials in prison.
+
+677
+00:23:24,833 --> 00:23:25,967
+After his release,
+
+678
+00:23:25,967 --> 00:23:27,551
+he said he had been deceived
+
+679
+00:23:27,551 --> 00:23:29,536
+by the mask of patriotism.
+
+680
+00:23:29,536 --> 00:23:30,769
+Was he?
+
+681
+00:23:30,769 --> 00:23:32,387
+Was he really deceived,
+
+682
+00:23:32,387 --> 00:23:33,988
+or was he just saying
+
+683
+00:23:33,988 --> 00:23:36,138
+what he needed to say to survive?
+
+684
+00:23:36,138 --> 00:23:38,873
+That's one of the great unanswerable questions
+
+685
+00:23:38,873 --> 00:23:41,324
+about David, and I think
+
+686
+00:23:41,324 --> 00:23:42,825
+the answer might be both.
+
+687
+00:23:42,825 --> 00:23:44,242
+He was a true believer
+
+688
+00:23:44,242 --> 00:23:46,677
+who was also very good in surviving.
+
+689
+00:23:46,677 --> 00:23:48,211
+People are complicated.
+
+690
+00:23:48,211 --> 00:23:50,261
+And then he met Napoleon.
+
+691
+00:23:50,261 --> 00:23:51,912
+It was 1797.
+
+692
+00:23:51,912 --> 00:23:54,980
+Napoleon was a young general, already famous,
+
+693
+00:23:54,980 --> 00:23:57,698
+already radiating that kind of charisma
+
+694
+00:23:57,698 --> 00:24:00,249
+that makes painter reach for their brushes.
+
+695
+00:24:00,249 --> 00:24:01,983
+David met him and wrote,
+
+696
+00:24:01,983 --> 00:24:02,900
+Oh, my friends,
+
+697
+00:24:02,900 --> 00:24:04,551
+what a beautiful head he has.
+
+698
+00:24:04,551 --> 00:24:06,435
+It is pure, it is great.
+
+699
+00:24:06,435 --> 00:24:08,670
+It is as beautiful as the antique.
+
+700
+00:24:08,670 --> 00:24:10,337
+As beautiful as the antique.
+
+701
+00:24:10,337 --> 00:24:11,621
+There it is again.
+
+702
+00:24:11,621 --> 00:24:14,039
+David looked at a living, breathing military
+
+703
+00:24:14,039 --> 00:24:16,707
+commander and saw a Greek statue.
+
+704
+00:24:16,707 --> 00:24:17,907
+He couldn't help himself.
+
+705
+00:24:17,907 --> 00:24:20,158
+And Napoleon, a master of image
+
+706
+00:24:20,158 --> 00:24:22,259
+and spectacle, saw in David
+
+707
+00:24:22,259 --> 00:24:24,043
+exactly what he needed.
+
+708
+00:24:24,043 --> 00:24:26,678
+The greatest painter of his time, ready
+
+709
+00:24:26,678 --> 00:24:28,995
+to turn him into a living legend.
+
+710
+00:24:28,995 --> 00:24:32,080
+Okay.Napoleon crossing the Alps, 1801.
+
+711
+00:24:32,080 --> 00:24:33,848
+You know this image.
+
+712
+00:24:33,848 --> 00:24:34,665
+Even if
+
+713
+00:24:34,665 --> 00:24:37,149
+you never been into an art museum,
+
+714
+00:24:37,149 --> 00:24:38,800
+you know this image.
+
+715
+00:24:38,800 --> 00:24:40,167
+Napoleon on a rearing
+
+716
+00:24:40,167 --> 00:24:43,168
+white horse, cape flowing, arm pointing
+
+717
+00:24:43,168 --> 00:24:46,737
+forward, the names of Hannibal and Charlemagne
+
+718
+00:24:46,737 --> 00:24:48,671
+carved into the rocks below him,
+
+719
+00:24:48,671 --> 00:24:49,655
+As if to say
+
+720
+00:24:49,655 --> 00:24:51,355
+he belongs among them.
+
+721
+00:24:51,355 --> 00:24:53,189
+I've seen this painting in person,
+
+722
+00:24:53,189 --> 00:24:54,423
+and the first thing
+
+723
+00:24:54,423 --> 00:24:56,024
+that hits you is the scale.
+
+724
+00:24:56,024 --> 00:24:57,425
+If you see it on a screen,
+
+725
+00:24:57,425 --> 00:25:00,193
+it's completely different from how
+
+726
+00:25:00,193 --> 00:25:02,360
+people back at the time felt when
+
+727
+00:25:02,360 --> 00:25:04,611
+they saw it in front of them.
+
+728
+00:25:04,611 --> 00:25:07,679
+Like, this painting is about this size,
+
+729
+00:25:07,679 --> 00:25:08,363
+you just stand
+
+730
+00:25:08,363 --> 00:25:10,180
+in front of it, and you feel
+
+731
+00:25:10,180 --> 00:25:12,081
+that you're looking at something amazing.
+
+732
+00:25:12,081 --> 00:25:13,232
+I can't explain it.
+
+733
+00:25:13,232 --> 00:25:14,699
+You, you have to experience it,
+
+734
+00:25:14,699 --> 00:25:16,667
+'cause I was really surprised
+
+735
+00:25:16,667 --> 00:25:17,567
+to feel that way.
+
+736
+00:25:17,567 --> 00:25:18,984
+Okay, back to the story.
+
+737
+00:25:18,984 --> 00:25:20,468
+The painting is huge.
+
+738
+00:25:20,468 --> 00:25:22,286
+You stand in front of it, and
+
+739
+00:25:22,286 --> 00:25:24,720
+you feel small, which is, of course,
+
+740
+00:25:24,720 --> 00:25:25,921
+exactly the point.
+
+741
+00:25:25,921 --> 00:25:26,421
+Napoleon
+
+742
+00:25:26,421 --> 00:25:28,288
+asked to be painted calm
+
+743
+00:25:28,288 --> 00:25:29,739
+on a spirited horse.
+
+744
+00:25:29,739 --> 00:25:31,140
+David delivered.
+
+745
+00:25:31,140 --> 00:25:32,290
+Here's the thing, though.
+
+746
+00:25:32,290 --> 00:25:34,925
+The real crossing was difficult, cold,
+
+747
+00:25:34,925 --> 00:25:36,709
+and unglamorous.
+
+748
+00:25:36,709 --> 00:25:38,893
+Napoleon rode a mule for much
+
+749
+00:25:38,893 --> 00:25:40,944
+of it, led by a local guide.
+
+750
+00:25:40,944 --> 00:25:43,462
+David wasn't painting what happened.
+
+751
+00:25:43,462 --> 00:25:44,312
+He was painting
+
+752
+00:25:44,312 --> 00:25:47,364
+what Napoleon wanted to believe about himself.
+
+753
+00:25:47,364 --> 00:25:49,014
+The heroic version.
+
+754
+00:25:49,014 --> 00:25:49,598
+The myth.
+
+755
+00:25:49,598 --> 00:25:51,432
+Nobody remembers the mule.
+
+756
+00:25:51,432 --> 00:25:53,316
+Everyone remembers this.
+
+757
+00:25:53,316 --> 00:25:55,034
+And then there's the coronation.
+
+758
+00:25:55,034 --> 00:25:57,435
+1805 to 1807.
+
+759
+00:25:57,435 --> 00:25:59,552
+Over 30 feet wide.
+
+760
+00:25:59,552 --> 00:26:02,921
+Napoleon crowning Josephine at Notre Dame,
+
+761
+00:26:02,921 --> 00:26:05,205
+surrounded by hundreds of figures.
+
+762
+00:26:05,205 --> 00:26:06,839
+David was there in person,
+
+763
+00:26:06,839 --> 00:26:08,056
+sketching the ceremony.
+
+764
+00:26:08,056 --> 00:26:10,307
+But he rearranged reality.
+
+765
+00:26:10,307 --> 00:26:13,225
+Look, see that woman in the balcony?
+
+766
+00:26:13,225 --> 00:26:15,860
+That's Napoleon's mother, Leticia.
+
+767
+00:26:15,860 --> 00:26:19,495
+She's prominently placed, watching proudly.
+
+768
+00:26:19,495 --> 00:26:22,179
+Except she wasn't there.
+
+769
+00:26:22,179 --> 00:26:23,780
+She refused to come.
+
+770
+00:26:23,780 --> 00:26:26,164
+David painted her in anyway
+
+771
+00:26:26,164 --> 00:26:28,499
+because Napoleon wanted her there.
+
+772
+00:26:28,499 --> 00:26:30,166
+The painting isn't a record
+
+773
+00:26:30,166 --> 00:26:31,417
+of what happened.
+
+774
+00:26:31,417 --> 00:26:32,367
+It's a record
+
+775
+00:26:32,367 --> 00:26:34,218
+of what should have happened
+
+776
+00:26:34,218 --> 00:26:35,869
+According to the man in charge.
+
+777
+00:26:35,869 --> 00:26:38,920
+After Napoleon's final defeat in 1815,
+
+778
+00:26:38,920 --> 00:26:41,138
+the Bourbon monarchy was restored, and
+
+779
+00:26:41,138 --> 00:26:43,155
+they had a long memory.
+
+780
+00:26:43,155 --> 00:26:45,490
+David had voted to execute their king
+
+781
+00:26:45,490 --> 00:26:47,040
+in 1793.
+
+782
+00:26:47,040 --> 00:26:49,458
+That was 22 years ago.
+
+783
+00:26:49,458 --> 00:26:51,059
+They hadn't forgotten.
+
+784
+00:26:51,059 --> 00:26:53,193
+He was exiled, banned from France
+
+785
+00:26:53,193 --> 00:26:54,293
+as a king killer.
+
+786
+00:26:54,293 --> 00:26:56,695
+He moved to Brussels and kept painting,
+
+787
+00:26:56,695 --> 00:26:59,879
+but the work got softer, less urgent.
+
+788
+00:26:59,879 --> 00:27:01,530
+The fire was going out.
+
+789
+00:27:01,530 --> 00:27:02,581
+He died in Brussels
+
+790
+00:27:02,581 --> 00:27:05,398
+on December 29th, 1825,
+
+791
+00:27:05,398 --> 00:27:07,116
+at the age of 77.
+
+792
+00:27:07,116 --> 00:27:07,983
+France refused
+
+793
+00:27:07,983 --> 00:27:09,600
+to allow his body to return.
+
+794
+00:27:09,600 --> 00:27:10,467
+The man who had
+
+795
+00:27:10,467 --> 00:27:12,201
+been the most powerful artist
+
+796
+00:27:12,201 --> 00:27:13,252
+in the country,
+
+797
+00:27:13,252 --> 00:27:15,270
+who had shaped the visual identity
+
+798
+00:27:15,270 --> 00:27:17,354
+of the revolution, of Napoleon,
+
+799
+00:27:17,354 --> 00:27:19,005
+of an entire era,
+
+800
+00:27:19,005 --> 00:27:21,155
+was buried in a foreign city.
+
+801
+00:27:21,155 --> 00:27:22,406
+He's still there.
+
+802
+00:27:22,406 --> 00:27:23,440
+So, what did
+
+803
+00:27:23,440 --> 00:27:24,840
+David leave behind?
+
+804
+00:27:24,840 --> 00:27:27,792
+A movement, a set of rules,
+
+805
+00:27:27,792 --> 00:27:30,426
+and an institution, the Académie Royale,
+
+806
+00:27:30,426 --> 00:27:32,444
+that would enforce those rules
+
+807
+00:27:32,444 --> 00:27:34,411
+for the next 50 years.
+
+808
+00:27:34,411 --> 00:27:36,045
+His greatest student, Ingres,
+
+809
+00:27:36,045 --> 00:27:38,597
+became the guardian of that legacy.
+
+810
+00:27:38,597 --> 00:27:40,531
+He spent his entire career
+
+811
+00:27:40,531 --> 00:27:44,032
+defending classical drawing, insisting that discipline
+
+812
+00:27:44,032 --> 00:27:46,784
+and line were the foundation of everything.
+
+813
+00:27:46,784 --> 00:27:48,334
+The Académie backed him.
+
+814
+00:27:48,334 --> 00:27:50,785
+For decades, the world David built held.
+
+815
+00:27:50,785 --> 00:27:51,836
+So here's
+
+816
+00:27:51,836 --> 00:27:53,153
+where I want to leave you.
+
+817
+00:27:53,153 --> 00:27:56,688
+David understood something fundamental about images.
+
+818
+00:27:56,688 --> 00:27:59,923
+They aren't just decoration, they're arguments.
+
+819
+00:27:59,923 --> 00:28:02,224
+A painting can make you believe something.
+
+820
+00:28:02,224 --> 00:28:03,408
+It can make an idea
+
+821
+00:28:03,408 --> 00:28:06,276
+feel noble, inevitable, even heroic.
+
+822
+00:28:06,276 --> 00:28:06,926
+his style
+
+823
+00:28:06,926 --> 00:28:09,177
+helped make that power possible
+
+824
+00:28:09,177 --> 00:28:12,095
+The clean lines, the stark compositions,
+
+825
+00:28:12,095 --> 00:28:14,479
+the restrained, controlled color.
+
+826
+00:28:14,479 --> 00:28:17,814
+Everything is clear, deliberate, and serious.
+
+827
+00:28:17,814 --> 00:28:19,615
+Nothing is accidental.
+
+828
+00:28:19,615 --> 00:28:21,699
+The paintings feel certain
+
+829
+00:28:21,699 --> 00:28:23,183
+about what they are saying,
+
+830
+00:28:23,183 --> 00:28:25,584
+and that certainty is persuasive.
+
+831
+00:28:25,584 --> 00:28:28,169
+And the images themself did real work.
+
+832
+00:28:28,169 --> 00:28:29,853
+The Oath of the Horatii
+
+833
+00:28:29,853 --> 00:28:31,870
+didn't just show Roman virtue,
+
+834
+00:28:31,870 --> 00:28:33,304
+it presented a model
+
+835
+00:28:33,304 --> 00:28:35,172
+of duty and sacrifice.
+
+836
+00:28:35,172 --> 00:28:37,590
+The Death of Marat didn't simply show
+
+837
+00:28:37,590 --> 00:28:39,991
+a political killing, it transformed Marat
+
+838
+00:28:39,991 --> 00:28:41,791
+into a martyr of the revolution.
+
+839
+00:28:41,791 --> 00:28:43,342
+Napoleon crossing the Alps
+
+840
+00:28:43,342 --> 00:28:47,994
+didn't document an event. It constructed Napoleon's image of leadership.
+
+841
+00:28:47,994 --> 00:28:57,632
+That’s David’s real legacy. Not just a style, and not only a school of followers but a demonstration of how powerful images can shape political imagination.
+
+842
+00:28:57,632 --> 00:28:59,333
+But the more interesting part
+
+843
+00:28:59,333 --> 00:29:01,600
+of David's story isn't the propaganda,
+
+844
+00:29:01,600 --> 00:29:03,118
+it's the man behind it.
+
+845
+00:29:03,118 --> 00:29:06,269
+David painted virtue, duty, and sacrifice,
+
+846
+00:29:06,269 --> 00:29:08,887
+and he seemed to have genuinely believe
+
+847
+00:29:08,887 --> 00:29:10,237
+in those ideals.
+
+848
+00:29:10,237 --> 00:29:11,621
+At the same time,
+
+849
+00:29:11,621 --> 00:29:13,656
+he lived at the center of power
+
+850
+00:29:13,656 --> 00:29:15,807
+during one of the most violent
+
+851
+00:29:15,807 --> 00:29:18,191
+and chaotic periods in French history.
+
+852
+00:29:18,191 --> 00:29:19,992
+That combination was rare.
+
+853
+00:29:19,992 --> 00:29:22,860
+An artist who wasn't just observing events,
+
+854
+00:29:22,860 --> 00:29:24,644
+but helping shape how
+
+855
+00:29:24,644 --> 00:29:26,161
+they were seen and remembered.
+
+856
+00:29:26,161 --> 00:29:27,212
+And that may be
+
+857
+00:29:27,212 --> 00:29:29,346
+what makes him so remarkable.
+
+858
+00:29:29,346 --> 00:29:31,063
+Not just a great painter,
+
+859
+00:29:31,063 --> 00:29:32,281
+but an artist
+
+860
+00:29:32,281 --> 00:29:34,715
+whose images helped define an era.
+
+861
+00:29:34,715 --> 00:29:36,282
+But not everyone accepted
+
+862
+00:29:36,282 --> 00:29:37,666
+what David had built
+
+863
+00:29:37,666 --> 00:29:39,934
+Not everyone thought paintings
+
+864
+00:29:39,934 --> 00:29:41,635
+should be lessons in virtue
+
+865
+00:29:41,635 --> 00:29:43,919
+or that reason should rule everything art
+
+866
+00:29:43,919 --> 00:29:44,353
+could be.
+
+867
+00:29:44,353 --> 00:29:47,171
+One painter born in seventeen ninety-eight,
+
+868
+00:29:47,171 --> 00:29:49,472
+just a few years after the Terror,
+
+869
+00:29:49,472 --> 00:29:52,273
+the revolution's most violent period,
+
+870
+00:29:52,273 --> 00:29:52,756
+was about
+
+871
+00:29:52,756 --> 00:29:54,440
+to blow the whole thing up.
+
+872
+00:29:54,440 --> 00:29:56,408
+Was about to blow the whole thing
+
+873
+00:29:56,408 --> 00:29:59,243
+up with color, with chaos,
+
+874
+00:29:59,243 --> 00:30:01,093
+with a trip to North Africa
+
+875
+00:30:01,093 --> 00:30:03,044
+that changed the way he saw everything.
+
+876
+00:30:03,044 --> 00:30:05,329
+His name was Eugène Delacroix,
+
+877
+00:30:05,329 --> 00:30:06,479
+and his story starts
+
+878
+00:30:06,479 --> 00:30:09,180
+with a shipwreck, a madman,
+
+879
+00:30:09,180 --> 00:30:11,615
+and a raft full of corpses.
+
+880
+00:30:11,615 --> 00:30:13,082
+That's next time.
+
+881
+00:30:13,082 --> 00:30:14,016
+ביי.
