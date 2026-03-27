@@ -44,7 +44,7 @@ The Republic was dead. Again.
 
 The Romantic dream of revolution — the dream Delacroix had painted in *Liberty Leading the People* — met reality. And it began to fall apart.
 
-So a new generation of artists started asking a different question. Not “what does the world *feel* like?” — as the Romantics had asked — but “what does the world actually *look* like?” Not emotion. Not ideals. Just… what’s there.
+So a new generation of artists started asking a different question. Not “what should the world look like?” as the Neoclassicists asked, and not “what does the world feel like?” as the Romantics asked, but “what does the world actually look like?” Not ideals. Not dreams. Not feelings. Just… what’s there.
 
 ### Photography and Realism
 
@@ -93,17 +93,21 @@ A generation had grown up watching revolution fail. Photography was pushing pain
 
 [TALKING HEAD]
 
-Gustave Courbet was born in 1819 in Ornans, a small town in eastern France. His father was a prosperous landowner — which gave Courbet the financial stability to be stubborn. He came to Paris supposedly to study law, dropped it immediately, and taught himself to paint by spending years in the Louvre studying Rembrandt, Velázquez, and the old Venetian masters.
+Gustave Courbet was born in 1819 in Ornans — a small town in eastern France, far from the artistic center of Paris. His family was relatively well-off, with land and ties to rural life.
 
-He was physically imposing — large, bearded, loud — and he knew how to hold a room. He became a fixture at the Brasserie Andler near the Luxembourg Gardens, a gathering place for left-wing thinkers, painters, writers, and his close friend, the philosopher Proudhon. This is where the ideas behind Realism were argued out, long before anyone painted them.
+From early on, he didn’t follow the usual path. He trained in Paris, but instead of chasing the polished style of the Académie, he spent his time studying old masters in the Louvre.
 
-He was also keenly aware of his own image. His early self-portraits — *The Desperate Man*, *The Wounded Man*, *The Man with a Pipe* — show him trying on characters the way an actor tries on costumes. Not gods or mythological heroes. Always himself. Always real.
+People would later describe him as confident, stubborn, even provocative — someone who refused to fit into the rules of the art world.
+He had no patience for the Académie’s system. The whole hierarchy — paint religious scenes, paint mythology, paint the things the art world considers noble — was nonsense to him.
+And instead of painting gods or heroes, he turned his attention to ordinary people and real life.
 
-One of the most striking is *Bonjour, Monsieur Courbet* — painted in 1854, showing him on a road meeting his wealthy patron, Alfred Bruyas. In the painting, Bruyas bows slightly in greeting. Courbet stands tall. A painter treating a rich collector as an equal, or more. For 1854, that was a statement about what an artist was.
+By the time he began making his name in Paris, one thing was already clear: he wasn’t interested in fitting into the art scene — he wanted to challenge it.
 
-There’s a quote linked to him — possibly paraphrased, but it captures his whole position: "Show me an angel and I’ll paint one."
+There’s a quote linked to him — it might not be real, but it captures his whole position: "Show me an angel and I’ll paint one."
 
-Think about what that means. The Salon’s most respected category was religious and mythological subjects — angels, gods, biblical scenes. That was what serious art was supposed to be. Courbet’s answer: show me an actual angel and I’ll put it on canvas. Since you can’t, I won’t. If it doesn’t exist in the real world, it’s not worth painting.
+Think about what that means in context. The Salon’s most respected category was religious and mythological painting — angels, gods, biblical scenes. That was what serious art was supposed to be about. Courbet’s answer: show me an actual angel and I’ll put it on canvas. Since you can’t, I won’t. If it doesn’t exist in the real world, he has no interest in it.
+
+And from the start, he was building a public image around that idea. His early self-portraits show him as a wanderer, a pipe-smoker, a wounded man — ordinary versions of himself, not invented heroes. Always real.
 
 ### The Burial at Ornans
 
@@ -163,10 +167,6 @@ This isn't a story about two specific people. It's a painting about labor as a w
 
 Courbet's friend Proudhon — an anarchist philosopher — saw it as a political statement about class. Courbet said he just painted what he saw on the road near Ornans. In a way, both were right.
 
-*[PRODUCTION NOTE: The Stone Breakers was destroyed in February 1945 during the bombing of Dresden. Show this with a black-and-white photograph of the work and note the loss on screen.]*
-
-He kept pushing. In 1856, *Young Women on the Banks of the Seine* — two modern Parisian women lying on a riverbank in summer, clothing loosened, utterly at ease. No mythology. No idealization. Just two women on a warm afternoon. The Salon showed it, and the critics were outraged — it felt too physical, too present, too much like real life. That, by now, was the point.
-
 ### The Logical Endpoint
 
 [TALKING HEAD]
@@ -183,9 +183,9 @@ It's the most extreme version of what Courbet was always doing. Academic painter
 
 [TALKING HEAD — shifting tone, gentler]
 
-Courbet was the loudest voice in French Realism, but he wasn't the only one. In the 1850s and 1860s, a cluster of painters was turning toward the same kinds of subjects — ordinary people, rural life, the working poor. Jules Breton painted harvest scenes with a grave, monumental quality. Honoré Daumier, whom we already met, spent his entire career depicting ordinary Parisians — laundresses, lawyers, third-class train passengers. And then there was Jean-François Millet — in some ways the most deeply rooted of all of them.
+Courbet wasn't the only one painting peasants. There was another painter — quieter, less in-your-face, but just as important — named Jean-François Millet.
 
-Millet came from a farming family in Normandy — not destitute, but people who worked the land. He had helped in the fields as a child. His family was devout Catholic, and his grandmother, who shaped much of his early life, had a deeply religious outlook that stayed in his painting forever. But he was also educated — a local priest recognized his talent early and taught him Latin; his family sent him to study painting first in Cherbourg, then in Paris. He knew peasant life from the inside, and he had the artistic training to make it into something monumental. That double perspective is everywhere in his work — peasants painted with the gravity of biblical figures.
+Millet was the real thing. He was actually from a peasant family in Normandy. He didn't have to go looking for his subjects — he'd grown up among them.
 
 He settled in Barbizon, a village near the Forest of Fontainebleau, and he painted the people he knew.
 
@@ -201,6 +201,18 @@ And then there's *The Angelus* — a man and woman pausing in a field at sunset 
 
 Dalí was so obsessed with it that he wrote an entire book arguing the woman was mourning a dead child buried in the field. Which is… actually a very beautiful and sad idea. But we have no way of knowing if it’s true.
 If Courbet is the punk rocker of Realism, Millet is the folk singer. Similar subjects. Completely different personalities. Courbet gets in your face. Millet quietly invites you in.
+
+### Realism Beyond France
+
+[TALKING HEAD]
+
+Courbet and Millet were the most visible names, but Realism was a wave, not a single person — and it went far beyond France.
+
+In France itself, Rosa Bonheur was achieving something remarkable at the same time. Her painting *The Horse Fair* — a monumental depiction of horses at a Paris livestock market, shown at the 1853 Salon — caused a sensation and made her one of the most celebrated French artists of the century. She was given the Legion of Honour and counted among the most commercially successful painters in Europe. The fact that she was a woman doing this entirely on her own terms, in an era when women artists were largely dismissed, makes her success all the more significant. *[FACT CHECK: Legion of Honour for Bonheur — widely cited, verify date]*
+
+And outside France: in the United States, Thomas Eakins was painting surgery, boxing, and everyday American life with unflinching precision — work that shocked American audiences the same way Courbet's had shocked Paris. In Russia, a group called the Wanderers rejected the Imperial Academy and brought their paintings of peasants, rural poverty, and ordinary life directly to audiences across the country — bypassing the official system entirely, just as Courbet had with his Pavilion.
+
+The impulse was the same everywhere. Don't invent. Don't idealize. Don't reach for mythology. Just look at what's actually in front of you.
 
 ---
 
@@ -248,31 +260,13 @@ And the painting the Salon rejected? *The Painter's Studio: A Real Allegory Summ
 
 Courbet is at the center. Literally at the center of the canvas, painting a landscape. On his left: the world of everyday life — beggars, workers, a priest, a hunter, a skull on a newspaper. On his right: the world of art — collectors, critics, and — look closely — that’s Baudelaire, sitting in the corner, reading a book.
 
-Baudelaire — the poet and critic who defined Romanticism as "a mode of feeling" back in episode two, by now the most celebrated and controversial literary voice in Paris — is *in the painting*.
+Baudelaire is *in the painting*.
 
 Courbet put himself at the center of the world. On one side, reality. On the other, art. And him in the middle, connecting them.
 
-The man has some ego. But it’s kind of earned. Because that *is* what he was doing. He was standing between the real world and the art world and saying: these two things need to talk to each other. Art needs to be about life. And life deserves art.
+The man has some ego. But to be fair — it’s kind of earned. Because that is what he was doing.
 
-### Realism as a Movement
-
-[TALKING HEAD]
-
-The Pavilion of Realism wasn’t just a personal act of defiance. It was the moment Realism declared itself a movement — and that movement was already spreading well beyond one man.
-
-In France, Rosa Bonheur had been making her mark since before Courbet built his Pavilion. Her painting *The Horse Fair* — first shown at the 1853 Salon — caused its own sensation two years earlier. It’s a huge canvas, over eight feet tall and sixteen feet wide, depicting horses at a Paris livestock market. The animals are in full motion — rearing, pulling, crowding. It’s technically extraordinary.
-
-What people often don’t know is what it took to paint it. To study her subjects, Bonheur spent months attending horse fairs and slaughterhouses in Paris — places women were not expected to go. She obtained a police permit allowing her to dress in men’s clothing, which was required by law for a woman who wanted to wear trousers in public. She wore boots and pants and observed everything. The painting is the product of that work. *[FACT CHECK: Police permit to wear men’s clothes — widely documented; verify the specific law and year]*
-
-She went on to become one of the most commercially successful painters in Europe — more famous in Britain than in France for a period. Queen Victoria requested to see *The Horse Fair* privately at Windsor Castle. The French government awarded her the Legion of Honour — one of the first women to receive it in the fine arts. She purchased a château near Fontainebleau with her earnings and kept a private collection of animals she used as models.
-
-She did all of this in a world that treated women artists as a footnote.
-
-Across Europe, other painters were arriving at the same impulse by different roads. In Germany, Adolph Menzel painted factory workers and industrial scenes — railroad yards, blast furnaces, the unglamorous machinery of the modern world. In Belgium, Constantin Meunier spent his career painting and sculpting coal miners, steelworkers, and dockers. In Britain, Ford Madox Brown’s *Work* — a panoramic London street scene showing every class of person either laboring or avoiding labor — is the defining British Realist painting.
-
-And outside Europe: in America, Thomas Eakins painted surgery, rowing, and boxing with the same refusal to idealize. In Russia, a group called the Wanderers broke away from the Imperial Academy, refused official patronage, and brought their paintings of peasants and rural poverty directly to audiences across the country — bypassing the official system the same way Courbet had in 1855.
-
-The same impulse everywhere. Don’t invent. Don’t idealize. Don’t reach for mythology. Look at what’s actually in front of you.
+He was standing between the real world and the art world and saying: these two things need to talk to each other. Art needs to be about life. And life deserves art.
 
 *[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
 
@@ -286,7 +280,7 @@ The same impulse everywhere. Don’t invent. Don’t idealize. Don’t reach for
 
 [TALKING HEAD — tone shift, serious]
 
-In 1870, France went to war with Prussia. And lost. Badly. Napoleon the Third was captured. The Empire fell apart. Paris was surrounded for four months. People starved. They ate rats. They ate zoo animals.
+In 1870, France went to war with Prussia. And lost. Badly. Napoleon III was captured. The Empire fell apart. Paris was surrounded for four months. People starved. They ate rats. They ate zoo animals.
 
 And then, in March 1871, something extraordinary happened. The people of Paris — workers, radicals, socialists — seized control of the city and declared the Paris Commune. A radical, democratic, self-governing city.
 
@@ -336,9 +330,9 @@ He proved you can paint real life. Not mythology, not allegory, not the dreams o
 
 And he proved that it's worthy of the biggest canvas you can find.
 
-He proved you can reject the system. You can build your own exhibition hall. You can write your own manifesto and put it on the door. You can tell the Salon and the art school and the entire art world to go to hell, and you can survive it.
+He proved you can reject the system. You can build your own exhibition hall. You can publish your own statement of purpose. You can tell the Salon and the art school and the entire art world to go to hell, and you can survive it.
 
-He didn't just change what painting was about. He changed who got to decide what got shown. Every artist who ever stepped outside the official system — rented their own space, built their own audience, showed on their own terms — they were following a path Courbet cut in 1855.
+Every independent exhibition that came after him — the Impressionists in 1874, the Secessionists in Vienna, every artist-run space, every punk who printed their own zine — Courbet was there first.
 
 *[Beat. Energy builds.]*
 
@@ -378,7 +372,7 @@ That's next time.
 
 **Lines that need to land:**
 - "Show me an angel and I'll paint one."
-- "A painting about how workers are used up and thrown away was itself used up and forgotten."
+- "Destroyed as a side effect of war. The painting about nameless loss became a nameless loss."
 - "The ego is breathtaking. It's also kind of earned."
 - "He belonged to no school, to no church, to no institution..."
 - "To create living art — this is my goal."
@@ -404,30 +398,27 @@ That's next time.
 - *[OPTIONAL BRIDGE: A generation had grown up watching revolution fail. Photography was pushing painting toward a choice. Into that moment stepped one man who had a very clear answer — and zero interest in being polite about it.]*
 
 **ACT 3 — Courbet**
-- Born 1819, Ornans; prosperous landowner father; physically imposing, fixture at the Brasserie Andler where Realist ideas were argued out
-- Self-taught in the Louvre; building his public image through self-portraits (*The Desperate Man*, *The Wounded Man*, *The Man with a Pipe*)
-- *Bonjour, Monsieur Courbet* (1854): painter stands taller than his wealthy patron — a statement about what an artist is
+- Born 1819, Ornans; family relatively well-off, rural ties; trained in Paris but self-taught through the Louvre
+- Confident, stubborn, provocative — no patience for the Académie's hierarchy; turned to ordinary people and real life
 - "Show me an angel and I'll paint one" — the Salon's hierarchy explained; Courbet's answer
+- Self-portraits show him as wanderer, pipe-smoker, wounded man — always himself, never invented heroes
 - *A Burial at Ornans* (1849–50): real people painted life-size at history-painting scale — the full analysis
 - The challenge is the scale — ordinary people given the size reserved for kings and gods
 - *The Stone Breakers* (1849): labor with no story, no hope of change; destroyed in the Dresden bombing, 1945
-- *Young Women on the Banks of the Seine* (1856): modern women, no mythology, no idealization — critics outraged
 - *The Origin of the World* (1866): the logical endpoint — the body as it is, no mythology as cover
-- Millet: movement-level intro (Breton, Daumier); Millet's background — farming family, educated, peasant gravity of biblical figures; *The Gleaners* (1857), *The Angelus*
+- Millet: "Courbet wasn't the only one painting peasants"; actually from a peasant family in Normandy; *The Gleaners* (1857), *The Angelus*
+- Realism beyond France: Rosa Bonheur (*The Horse Fair*); Eakins in America; the Wanderers in Russia — same impulse, different soil
 
 **ACT 3 → 4 — From Truth to Defiance** *(spoken bridge section)*
 - Courbet has proven his point — but the Salon still controls who gets seen
 - He's about to do something nobody in art history has done before
 
-**ACT 4 — The Pavilion + Realism as a Movement**
+**ACT 4 — The Pavilion**
 - 1855 World's Fair: jury rejects *The Painter's Studio*
-- He builds his own exhibition hall across the street — the Pavilion of Realism; charges admission; publishes a manifesto
+- He builds his own exhibition hall across the street — the Pavilion of Realism; charges admission; publishes a statement of purpose
 - First time in modern art history an artist mounted a major solo show outside the system
 - "To create living art — this is my goal."
-- *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right; Baudelaire (introduced) in the corner reading
-- Realism as a movement: Rosa Bonheur (*The Horse Fair*, 1853); her police permit to dress as a man; Queen Victoria; Legion of Honour; the château — doing all this as a woman in the 1850s
-- European Realism: Germany (Menzel — industrial workers), Belgium (Meunier — miners and dockers), Britain (Ford Madox Brown's *Work*)
-- America (Eakins) and Russia (the Wanderers) — same impulse, different soil
+- *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right; Baudelaire in the corner reading
 - *[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
 
 **ACT 5 — The Fall**
@@ -441,8 +432,8 @@ That's next time.
 - The parallel to David — both exiled, both died abroad; but Courbet never switched sides
 
 **ACT 6 — The Legacy**
-- What Courbet proved: real life is worthy of the biggest canvas; the system can be rejected; you can write your own manifesto
-- He changed who gets to decide what gets shown — path he cut in 1855
+- What Courbet proved: real life is worthy of the biggest canvas; the system can be rejected; you can publish your own statement of purpose
+- Every independent exhibition after him — Impressionists 1874, Vienna Secession, every DIY show — Courbet was there first
 - Hook to Episode 4: not "what is real life?" but "what does it actually *look like*?" — the Impressionists
 
 ---
@@ -491,12 +482,7 @@ These names and words appear in the script and may need practice before recordin
 - ⚠️ Courbet quote ("I am fifty years old...") — needs exact source and translation verified. Production note in script flags this.
 - ⚠️ Direct connection between Courbet and Balzac's *The Unknown Masterpiece* — suggestive but not documented. Fact-check note in script flags this.
 - ⚠️ June Days casualty count: updated to "hundreds killed, thousands arrested" — the exact figures are disputed across sources; current hedging is appropriate.
-- ⚠️ Rosa Bonheur — Legion of Honour: she received it in 1865 (verify); one of the first women in fine arts. *The Horse Fair* shown at the 1853 Salon — confirm. Police permit to wear trousers: widely documented, verify the exact law (Paris ordinance requiring women to obtain permission to wear men's clothes). Queen Victoria/Windsor Castle visit — widely cited, verify. *The Horse Fair* dimensions: approximately 8.5 × 16.5 ft — confirm.
-- ⚠️ Adolph Menzel *Iron Rolling Mill* (1875) — confirm date and title (*Eisenwalzwerk*)
-- ⚠️ Constantin Meunier as Belgian painter-sculptor of industrial workers — confirm; key works include *The Puddler* and paintings of mining scenes.
-- ⚠️ Ford Madox Brown *Work* (1852–65) — confirm dates.
-- ⚠️ *Young Women on the Banks of the Seine* (1856) — confirm Salon date and critical reception.
-- ⚠️ *Bonjour, Monsieur Courbet* (1854): patron is Alfred Bruyas — confirm.
+- ⚠️ Rosa Bonheur — Legion of Honour: she received it in 1865 (verify); one of the first women in fine arts. *The Horse Fair* shown at the 1853 Salon — confirm.
 - ⚠️ *The Origin of the World* commissioned by — widely cited as Khalil Bey (Ottoman diplomat, not Turkish-Egyptian). Verify and correct if needed.
 - ✅ Thomas Eakins as American Realist — confirmed; *The Gross Clinic* (1875) is the landmark work.
 - ✅ Russian Wanderers (Peredvizhniki) rejected the Imperial Academy — confirmed (founded 1870).
