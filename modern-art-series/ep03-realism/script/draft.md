@@ -6,18 +6,18 @@
 
 ## ACT 1: COLD OPEN
 
-*[No music. Talking head, direct to camera. Storytelling energy — painting a scene.]*
+*[No music. Talking head, direct to camera. Hook energy — pull them in fast.]*
 
 [TALKING HEAD]
 
-Okay so imagine this. It's 1850. You walk into the Salon in Paris — the biggest art exhibition in the world. Every painting on the wall is what you'd expect. Gods. Heroes. Ancient battles. Beautiful women in made-up settings. The usual.
+One of the biggest scandals in nineteenth-century art wasn't caused by violence, or nudity, or politics. It was caused by a funeral. A funeral in a tiny village, with bored mourners, a stray dog, and a hole in the ground. That's it. And it nearly broke the art world in half.
 
-Then you turn a corner and there's a painting the size of a wall — ten feet tall, twenty-two feet wide. And it's a funeral. In a small town. In the middle of nowhere.
+How? Why would *that* make people furious?
 
+Because the painter made it ten feet tall and twenty-two feet wide. That's the size you use for The Coronation of Napoleon. Not for a funeral in a village nobody's heard of.
 
-The art world goes furious. One critic calls it "a celebration of the common." Another: "a costume-party funeral six meters long where there's more to laugh at than to cry about."
+One critic called it "a celebration of the common." Another: "a costume-party funeral six meters long where there's more to laugh at than to cry about."
 
-*That* size is for the death of Caesar. The crowning of Napoleon. Not for a funeral in a village nobody's heard of.
 The painter heard all of this. His response, basically, was: *yeah. And?*
 
 His name was Gustave Courbet. And that painting — *A Burial at Ornans* — changed art forever.
@@ -52,7 +52,7 @@ So a new generation of artists started asking a different question. Not “what 
 
 There was also a new pressure: photography. By the 1850s, cameras were everywhere — and suddenly a machine could capture exactly what something looked like. Which raised an uncomfortable question for painters: if a machine can do that, why paint at all?
 
-This is the context in which Realism emerged as a conscious movement. And just to clarify — the name is a bit misleading. Realism doesn’t mean painting things that look extremely realistic.That idea — where a painting looks almost like a photograph — is called hyperrealism, and it comes much later, in the twentieth century. When nineteenth-century artists called themselves Realists, they meant something different: choosing ordinary life as your subject. Real people, real places, real situations — not gods, not heroes, not invented mythology.
+This is where Realism comes in — as a real, named movement. And just to clarify — the name is a bit misleading. Realism doesn’t mean painting things that look extremely realistic. That idea — where a painting looks almost like a photograph — is called hyperrealism, and it comes much later, in the twentieth century. When nineteenth-century artists called themselves Realists, they meant something different: choosing ordinary life as your subject. Real people, real places, real situations — not gods, not heroes, not invented mythology.
 
 A Realist painting might not look any more technically detailed than an academic one. The difference is what it's about.
 
@@ -77,7 +77,7 @@ Daumier was a political cartoonist — famous for mocking the powerful, and even
 
 But Rue Transnonain isn’t a cartoon. There’s no punchline, no caricature. It’s a record. It says: this is what happened.
 
-That’s Realism before it had a name. Showing reality plainly — without myth or heroism, without making it easier to look at — becomes its own form of resistance. No allegory. No frame. Just the body on the floor.
+That’s Realism before it had a name. Showing reality plainly — without myth or heroism, without making it easier to look at — becomes its own form of resistance. No hidden meaning. No frame. Just the body on the floor.
 
 
 
@@ -107,7 +107,7 @@ There’s a quote linked to him — it might not be real, but it captures his wh
 Think about what that means in context. The Salon’s most respected category was religious and mythological painting — angels, gods, biblical scenes. That was what serious art was supposed to be about. Courbet’s answer: show me an actual angel and I’ll put it on canvas. Since you can’t, I won’t. If it doesn’t exist in the real world, he has no interest in it.
 
 And from the start, he was building a public image around that idea. His early self-portraits show him as a wanderer, a pipe-smoker, a wounded man — ordinary versions of himself, not invented heroes. Always real.
-One of the most striking is Bonjour, Monsieur Courbet — painted in 1854, showing him on a road meeting his wealthy patron, Alfred Bruyas. Bruyas bows slightly in greeting. Courbet stands tall. A painter putting himself on the same level as a rich collector — or higher. In 1854, that wasn’t normal. It was bold — almost impudent. The patron greets him, not the other way around. It was a claim: the artist is not a servant. He stands on his own.
+One of the most striking is Bonjour, Monsieur Courbet — painted in 1854, showing him on a road meeting his wealthy patron, Alfred Bruyas. Bruyas bows slightly in greeting. Courbet stands tall. A painter putting himself on the same level as a rich collector — or higher. In 1854, that wasn’t normal. It was bold — almost rude. The patron greets him, not the other way around. It was a claim: the artist is not a servant. He stands on his own.
 
 And that idea — taking ordinary life and giving it that kind of weight — leads directly to his most famous work.
 
@@ -194,28 +194,8 @@ It was ordered by a private collector and hidden from the public for over a hund
 Why does it matter?
 
 Because this isn’t just provocative for the sake of it. It’s the most extreme version of what Courbet was always doing. It’s the logical end point of his idea of realism. If you’re going to paint reality — all of reality — without making it prettier, without a setup, without a cover story… this is where you end up.
-### Millet
 
-[TALKING HEAD — shifting tone, gentler]
-
-Courbet may be the most famous voice of Realism, but he wasn’t alone. In the 1850s and 1860s, other painters were turning to the same subjects — ordinary people, rural life, the working poor. Jules Breton painted harvest scenes with a serious, almost monumental feeling. Honoré Daumier, the cartoonist I mentioned earlier, also painted everyday Parisians — laundresses, lawyers, people riding in crowded trains. And then there’s Jean-François Millet.
-
-Millet grew up in a farming family in Normandy and worked in the fields as a child. He later trained as a painter, first in Cherbourg and then in Paris. So he knew rural life from the inside — and had the skill to paint it in a powerful way. In his work, peasants aren’t background figures. They’re calm, serious, and treated with a kind of quiet dignity.
-
-
-[ARTWORK: *The Gleaners*, 8 seconds]
-
-One of Millet’s most famous works is The Gleaners (1857).Three women bending to pick up leftover grain after a harvest. It's backbreaking work — the lowest form of farm labor. But Millet paints them like monuments. They fill the canvas. They have the weight and dignity of classical sculpture.
-
-Critics saw it as dangerous. "These are the scarecrows of poverty," one wrote. "Their ugliness is a protest." They accused Millet of being a socialist. He denied it. He said he just painted what he knew.
-Same defense Courbet used. 
-[ARTWORK: *The Angelus*, 5 seconds]
-
-And then there's *The Angelus* — a man and woman pausing in a field at sunset to pray. It became one of the most copied images of its time. You've seen it on calendars, plates, postcards, probably without knowing what it was.
-
-Dalí was so obsessed with it that he wrote an entire book arguing the woman was mourning a dead child buried in the field. Which is… actually a very beautiful and sad idea. But we have no way of knowing if it’s true. 
-
-If Courbet is the punk rocker of Realism, Millet is the folk singer. Similar subjects. Completely different personalities.
+But Courbet wasn’t just pushing the limits of what he could paint. He was about to challenge something even bigger: who gets to decide what the world sees.
 
 ---
 
@@ -229,7 +209,7 @@ So by the mid-1850s, Courbet has proven his point. You can paint real life — u
 
 ## ACT 4: THE PAVILION
 
-*[Underscore — defiant energy.]*
+*[Underscore — rebellious energy.]*
 
 [TALKING HEAD]
 
@@ -271,27 +251,51 @@ Courbet put himself at the center of the world. On one side, reality. On the oth
 
 The man has some ego. But it’s kind of earned. Because that *is* what he was doing. He was standing between the real world and the art world and saying: these two things need to talk to each other. Art needs to be about life. And life deserves art.
 
-### Realism as a Movement
+### Realism Beyond Courbet
 
 [TALKING HEAD]
 
-The Pavilion of Realism wasn’t just a personal act of defiance. It was the moment Realism declared itself a movement — and that movement was already spreading well beyond one man.
+The Pavilion of Realism wasn’t just a personal act of rebellion. It was the moment Realism declared itself a movement — and that movement was already much bigger than one man.
 
-In France, Rosa Bonheur had been making her mark since before Courbet built his Pavilion. Her painting *The Horse Fair* — first shown at the 1853 Salon — caused its own sensation two years earlier. It’s a huge canvas, over eight feet tall and sixteen feet wide, depicting horses at a Paris livestock market. The animals are in full motion — rearing, pulling, crowding. It’s technically extraordinary.
+If Courbet is the punk rocker of Realism, then Jean-François Millet is the folk singer. Same subjects. Completely different personality.
 
-What people often don’t know is what it took to paint it. To study her subjects, Bonheur spent months attending horse fairs and slaughterhouses in Paris — places women were not expected to go. She obtained a police permit allowing her to dress in men’s clothing, which was required by law for a woman who wanted to wear trousers in public. She wore boots and pants and observed everything. The painting is the product of that work. *[FACT CHECK: Police permit to wear men’s clothes — widely documented; verify the specific law and year]*
+Millet grew up in a farming family in Normandy and worked in the fields as a child. He later trained as a painter, first in Cherbourg and then in Paris. So he knew rural life from the inside — and had the skill to paint it in a powerful way. In his work, peasants aren’t background figures. They’re calm, serious, and treated with a kind of quiet dignity.
 
-She went on to become one of the most commercially successful painters in Europe — more famous in Britain than in France for a period. Queen Victoria requested to see *The Horse Fair* privately at Windsor Castle. The French government awarded her the Legion of Honour — one of the first women to receive it in the fine arts. She purchased a château near Fontainebleau with her earnings and kept a private collection of animals she used as models.
+One of his most famous paintings shows just how powerful that quiet approach could be.
 
-She did all of this in a world that treated women artists as a footnote.
+[ARTWORK: *The Gleaners*, 8 seconds]
 
-Across Europe, other painters were arriving at the same impulse by different roads. In Germany, Adolph Menzel painted factory workers and industrial scenes — railroad yards, blast furnaces, the unglamorous machinery of the modern world. In Belgium, Constantin Meunier spent his career painting and sculpting coal miners, steelworkers, and dockers. In Britain, Ford Madox Brown’s *Work* — a panoramic London street scene showing every class of person either laboring or avoiding labor — is the defining British Realist painting.
+[TALKING HEAD]
 
-And outside Europe: in America, Thomas Eakins painted surgery, rowing, and boxing with the same refusal to idealize. In Russia, a group called the Wanderers broke away from the Imperial Academy, refused official patronage, and brought their paintings of peasants and rural poverty directly to audiences across the country — bypassing the official system the same way Courbet had in 1855.
+*The Gleaners.* 1857. Three women bending down to pick up leftover grain after a harvest. It’s backbreaking work — the lowest form of farm labor. But Millet paints them like they’re made of stone. They fill the canvas. They have the weight and presence of classical sculpture.
 
-The same impulse everywhere. Don’t invent. Don’t idealize. Don’t reach for mythology. Look at what’s actually in front of you.
+Critics saw it as dangerous. "These are the scarecrows of poverty," one wrote. "Their ugliness is a protest." They accused Millet of being a socialist. He denied it. He said he just painted what he knew. Same defense Courbet used.
 
-*[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
+[ARTWORK: *The Angelus*, 5 seconds]
+
+And then there’s *The Angelus* — a man and woman pausing in a field at sunset to pray. It became one of the most copied images of its time. You’ve seen it on calendars, plates, postcards, probably without knowing what it was.
+
+Dalí was so obsessed with it that he wrote an entire book arguing the woman was mourning a dead child buried in the field. Which is… actually a very beautiful and sad idea. But we have no way of knowing if it’s true.
+
+Other French Realists were working along similar lines. Jules Breton painted harvest scenes with a serious, almost grand feeling. Honoré Daumier, the cartoonist I mentioned earlier, is known for his caricatures — but he also made paintings of everyday Parisians: laundresses, lawyers, people packed into crowded trains.
+
+And then there’s Rosa Bonheur. Her painting The Horse Fair — first shown at the 1853 Salon — caused a stir two years before Courbet even built his Pavilion. It’s huge — over eight feet tall and sixteen feet wide — showing horses at a Paris market, full of motion and energy.
+
+Bonheur was known for painting animals — horses, cattle, rural life — with a level of detail that was rare at the time.
+
+What people often don’t realize is what it took to make this. To study horses up close, she went to livestock markets and slaughterhouses — places women weren’t expected to go. She even got a police permit to wear men’s clothing, which the law required. Boots, pants, hours of observation. That’s how this painting was made.
+
+And she wasn’t just unusual — she was hugely successful. One of the most commercially successful  artists in Europe at the time. So famous that Queen Victoria asked to see The Horse Fair in private. She was awarded the Legion of Honour — one of the first women artists to receive it.
+
+At a time when women were rarely taken seriously as artists, Bonheur built a career on her own terms.
+
+And the movement kept spreading. Across Europe, artists reached the same idea in different ways. In Germany, Adolph Menzel painted factory workers and industrial scenes. In Belgium, Constantin Meunier focused on miners and laborers. In Britain, Ford Madox Brown’s Work captured a whole London street — every class, working or not.
+
+And outside Europe: in America, Thomas Eakins painted surgery, rowing, and boxing. In Russia, the Wanderers broke from the Academy and took their paintings of peasants and poverty straight to the public, going around the system, just like Courbet.
+
+The same idea everywhere. Don’t invent. Don’t idealize. Look at what’s actually in front of you.
+
+*[BRIDGE: Realism was on the rise. The idea had spread across countries, across oceans. But Courbet, one of the key figures at the beginning of it all, was still in Paris. And Paris was heading into another dramatic chapter in its history.]*
 
 ---
 
@@ -335,10 +339,11 @@ There's a parallel to David here worth noting. Both painters got tangled up in r
 
 But there's a key difference. David switched sides — from the Revolution to Napoleon — without missing a beat. Courbet never did. He stayed a radical to the end. He paid for it with everything.
 
-Near the end of his life, he wrote what might be the most powerful farewell any artist has ever left behind:
+Near the end of his life, Courbet wrote a letter that sums up everything he stood for: 
 
-"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any régime except the régime of liberty.'" *[PRODUCTION NOTE: Verify exact source and translation of this quote — cite in video description]*
+"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any régime except the régime of liberty.'" 
 
+There’s something moving about reading a man’s request for how he wants to be remembered. But I think Courbet’s life and work really live up to his letter. What do you think — did he manage to be remembered the way he wished?
 ---
 
 ## ACT 6: THE LEGACY
@@ -347,25 +352,22 @@ Near the end of his life, he wrote what might be the most powerful farewell any 
 
 [TALKING HEAD — direct to camera]
 
-What did Courbet prove?
-
-He proved you can paint real life. Not mythology, not allegory, not the dreams of the ruling class — just life. Ugly, ordinary, unglamorous life.
+Courbet proved you can paint real life. Not mythology, not hidden symbols, not the dreams of the ruling class — just life. Ugly, ordinary, plain life.
 
 And he proved that it's worthy of the biggest canvas you can find.
 
-He proved you can reject the system. You can build your own exhibition hall. You can publish your own statement of purpose. You can tell the Salon and the art school and the entire art world to go to hell, and you can survive it.
+He proved you can reject the system. You can build your own exhibition hall. You can write your own rules. You can tell the Salon and the art school and the entire art world to go to hell, and you can survive it.
 
 He didn't just change what painting was about. He changed who got to decide what got shown. Every artist who ever stepped outside the official system — rented their own space, built their own audience, showed on their own terms — they were following a path Courbet cut in 1855.
 
 *[Beat. Energy builds.]*
 
-Courbet proved you could paint real life. But a group of young painters — some of whom attended Delacroix's funeral, some of whom had seen Courbet's work and been electrified by it — were about to ask a question Courbet never thought to ask.
-
+Courbet proved you could paint real life. But a group of young painters — some of whom attended Delacroix’s funeral, some of whom had seen Courbet’s work and been shaken by it — were about to ask a new question — one Courbet’s work opened the path to.
 Not "what is real life?" but "what does real life actually *look like*?"
 
-Not what's in front of you. But how your eyes actually *see* it. The light. The color. The way a face dissolves in afternoon sun. The way water shimmers. The way a moment — a single, unrepeatable moment — feels before it's gone.
+Not what’s in front of you. But how your eyes actually see it. The way color shifts in changing light. The way water shimmers. The way a moment — a single, unrepeatable moment — feels before it’s gone.
 
-They'd be mocked. They'd be rejected. They'd be named after an insult. And they'd change everything.
+They’d be mocked. They’d be rejected. They’d be named after an insult. And they would push painting into something never seen before.
 
 That's next time.
 
@@ -386,10 +388,10 @@ That's next time.
 2. The Stone Breakers — brief, but poignant given the destruction context
 
 **Tone arc:**
-- Cold open: vivid scene-setting, almost amused
+- Cold open: hook with curiosity gap, then scene-setting
 - Act 2: grounded, serious (1848, photography, Daumier)
 - Act 3: energetic, building (Courbet's personality carries it)
-- Act 4: defiant, admiring
+- Act 4: rebellious, admiring
 - Act 5: dark, tragic
 - Act 6: reflective, then forward-looking
 
@@ -405,62 +407,71 @@ That's next time.
 ### CHAPTER OUTLINE
 
 **ACT 1 — Cold Open**
-- Walking into the 1850 Salon and seeing *A Burial at Ornans* — ten feet tall, twenty-two feet wide, a funeral in a village nobody's heard of
-- Paris loses its mind; critics' quotes; the scale as the scandal
-- Courbet introduced: loud, full of himself, and completely unbothered
+- Hook: one of the biggest scandals in nineteenth-century art was caused by… a funeral
+- Curiosity gap: how? why? — then reveal: the size is the scandal (ten by twenty-two feet — the scale of *The Coronation of Napoleon*)
+- Critics' quotes; Courbet introduced: his response was basically *yeah. And?*
 
 **ACT 2 — The World in 1848**
 - The revolutions of 1848: France, Vienna, Berlin, Budapest — the Springtime of Peoples
-- The June Days: crushed. Louis-Napoleon seizes power. The Republic dies, again.
+- The June Days: crushed. Louis-Napoleon seizes power. The Republic dies, again
 - The Romantic dream of revolution met reality — and reality won
 - New question: not "what does the world *feel* like?" (Romanticism) but "what does it actually *look* like?"
 - Photography by the 1850s: if a machine captures reality, why paint? — the crisis
 - Realism introduced: not about painting things that look "realistic" (that's hyperrealism, much later) — about choosing ordinary life as subject
 - A painting isn't a photograph: it chooses what to show and what it means
-- Daumier's *Rue Transnonain* (1834): showing reality without heroism or mythology — the Realist idea before it had a name; Courbet will scale it to twenty-two feet
-- *[OPTIONAL BRIDGE: A generation had grown up watching revolution fail. Photography was pushing painting toward a choice. Into that moment stepped one man who had a very clear answer — and zero interest in being polite about it.]*
+- Daumier's *Rue Transnonain* (1834): showing reality without heroism or mythology — the Realist idea before it had a name
+- Bridge: a generation watching revolution fail + photography pushing painting to reinvent itself → enter Courbet
 
 **ACT 3 — Courbet**
-- Born 1819, Ornans; prosperous landowner father; physically imposing, fixture at the Brasserie Andler where Realist ideas were argued out
-- Self-taught in the Louvre; building his public image through self-portraits (*The Desperate Man*, *The Wounded Man*, *The Man with a Pipe*)
-- *Bonjour, Monsieur Courbet* (1854): painter stands taller than his wealthy patron — a statement about what an artist is
+- Born 1819, Ornans; well-off family; trained in Paris but rejected the Académie; studied old masters in the Louvre; fixture at the Brasserie Andler
+- Building his public image through self-portraits — always real, never invented heroes
 - "Show me an angel and I'll paint one" — the Salon's hierarchy explained; Courbet's answer
-- *A Burial at Ornans* (1849–50): real people painted life-size at history-painting scale — the full analysis
-- The challenge is the scale — ordinary people given the size reserved for kings and gods
-- *The Stone Breakers* (1849): labor with no story, no hope of change; destroyed in the Dresden bombing, 1945
-- *Young Women on the Banks of the Seine* (1856): modern women, no mythology, no idealization — critics outraged
+- *Bonjour, Monsieur Courbet* (1854): painter stands taller than his wealthy patron — bold, almost rude
+- *A Burial at Ornans* (1849–50): **the centerpiece** — real people painted life-size at history-painting scale; the full analysis; silence moment (10–15 sec)
+- The challenge is the scale — ordinary people given the size reserved for kings and gods; critics furious
+- *The Stone Breakers* (1849): labor with no story, no hope of change
+- *Young Women on the Banks of the Seine* (1856): modern women shown without idealization — critics outraged
 - *The Origin of the World* (1866): the logical endpoint — the body as it is, no mythology as cover
-- Millet: movement-level intro (Breton, Daumier); Millet's background — farming family, educated, peasant gravity of biblical figures; *The Gleaners* (1857), *The Angelus*
+- Bridge: Courbet wasn't just pushing what he could paint — he was about to challenge who gets to decide what the world sees
 
-**ACT 3 → 4 — From Truth to Defiance** *(spoken bridge section)*
+**ACT 3 → 4 — From Truth to Defiance** *(spoken bridge)*
 - Courbet has proven his point — but the Salon still controls who gets seen
 - He's about to do something nobody in art history has done before
 
-**ACT 4 — The Pavilion + Realism as a Movement**
+**ACT 4 — The Pavilion + Realism Beyond Courbet**
 - 1855 World's Fair: jury rejects *The Painter's Studio*
-- He builds his own exhibition hall across the street — the Pavilion of Realism; charges admission; publishes a manifesto
-- First time in modern art history an artist mounted a major solo show outside the system
+- Courbet builds his own exhibition hall across the street — the Pavilion of Realism; charges admission; publishes his beliefs
 - "To create living art — this is my goal."
-- *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right; Baudelaire (introduced) in the corner reading
-- Realism as a movement: Rosa Bonheur (*The Horse Fair*, 1853); her police permit to dress as a man; Queen Victoria; Legion of Honour; the château — doing all this as a woman in the 1850s
-- European Realism: Germany (Menzel — industrial workers), Belgium (Meunier — miners and dockers), Britain (Ford Madox Brown's *Work*)
-- America (Eakins) and Russia (the Wanderers) — same impulse, different soil
-- *[OPTIONAL BRIDGE: Courbet had beaten the system on his own terms. But the real world he loved so much was about to drag him into something there was no painting his way out of.]*
+- First independent exhibition in modern art history; the prototype for everything that follows
+- Personal reflection: today this seems normal — but someone had to take that first step
+- *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right; Baudelaire in the corner reading; ego earned
+- **Realism beyond Courbet:**
+  - Millet — the "folk singer" to Courbet's punk rocker; farming family background; *The Gleaners* (1857); *The Angelus*; Dalí's obsession
+  - French Realists: Breton (harvest scenes), Daumier (paintings of everyday Parisians)
+  - Rosa Bonheur: *The Horse Fair* (1853); police permit to wear men's clothing; livestock markets and slaughterhouses; hugely successful; Queen Victoria; Legion of Honour; built a career on her own terms
+  - European Realism: Menzel (Germany — factory workers), Meunier (Belgium — miners), Ford Madox Brown (Britain — *Work*)
+  - Outside Europe: Eakins (America), the Wanderers (Russia — broke from the Academy, took art to the public)
+- The same idea everywhere: don't invent, don't idealize, look at what's in front of you
+- Bridge: Realism was on the rise — but Courbet was still in Paris, and Paris was heading into another dramatic chapter
 
 **ACT 5 — The Fall**
-- 1870: Franco-Prussian War, France loses badly, Napoleon III captured; Paris surrounded for four months
+- 1870: Franco-Prussian War; France loses badly; Napoleon III captured; Paris surrounded for four months
 - March 1871: the Paris Commune — seventy-two days as its own city
 - Courbet elected to the Commune's council; put in charge of protecting art and museums
 - The Vendôme Column: torn down May 16, 1871; Courbet's name attached to the decision
-- Bloody Week: French army retakes Paris; thousands killed; Courbet arrested, sentenced to six months
-- Ordered to pay 323,000 francs to rebuild the Column; flees to Switzerland 1873
+- Bloody Week: French army retakes Paris; thousands killed
+- Courbet arrested, sentenced to six months; ordered to pay 323,000 francs to rebuild the Column
+- Flees to Switzerland 1873; drinks heavily; health falls apart
 - Dies in exile, New Year's Eve 1877; the debt still unpaid
-- The parallel to David — both exiled, both died abroad; but Courbet never switched sides
+- The parallel to David — both exiled, both died abroad; but David switched sides, Courbet never did
+- Courbet's letter: "He belonged to no school, to no church, to no institution…"
+- Direct question to viewer: did he manage to be remembered the way he wished?
 
 **ACT 6 — The Legacy**
-- What Courbet proved: real life is worthy of the biggest canvas; the system can be rejected; you can write your own manifesto
-- He changed who gets to decide what gets shown — path he cut in 1855
-- Hook to Episode 4: not "what is real life?" but "what does it actually *look like*?" — the Impressionists
+- What Courbet proved: real life is worthy of the biggest canvas; the system can be rejected; you can write your own rules
+- He changed who gets to decide what gets shown — the path he cut in 1855
+- Hook to Episode 4: not "what is real life?" but "what does real life actually *look like*?" — light, color, the unrepeatable moment
+- They'd be mocked, rejected, named after an insult — and they would push painting into something never seen before
 
 ---
 
