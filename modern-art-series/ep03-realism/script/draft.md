@@ -64,7 +64,7 @@ Photography pushed artists toward a choice: go inward, toward feeling and abstra
 
 [TALKING HEAD]
 
-Before Realism became a movement, something like it was already beginning to take shape. You can see it emerging here.
+Before Realism became a movement, something like it was already beginning to take shape. You can see the beginnings of it here.
 [ARTWORK: Daumier, *Rue Transnonain, April 15, 1834*, 8 seconds]
 
 [TALKING HEAD]
@@ -179,22 +179,6 @@ These are city women escaping the heat, not mythological figures or polished lad
 
 That’s a scandal! The Salon showed it, and the critics were outraged — it felt too physical, too present, too much like real life. That, of course, was exactly Courbet’s point.
 
-### The Logical Endpoint
-
-[TALKING HEAD]
-
-So where does Realism lead when you take it all the way? If the rule is: paint reality without excuses, without mythology, without making it prettier than it is — what happens when you apply that rule to the human body?
-
-In 1866, Courbet gave one answer. He painted The Origin of the World. A close-up of a woman’s body — her genitals. No face. No setting. No mythological excuse for showing a naked woman. Just a body, painted honestly, as it is.
-
-Academic painters had painted the nude for centuries — but almost always wrapped in mythology. A goddess. A nymph. A made-up character. That gave it a respectable cover. Courbet stripped that cover away. No story. No excuse. Just the body as it is.
-
-It was ordered by a private collector and hidden from the public for over a hundred years. It now hangs in the Musée d’Orsay in Paris — and it still shocks people.
-
-Why does it matter?
-
-Because this isn’t just provocative for the sake of it. It’s the most extreme version of what Courbet was always doing. It’s the logical end point of his idea of realism. If you’re going to paint reality — all of reality — without making it prettier, without a setup, without a cover story… this is where you end up.
-
 But Courbet wasn’t just pushing the limits of what he could paint. He was about to challenge something even bigger: who gets to decide what the world sees.
 
 ---
@@ -251,51 +235,37 @@ Courbet put himself at the center of the world. On one side, reality. On the oth
 
 The man has some ego. But it’s kind of earned. Because that *is* what he was doing. He was standing between the real world and the art world and saying: these two things need to talk to each other. Art needs to be about life. And life deserves art.
 
+### The Logical Endpoint
+
+[TALKING HEAD]
+
+Courbet had challenged the system — built his own stage, put himself at the center of his own world. But he kept pushing the art itself further too. And the question remained: where does Realism lead when you take it all the way? If the rule is: paint reality without excuses, without mythology, without making it prettier than it is — what happens when you apply that rule to the human body?
+
+In 1866, Courbet gave one answer. He painted The Origin of the World. A close-up of a woman’s body — her genitals. No face. No setting. No mythological excuse for showing a naked woman. Just a body, painted honestly, as it is.
+
+Academic painters had painted the nude for centuries — but almost always wrapped in mythology. A goddess. A nymph. A made-up character. That gave it a respectable cover. Courbet stripped that cover away. No story. No excuse. Just the body as it is.
+
+It was ordered by a private collector and hidden from the public for over a hundred years. It now hangs in the Musée d’Orsay in Paris — and it still shocks people.
+
+Why does it matter?
+
+Because this isn’t just provocative for the sake of it. It’s the most extreme version of what Courbet was always doing. It’s the logical end point of his idea of realism. If you’re going to paint reality — all of reality — without making it prettier, without a setup, without a cover story… this is where you end up.
+
 ### Realism Beyond Courbet
 
 [TALKING HEAD]
 
-The Pavilion of Realism wasn’t just a personal act of rebellion. It was the moment Realism declared itself a movement — and that movement was already much bigger than one man.
+That’s how far Courbet was willing to go. But Realism — the idea itself — was already much bigger than one man, and it was taking many forms across the world.
 
-If Courbet is the punk rocker of Realism, then Jean-François Millet is the folk singer. Same subjects. Completely different personality.
-
-Millet grew up in a farming family in Normandy and worked in the fields as a child. He later trained as a painter, first in Cherbourg and then in Paris. So he knew rural life from the inside — and had the skill to paint it in a powerful way. In his work, peasants aren’t background figures. They’re calm, serious, and treated with a kind of quiet dignity.
-
-One of his most famous paintings shows just how powerful that quiet approach could be.
+Jean-François Millet grew up on a farm in Normandy and painted rural life from the inside. His most famous painting — *The Gleaners*, 1857 — shows three women picking up leftover grain after a harvest. Backbreaking, invisible work. But Millet paints them with the weight and presence of classical sculpture. Critics called it dangerous. They accused him of being a socialist. He said he just painted what he knew. Same defense Courbet used.
 
 [ARTWORK: *The Gleaners*, 8 seconds]
 
-[TALKING HEAD]
+Rosa Bonheur’s *The Horse Fair* — first shown at the 1853 Salon — caused a stir two years before Courbet even built his Pavilion. To study horses up close, she went to livestock markets and slaughterhouses — places women weren’t expected to go. She even got a police permit to wear men’s clothing, which the law required. At a time when women were rarely taken seriously as artists, Bonheur became one of the most commercially successful artists in Europe — so famous that Queen Victoria asked to see the painting in private.
 
-*The Gleaners.* 1857. Three women bending down to pick up leftover grain after a harvest. It’s backbreaking work — the lowest form of farm labor. But Millet paints them like they’re made of stone. They fill the canvas. They have the weight and presence of classical sculpture.
+And the movement kept spreading. In Germany, Adolph Menzel painted factory workers. In Russia, the Wanderers broke from the Academy and took their paintings of peasants and poverty straight to the public — going around the system, just like Courbet. In America, Thomas Eakins painted surgery and boxing. The same idea everywhere: don’t invent, don’t idealize — look at what’s actually in front of you.
 
-Critics saw it as dangerous. "These are the scarecrows of poverty," one wrote. "Their ugliness is a protest." They accused Millet of being a socialist. He denied it. He said he just painted what he knew. Same defense Courbet used.
-
-[ARTWORK: *The Angelus*, 5 seconds]
-
-And then there’s *The Angelus* — a man and woman pausing in a field at sunset to pray. It became one of the most copied images of its time. You’ve seen it on calendars, plates, postcards, probably without knowing what it was.
-
-Dalí was so obsessed with it that he wrote an entire book arguing the woman was mourning a dead child buried in the field. Which is… actually a very beautiful and sad idea. But we have no way of knowing if it’s true.
-
-Other French Realists were working along similar lines. Jules Breton painted harvest scenes with a serious, almost grand feeling. Honoré Daumier, the cartoonist I mentioned earlier, is known for his caricatures — but he also made paintings of everyday Parisians: laundresses, lawyers, people packed into crowded trains.
-
-And then there’s Rosa Bonheur. Her painting The Horse Fair — first shown at the 1853 Salon — caused a stir two years before Courbet even built his Pavilion. It’s huge — over eight feet tall and sixteen feet wide — showing horses at a Paris market, full of motion and energy.
-
-Bonheur was known for painting animals — horses, cattle, rural life — with a level of detail that was rare at the time.
-
-What people often don’t realize is what it took to make this. To study horses up close, she went to livestock markets and slaughterhouses — places women weren’t expected to go. She even got a police permit to wear men’s clothing, which the law required. Boots, pants, hours of observation. That’s how this painting was made.
-
-And she wasn’t just unusual — she was hugely successful. One of the most commercially successful  artists in Europe at the time. So famous that Queen Victoria asked to see The Horse Fair in private. She was awarded the Legion of Honour — one of the first women artists to receive it.
-
-At a time when women were rarely taken seriously as artists, Bonheur built a career on her own terms.
-
-And the movement kept spreading. Across Europe, artists reached the same idea in different ways. In Germany, Adolph Menzel painted factory workers and industrial scenes. In Belgium, Constantin Meunier focused on miners and laborers. In Britain, Ford Madox Brown’s Work captured a whole London street — every class, working or not.
-
-And outside Europe: in America, Thomas Eakins painted surgery, rowing, and boxing. In Russia, the Wanderers broke from the Academy and took their paintings of peasants and poverty straight to the public, going around the system, just like Courbet.
-
-The same idea everywhere. Don’t invent. Don’t idealize. Look at what’s actually in front of you.
-
-*[BRIDGE: Realism was on the rise. The idea had spread across countries, across oceans. But Courbet, one of the key figures at the beginning of it all, was still in Paris. And Paris was heading into another dramatic chapter in its history.]*
+*[BRIDGE: Realism had spread across countries, across oceans. But Courbet was still in Paris. And Paris was heading into another dramatic chapter.]*
 
 ---
 
@@ -359,6 +329,22 @@ And he proved that it's worthy of the biggest canvas you can find.
 He proved you can reject the system. You can build your own exhibition hall. You can write your own rules. You can tell the Salon and the art school and the entire art world to go to hell, and you can survive it.
 
 He didn't just change what painting was about. He changed who got to decide what got shown. Every artist who ever stepped outside the official system — rented their own space, built their own audience, showed on their own terms — they were following a path Courbet cut in 1855.
+
+*[Beat. Reflective.]*
+
+Isn't it fascinating how every generation of artists inspires the next? How ideas evolve, and how the events and movements of each era shape the art of that time?
+
+Nothing is isolated. Every artwork is connected to the time and place it was made in. That's why knowing the story behind a painting adds so much depth. There are politics and ideology behind every choice — the size, the materials, the technique, the subject, and how it's portrayed… Every choice has a reason. Even when it's unconscious.
+
+Learning art history completely changes how you experience art. There's a huge gap between just looking at a painting and actually understanding it.
+
+For example, that’s why I love Black Square by Malevich. You really can't appreciate it without knowing the ideas behind it — and I can't wait to get to that. Because this — yes, a plain black canvas — has real genius behind it.
+
+In the same way, painting a poor villager's burial at the scale of a king's coronation was bold, radical, and political in Courbet's time.
+
+But Black Square won't appear for a few more decades. There are still more ideas, more movements to go through first. We're just getting started. 
+
+Okay, okay… enough yapping.
 
 *[Beat. Energy builds.]*
 
@@ -431,20 +417,20 @@ That's next time.
 - The challenge is the scale — ordinary people given the size reserved for kings and gods; critics furious
 - *The Stone Breakers* (1849): labor with no story, no hope of change
 - *Young Women on the Banks of the Seine* (1856): modern women shown without idealization — critics outraged
-- *The Origin of the World* (1866): the logical endpoint — the body as it is, no mythology as cover
 - Bridge: Courbet wasn't just pushing what he could paint — he was about to challenge who gets to decide what the world sees
 
 **ACT 3 → 4 — From Truth to Defiance** *(spoken bridge)*
 - Courbet has proven his point — but the Salon still controls who gets seen
 - He's about to do something nobody in art history has done before
 
-**ACT 4 — The Pavilion + Realism Beyond Courbet**
+**ACT 4 — The Pavilion + The Logical Endpoint + Realism Beyond Courbet**
 - 1855 World's Fair: jury rejects *The Painter's Studio*
 - Courbet builds his own exhibition hall across the street — the Pavilion of Realism; charges admission; publishes his beliefs
 - "To create living art — this is my goal."
 - First independent exhibition in modern art history; the prototype for everything that follows
 - Personal reflection: today this seems normal — but someone had to take that first step
 - *The Painter's Studio* (1855): Courbet at the center; reality on the left, art on the right; Baudelaire in the corner reading; ego earned
+- *The Origin of the World* (1866): the logical endpoint — the body as it is, no mythology as cover; the most extreme version of Courbet's Realism
 - **Realism beyond Courbet:**
   - Millet — the "folk singer" to Courbet's punk rocker; farming family background; *The Gleaners* (1857); *The Angelus*; Dalí's obsession
   - French Realists: Breton (harvest scenes), Daumier (paintings of everyday Parisians)
