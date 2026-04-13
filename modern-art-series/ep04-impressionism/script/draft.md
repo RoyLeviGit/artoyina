@@ -30,6 +30,8 @@ Mary Cassatt's mothers and children will hang in the greatest museums in America
 
 But on that April morning in 1874, they were just a group of friends who'd been told "no" so many times they decided to say it back.
 
+This is the story of how a group of broke, rejected painters invented a new way of seeing — and accidentally became the most beloved artists in history.
+
 ---
 
 ## ACT 2: THE DOOR OPENS
@@ -40,7 +42,7 @@ But on that April morning in 1874, they were just a group of friends who'd been 
 
 [TALKING HEAD]
 
-Before the Impressionists, there was Manet. Édouard Manet. He's not technically an Impressionist — he never exhibited with them — but he's the one who kicked the door open.
+Before we get to the Impressionists themselves, we need to start with the man who made them possible. Édouard Manet. He's not technically an Impressionist — he never exhibited with them — but he's the one who kicked the door open.
 
 In 1863, the Salon rejected so many paintings that Napoleon III, embarrassed, ordered a separate exhibition of the rejected works. The Salon des Refusés. And Manet showed two paintings that blew up like bombs.
 
@@ -72,17 +74,13 @@ The Impressionists took this science and ran with it. Instead of mixing colors o
 
 [TALKING HEAD]
 
-One more thing. And it's a small thing, but it changed everything.
+So Chevreul gave them the science. But there was also a practical invention — a small, almost silly one — that made all of this possible.
 
-Before the 1840s, if you wanted to paint, you ground your own colors and stored paint in pig bladders. Painting outdoors was a nightmare — the bladders leaked, the paint dried out, you had to carry everything.
+Before the 1840s, if you wanted to paint outdoors, you had to grind your own colors and store paint in pig bladders. They leaked, the paint dried out, it was a mess.
 
-Then someone invented the squeezable metal paint tube. Around 1841. A small, portable, sealable tube of pre-mixed paint.
+Then, around 1841, someone invented the squeezable metal paint tube. Renoir reportedly said: "Without tubes of paint, there would have been no Impressionism."
 
-Renoir reportedly said: "Without tubes of paint, there would have been no Impressionism."
-
-He wasn't exaggerating. The paint tube made outdoor painting — painting in the moment, in front of the subject — practical for the first time. Add railways — you could now take a train from Paris to the countryside in an hour — and suddenly a painter could stand in a field, in the light, and paint what they actually saw.
-
-And what they saw was Haussmann's Paris. The city itself was new — Baron Haussmann had redesigned it under Napoleon III. Wide boulevards, new buildings, parks, cafés. The Impressionists were painting modernity as it was being built. The city was their subject as much as the countryside.
+He wasn't exaggerating. Add railways — you could take a train from Paris to the countryside in an hour — and suddenly a painter could stand in a field, in actual sunlight, and paint what they saw. On top of that, Paris itself was being rebuilt. Baron Haussmann had redesigned the city under Napoleon III — wide boulevards, new cafés, parks. The Impressionists were painting modernity as it was being built.
 
 ---
 
@@ -126,15 +124,15 @@ He called it *Impression, Sunrise*. And when it was shown at that first independ
 
 [TALKING HEAD]
 
-They did eight independent exhibitions between 1874 and 1886. Thirty artists in the first one. The group was never stable — constant arguments about who to include, whether to also submit to the Salon, money, egos. The usual.
+They did eight independent exhibitions between 1874 and 1886. About thirty artists in the first one. The group was never stable — constant arguments about who to include, whether to also submit to the Salon, money, egos. The usual.
 
-But the principle held: we don't need the Salon. We don't need permission. We show our own work on our own terms.
-
-This is the direct descendant of Courbet's Pavilion of Realism. Courbet built one exhibition hall in 1855. The Impressionists built a movement.
+But the principle held: we don't need the Salon. We don't need permission. We show our own work on our own terms. If you saw episode three — that's the direct descendant of Courbet's Pavilion. Courbet built one exhibition hall. The Impressionists built a movement.
 
 ### Camille
 
 [TALKING HEAD — tone shift, quieter]
+
+I need to tell you something about Monet that changed how I think about what it means to be an artist. It's not easy to hear.
 
 In 1879, Monet's wife Camille died. She was thirty-two. He was at her bedside.
 
@@ -156,7 +154,7 @@ Monet couldn't turn it off. Nobody who paints like that can.
 
 [TALKING HEAD — energy returns, building]
 
-In the 1880s and '90s, Monet did something that took Impressionism to its logical conclusion. He started painting the same subject over and over and over.
+In the 1880s and '90s, Monet did something that took Impressionism to its logical conclusion — and, without knowing it, pointed the way toward abstract art. He started painting the same subject over and over and over.
 
 [ARTWORK: Two or three Haystacks side by side — different light conditions]
 
@@ -260,11 +258,9 @@ Her prints are extraordinary too — a series of color prints inspired by Japane
 
 Cassatt never married. She chose art over family life — a radical choice for a woman of her background and time. "I am independent!" she wrote. "I can live alone and I love to work."
 
-She was financially independent — family money plus sales — which gave her a freedom most women artists didn't have. And she used that freedom not just for herself.
+She was financially independent — family money plus sales — which gave her a freedom most women artists didn't have. And she used it. She helped American collectors build their Impressionist collections. Every time you see a Monet or a Degas in an American museum, there's a decent chance Mary Cassatt had something to do with it being there.
 
-She actively promoted other women artists. She helped American collectors — especially Louisine Havemeyer — build their Impressionist collections. She's a major reason American museums have so many Impressionist paintings today. Every time you see a Monet or a Degas in an American museum, there's a decent chance Mary Cassatt had something to do with it being there.
-
-And I want to mention Berthe Morisot — the other major woman Impressionist. She exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro.
+And while we're talking about women in Impressionism — I can't move on without mentioning Berthe Morisot. She exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro.
 
 Two of the most committed members of the group were women. That's not a footnote. That's central to the story.
 
@@ -276,7 +272,7 @@ Two of the most committed members of the group were women. That's not a footnote
 
 [TALKING HEAD]
 
-Let me give you the rest of the group in quick strokes.
+We've spent time with Monet and Cassatt — but there are a few more names you should know, because each of them pushed the movement in a different direction. Quick strokes.
 
 [ARTWORK: Degas, *The Dance Class*, 5–8 seconds]
 
@@ -290,7 +286,7 @@ Pierre-Auguste Renoir. The one who loved beauty. *Bal du moulin de la Galette* �
 
 And Camille Pissarro. The oldest of the group. Born in the Caribbean — the Danish West Indies — to a Jewish family. The most politically radical of the group — an anarchist. And the only one who exhibited in all eight independent exhibitions.
 
-He taught and guided nearly everyone who came through — including Cézanne and Gauguin, who we'll meet next episode. Cézanne called him "the humble and giant Pissarro." That's a beautiful phrase.
+He taught and guided nearly everyone who came through — including two painters whose names will come up a lot in the next episode: Cézanne and Gauguin. Remember them. Cézanne called Pissarro "the humble and giant Pissarro." That's a beautiful phrase.
 
 ---
 
