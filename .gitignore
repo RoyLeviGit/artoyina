@@ -2,10 +2,12 @@
 .obsidian/
 editing/**/gelem/
 editing/**/*.prin
+editing/**/Adobe Premiere Pro Video Previews/
 editing/**/Adobe Premiere Pro Audio Previews/
 editing/**/Adobe Premiere Pro Auto-Save/
 editing/**/Adobe After Effects Auto-Save/
 editing/**/cutback/
+editing/**/Exp/
 .env
 .kiro/
 *.flac

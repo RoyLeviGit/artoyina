@@ -22,6 +22,8 @@ The painter heard all of this. His response, basically, was: *yeah. And?*
 
 His name was Gustave Courbet. And that painting — *A Burial at Ornans* — changed art forever.
 
+This is the story of how one painter's stubbornness reshaped what art could be — his rise, his rebellion, and the price he paid for it.
+
 ---
 
 ## ACT 2: THE WORLD IN 1848
@@ -52,9 +54,7 @@ So a new generation of artists started asking a different question. Not “what 
 
 There was also a new pressure: photography. By the 1850s, cameras were everywhere — and suddenly a machine could capture exactly what something looked like. Which raised an uncomfortable question for painters: if a machine can do that, why paint at all?
 
-This is where Realism comes in — as a real, named movement. And just to clarify — the name is a bit misleading. Realism doesn’t mean painting things that look extremely realistic. That idea — where a painting looks almost like a photograph — is called hyperrealism, and it comes much later, in the twentieth century. When nineteenth-century artists called themselves Realists, they meant something different: choosing ordinary life as your subject. Real people, real places, real situations — not gods, not heroes, not invented mythology.
-
-A Realist painting might not look any more technically detailed than an academic one. The difference is what it's about.
+This is where Realism comes in — as a real, named movement. Quick thing: Realism doesn’t mean paintings that look realistic, like a photograph. That’s hyperrealism — and it comes much later. When these artists called themselves Realists, they meant something simpler: paint ordinary life. Real people, real places, real situations — not gods, not heroes, not mythology. A Realist painting might look similar to an academic one in technique and style. The difference is what it's about.
 
 And their answer to photography was this: a painting isn't a photograph. A photograph records. A painting reads into things. A photograph shows you what's there. A painting shows you what it *means*. The camera captures the surface. The painter chooses what to highlight, what to leave out, what to make you feel.
 
@@ -64,7 +64,7 @@ Photography pushed artists toward a choice: go inward, toward feeling and abstra
 
 [TALKING HEAD]
 
-Before Realism became a movement, something like it was already beginning to take shape. You can see the beginnings of it here.
+Before we get to Courbet, there's one image you need to see. Because even before Realism became a movement, something like it was already beginning to take shape. You can see the beginnings of it here.
 [ARTWORK: Daumier, *Rue Transnonain, April 15, 1834*, 8 seconds]
 
 [TALKING HEAD]
@@ -109,7 +109,7 @@ Think about what that means in context. The Salon’s most respected category wa
 And from the start, he was building a public image around that idea. His early self-portraits show him as a wanderer, a pipe-smoker, a wounded man — ordinary versions of himself, not invented heroes. Always real.
 One of the most striking is Bonjour, Monsieur Courbet — painted in 1854, showing him on a road meeting his wealthy patron, Alfred Bruyas. Bruyas bows slightly in greeting. Courbet stands tall. A painter putting himself on the same level as a rich collector — or higher. In 1854, that wasn’t normal. It was bold — almost rude. The patron greets him, not the other way around. It was a claim: the artist is not a servant. He stands on his own.
 
-And that idea — taking ordinary life and giving it that kind of weight — leads directly to his most famous work.
+And that idea — taking ordinary life and giving it that kind of weight — leads directly to his most famous work. Remember the funeral painting from the beginning? Here's the full story.
 
 ### The Burial at Ornans
 
@@ -179,7 +179,7 @@ These are city women escaping the heat, not mythological figures or polished lad
 
 That’s a scandal! The Salon showed it, and the critics were outraged — it felt too physical, too present, too much like real life. That, of course, was exactly Courbet’s point.
 
-But Courbet wasn’t just pushing the limits of what he could paint. He was about to challenge something even bigger: who gets to decide what the world sees.
+But Courbet wasn’t just pushing the limits of what he could paint. He was about to challenge something even bigger —  And I don’t want to exaggerate, but if you’re an artist—or just someone who enjoys art—this next part explains why you should thank Courbet for what he did for you.
 
 ---
 
@@ -255,7 +255,7 @@ Because this isn’t just provocative for the sake of it. It’s the most extrem
 
 [TALKING HEAD]
 
-That’s how far Courbet was willing to go. But Realism — the idea itself — was already much bigger than one man, and it was taking many forms across the world.
+That’s how far Courbet was willing to go. We’ll come back to him soon — his story isn’t over, and the ending is rough. But first, a quick look at how far the idea had spread — because Realism was already much bigger than one man.
 
 Jean-François Millet grew up on a farm in Normandy and painted rural life from the inside. His most famous painting — *The Gleaners*, 1857 — shows three women picking up leftover grain after a harvest. Backbreaking, invisible work. But Millet paints them with the weight and presence of classical sculpture. Critics called it dangerous. They accused him of being a socialist. He said he just painted what he knew. Same defense Courbet used.
 
@@ -285,7 +285,7 @@ For seventy-two days, Paris was its own country.
 
 Courbet was elected to the Commune's council. He was put in charge of protecting Parisian art and museums — which, given that he was the most famous artist in France, made sense.
 
-But then there was the Vendôme Column.
+But then there was the Vendôme Column. And this is where everything started to go downhill for Courbet.
 
 The Vendôme Column was a monument in central Paris — a tall column topped with a statue of Napoleon, made from melted-down enemy cannons. A symbol of conquest and empire.
 
@@ -308,6 +308,8 @@ He died on New Year's Eve, 1877. In La Tour-de-Peilz, Switzerland. He was fifty-
 There's a parallel to David here worth noting. Both painters got tangled up in revolutionary politics. Both ended in exile. Both died in foreign countries.
 
 But there's a key difference. David switched sides — from the Revolution to Napoleon — without missing a beat. Courbet never did. He stayed a radical to the end. He paid for it with everything.
+
+I talked about David in a previous video — I’ll link it in the description.
 
 Near the end of his life, Courbet wrote a letter that sums up everything he stood for: 
 
