@@ -29,7 +29,7 @@ That's the story of the Impressionists. And of course it starts with a scandal.
 
 [TALKING HEAD]
 
- already talked about Gustave Courbet — the artist who basically picked a fight with the entire art world and won. He looked at everything they valued — gods, heroes, perfection — and said: I’m not doing that. He painted farmers. Funerals. Ordinary people — and he made them enormous. And somehow… it worked.
+I already talked about Gustave Courbet — the artist who basically picked a fight with the entire art world and won. He looked at everything they valued — gods, heroes, perfection — and said: I’m not doing that. He painted farmers. Funerals. Ordinary people — and he made them enormous. And somehow… it worked.
 
 Courbet was a truly unapologetic badass for his time — I’ll link that story below.
 
@@ -82,7 +82,7 @@ Instead of mixing colors together into one flat tone, they started placing small
 
 [TALKING HEAD]
 
-So now you understand the science behind those bright, broken colors. But here’s the thing — all of those effects depend on light. And light is always changing. The same place can look completely different in the morning, at noon, or in the evening. A cloud passes, and the colors shift. Even a white wall can look blue, gold, or violet depending on the time of day. And the Impressionists were fascinated by this.
+Second — the technology. So now you understand the science behind those bright, broken colors. But here’s the thing — all of those effects depend on light. And light is always changing. The same place can look completely different in the morning, at noon, or in the evening. A cloud passes, and the colors shift. Even a white wall can look blue, gold, or violet depending on the time of day. And the Impressionists were fascinated by this.
 
 The thing is, that’s something you can’t really recreate in a studio. The light there is controlled and consistent. So if you wanted to truly see how colors change in the world, you had to go outside — watching it happen in real time. Which meant painting outdoors, in front of the actual subject, in changing light.
 
@@ -100,19 +100,19 @@ Think about how different that was from today. We take it completely for granted
 
 [TALKING HEAD]
 
-ok, So the science was there and the tools were there. But there was still a wall in the way: the Salon. The official art exhibition that decided who got seen and who didn’t. And as long as the Salon controlled the rules, none of this new thinking about color and light could go anywhere.
+Third — the scandal. So the science was there and the tools were there. But there was still a wall in the way: the Salon. The official art exhibition that decided who got seen and who didn’t. And as long as the Salon controlled the rules, none of this new thinking about color and light could go anywhere.
 
 That wall needed someone to break it. His name was Édouard Manet. And just to be clear — that’s Manet, with an "a." Not Monet with an "o." Two different painters. People mix them up all the time. It doesn’t help that they knew each other and worked in the same city. But Manet came first. He’s not technically an Impressionist — he never exhibited with them — but he’s the one who kicked the door open.
 
 Here’s what happened. In 1863, the Salon rejected so many paintings that it became a political problem. Thousands of rejected paintings, and a lot of angry artists with no place to show their work. So the Emperor, Napoleon III, ordered a separate exhibition of the rejected works, to calm things down. They called it the Salon des Refusés—the Salon of the Rejected.
 
-And Manet showed two paintings that instantly caused a scandal in Paris.
+And Manet showed a painting that instantly caused a scandal.
 
-*Luncheon on the Grass* — a picnic scene with two fully dressed men and a completely naked woman, staring directly at the viewer. Not a goddess. Not a nymph. A real woman, looking right at you, daring you to be uncomfortable.
+*Luncheon on the Grass* — a picnic scene with two fully dressed men and a completely naked woman, staring directly at the viewer. Not a goddess. Not a nymph. A real woman, looking right at you, daring you to be uncomfortable. Paris was outraged.
 
-And *Olympia* — a naked woman lying on a bed, clearly a sex worker, with a Black servant bringing her flowers. Again: staring at you. No mythological excuse. No classical cover story. Just a naked woman and the uncomfortable truth of who she is.
+Two years later, he did it again — this time at the official Salon. *Olympia* — a naked woman lying on a bed, clearly a sex worker, with a Black servant bringing her flowers. Again: staring at you. No mythological excuse. No classical cover story. Just a naked woman and the uncomfortable truth of who she is.
 
-Paris lost its mind. But the young painters who would become the Impressionists saw something else. Remember — Gustave Courbet had already changed *what* you could paint. Manet changed *how* you could paint it, because together with the controversial subject came a new technique — flat colors, visible brushstrokes, compositions that broke the rules. And for the young artists watching, that became their permission to break the rules too.
+Paris lost its mind — twice. But the young painters who would become the Impressionists saw something else. Remember — Gustave Courbet had already changed *what* you could paint. Manet changed *how* you could paint it, because together with the controversial subject came a new technique — flat colors, visible brushstrokes, compositions that broke the rules. And for the young artists watching, that became their permission to break the rules too.
 
 ---
 
@@ -124,21 +124,23 @@ Paris lost its mind. But the young painters who would become the Impressionists 
 
 So — the science, the tools, and the permission. Those are the three pieces. Now it’s time to meet the painter who put it all together.
 
-Claude Monet. If there’s one name people associate with Impressionism, it’s his. And his story starts about as far from the Paris art world as you can get.
+Claude Monet. If there’s one name people associate with Impressionism, it’s his. His paintings now sell for over a hundred million dollars. They hang in the most famous museums in the world. He’s one of the most beloved painter who ever lived.
+
+But for most of his life, he was broke. Rejected. Desperate. There were years where he couldn’t afford paint, couldn’t feed his family, wrote letters begging friends for money just to survive another week. His story goes from poverty to tragedy to, eventually, something extraordinary — but it takes decades.
 
 Monet grew up in Le Havre, a port town on the coast of northern France. As a teenager, he was actually making money drawing caricatures — quick, funny portraits of local people. He was good at it. But then a local landscape painter named Eugène Boudin took him outside and showed him how to paint from life — outdoors, in front of the actual subject, in real changing light.
 
 Monet later said: "It was as if a veil was torn from my eyes. I understood what painting could be."
 
-He moved to Paris to study, and there he met a group of young painters who shared the same restlessness — Renoir, Sisley, Bazille. We’ll come back to them. They painted together, pushed each other forward, and shared the same belief: painting could be something different.
+He moved to Paris to study, and there he met a group of young painters who shared the same restlessness — friends like Renoir, Sisley, Bazille. They painted together, pushed each other forward, and shared the same belief: painting could be something different.
 
-Monet submitted to the Salon over and over — and was rejected over and over. The jury looked at his work and saw rough brushstrokes, unblended colors, subjects that didn’t seem important enough. To them, his paintings looked unfinished. Sloppy. Not serious art. He was desperately poor for years — begged friends for money, sometimes couldn’t afford paint. But he never stopped.
+Monet submitted to the Salon over and over — and was rejected over and over. The jury looked at his work and saw rough brushstrokes, unblended colors, subjects that didn’t seem important enough. To them, his paintings looked unfinished. Sloppy. Not serious art. But he never stopped.
 
 In 1872, he painted a small canvas in his hometown. A harbor at dawn. Fog, water, boats as silhouettes, and a blazing orange sun reflected on the surface. It’s fast, loose, almost sketchy. The brushstrokes are visible. The forms dissolve into atmosphere.
 
 [ARTWORK: *Impression, Sunrise*, full screen, 8–10 seconds]
 
-He called it *Impression, Sunrise*. He had no idea at the time — but that title was about to become the most famous insult in art history.
+He called it *Impression, Sunrise*. Just a title — he barely thought about it. But two years later, that word — "impression" — would be picked up by a hostile critic, used as a mockery, and accidentally name the entire movement.
 
 ---
 
@@ -150,7 +152,7 @@ He called it *Impression, Sunrise*. He had no idea at the time — but that titl
 
 Monet wasn’t doing this alone. Those friends he met in Paris — Renoir, Sisley, Bazille — they weren’t the only ones. By the early 1870s, there was a whole circle of painters who were fed up with the Salon. Different styles, different subjects, different personalities — but one shared belief: the old system was broken, and they didn’t need its permission anymore.
 
-In April 1874, about thirty of them pooled their money and rented a photographer’s studio on the Boulevard des Capucines. They hung 165 works on the walls. No jury. No prizes. No official approval. Just paintings and an open door.
+In April 1874, about thirty of them pooled their money and rented a photographer’s studio on a central street in Paris. They hung 165 works on the walls. No jury. No prizes. No official approval. Just paintings and an open door.
 
 And the range of what was on those walls tells you everything about what this movement was.
 
@@ -159,14 +161,15 @@ There was Edgar Degas — who didn’t even like painting outdoors and would lat
 [ARTWORK: Degas, *The Dance Class*, 5–8 seconds]
 
 *The Dance Class.* The main figure is off to the side. The space is cropped at the edges, unbalanced — like a photograph caught mid-moment. You feel like you walked into the room by accident. Degas wasn’t chasing light like Monet. He was reinventing how a picture is put together — the composition itself was as radical as Monet’s color.
+Keep Degas in mind — because he’s about to change someone’s life. We’ll get to that soon.
 
-There was Pierre-Auguste Renoir, who took the same Impressionist tools — visible brushstrokes, broken color — and used them to paint pure joy.
+There was also Pierre-Auguste Renoir, who took the same Impressionist tools — visible brushstrokes, broken color — but pointed them at people instead of landscapes. Where Monet was obsessed with nature and light, Renoir was obsessed with bodies, faces, social life.
 
 [ARTWORK: Renoir, *Bal du moulin de la Galette*, 5–8 seconds]
 
-*Dance at Le Moulin de la Galette.* A Sunday afternoon in Montmartre. Sunlight coming through the trees, falling in patches on the dancers. You can almost hear the music. Where Monet dissolved a landscape into light, Renoir wanted you to feel the warmth of skin in sunlight.
+*Dance at Le Moulin de la Galette.* A Sunday afternoon in a popular neighborhood in Paris. Sunlight coming through the trees, falling in patches on the dancers. You can almost hear the music. Renoir wasn't trying to dissolve the world into light — he wanted you to feel like you were there, in the crowd, in the warmth.
 
-And there was Camille Pissarro — the oldest of the group, born in the Caribbean to a Jewish family, the most politically radical. He was the glue. The one who taught and encouraged nearly everyone who came through — including two painters whose names will come up in a future video: Cézanne and Gauguin. Remember those names. Pissarro exhibited in all eight of the group’s exhibitions. Every single one. More than Monet. More than Renoir. More than anyone.
+And there was Camille Pissarro — the oldest of the group, and the glue that held them together. He exhibited in all eight of the group’s exhibitions — more than Monet, more than Renoir, more than anyone. He mentored nearly everyone who came through, including two painters we’ll meet in a future video: Cézanne and Gauguin. Remember those names.
 
 This wasn’t just a show. It was a statement: we don’t need the Salon. We don’t need permission. We show our own work on our own terms. If you saw the Courbet video — this is the direct descendant of his Pavilion. Courbet built one exhibition hall. These painters built a movement.
 
@@ -180,7 +183,7 @@ The name stuck. "Impressionists." Born as an insult. Like "punk." Like "hip-hop.
 
 They held eight independent exhibitions between 1874 and 1886. The group was never stable — constant fights about who to include, whether to also submit to the Salon, money, egos. But the principle held: we show our own work, on our own terms.
 
-Now — remember Degas? His pastels, his dancers, the way he arranged a picture? Keep him in mind. Because he’s about to change someone’s life.
+
 
 ---
 
@@ -216,37 +219,25 @@ Degas invited her to exhibit with the Impressionists. Her response:
 
 [TALKING HEAD]
 
-Cassatt painted mothers and children. Women at tea. Women reading. Women at the theater. And I know — that sounds conventional. It sounds domestic. It sounds like exactly what a woman artist in the nineteenth century was "supposed" to paint.
-
-But here’s what makes it radical: she painted these scenes from the *inside*.
+Cassatt painted mothers and children. Women at tea. Women reading. That sounds conventional — exactly what a woman artist in the nineteenth century was "supposed" to paint. But here’s what makes it radical: she painted these scenes from the *inside*.
 
 [ARTWORK: *The Child’s Bath*, 8 seconds]
 
-*The Child’s Bath.* 1893. A mother bathing a child. But look at the angle — we’re looking down from above. We’re in the room. We’re standing right there.
+*The Child’s Bath.* A mother bathing a child. Look at the angle — we’re looking down from above. We’re in the room. We’re standing right there. The intimacy is physical — you can almost feel the water, the weight of the child, the mother’s hands.
 
-The intimacy is physical — you can almost feel the water, the weight of the child, the mother’s hands.
-
-In a movement where men constantly painted women — Renoir’s nudes, Degas’s dancers — Cassatt offered the view from the other side. Not a man looking at a woman across a room. Someone painting a woman’s world from inside it.
+In a movement where men constantly painted women — Renoir’s figures, Degas’s dancers — Cassatt offered the view from the other side. Not a man looking at a woman across a room. Someone painting a woman’s world from inside it.
 
 [ARTWORK: *Little Girl in a Blue Armchair*, 5–8 seconds]
 
-*Little Girl in a Blue Armchair.* 1878. A child sprawled in an oversized chair, bored and restless. Legs apart. Slouching. Completely natural.
-
-No posing, no sugar-coating, no "isn’t she adorable." Just a kid being a kid. It’s one of the most honest paintings of childhood I’ve ever seen.
-
-Her prints are extraordinary too — a series of color prints inspired by Japanese woodblock art that are technically as good as anything the Impressionists made. They’re often overlooked. They shouldn’t be.
+*Little Girl in a Blue Armchair.* A child sprawled in a chair, bored and restless. Slouching. Completely natural. No posing, no sugar-coating. Just a kid being a kid.
 
 ### The Women of Impressionism
 
 [TALKING HEAD]
 
-Cassatt never married. She chose art over family life — a radical choice for a woman of her background and time. "I am independent!" she wrote. "I can live alone and I love to work."
+Cassatt wasn’t the only woman at the center of this movement. Berthe Morisot exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro.
 
-She was financially independent — family money plus sales — which gave her a freedom most women artists didn’t have. And she used it. She helped American collectors build their Impressionist collections. Every time you see a Monet or a Degas in an American museum, there’s a decent chance Mary Cassatt had something to do with it being there.
-
-And she wasn’t the only woman at the center of this movement. Berthe Morisot exhibited in seven of the eight independent exhibitions. More than Monet. More than Renoir. More than anyone except Pissarro.
-
-Think about that for a second. Two of the most committed, most consistent, most loyal members of the entire Impressionist group — were women. In a time when women couldn’t get into the best art schools, when they were shut out of the official system at every turn. And I don’t think that’s a coincidence. When you’ve spent your whole life being told "no" by the institutions — you’re exactly the kind of person who’s ready to build something outside of them. The Impressionists were a movement of outsiders. And women in the nineteenth-century art world were the ultimate outsiders.
+Two of the most committed, most consistent members of the entire Impressionist group — were women. In a time when women couldn’t get into the best art schools, when they were shut out of the official system at every turn. It makes sense. When you’ve spent your whole life being told "no" by the institutions — you’re exactly the kind of person who’s ready to build something outside of them. The Impressionists were a movement of outsiders. And women in the nineteenth-century art world were the ultimate outsiders.
 
 ---
 
@@ -256,13 +247,15 @@ Think about that for a second. Two of the most committed, most consistent, most 
 
 [TALKING HEAD]
 
-We met Monet earlier — the teenager on the Normandy coast who couldn’t stop seeing. The painter whose title accidentally named an entire movement. But his story didn’t end at that first exhibition. It goes much further. And it gets much darker before it gets beautiful.
+remember the question from the beginning? How does a group of rejected nobodies end up becoming the most beloved artists in history? This is how it starts. Not with fame. Not with money. With a rented room and an open door. But there's still a long way to go — and some of the most important parts of this story haven't happened yet.
+
+So — We met Monet earlier — the painter whose title accidentally named an entire movement. But his story didn’t end at that first exhibition. It goes much further. And it gets much darker before it gets beautiful.
 
 ### Camille
 
 [TALKING HEAD — tone shift, quieter]
 
-I need to tell you something about Monet that changed how I think about what it means to be an artist.
+There's a moment in Monet's life that says everything about who he was as an artist.
 
 In 1879, Monet’s wife Camille died. She was thirty-two. He was at her bedside.
 
@@ -274,25 +267,37 @@ He painted her on her deathbed.
 
 *[Let that sit]*
 
-I don’t think this is a story about a cold man. I think it’s a story about someone who sees so deeply that he can’t turn it off — not even in the worst moment of his life. And I think he knew how that sounds. But that’s what it meant to see the way Monet saw.
+This isn’t a story about a cold man. It’s a story about someone who sees so deeply that he can’t turn it off — not even in the worst moment of his life. He probably knew how that sounds. But that’s what it meant to see the way Monet saw.
 
-### The Series Paintings
+### After Camille
 
-[TALKING HEAD — energy returns, building]
+[TALKING HEAD — energy shifts, building]
 
-After Camille’s death, Monet kept painting. And in the 1880s and ‘90s, he started doing something nobody had done before — something that, without anyone realizing it, was pointing the way toward abstract art. He began painting the same subject over and over, in different light.
+After Camille’s death, Monet kept painting. He moved to a small village called Giverny in 1883 — still poor, renting a house he couldn’t really afford. But he kept working.
+
+And slowly — very slowly — things started to change.
+
+There was an art dealer named Paul Durand-Ruel who had been buying Impressionist paintings since the early 1870s, when almost nobody else would touch them. He believed in this work when the rest of the market thought it was a joke. He went nearly bankrupt doing it. But he kept going — organizing exhibitions in Paris, and crucially, in New York in 1886, where American collectors saw these paintings and went crazy for them.
+
+That’s what turned the tide. Not the French establishment — they never really came around in time — but private collectors, Americans, a new kind of buyer who didn’t need the Salon to tell them what was good.
+
+And then, in 1891, something happened that changed Monet’s life. He exhibited a series of paintings — all of the same subject. Haystacks.
 
 [ARTWORK: Two or three Haystacks side by side — different light conditions]
 
-*Haystacks.* Twenty-five paintings of the same haystacks. Morning light. Afternoon light. Sunset. Snow. Summer. The haystacks don’t change. The light does. And the light changes *everything*.
+Twenty-five paintings of the same haystacks. Morning light. Afternoon light. Sunset. Snow. Summer. The haystacks don’t change. The light does. And the light changes *everything*.
 
 He said: "For me, a landscape does not exist in its own right, since its appearance changes at every moment."
 
 He’s not painting haystacks. He’s painting light. The haystacks are just a surface for the light to play on.
 
+Every painting sold. After twenty years of poverty, after losing Camille, after all of it — Monet was finally, undeniably successful. He'd already bought the house in Giverny the year before — scraping together enough from Durand-Ruel's steady purchases through the 1880s. But the Haystacks confirmed it. He wasn't struggling anymore. He could build the life he wanted.
+
+And the painting kept getting bolder.
+
 [ARTWORK: Rouen Cathedral series — two or three versions]
 
-And then he turned to something even more ambitious. *Rouen Cathedral.* He rented a room across the street from the cathedral and painted the same stone facade over and over — more than thirty times. In morning light, the stone looks blue and pink. At noon, white and gold. At sunset, orange and violet. The same ancient, heavy stone — but in Monet’s hands, it shifts, it breathes, it seems to dissolve into pure color.
+*Rouen Cathedral.* He rented a room across the street from the cathedral and painted the same stone facade over and over — more than thirty times. In morning light, the stone looks blue and pink. At noon, white and gold. At sunset, orange and violet. The same ancient, heavy stone — but in Monet’s hands, it changes, comes alive, and breaks into shifting color.
 
 And then — the Water Lilies.
 
@@ -302,7 +307,7 @@ And then — the Water Lilies.
 
 [TALKING HEAD — quiet]
 
-Monet moved to Giverny in 1883. He built a garden. He designed a water lily pond. A Japanese bridge. He literally built his own subject.
+At Giverny, he built a garden. Designed a water lily pond. A Japanese bridge. He literally built his own subject.
 
 And then he painted it. For thirty years. Hundreds of paintings. The late ones are enormous — six feet tall, fourteen feet wide. And they’re almost abstract. There’s no horizon line. No sky. No ground. Just water, reflections, and flowers.
 
