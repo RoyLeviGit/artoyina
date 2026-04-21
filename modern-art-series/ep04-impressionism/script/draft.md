@@ -17,9 +17,9 @@ They were broke. They were rejected — over and over. Critics called their work
 
 These same paintings now sell for hundreds of millions of dollars. They hang in the biggest museums on earth. You've seen them on postcards, phone cases, tote bags, coffee mugs — everywhere.
 
-How did that happen? How does a group of rejected nobodies, painting in a rented studio in Paris, end up becoming the most beloved artists in history? And what does this have to do with the dress?
+How did that happen? How does a group of rejected nobodies, showing their paintings in a rented studio in Paris, end up changing art forever? And what does this have to do with the dress?
 
-That's the story of the Impressionists. And of course it starts with a scandal.
+That's the story of the Impressionists. And it has everything to do with rejection, rebellion, and a lot of struggle.
 
 ---
 
@@ -67,15 +67,14 @@ Chevreul figured out why. It wasn’t the dyes. It was the human eye. Your eye d
 
 Look at these two squares. They’re the exact same grey. But your brain sees them differently because of what’s around them.
 
-And remember that photo of the dress that broke the internet? Some people swore it was black and blue, others saw white and gold — same photo, same pixels. Your brain was interpreting the colors differently depending on how it read the surrounding light. That’s basically what Chevreul figured out in the 1820s.
+And remember that photo of the dress that broke the internet? Some people thought it was black and blue, others saw white and gold — same photo, same pixels. Your brain was interpreting the colors differently depending on how it read the surrounding light. That’s basically what Chevreul figured out in the 1820s.
 
-OK, so why does this matter for painting? Think about color mixing. Painters were often taught to mix colors together on the palette to get the tone they wanted — add black or brown to darken, mix pigments to adjust the color. It’s a common method — and it works — but it often makes colors look dull.
+OK, so why does this matter for painting? Before this, painters typically mixed colors together on the palette — add black to darken, blend pigments to get the tone you want. It works, but it often makes colors look dull. Because that’s not how we actually see color. In real life, colors affect each other. Put a color beside its opposite and it looks more intense, more alive.
 
-Because that’s not quite how we actually see color. In real life, colors affect each other. The same color can look completely different depending on what’s next to it. Put a color beside its opposite, and it can appear more intense and vibrant.
+The Impressionists became fascinated by this — not just as a painting technique, but as a new way of thinking about seeing itself. If colors shift depending on what’s around them, and light is always changing how we see them, then for them, painting wasn’t just about copying what was “there.” It was about capturing a specific, unrepeatable moment of perception. That idea — capturing the passing moment — is in everything they did.
 
-These ideas weren’t completely new, but this was the first time they were clearly explained and widely shared with artists. And the Impressionists became fascinated by them. It not only inspired what they painted — it changed how they painted.
 
-Instead of mixing colors together into one flat tone, they started placing small strokes of different colors right next to each other. The idea was simple: let your eye do the mixing. Up close, it can look like a mess of separate strokes. But step back… and suddenly, the colors blend and the painting comes alive. This way of thinking and painting was completely new, and by now you can probably guess — it caused a scandal.
+And these ideas about color changed how they painted too. Instead of mixing colors into one flat tone, they started placing small strokes of different colors right next to each other — and letting your eye do the mixing. Up close, it looks like a mess of separate strokes. But step back… and the colors blend and the painting comes alive.
 
 
 ### The Technology
@@ -94,7 +93,7 @@ Then, around 1841, the squeezable metal paint tube got invented. Renoir reported
 
 He wasn’t exaggerating. Add railways — you could take a train from Paris to the countryside in an hour — and suddenly a painter could stand in a field, in actual sunlight, and paint what they saw.
 
-Think about how different that was from today. We take it completely for granted — we have cars, colored photography, phones, and the internet. You can look up any image in seconds. But back then, if you wanted to paint something from nature or basically anything that’s outside of your studio, you had to go there yourself and work fast before the light changed. It was common practice to make quick studies and sketches on location, to use later as reference when the artist made his final piece in the studio. When you worked outside and depended on natural light, every painting was a race against time. And that urgency — that feeling of trying to capture something before it disappears — is baked into every Impressionist painting you’ve ever seen.
+Today we take that for granted — we have colored photography, phones, the internet. But back then, if you wanted to paint something outside your studio, you had to go there yourself and work fast before the light changed. Every painting was a race against time. And that urgency — that feeling of trying to capture something before it disappears — is baked into every Impressionist painting you’ve ever seen.
 
 ### Manet
 
@@ -124,7 +123,7 @@ Paris lost its mind — twice. But the young painters who would become the Impre
 
 So — the science, the tools, and the permission. Those are the three pieces. Now it’s time to meet the painter who put it all together.
 
-Claude Monet. If there’s one name people associate with Impressionism, it’s his. His paintings now sell for over a hundred million dollars. They hang in the most famous museums in the world. He’s one of the most beloved painter who ever lived.
+Claude Monet. If there’s one name people associate with Impressionism, it’s his. His paintings now sell for over a hundred million dollars. They hang in the most famous museums in the world. He’s one of the most beloved painters who ever lived.
 
 But for most of his life, he was broke. Rejected. Desperate. There were years where he couldn’t afford paint, couldn’t feed his family, wrote letters begging friends for money just to survive another week. His story goes from poverty to tragedy to, eventually, something extraordinary — but it takes decades.
 
@@ -153,6 +152,8 @@ He called it *Impression, Sunrise*. Just a title — he barely thought about it.
 Monet wasn’t doing this alone. Those friends he met in Paris — Renoir, Sisley, Bazille — they weren’t the only ones. By the early 1870s, there was a whole circle of painters who were fed up with the Salon. Different styles, different subjects, different personalities — but one shared belief: the old system was broken, and they didn’t need its permission anymore.
 
 In April 1874, about thirty of them pooled their money and rented a photographer’s studio on a central street in Paris. They hung 165 works on the walls. No jury. No prizes. No official approval. Just paintings and an open door.
+
+Think about what that means. For decades, the only way an artist could be seen in France was through the Salon — one exhibition, controlled by one jury. Courbet had done it on his own — solo shows of his own work. But this was thirty artists, together, building their own system. That’s a different thing entirely.
 
 And the range of what was on those walls tells you everything about what this movement was.
 
@@ -293,10 +294,10 @@ Twenty-five paintings of the same haystacks. Morning light. Afternoon light. Sun
 
 He said: "For me, a landscape does not exist in its own right, since its appearance changes at every moment."
 
-He’s not painting haystacks. He’s painting light. The haystacks are just a surface for the light to play on.
+He’s not painting haystacks. He’s painting light. The haystacks are just a surface for the light to play on. Remember that idea — capturing a specific, unrepeatable moment of perception? This is what it looks like when someone dedicates their entire life to it.
 
-Every painting sold.
-After nearly twenty years of poverty, after losing Camille, after all of it — Monet was finally, undeniably successful. The man who was rejected from the Salon over and over, whose work was called unfinished and incompetent — every painting sold. He'd already bought the house in Giverny the year before — scraping together enough from Durand-Ruel's steady purchases through the 1880s. But the Haystacks confirmed it. He wasn't struggling anymore. He could build the life he wanted.
+Every painting sold. 
+After nearly twenty years of poverty, after losing Camille, after all of it — Monet was finally, undeniably successful. The man who was rejected from the Salon over and over, whose work was called unfinished and incompetent — sold out. He'd already bought the house in Giverny the year before — scraping together enough from Durand-Ruel's steady purchases through the 1880s. But the Haystacks confirmed it. He wasn't struggling anymore. He could build the life he wanted.
 
 And the painting kept getting bolder.
 
@@ -340,7 +341,11 @@ They proved that there’s more than one way to make a painting — and that nob
 
 And maybe more important than the style is what they proved about the system. You don’t need the Salon. You don’t need a jury. You don’t need anyone’s permission. You can show your own work, in a rented room, and let people decide for themselves.
 
-Their paintings are now the most popular, most loved art in the world. Not because they were "right" and the Académie was "wrong" — but because they proved that art doesn’t have to look one way. That a painting can be rough, fast, full of visible brushstrokes — and still be extraordinary. They didn’t replace the old rules with new rules. They broke the idea that there need to be rules at all.
+Their paintings are now among the most loved in the world.
+
+But their real impact wasn’t popularity — it was what they proved about art itself. That a painting doesn’t have to look one way. That it can be rough, fast, full of visible brushstrokes — and still be extraordinary. They didn’t replace the old rules with new ones. They broke the idea that there needed to be rules at all.
+
+And maybe because of their courage — and refusal to give up — we can now enjoy the huge variety of art we see today.
 
 *[Beat]*
 
