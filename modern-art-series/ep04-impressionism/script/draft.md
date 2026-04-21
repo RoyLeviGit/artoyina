@@ -193,7 +193,9 @@ They held eight independent exhibitions between 1874 and 1886. The group was nev
 
 [TALKING HEAD]
 
-In 1875, a young American painter was walking through Paris, passed a gallery window, and saw Degas’s pastels. It stopped her cold.
+So — the Impressionists had their name, their exhibitions, their principles. But remember: this was still a movement of outsiders. And there’s one outsider in this story who deserves her own chapter.
+
+In 1875, a young American painter was walking through Paris, passed a gallery window, and saw Degas’s pastels. She was instantly taken by them.
 
 Her name was Mary Cassatt.
 
@@ -201,7 +203,7 @@ She was born in 1844 in Allegheny City, Pennsylvania — now part of Pittsburgh.
 
 The problem: she was a woman. In the 1860s, women couldn’t attend the best art schools in Paris. They couldn’t draw from nude models. They couldn’t access the same training as men.
 
-Cassatt moved to Paris in 1866 to study privately. She exhibited at the Salon and had some success. But she felt boxed in. The jury system — the same system that had frustrated Courbet, that had rejected Monet — felt like a cage.
+Cassatt moved to Paris in 1866 to study privately. She exhibited at the Salon and had some success. But she felt stuck. The jury system — the same system that had frustrated Courbet, that had rejected Monet — felt like a cage.
 
 And then she saw Degas’s work.
 
@@ -247,13 +249,15 @@ Two of the most committed, most consistent members of the entire Impressionist g
 
 [TALKING HEAD]
 
-remember the question from the beginning? How does a group of rejected nobodies end up becoming the most beloved artists in history? This is how it starts. Not with fame. Not with money. With a rented room and an open door. But there's still a long way to go — and some of the most important parts of this story haven't happened yet.
+Remember the question from the beginning? How does a group of rejected nobodies end up becoming the most beloved artists in history? Right now, they’re still nobodies. They have a name — an insult turned into a badge. They have exhibitions. But they’re still broke, still mocked, still on the outside. The transformation from rejected to beloved? That hasn’t happened yet.
 
-So — We met Monet earlier — the painter whose title accidentally named an entire movement. But his story didn’t end at that first exhibition. It goes much further. And it gets much darker before it gets beautiful.
+So — we met Monet earlier — the painter whose title accidentally named an entire movement. But his story didn’t end at that first exhibition. It goes much further. And it gets much darker before it gets beautiful.
 
 ### Camille
 
 [TALKING HEAD — tone shift, quieter]
+
+To understand why Monet's later paintings look the way they do — why they feel so obsessive, so relentless — you need to know what he went through to get there.
 
 There's a moment in Monet's life that says everything about who he was as an artist.
 
@@ -267,7 +271,7 @@ He painted her on her deathbed.
 
 *[Let that sit]*
 
-This isn’t a story about a cold man. It’s a story about someone who sees so deeply that he can’t turn it off — not even in the worst moment of his life. He probably knew how that sounds. But that’s what it meant to see the way Monet saw.
+This isn’t a story about a cold man. It’s a story about someone who sees so deeply that he can’t turn it off — not even in the worst moment of his life. That’s what it meant to see the way Monet saw. And that way of seeing — that obsession with how light changes everything — is what led to everything that came next.
 
 ### After Camille
 
@@ -275,11 +279,11 @@ This isn’t a story about a cold man. It’s a story about someone who sees so 
 
 After Camille’s death, Monet kept painting. He moved to a small village called Giverny in 1883 — still poor, renting a house he couldn’t really afford. But he kept working.
 
-And slowly — very slowly — things started to change.
+And slowly — very slowly — things started to change. Not because the Salon changed its mind. Not because the critics came around. The official system never accepted him. What happened instead was this: he found a way around it.
 
 There was an art dealer named Paul Durand-Ruel who had been buying Impressionist paintings since the early 1870s, when almost nobody else would touch them. He believed in this work when the rest of the market thought it was a joke. He went nearly bankrupt doing it. But he kept going — organizing exhibitions in Paris, and crucially, in New York in 1886, where American collectors saw these paintings and went crazy for them.
 
-That’s what turned the tide. Not the French establishment — they never really came around in time — but private collectors, Americans, a new kind of buyer who didn’t need the Salon to tell them what was good.
+That’s what turned the tide. Not the French establishment — but private collectors, Americans, a new kind of buyer who didn’t need the Salon to tell them what was good. Monet didn’t win over the system. He found a new one.
 
 And then, in 1891, something happened that changed Monet’s life. He exhibited a series of paintings — all of the same subject. Haystacks.
 
@@ -291,7 +295,8 @@ He said: "For me, a landscape does not exist in its own right, since its appeara
 
 He’s not painting haystacks. He’s painting light. The haystacks are just a surface for the light to play on.
 
-Every painting sold. After twenty years of poverty, after losing Camille, after all of it — Monet was finally, undeniably successful. He'd already bought the house in Giverny the year before — scraping together enough from Durand-Ruel's steady purchases through the 1880s. But the Haystacks confirmed it. He wasn't struggling anymore. He could build the life he wanted.
+Every painting sold.
+After nearly twenty years of poverty, after losing Camille, after all of it — Monet was finally, undeniably successful. The man who was rejected from the Salon over and over, whose work was called unfinished and incompetent — every painting sold. He'd already bought the house in Giverny the year before — scraping together enough from Durand-Ruel's steady purchases through the 1880s. But the Haystacks confirmed it. He wasn't struggling anymore. He could build the life he wanted.
 
 And the painting kept getting bolder.
 
@@ -327,23 +332,25 @@ He died in 1926. He was eighty-six. He started as a teenager drawing caricatures
 
 [TALKING HEAD — direct to camera]
 
-What did the Impressionists actually do?
+By the early nineteen-hundreds, the Impressionists were no longer outsiders. Museums were collecting them. Prices were rising. By the time Claude Monet died, his work was already highly valued. And in the decades after, that value only grew. Today, Impressionist paintings regularly sell for tens of millions — sometimes more. They are among the most commercially successful movements in art history. The same works once dismissed as ugly, unfinished, even incompetent — are now the ones people line up to see.
+
+And why is the Impressionists’ story so important for art history?
 
 They proved that there’s more than one way to make a painting — and that nobody gets to decide which way is the right one. The visible brushstroke. The unfinished surface. The quick sketch made outdoors in changing light. The art schools said that wasn’t real painting. The Impressionists said: it is.
 
 And maybe more important than the style is what they proved about the system. You don’t need the Salon. You don’t need a jury. You don’t need anyone’s permission. You can show your own work, in a rented room, and let people decide for themselves.
 
-Their paintings are now the most popular, most loved art in the world. But that doesn’t mean they were "right" and the Académie was "wrong." It means they opened a door — and once it was open, it could never be closed again.
+Their paintings are now the most popular, most loved art in the world. Not because they were "right" and the Académie was "wrong" — but because they proved that art doesn’t have to look one way. That a painting can be rough, fast, full of visible brushstrokes — and still be extraordinary. They didn’t replace the old rules with new rules. They broke the idea that there need to be rules at all.
 
 *[Beat]*
 
-But not everyone was satisfied.
+And that’s the thing about the Impressionists — they didn’t just change what painting looks like. They changed what’s *possible*. Before them, there was one path. After them, there were infinite paths. Every radical artist who came next — every movement that broke things further — walked through the space the Impressionists created.
 
-Some painters looked at what the Impressionists had built and thought: this is beautiful — but it’s only the surface. What about what’s underneath? What about the weight and structure of things? What about emotion that goes deeper than a nice afternoon in the sun?
+But here’s what’s fascinating: the very next generation looked at Impressionism and felt it still wasn’t enough. So they took what the Impressionists started and pushed it even further — into something stranger. More intense. More personal.
 
-Three painters were about to push past everything. One of them painted the same mountain over and over until he found something nobody had seen before. One of them never sold a painting in his life — but wrote letters that will break your heart. And one of them left his family, quit his job, and sailed to the other side of the world.
+One of them painted the same mountain over and over until he found something nobody had seen before. One of them left his family, quit his job, and sailed to the other side of the world. And one of them never sold a single painting in his life — yet would go on to become one of the most famous artists who ever lived. He’s so famous — he’s trendy today, more than a hundred years after his death. I’d bet many of you have a T-shirt, a phone case, or some random object with his art on it.
 
-None of them lived to see how much it mattered.
+These three artists redefined the direction of modern art. And not one of them lived to see it happen.
 
 That’s next time.
 
