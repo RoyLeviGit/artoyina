@@ -12,7 +12,8 @@ Auto-generated content-aware scale + position keyframes for all 209 clips in the
 | Batch 1 | 2–51 | 00:00:37 – 07:05 | ✅ Done |
 | Batch 2 | 52–101 | 07:05 – 13:53 | ✅ Done |
 | Batch 3 | 102–151 | 13:53 – 19:44 | ✅ Done |
-| Batch 4 | 152–208 | 19:44 – end | ❌ Not applied |
+| Batch 4a | 152–179 | 19:44 – 22:55 | ✅ Done |
+| Batch 4b | 180–208 | 22:55 – end | ✅ Done |
 
 ---
 
