@@ -12,5 +12,7 @@ editing/**/Exp/
 .kiro/
 *.flac
 modern-art-series/_series-wide/music/**/*.mp3
+modern-art-series/_series-wide/music/**/*.ogg
+modern-art-series/_series-wide/music/**/*.wav
 modern-art-series/**/visuals/graphics/*.mp4
 
