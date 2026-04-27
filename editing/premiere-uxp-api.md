@@ -58,6 +58,8 @@ await proj.executeTransaction(async (ca) => { ca.addAction(action); }, 'Set scal
 
 **This sets a constant (non-keyframed) scale.** No keyframe is added to the timeline — the clip just has a fixed scale for its entire duration.
 
+For timed keyframes (time-varying), see the "Adding timed keyframes" section below.
+
 ### What does NOT work
 
 ```javascript
@@ -122,6 +124,57 @@ Clip count for ep02 RoughCut: **209 clips** on video track 0.
 const tvAction = await scaleParam.createSetTimeVaryingAction(true);
 await proj.executeTransaction(async (ca) => { ca.addAction(tvAction); }, 'enable keyframes');
 ```
+
+**Important**: Run this in its own separate transaction before adding keyframes. If combined with other actions or if the param is already time-varying, the action may silently succeed without taking effect.
+
+---
+
+## Adding timed keyframes (with TickTime positioning)
+
+`createKeyframe`, `createAddKeyframeAction`, and `createSetTimeVaryingAction` are **synchronous** — do NOT `await` them. Awaiting native Premiere objects that are "thenable" silently corrupts the action.
+
+The correct flow:
+
+```javascript
+// Enable time-varying (sync action, async transaction)
+await proj.executeTransaction(async (ca) => {
+    ca.addAction(scaleParam.createSetTimeVaryingAction(true));  // NO await
+}, 'enable TV');
+
+// Add a keyframe
+const kf = scaleParam.createKeyframe(110);   // sync, NO await
+kf.position = seqTime;                        // TickTime in sequence
+await proj.executeTransaction(async (ca) => {
+    ca.addAction(scaleParam.createAddKeyframeAction(kf));       // sync, NO await
+}, 'add kf');
+```
+
+**What does NOT work**:
+- `await scaleParam.createKeyframe(...)` — awaiting these sync methods corrupts the returned native object
+- `createAddKeyframeAction(tickTime)` — must pass a Keyframe object, not a TickTime
+
+---
+
+## Point/Position parameters (PointF type)
+
+Position (param index 0) uses the `PointF` type. Values are normalized 0–1 (not pixels). Center = `(0.5, 0.5)`.
+
+`PointF` is **not** a plain `{x, y}` object. Construct it via `app.PointF(x, y)`:
+
+```javascript
+const posParam = await motionComp.getParam(0); // Position
+
+// CORRECT: use app.PointF constructor
+const pt = app.PointF(0.5, 0.5);               // center of frame
+const posKf = await posParam.createKeyframe(pt);
+posKf.position = seqTime;
+const action = await posParam.createAddKeyframeAction(posKf);
+await proj.executeTransaction(async (ca) => { ca.addAction(action); }, 'pos kf');
+```
+
+**What does NOT work**: `createKeyframe([0.5, 0.5])`, `createKeyframe({x, y})`, `createKeyframe(currentVal)` — all throw "Illegal Parameter type".
+
+`getValueAtTime` for Position returns `{value: [x, y]}` (normalized array), e.g. `{value: [0.5, 0.5]}` at center.
 
 ---
 
