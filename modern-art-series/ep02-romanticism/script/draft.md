@@ -71,6 +71,8 @@ A man standing on a rocky peak, his back to us. We can't see his face. We see wh
 
 That’s Romanticism in one image. The individual, confronting the infinite.
 
+### subchapter
+
 Friedrich was German — and Romanticism wasn’t just a French thing. Across Europe, artists were moving in this direction.
 
 [Brief visual section — 2 works on screen, minimal voiceover]
