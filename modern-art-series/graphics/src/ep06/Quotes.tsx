@@ -21,7 +21,7 @@ export const QuoteKlimtFreedom = () => (
 export const QuoteLoosOrnament = () => (
   <QuoteCard
     quote="The evolution of culture is synonymous with the removal of ornament from objects of daily use."
-    attribution="Adolf Loos, \"Ornament and Crime,\" 1908"
+    attribution={'Adolf Loos, "Ornament and Crime," 1908'}
     color={palette.maroon}
   />
 );
@@ -29,7 +29,7 @@ export const QuoteLoosOrnament = () => (
 export const QuoteSullivanForm = () => (
   <QuoteCard
     quote="Form ever follows function."
-    attribution="Louis Sullivan, \"The Tall Office Building Artistically Considered,\" 1896"
+    attribution={'Louis Sullivan, "The Tall Office Building Artistically Considered," 1896'}
     color={palette.peach}
   />
 );

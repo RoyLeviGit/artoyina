@@ -12,7 +12,7 @@ export const QuoteCard: React.FC<{
   const textIn = spring({ frame, fps, config: { damping: 200 } });
   const lineWidth = interpolate(
     spring({ frame, fps, config: { damping: 200 }, delay: Math.round(0.5 * fps) }),
-    [0, 1], [0, 400],
+    [0, 1], [0, 1200],
   );
   const attrIn = spring({ frame, fps, config: { damping: 200 }, delay: Math.round(1 * fps) });
 
@@ -20,20 +20,20 @@ export const QuoteCard: React.FC<{
     <div style={{
       width: "100%", height: "100%", backgroundColor: palette.bg,
       display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
-      fontFamily: fonts.serif, padding: 120,
+      fontFamily: fonts.serif, padding: 320,
     }}>
       <div style={{
-        color, fontSize: 66, fontStyle: "italic", textAlign: "center",
-        lineHeight: 1.5, opacity: textIn, transform: `translateY(${(1 - textIn) * 15}px)`,
+        color, fontSize: 200, fontStyle: "italic", textAlign: "center",
+        lineHeight: 1.4, opacity: textIn, transform: `translateY(${(1 - textIn) * 15}px)`,
       }}>
         &ldquo;{quote}&rdquo;
       </div>
       <div style={{
-        width: lineWidth, height: 2, backgroundColor: palette.maroon,
-        marginTop: 45, marginBottom: 45, opacity: 0.5,
+        width: lineWidth, height: 4, backgroundColor: palette.maroon,
+        marginTop: 80, marginBottom: 80, opacity: 0.5,
       }} />
       <div style={{
-        color: palette.peach, fontSize: 30, opacity: attrIn * 0.7,
+        color: palette.peach, fontSize: 90, opacity: attrIn * 0.7, textAlign: "center",
       }}>
         {attribution}
       </div>

@@ -64,7 +64,7 @@ export const NorthAfricaMap: React.FC = () => {
         id: "route-line",
         type: "line",
         source: "route",
-        paint: { "line-color": palette.amber, "line-width": 3, "line-dasharray": [2, 2] },
+        paint: { "line-color": palette.amber, "line-width": 7, "line-dasharray": [2, 2] },
         layout: { "line-cap": "round", "line-join": "round" },
       });
 
@@ -85,9 +85,9 @@ export const NorthAfricaMap: React.FC = () => {
         type: "circle",
         source: "stops",
         paint: {
-          "circle-radius": 10,
+          "circle-radius": 22,
           "circle-color": palette.amber,
-          "circle-stroke-width": 2,
+          "circle-stroke-width": 4,
           "circle-stroke-color": "#000",
           "circle-opacity": 0,
         },
@@ -99,7 +99,7 @@ export const NorthAfricaMap: React.FC = () => {
         layout: {
           "text-field": ["get", "name"],
           "text-font": ["DIN Pro Bold", "Arial Unicode MS Bold"],
-          "text-size": 38,
+          "text-size": 80,
           "text-offset": [0, -1.3],
           "text-anchor": "bottom",
           "text-allow-overlap": true,
@@ -107,7 +107,7 @@ export const NorthAfricaMap: React.FC = () => {
         paint: {
           "text-color": palette.amber,
           "text-halo-color": "#000",
-          "text-halo-width": 3,
+          "text-halo-width": 4,
           "text-opacity": 0,
         },
       });
@@ -118,7 +118,7 @@ export const NorthAfricaMap: React.FC = () => {
         layout: {
           "text-field": ["get", "sub"],
           "text-font": ["DIN Pro Italic", "Arial Unicode MS Regular"],
-          "text-size": 20,
+          "text-size": 46,
           "text-offset": [0, 1.4],
           "text-anchor": "top",
           "text-allow-overlap": true,
@@ -127,7 +127,7 @@ export const NorthAfricaMap: React.FC = () => {
         paint: {
           "text-color": palette.peach,
           "text-halo-color": "#000",
-          "text-halo-width": 2,
+          "text-halo-width": 3,
           "text-opacity": 0,
         },
       });
@@ -179,7 +179,7 @@ export const NorthAfricaMap: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 50,
+          top: 80,
           width: "100%",
           textAlign: "center",
           fontFamily: fonts.serif,
@@ -188,9 +188,9 @@ export const NorthAfricaMap: React.FC = () => {
         <div
           style={{
             color: palette.amber,
-            fontSize: 28,
-            letterSpacing: 4,
-            textShadow: "0 2px 12px #000",
+            fontSize: 90,
+            letterSpacing: 8,
+            textShadow: "0 2px 24px #000",
           }}
         >
           DELACROIX&apos;S NORTH AFRICA JOURNEY
@@ -198,11 +198,11 @@ export const NorthAfricaMap: React.FC = () => {
         <div
           style={{
             color: palette.peach,
-            fontSize: 18,
+            fontSize: 56,
             fontStyle: "italic",
-            marginTop: 8,
+            marginTop: 16,
             opacity: 0.7,
-            textShadow: "0 2px 12px #000",
+            textShadow: "0 2px 16px #000",
           }}
         >
           January – July 1832

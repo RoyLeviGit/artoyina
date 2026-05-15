@@ -14,11 +14,21 @@ import {
   TitleLegacy,
 } from "./ep01/SectionTitles";
 import {
+  TitleColdOpen,
   TitleWorldAfterDavid,
   TitleTheSublime,
   TitleTheRaft,
+  TitleAcrossEurope,
+  TitleTheRealStory,
+  TitleTheProcess,
   TitleDelacroix,
+  TitleTheMystery,
+  TitleTheEarlyWork,
+  TitleTheRivalry,
+  TitleLiberty,
   TitleNorthAfrica,
+  TitleTheLateYears,
+  TitleTheQuestion,
   TitleLegacy as TitleLegacyEp02,
 } from "./ep02/SectionTitles";
 import { QuoteBaudelaire, QuoteDelacroixGreeks, QuoteDelacroixPaint } from "./ep02/Quotes";
@@ -127,11 +137,21 @@ export const RemotionRoot: React.FC = () => {
 
     <Folder name="ep02-romanticism">
       <Folder name="section-titles">
+        <Composition id="ep02-title-cold-open" component={TitleColdOpen} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-world-after-david" component={TitleWorldAfterDavid} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-the-sublime" component={TitleTheSublime} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-across-europe" component={TitleAcrossEurope} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-the-raft" component={TitleTheRaft} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-real-story" component={TitleTheRealStory} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-process" component={TitleTheProcess} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-delacroix" component={TitleDelacroix} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-mystery" component={TitleTheMystery} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-early-work" component={TitleTheEarlyWork} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-rivalry" component={TitleTheRivalry} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-liberty" component={TitleLiberty} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-north-africa" component={TitleNorthAfrica} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-late-years" component={TitleTheLateYears} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep02-title-the-question" component={TitleTheQuestion} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep02-title-legacy" component={TitleLegacyEp02} durationInFrames={120} fps={FPS} width={W} height={H} />
       </Folder>
       <Folder name="text-cards">

@@ -4,11 +4,21 @@ set -e
 OUT="../ep02-romanticism/visuals/graphics"
 
 COMPOSITIONS=(
+  ep02-title-cold-open
   ep02-title-world-after-david
   ep02-title-the-sublime
+  ep02-title-across-europe
   ep02-title-the-raft
+  ep02-title-the-real-story
+  ep02-title-the-process
   ep02-title-delacroix
+  ep02-title-the-mystery
+  ep02-title-the-early-work
+  ep02-title-the-rivalry
+  ep02-title-liberty
   ep02-title-north-africa
+  ep02-title-the-late-years
+  ep02-title-the-question
   ep02-title-legacy
   ep02-quote-baudelaire
   ep02-quote-delacroix-greeks

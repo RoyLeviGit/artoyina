@@ -9,7 +9,7 @@ mapboxgl.accessToken = process.env.REMOTION_MAPBOX_TOKEN as string;
 const PARIS: [number, number] = [2.3522, 48.8566];
 const LONDON: [number, number] = [-0.1276, 51.5074];
 const DRESDEN: [number, number] = [13.7373, 51.0504];
-const CENTER: [number, number] = [7.5, 50.5];
+const CENTER: [number, number] = [6.0, 50.2];
 
 const CITIES: { coords: [number, number]; name: string; sub: string; color: string }[] = [
   { coords: PARIS, name: "Paris", sub: "Géricault · Delacroix", color: palette.amber },
@@ -28,7 +28,7 @@ export const EuropeMap: React.FC = () => {
   useEffect(() => {
     const _map = new Map({
       container: ref.current!,
-      zoom: 4.8,
+      zoom: 6.3,
       center: CENTER,
       pitch: 0,
       bearing: 0,
@@ -57,9 +57,9 @@ export const EuropeMap: React.FC = () => {
         type: "circle",
         source: "cities",
         paint: {
-          "circle-radius": 14,
+          "circle-radius": 28,
           "circle-color": ["get", "color"],
-          "circle-stroke-width": 3,
+          "circle-stroke-width": 5,
           "circle-stroke-color": "#000",
           "circle-opacity": 0,
         },
@@ -71,7 +71,7 @@ export const EuropeMap: React.FC = () => {
         layout: {
           "text-field": ["get", "name"],
           "text-font": ["DIN Pro Bold", "Arial Unicode MS Bold"],
-          "text-size": 42,
+          "text-size": 88,
           "text-offset": [0, -1.4],
           "text-anchor": "bottom",
           "text-allow-overlap": true,
@@ -79,7 +79,7 @@ export const EuropeMap: React.FC = () => {
         paint: {
           "text-color": ["get", "color"],
           "text-halo-color": "#000",
-          "text-halo-width": 3,
+          "text-halo-width": 4,
           "text-opacity": 0,
         },
       });
@@ -90,7 +90,7 @@ export const EuropeMap: React.FC = () => {
         layout: {
           "text-field": ["get", "sub"],
           "text-font": ["DIN Pro Italic", "Arial Unicode MS Regular"],
-          "text-size": 26,
+          "text-size": 54,
           "text-offset": [0, 1.4],
           "text-anchor": "top",
           "text-allow-overlap": true,
@@ -98,7 +98,7 @@ export const EuropeMap: React.FC = () => {
         paint: {
           "text-color": palette.peach,
           "text-halo-color": "#000",
-          "text-halo-width": 2,
+          "text-halo-width": 3,
           "text-opacity": 0,
         },
       });
@@ -139,7 +139,7 @@ export const EuropeMap: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          top: 50,
+          top: 80,
           width: "100%",
           textAlign: "center",
           fontFamily: fonts.serif,
@@ -149,9 +149,9 @@ export const EuropeMap: React.FC = () => {
         <div
           style={{
             color: palette.amber,
-            fontSize: 28,
-            letterSpacing: 4,
-            textShadow: "0 2px 12px #000",
+            fontSize: 90,
+            letterSpacing: 8,
+            textShadow: "0 2px 24px #000",
           }}
         >
           ROMANTICISM IN EUROPE
@@ -159,11 +159,11 @@ export const EuropeMap: React.FC = () => {
         <div
           style={{
             color: palette.peach,
-            fontSize: 18,
+            fontSize: 56,
             fontStyle: "italic",
-            marginTop: 8,
+            marginTop: 16,
             opacity: 0.7,
-            textShadow: "0 2px 12px #000",
+            textShadow: "0 2px 16px #000",
           }}
         >
           Three centers, one movement — c. 1815–1850
