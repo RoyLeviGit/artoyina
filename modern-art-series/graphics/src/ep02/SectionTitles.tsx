@@ -24,7 +24,7 @@ export const TitleTheSublime = () => (
 export const TitleAcrossEurope = () => (
   <SectionTitle
     title="ACROSS EUROPE"
-    subtitle="Turner · Friedrich — The Same Feeling, Different Worlds"
+    subtitle="Romanticism Beyond France"
   />
 );
 
