@@ -42,11 +42,12 @@ The Romantic dream of revolution — the dream Delacroix had painted in *Liberty
 
 So a new generation of artists started asking a different question. Not "what should the world look like?" as the Neoclassicists asked, and not "what does the world feel like?" as the Romantics asked, but "what does the world actually look like?" Not ideals. Not dreams. Just… what's there.
 
-There was also a new pressure: photography. By the 1850s, cameras were everywhere, and suddenly a machine could capture exactly what something looked like. Which raised an uncomfortable question for painters: if a machine can do that, why paint at all?
+On top of that — photography. By the 1850s, cameras were everywhere, and suddenly a machine could capture exactly what something looked like. Which raised an uncomfortable question for painters: if a machine can do that, why paint at all?
 
 Their answer: a photograph records. A painting *reads into things*. A photograph shows you what's there. A painting shows you what it *means*.
 
-That's what Realism was about — and quick clarification: Realism doesn't mean paintings that look realistic, like a photograph. That's hyperrealism, and it comes much later.When these artists called themselves Realists, they meant painting real life: real people, real places, real situations — in contrast to the themes the Academy considered worthy of painting, like gods, heroes, history, and mythology.
+That's what Realism was about — and quick thing: Realism doesn't mean paintings that look realistic, like a photograph. That's hyperrealism, and it comes much later. When these artists called themselves Realists, they meant something simpler: paint ordinary life. Real people, real places, real situations — not gods, not heroes, not mythology.
+
 A generation had grown up watching revolution fail. Photography was pushing painting to reinvent itself. Into that world stepped a man with a very clear answer — and zero interest in being polite about it.
 
 ---
@@ -61,15 +62,15 @@ A generation had grown up watching revolution fail. Photography was pushing pain
 
 Gustave Courbet was born in 1819 in Ornans — a small town in eastern France, far from Paris. His family was well-off, with land and ties to rural life.
 
-He trained in Paris, but instead of chasing the polished style of the Académie, he spent his time studying old masters in the Louvre and hanging out at the Brasserie Andler — a gathering place for left-wing thinkers, painters, and writers.
+He trained in Paris, but instead of chasing the polished style of the Academie, he spent his time studying old masters in the Louvre and hanging out at the Brasserie Andler — a gathering place for left-wing thinkers, painters, and writers.
 
-From early on, he had no patience for the Académie’s system. The whole hierarchy — painting religious scenes, mythology, all the subjects the art world considered “noble” — felt pointless to him. Instead of gods and heroes, he focused on ordinary people and real life.
+From early on, he had no patience for the Academie's system. The whole hierarchy — paint religious scenes, paint mythology, paint the things the art world considers noble — was nonsense to him. Instead of painting gods or heroes, he turned his attention to ordinary people and real life.
 
 There's a quote linked to him — it might not be real, but it captures his whole position: "Show me an angel and I'll paint one."
 
 Think about what that means. The Salon's most respected category was religious and mythological painting — angels, gods, biblical scenes. That was what serious art was supposed to be about. Courbet's answer: show me an actual angel and I'll put it on canvas. Since you can't, I won't.
 
-And he didn’t just paint that attitude — he performed it. One of his most striking paintings is *Bonjour, Monsieur Courbet* — showing him on a road meeting his wealthy patron, Alfred Bruyas. Bruyas bows slightly. Courbet stands tall. A painter putting himself on the same level as a rich collector — or higher. In 1854, that was bold. Almost rude.
+And from the start, he was building a public image around that idea. One of his most striking paintings is *Bonjour, Monsieur Courbet* — showing him on a road meeting his wealthy patron, Alfred Bruyas. Bruyas bows slightly. Courbet stands tall. A painter putting himself on the same level as a rich collector — or higher. In 1854, that was bold. Almost rude.
 
 [ARTWORK: *Bonjour, Monsieur Courbet*, 6 seconds]
 
@@ -95,7 +96,7 @@ Look at this painting the way Paris saw it in 1850.
 
 [DETAIL: The mourners' faces — not prettied up, specific, real]
 
-Look at the faces. These aren’t symbols or idealized figures. They feel like actual people. This man looks annoyed. That kid looks bored. The dog is… just a dog.
+Look at the faces. These aren't types. They're not "the grieving mother" or "the noble priest." They're specific, ordinary, real people. This man looks annoyed. That kid looks bored. The dog doesn't care about any of it.
 
 Nobody is performing grief for the viewer. They're just... there. At a funeral. The way people actually are at funerals — awkward, tired, distracted, sad in private ways that don't photograph well.
 
@@ -129,25 +130,7 @@ The same year he painted *The Stone Breakers*.
 
 Two men breaking stones on a road. One old, one young. Their faces are turned away — we can't see them. They're nameless. Replaceable.
 
-This isn't a story about two specific people. It's a painting about labor as a way of life. This is what these men do. This is what they'll always do. The young one will become the old one. Nothing changes.
-
-[Courbet's friend Proudhon — an anarchist philosopher — saw it as a political statement about class. Courbet said he just painted what he saw on the road near Ornans. In a way, both were right.
-
-He kept pushing. In 1856, Young Women on the Banks of the Seine — two modern Parisian women lying by a riverbank on a summer day.
-
-Sounds almost acceptable again, right? Young women from high society, a familiar subject. But look at what Courbet does.
-
-He painted the young ladies not in a ladylike way at all. Instead of being idealized and shown in a perfect pose with perfect lighting, they are a mess — lying in unflattering poses, shown from an awkward angle, lit with realistic, ordinary light.
-
-These are city women escaping the heat, not mythological figures or polished ladies posing for a portrait. That kind of directness — that sense of modern life just existing on the canvas — was new.
-
-That’s a scandal! The Salon showed it, and the critics were outraged — it felt too physical, too present, too much like real life. That, of course, was exactly Courbet’s point.] - [maybe erace at the editing if feels too long]
-
-
-
----
-
-## 🔗 BRIDGE: FROM TRUTH TO DEFIANCE
+This isn't a story about two specific people. It's a painting about labor as a way of life. The young one will become the old one. Nothing changes.
 
 [TALKING HEAD]
 
@@ -161,13 +144,13 @@ But Courbet wasn't just pushing the limits of what he could paint. He was about 
 
 [TALKING HEAD]
 
-BBy the mid-1850s, Courbet had made his point. You could paint real, unglamorous life — and still make it feel important. But making the point and getting the art world to accept it were two different things. The Salon still decided who got seen, and the critics still decided who got praised.
+By the mid-1850s, Courbet had proven his point. You can paint real life — ugly, ordinary, unglamorous life — and make it matter. But proving a point and getting the art world to accept it are two very different things. The Salon still controls who gets seen. The critics still control who gets praised.
 
 In 1855, Paris hosted the World's Fair. A massive art show was part of it. Courbet submitted fourteen paintings. The jury accepted eleven.
 
 But they rejected one of the most important ones: *The Painter's Studio*.
 
-Most people would have been angry. Maybe written a letter. Maybe complained to their friends.
+Most artists would have been angry. Maybe written a letter. Maybe complained to their friends.
 
 Courbet built a building.
 
@@ -180,8 +163,8 @@ He literally built his own exhibition hall — across the street from the offici
 "To create living art — this is my goal."
 
 This might be the first time in modern art history that an artist put on a major show entirely by himself, outside the official system. Think about that. Every independent show that came after — every artist-run gallery, every DIY warehouse show — follows that same idea: showing your work on your own terms.
-You might think I’m exaggerating its importance, but really, think about it for a minute. Today, it seems normal — anyone can share their art with the world. That’s exactly what I’m doing right now. But back in Courbet’s time, society’s rules were very different. And someone had to be brave enough to take that first step — the one that changed everything for the artists who came after.
 
+You might think I'm exaggerating its importance, but really, think about it for a minute. Today, it seems normal — anyone can share their art with the world. That's exactly what I'm doing right now. But back in Courbet's time, society's rules were very different. And someone had to be brave enough to take that first step — the one that changed everything for the artists who came after.
 
 Courbet looked at the system that controlled who got seen and who didn't, and he said: I'll build my own.
 
@@ -193,7 +176,7 @@ Courbet looked at the system that controlled who got seen and who didn't, and he
 
 And the painting the Salon rejected? *The Painter's Studio: A Real Allegory Summing Up Seven Years of My Artistic and Moral Life.* That's the actual title. Twelve by twenty feet.
 
-Courbet is at the center. Literally at the center of the canvas, painting a landscape. On his left: the world of everyday life — beggars, workers, a priest, a hunter. On his right: the world of art — collectors, critics, and — look closely — that's Baudelaire - the poet and critic who defined Romanticism as “a mode of feeling” in my last video.
+Courbet is at the center. Literally at the center of the canvas, painting a landscape. On his left: the world of everyday life — beggars, workers, a priest, a hunter. On his right: the world of art — collectors, critics, and — look closely — that's Baudelaire, sitting in the corner, reading a book.
 
 Courbet put himself at the center of the world. On one side, reality. On the other, art. And him in the middle, connecting them.
 
@@ -203,30 +186,25 @@ The man has some ego. But it's kind of earned. Because that *is* what he was doi
 
 [TALKING HEAD]
 
-Courbet kept pushing the art itself further too. But where does Realism go when you push it all the way? If the rule is: paint reality without excuses, without mythology, without making it prettier than it is — what happens when you apply that to the human body?
+Courbet kept pushing the art itself further too. Where does Realism lead when you take it all the way? If the rule is: paint reality without excuses, without mythology, without making it prettier than it is — what happens when you apply that rule to the human body?
 
-In 1866, Courbet painted *The Origin of the World*. A close-up of a woman’s body — her genitals. No face. No setting. No mythological excuse for showing a naked woman. Just a body, painted honestly, as it is.
+In 1866, Courbet painted *The Origin of the World*. A close-up of a woman's body — no face, no setting, no mythological excuse. Just a body, painted honestly, as it is.
 
-Academic painters had painted the nude for centuries — but always wrapped in mythology. A goddess. A nymph. Courbet stripped that cover away.
+Academic painters had painted the nude for centuries — but always wrapped in mythology. A goddess. A nymph. Courbet stripped that cover away. No story. No excuse.
 
-It was hidden from the public for over a hundred years. It now hangs in the Musée d'Orsay in Paris — and it still shocks people.
+It was hidden from the public for over a hundred years. It now hangs in the Musee d'Orsay in Paris — and it still shocks people.
 
-The important point is — this isn’t just provocative for the sake of it. I mean, yes, it is a provocative painting — go Google it later because I’m not going to show it here — but it’s not only that. It’s also the most extreme version of what Courbet was always doing: painting reality without a cover story.
+This isn't just provocative for the sake of it. It's the most extreme version of what Courbet was always doing — painting reality without a cover story. That's where his logic leads.
 
 ### Realism Beyond Courbet
 
 [TALKING HEAD]
 
-That’s how far Courbet was willing to go. We’ll come back to him soon — his story isn’t over, and the ending is rough. But first, a quick look at how far the idea had spread.
+And Courbet wasn't alone. By the 1850s and 60s, Realism was spreading. Jean-Francois Millet painted rural laborers — his *Gleaners* showed three women picking up leftover grain after a harvest, and critics called it dangerous. Rosa Bonheur painted *The Horse Fair* — and to study horses she went to livestock markets dressed in men's clothing, because society wouldn't let a woman in otherwise.
 
-By the 1850s and 60s, Realism was everywhere. 
-Jean-François Millet painted rural life from the inside. The Gleaners (1857) shows women picking up leftover grain after a harvest. Critics called it dangerous. He said he just painted what he knew — the same defense Courbet used.
+[ARTWORK: *The Gleaners*, 5 seconds]
 
-Rosa Bonheur’s The Horse Fair (1853) caused a stir even before Courbet. She went to study animals up close, in places women weren’t expected to be.
-
-And it wasn’t just Courbet or France. In different places, artists started turning to real life — workers, poverty, everyday scenes. Same idea everywhere: don’t invent or idealize. Just look.
-
-But the man who started it was still in Paris. And Paris was heading into another dramatic chapter.
+In Germany, Russia, America — artists were making the same choice: don't invent, don't idealize, look at what's actually in front of you. The idea was bigger than one man. But the man who lit the fuse was still in Paris. And Paris was heading into another dramatic chapter.
 
 ---
 
@@ -240,36 +218,39 @@ But the man who started it was still in Paris. And Paris was heading into anothe
 
 In 1870, France went to war with Prussia. And lost. Badly. Napoleon the Third was captured. The Empire collapsed. Paris was under siege for four months.
 
-And then, in March 1871, something extraordinary happened. The people of Paris — workers, radicals, socialists — seized control of the city. For seventy-two days, Paris was its own country.
+And then, in March 1871, something extraordinary happened. The people of Paris — workers, radicals, socialists — seized control of the city and declared the Paris Commune. A radical, democratic, self-governing city.
 
-Courbet was elected to it's council. He was put in charge of protecting Parisian art and museums.
+For seventy-two days, Paris was its own country.
 
-But then there was the Vendôme Column. A monument in central Paris — a tall column topped with a statue of Napoleon, made from melted-down enemy cannons. A symbol of conquest and empire.
+Courbet was elected to the Commune's council. He was put in charge of protecting Parisian art and museums — which, given that he was the most famous artist in France, made sense.
 
-It was voted to tear it down. Courbet supported it. Whether he came up with the idea or just went along with it is still debated — but his namename was attached to it.
+But then there was the Vendome Column. A monument in central Paris — a tall column topped with a statue of Napoleon, made from melted-down enemy cannons. A symbol of conquest and empire.
+
+The Commune voted to tear it down. Courbet supported the demolition. Whether he came up with the idea or just went along with it is still debated. But his name was attached.
 
 The column came down on May 16, 1871.
 
-Five days later, the French army retook Paris. What followed was called Bloody Week. Thousands of the rebellion’s supporters were captured, deported, or killed.
+Five days later, the French army retook Paris. What followed was called Bloody Week. Thousands of Commune supporters were killed. Mass executions. Mass deportations. A massacre.
 
-Courbet was arrested. Sentenced to six months. And... he was ordered to pay for rebuilding the Vendôme Column. Three hundred and twenty-three thousand francs. If I did the math right, it’s more than a million US dollars today. An impossible amount.
+Courbet was arrested. Sentenced to six months. And then — the final blow — he was ordered to pay for rebuilding the Vendome Column. Three hundred and twenty-three thousand francs. An impossible amount.
 
-He fled to Switzerland in 1873 and lived in exile near Lake Geneva. He drank heavily, and his health fell apart.
- He died on New Year's Eve, 1877. He was fifty-eight. The column debt was still unpaid.
+He fled to Switzerland in 1873. Lived in exile near Lake Geneva. He drank heavily. His health fell apart.
+
+He died on New Year's Eve, 1877. He was fifty-eight. The column debt was still unpaid.
 
 *[Beat]*
 
 There's a parallel to David here worth noting. Both painters got tangled up in revolutionary politics. Both ended in exile. Both died in foreign countries.
 
-But there's a key difference. David switched sides — from the Revolution to Napoleon — without missing a beat. Courbet never did. He stayed a radical to the end — and paid for it.
+But there's a key difference. David switched sides — from the Revolution to Napoleon — without missing a beat. Courbet never did. He stayed a radical to the end. He paid for it with everything.
 
 I talked about David in a previous video — I'll link it in the description.
 
 Near the end of his life, Courbet wrote a letter that sums up everything he stood for:
 
-"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any régime except the régime of liberty.'"
+"I am fifty years old and I have always lived in freedom; let me end my life free; when I am dead let this be said of me: 'He belonged to no school, to no church, to no institution, to no academy, least of all to any regime except the regime of liberty.'"
 
-There's something moving about reading a man's request for how he wants to be remembered. But I think Courbet's life and work really live up to his letter. What do you think?
+There's something moving about reading a man's request for how he wants to be remembered. But I think Courbet's life and work really live up to his letter. What do you think — did he manage to be remembered the way he wished?
 
 ---
 
@@ -279,7 +260,7 @@ There's something moving about reading a man's request for how he wants to be re
 
 [TALKING HEAD — direct to camera]
 
-Courbet proved you could paint real life. Not mythology, not hidden symbols, not the dreams of the ruling class — just real, ordinary life.
+Courbet proved you can paint real life. Not mythology, not hidden symbols, not the dreams of the ruling class — just life. Ugly, ordinary, plain life.
 
 And he proved that it's worthy of the biggest canvas you can find.
 
@@ -299,7 +280,7 @@ For example, that's why I love Black Square by Malevich. You really can't apprec
 
 In the same way, painting a poor villager's burial at the scale of a king's coronation was bold, radical, and political in Courbet's time.
 
-But Black Square won't appear for a few more decades. There are still more ideas, more movements to go through first. 
+But Black Square won't appear for a few more decades. There are still more ideas, more movements to go through first. We're just getting started.
 
 Okay, okay… enough yapping.
 
@@ -310,7 +291,7 @@ Not "what is real life?" but "what does real life actually *look like*?"
 
 Not what's in front of you. But how your eyes actually see it. The way color shifts in changing light. The way water shimmers. The way a moment — a single, unrepeatable moment — feels before it's gone.
 
-In their own time, they’d be mocked and rejected. Today, their work is some of the most loved — and, more surprisingly, some of the most expensive in the world.
+They'd be mocked. They'd be rejected. They'd be named after an insult. And they would push painting into something never seen before.
 
 That's next time.
 
@@ -361,7 +342,7 @@ That's next time.
 - Bridge: into this world stepped Courbet
 
 **ACT 3 — Courbet**
-- Born 1819 Ornans; rejected the Académie; Brasserie Andler
+- Born 1819 Ornans; rejected the Academie; Brasserie Andler
 - "Show me an angel and I'll paint one"
 - *Bonjour, Monsieur Courbet* (1854): painter stands taller than patron
 - *A Burial at Ornans* (1849–50): **the centerpiece** — full analysis; silence moment (10–15 sec)
@@ -379,7 +360,7 @@ That's next time.
 
 **ACT 5 — The Fall**
 - Franco-Prussian War; Paris Commune (72 days)
-- Courbet on the council; the Vendôme Column torn down
+- Courbet on the council; the Vendome Column torn down
 - Bloody Week; arrest; 323,000 francs debt
 - Exile in Switzerland; death New Year's Eve 1877
 - Parallel to David — but Courbet never switched sides
@@ -396,34 +377,32 @@ That's next time.
 
 ### PRONUNCIATION GUIDE
 
-These names and words appear in the script and may need practice before recording:
-
 - **Gustave Courbet** — goo-STAHV koor-BAY
 - **Ornans** — or-NAHN
-- **Jean-François Millet** — zhahn-frahn-SWAH mee-YAY
+- **Jean-Francois Millet** — zhahn-frahn-SWAH mee-YAY
 - **Pierre-Joseph Proudhon** — Pyair Zhoh-ZEF proo-DOHN
-- **Vendôme** — vahn-DOHM
+- **Vendome** — vahn-DOHM
 - **La Tour-de-Peilz** — lah TOOR-duh-PAY
-- **Musée d'Orsay** — mew-ZAY dor-SAY
+- **Musee d'Orsay** — mew-ZAY dor-SAY
 - **Baudelaire** — bode-LAIR
 - **Louis-Philippe** — loo-EE fee-LEEP
-- **Louis-Napoléon** — loo-EE nah-poh-lay-OHN
+- **Louis-Napoleon** — loo-EE nah-poh-lay-OHN
 
 ---
 
 ### FACT-CHECK NOTES FOR REVIEW
 
-- ✅ Courbet born 1819 Ornans — confirmed
-- ✅ Burial at Ornans dimensions ~10 x 22 feet — confirmed (315 x 668 cm)
-- ✅ Stone Breakers destroyed in Dresden bombing Feb 1945 — confirmed
-- ✅ Vendôme Column demolished May 16, 1871 — confirmed
-- ✅ Courbet ordered to pay 323,000 francs — confirmed
-- ✅ Courbet died Dec 31, 1877, La Tour-de-Peilz — confirmed
-- ✅ Paris Commune lasted 72 days (March 18 – May 28, 1871) — confirmed (71 days; "seventy-two" is close enough)
-- ✅ First Impressionist exhibition: 1874 — confirmed
-- ⚠️ "Show me an angel and I'll paint one" — widely attributed but original source unclear. Script flags this.
-- ⚠️ Courbet quote ("I am fifty years old...") — needs exact source and translation verified.
-- ⚠️ *Bonjour, Monsieur Courbet* (1854): patron is Alfred Bruyas — confirm.
-- ⚠️ *The Origin of the World* commissioned by Khalil Bey — widely cited, verify.
-- ✅ Millet — *The Gleaners* (1857) — confirmed.
-- ⚠️ Rosa Bonheur — *The Horse Fair* (1853 Salon), police permit to wear men's clothing — widely documented, verify details.
+- Courbet born 1819 Ornans — confirmed
+- Burial at Ornans dimensions ~10 x 22 feet — confirmed (315 x 668 cm)
+- Stone Breakers destroyed in Dresden bombing Feb 1945 — confirmed
+- Vendome Column demolished May 16, 1871 — confirmed
+- Courbet ordered to pay 323,000 francs — confirmed
+- Courbet died Dec 31, 1877, La Tour-de-Peilz — confirmed
+- Paris Commune lasted 72 days (March 18 – May 28, 1871) — confirmed (71 days; "seventy-two" is close enough)
+- First Impressionist exhibition: 1874 — confirmed
+- "Show me an angel and I'll paint one" — widely attributed but original source unclear. Script flags this.
+- Courbet quote ("I am fifty years old...") — needs exact source and translation verified.
+- *Bonjour, Monsieur Courbet* (1854): patron is Alfred Bruyas — confirm.
+- *The Origin of the World* commissioned by Khalil Bey — widely cited, verify.
+- Millet — *The Gleaners* (1857) — confirmed.
+- Rosa Bonheur — *The Horse Fair* (1853 Salon), police permit to wear men's clothing — widely documented, verify details.
