@@ -52,6 +52,18 @@ import { ScaleComparison } from "./ep03/ScaleComparison";
 import { CourbetMap } from "./ep03/CourbetMap";
 import { RealismSpreadMap } from "./ep03/RealismSpreadMap";
 import {
+  BurialAtOrnansMainTitle,
+  CommuneAndExileMainTitle,
+  CourbetWalkedIntoTitle,
+  GustaveCourbetMainTitle,
+  LegacyMainTitle,
+  PaintersStudioMainTitle,
+  PavilionOfRealismMainTitle,
+  RealismBeyondCourbetMainTitle,
+  RealismTakenAllTheWayMainTitle,
+  StoneBreakersMainTitle,
+} from "./ep03/CourbetWalkedIntoTitle";
+import {
   TitleTheDoorOpens,
   TitleMonet,
   TitleMaryCassatt,
@@ -180,6 +192,16 @@ export const RemotionRoot: React.FC = () => {
         <Composition id="ep03-title-pavilion" component={TitlePavilion} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep03-title-commune" component={TitleCommune} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep03-title-legacy" component={TitleLegacyEp03} durationInFrames={120} fps={FPS} width={W} height={H} />
+        <Composition id="ep03-title-world-courbet-walked-into" component={CourbetWalkedIntoTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-gustave-courbet" component={GustaveCourbetMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-burial-at-ornans" component={BurialAtOrnansMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-stone-breakers" component={StoneBreakersMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-pavilion-of-realism" component={PavilionOfRealismMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-painters-studio" component={PaintersStudioMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-realism-beyond-courbet" component={RealismBeyondCourbetMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-realism-taken-all-the-way" component={RealismTakenAllTheWayMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-commune-and-exile" component={CommuneAndExileMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
+        <Composition id="ep03-main-title-legacy" component={LegacyMainTitle} durationInFrames={240} fps={FPS} width={1920} height={1080} />
       </Folder>
       <Folder name="text-cards">
         <Composition id="ep03-quote-courbet-goal" component={QuoteCourbetGoal} durationInFrames={300} fps={FPS} width={W} height={H} />
