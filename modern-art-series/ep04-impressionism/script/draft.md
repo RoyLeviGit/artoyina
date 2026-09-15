@@ -98,11 +98,11 @@ That’s why the exact same dress could look completely different to different p
 The Impressionists became fascinated by this idea — if colors change depending on what’s around them, and light changes how we see them, then painting wasn’t just about copying what was “there.” It was about capturing how a specific moment actually looked. That idea — capturing the passing moment — became central to everything they did.
 
 And this also changed how they painted. Instead of mixing colors into one flat tone, they placed small strokes of different colors right next to each other — and let your eye do the mixing. Up close, it looks like a mess of separate strokes. But step back… and the colors blend, and the painting comes alive.
-
 Cool, right? I’ve been waiting to do this effect. Let’s see it with another painting… Wow.
-Next time you’re in a museum, go stare at an Impressionist painting up close and then step back and look at it from afar. The scale is one thing, but also, in many artworks, the brushstrokes are thick and textured, and that’s something that totally gets lost on a screen.
-Okay, now onto the next piece of the puzzle…
 
+Next time you’re in a museum, go stare at an Impressionist painting up close and then step back and look at it from afar. The scale is one thing, but also, in many artworks, the brushstrokes are thick and textured, and that’s something that totally gets lost on a screen.
+
+There was a practical reason for those direct, unblended strokes too. When you’re painting outside and the light is changing in front of you, you can’t spend forever smoothing every transition. You have to put down what you see before it disappears. And that brings us to the next piece of the puzzle.
 ### The Technology
 
 [READ: Light, tactile and slightly comic at first. Accelerate once the railway and changing light turn painting into a race.]
@@ -130,7 +130,8 @@ He wasn’t exaggerating. Take the new convenience of pre-made paint tubes, add 
 
 Today we take that for granted. We can capture a scene instantly with a phone and send the image anywhere. But back then, if you wanted to paint something outside your studio, you had to go there yourself and work fast before the light changed. 
 If you’ve ever tried drawing outside from nature, you know what I’m talking about. Shades and colors change so fast. Try drawing a cloud — these bastards move way too fast!
-so back then, every painting was a race against time. And that urgency — that feeling of trying to capture something before it disappears — is baked into every Impressionist painting you’ve ever seen.
+
+so back then, every painting was a race against time. Not every canvas was completed outside, but the experience of working in changing light transformed the way these artists painted. And that urgency — that feeling of trying to capture something before it disappears — is baked into every Impressionist painting you’ve ever seen.
 
 ### Manet
 
@@ -201,7 +202,18 @@ In April 1874, about thirty of them pooled their money and rented a photographer
 
 Think about what that means. For decades, the only way an artist could be seen in France was through the Salon — one exhibition, controlled by one jury. Courbet had done it on his own — solo shows of his own work. But this was around thirty artists, working together to build a new system on their own terms.
 
-And the artists who took part in these exhibitions show just how many different directions the movement could take.
+And then a critic walked in and accidentally gave them a name.
+
+*[Beat]*
+
+Louis Leroy saw Monet’s *Impression, Sunrise* and wrote a mocking review. He compared it to wallpaper that wasn’t even finished yet. Burn.
+He used the word "impression" to make fun of the whole show — as if these weren’t paintings at all, only rough sketches someone had forgotten to finish.
+
+The name stuck: "Impressionists." At first it meant painters who offered only an impression — a first glance rather than a properly finished picture. But the artists gradually accepted the name and turned the insult into an identity.
+
+That immediacy remained visible in the finished work. Instead of polishing away the brushstrokes, they were willing to exhibit canvases that still carried the energy of their making. Their subjects changed too: city streets, cafés, dancers, families, ordinary people outdoors.
+
+But “Impressionist” never meant one strict style. The artists who took part in these exhibitions show just how many directions the movement could take.
 
 There was Edgar Degas — who didn’t even like painting outdoors and would later refuse to be called an Impressionist. But look at his work.
 
@@ -212,7 +224,7 @@ I personally love Degas for his oil pastel paintings that he made a bit later in
 
 
 
-There was also Pierre-Auguste Renoir, who took the same Impressionist tools — visible brushstrokes, broken color — but pointed them at people instead of landscapes. 
+There was also Pierre-Auguste Renoir, who was fascinated by light and color in outdoor social scenes.
 
 [ARTWORK: Renoir, *Bal du moulin de la Galette*, 5–8 seconds]
 
@@ -230,26 +242,11 @@ In a world where men constantly painted women, Cassatt offered a different persp
 
 *Little Girl in a Blue Armchair.* A child sprawled in a chair, bored and restless. She slouches as if nobody is watching. Cassatt doesn’t tidy her up or make her sweet for us. She’s just a kid being a kid.
 
-Cassatt wasn’t the only woman at the center of Impressionism. Berthe Morisot exhibited in seven of the eight independent exhibitions — more than Monet or Renoir. Their point of view expanded what “modern life” could mean in Impressionist art.
+Cassatt wasn’t the only woman at the center of the movement. Berthe Morisot exhibited in seven of the eight independent exhibitions — more than Monet or Renoir. Their point of view expanded what “modern life” could mean in Impressionist art.
 
 There was also Camille Pissarro — the oldest of the group, and the glue that held them together. He was the only artist who took part in all eight exhibitions they would eventually put together. Pissarro also mentored many of the painters involved in, or inspired by, the Impressionist movement, including two painters we’ll meet in a future video: Cézanne and Gauguin.
 
 Together, these artists showed just how many different directions this new way of painting could take. They weren’t all trying to paint the same thing — they were experimenting with what painting could be.
-
-And then a critic walked in and accidentally gave them a name.
-
-*[Beat]*
-
-Louis Leroy saw Monet’s *Impression, Sunrise* and wrote a mocking review. he litterally said "A drawing for a wallpaper pattern is more finished than this" - burnnn
-He used the word "impression" to make fun of the whole show — as if these weren’t paintings at all, only rough sketches someone had forgotten to finish.
-
-The name stuck: "Impressionists." At first it meant painters who offered only an impression — a first glance rather than a properly finished picture. But the artists gradually accepted the name and turned the insult into an identity.
-
-These artists often left the brushwork visible instead of polishing it away. Working against changing light encouraged a faster way of painting, and they were willing to exhibit canvases that still carried that speed.
-
-Their subjects changed too: city streets, cafés, dancers, families, ordinary people outdoors.
-
-So “Impressionist” never meant one strict style. It was a loose group of artists connected by their exhibitions and their interest in modern life as it looked and felt in the moment.
 
 They held eight independent exhibitions between 1874 and 1886. The group was never stable — constant fights about who to include, whether to also submit to the Salon, money, egos. But the principle held: we show our own work, on our own terms.
 
@@ -262,8 +259,8 @@ They held eight independent exhibitions between 1874 and 1886. The group was nev
 [TALKING HEAD]
 
 Remember the question from the beginning? How does a group of rejected nobodies become some of the most famous artists in history?
-Right now, they’re still just a group of broke rejects.
-So let’s go back to Monet and see how his story evolves — because it gets much darker before he finally finds success.
+To answer it, we need to go back to 1879, when recognition was still fragile and many of them were struggling.
+Let’s return to Monet — because his story gets much darker before he finally finds success.
 
 ### Camille
 
@@ -284,9 +281,9 @@ He couldn’t stop seeing it as a painter. Even in that moment.
 
 He painted her on her deathbed.
 
-Exhale. That’s creepy... but I don’t think we can blame him. He was kind of a victim of his own mastery.
-
 *[Let that sit]*
+
+Exhale. That’s creepy... but I don’t think we can blame him. He was kind of a victim of his own mastery.
 
 This isn’t a story about a cold man. It’s a story about someone who sees so deeply that he can’t turn it off — not even in the worst moment of his life. That’s what it meant to see the way Monet saw. And that way of seeing — that obsession with how light changes everything — is what led to everything that came next.
 
@@ -302,9 +299,11 @@ And slowly — very slowly — things started to change. Not because the Salon c
 
 The person who did the most to turn that attention into a market was the dealer Paul Durand-Ruel. He had been buying Impressionist paintings since the early 1870s, when almost nobody else would touch them. He believed in the work so strongly that he nearly went bankrupt, but kept arranging exhibitions in Paris and, crucially, brought a large show to New York in 1886. American buyers didn’t depend on the Salon to tell them what was good — they saw these paintings and went crazy for them.
 
-That helped turn the tide for the group, and for Monet. He didn’t suddenly win over the French establishment. But his audience kept growing: from a few critics and collectors, to galleries, and finally to an international market.
+That helped turn the tide for the group, and for Monet. He didn’t suddenly win over the French establishment. His audience simply kept widening until the Salon was no longer the only path that mattered.
 
 Then, in 1891, Monet did something really unusual — and this time, it was the moment his long, uncertain rise became undeniable. He exhibited a whole series of paintings of the same subject: haystacks.
+
+(leave time for many haystack to apear)
 
 [ARTWORK: Two or three Haystacks side by side — different light conditions]
 
@@ -314,10 +313,9 @@ He said: "For me, a landscape does not exist in its own right, since its appeara
 
 He’s not painting haystacks. He’s painting light. The haystacks are just a surface for the light to play on. Remember that idea — capturing a specific, unrepeatable moment of perception? This is what it looks like when someone dedicates their entire life to it.
 
-Every painting sold.
+The exhibition was acclaimed, and the paintings sold quickly.
 
-After nearly twenty years of poverty — and after losing Camille — Monet was finally successful. The man rejected by the Salon over and over, whose work had been dismissed as incompetent and unfinished, had sold out. So of course, he kept going — exploring light, color, and his way of painting, pushing this new way of thinking in new, bolder directions.
-
+After years of poverty — and after losing Camille — Monet was finally successful. The man rejected by the Salon over and over, whose work had been dismissed as incompetent and unfinished, had found a way to become a major artist. So of course, he kept going — exploring light, color, and his way of painting, pushing this new way of thinking in bolder directions.
 
 
 Okay, before we move on, I just wanna stop for a second and think about this. Monet struggled for almost twenty years before he became successful. Twenty years. That’s kind of crazy.
@@ -371,33 +369,28 @@ Monet died in 1926 at the age of eighty-six. He had started as a struggling arti
 
 [TALKING HEAD — direct to camera]
 
-By the early nineteen-hundreds, the Impressionists were no longer outsiders. Museums were collecting their work, and prices were rising. By the time Claude Monet died, his work was already highly valued. And in the decades after, that value only grew. Today, Impressionist paintings regularly sell for tens of millions — sometimes more. They are among the most commercially successful movements in art history. People now line up to see the same works critics once dismissed as incompetent or simply unfinished.
+By the early nineteen-hundreds, the Impressionists were no longer outsiders. Durand-Ruel’s exhibitions and network of collectors helped several Impressionists build reputations outside the Salon. Some became famous and financially secure; others continued to struggle. The group itself broke apart after its final exhibition in 1886.
+
+But the movement didn’t disappear when the group did. Its audience kept growing. By the early nineteen-hundreds, museums were collecting their work and prices were rising. Today, people line up to see the same paintings critics dismissed as incompetent and unfinished.
 
 So why is the Impressionists’ story so important for art history?
 
 They proved that there’s more than one way to make a painting — and that nobody gets to decide which way is the right one.
 
-A visible brushstroke didn’t have to be a mistake — it could be intentional and add something to the painting. A quick outdoor sketch could matter as much as a polished studio painting. A wild, expressive exploration of texture and color could be just as important as a complicated composition filled with well-known characters.
+They expanded what a finished painting could look like. A visible brushstroke didn’t have to be a mistake — it could be intentional. A quick outdoor sketch could matter as much as a polished studio painting. A wild, expressive exploration of texture and color could be just as important as a complicated composition filled with well-known characters.
 
 And maybe even more important than the style is what they proved about the system. If the Salon and its jury wouldn’t let them in, they could rent a room and show the work themselves. They didn’t have to wait for permission.
 
-Their paintings are now among the most loved in the world.
-
-But their real impact wasn’t popularity — it was what they proved about art itself. They didn’t replace the old rules with new ones. They broke the idea that there needed to be rules at all.
-
+That may be their biggest legacy. They didn’t replace the Academy’s rules with one new formula. They broke the idea that there had to be only one path at all.
 And maybe because of their courage — and their refusal to give up — we can now enjoy the huge variety of art we see today.
 
 *[Beat]*
-
-And that’s the thing about the Impressionists — they didn’t just change what painting looks like. They changed what’s *possible*. Before them, there was one path. After them, there were infinite paths. Every radical artist who came next — every movement that broke things further — walked through the space the Impressionists created.
-
 
 So, can you see how everything starts to pile up?
 Neoclassicism played by the old rules of the Academy — rational, structured compositions, showing traditional themes.
 Romanticism brought intense emotions and dramatic settings.
 Realism challenged the idea of what subjects are worthy of being painted.
-And Impressionism changed the rules of how paintings could be made — continuing this broadening of what art could explore, both in its subjects and in its style.
-
+And Impressionism changed how paintings could be made — evolving the way artists explored both subjects and style.
 
 
 So, you guessed it — the very next generation brought their own changes to the art world. They looked at Impressionism and felt it still wasn’t enough. They wanted art to go beyond the exploration of light and color and become more personal, even unsettling.
