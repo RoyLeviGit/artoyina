@@ -1,5 +1,5 @@
 # Episode 5: "Four Roads Out of Impressionism"
-## FULL SCRIPT — DRAFT v4
+## FULL SCRIPT — DRAFT v5
 ### Movement: Post-Impressionism | Target Runtime: ~25 min
 
 ---
@@ -26,147 +26,101 @@ Now this. A blood-red room, a green ceiling, and lights that glare.
 
 And this. Breton women watch Jacob wrestling an angel on a bright red field.
 
-These paintings look nothing alike, yet art history puts all four under the same name: Post-Impressionism.
+These paintings look nothing alike, yet art history puts all four under the same name: Post-Impressionism. To understand why, we need to start with what they had in common: Impressionism itself.
 
-It wasn't really one movement. These artists did not form a group, share a manifesto, or call themselves Post-Impressionists.
+The Impressionists painted everyday subjects with bright colors and visible brushstrokes. They were interested in how things looked under changing light, so a landscape could become a record of a particular moment. That freedom appealed to the artists we're looking at today. But each wanted to use it for something different.
 
-The name came later. In 1910, the British critic Roger Fry used it for artists who came after Impressionism and took its ideas in very different directions.
-
-By the second half of the 19th century, the Impressionists had given artists new freedom with color, brushwork, and subject matter.By 1886, the group was coming to an end, but its influence was only beginning to spread.
-
-Monet and the other Impressionists kept working. But at their eighth and final group exhibition, Seurat showed *La Grande Jatte*.
-
-[SIDE BY SIDE: Monet landscape or leisure scene / Seurat, *La Grande Jatte*]
-
-In Monet, water flickers, clouds move, and light dissolves edges.
-
-In Seurat, the marks are controlled and repeated. The figures barely move.
-
-He did not reject Impressionist color. He organized it.
-
-The same pattern runs through this episode. These artists learned from Impressionism, then changed what its color and brushwork could do.
+That is why Post-Impressionism can be a confusing name. These artists weren't members of one group with a shared style or manifesto. The British critic Roger Fry introduced the label in 1910, looking back at the different directions painting had taken after Impressionism. Those experiments overlapped with Impressionism too. Monet and his fellow artists were still working while these new approaches developed.
 
 Seurat turned color into a system, while Cézanne used it to build structure and weight. Van Gogh used it to express emotion, and Gauguin combined what he saw with memory, belief, and imagination.
 
 System. Structure. Emotion. Dream.
 
-And the clearest place to begin is Seurat, because his new direction appeared inside the final Impressionist exhibition itself.
+We'll start with Seurat and the painting we saw first. He exhibited it alongside the Impressionists at their final group show in 1886. It is a useful place to begin because the subject looks familiar, but his way of painting it makes the whole scene feel different.
 
 ---
 
 ## ACT 2: SEURAT — COLOR BECOMES A SYSTEM
 
-*[READ: Precise and visual.]*
-
-[ARTWORK: Seurat, *A Sunday Afternoon on the Island of La Grande Jatte*, full screen]
+*[READ: Introduce Seurat before revealing the whole painting. Let the final comparison resolve the analysis.]*
 
 [TALKING HEAD]
 
-Seurat began *La Grande Jatte* in 1884, when he was twenty-four. It took him about two years.
+Georges Seurat was a young French painter, born in Paris in 1859. He had studied traditional drawing and composition, but he was also interested in scientific theories about color. He wanted to bring those two interests together: the brightness of Impressionism and a carefully planned way of building a picture.
 
-The subject is very Impressionist: Parisians relaxing beside the Seine. But the painting doesn't feel spontaneous. The figures are still and simplified, almost like pieces placed into position.
+[ARTWORK: Seurat, *A Sunday Afternoon on the Island of La Grande Jatte*, full screen]
 
-Now get closer.
+He began *La Grande Jatte* in 1884, when he was twenty-four, and worked on it for about two years. The subject is very Impressionist: Parisians relaxing beside the Seine. But instead of making the scene feel like a passing moment, he makes the figures seem almost fixed in place. To see how, we need to look at both the small marks and the whole composition.
 
 [GRAPHIC: Extreme close-up of painted surface. Slowly pull back.]
 
-Seurat placed small touches of different colors beside each other. Blue near orange. Red near green. Yellow near violet. From a distance, the colors interact in your eye.
+Up close, the surface breaks into small touches of different colors. Seurat placed contrasting colors beside each other so they would interact when seen from a distance. This drew on research by Michel Eugène Chevreul, a French chemist who studied how neighboring colors affect one another's appearance. Seurat wanted to make those effects something he could plan.
 
-Remember Chevreul from the last episode? His research showed that colors look different depending on what surrounds them. Seurat tried to turn that research into a painting method.
-
-this method was known as Divisionism or, more commonly, Pointillism.
-
-But *La Grande Jatte* is more than a color experiment.
+The idea of separation of colors is called Divisionism (lso called chromoluminarism - yes i only mentioned that to try saing that word); painting with small dots is called Pointillism. The point (que drum comic sound) was to make color more systematic, and that control extended beyond the brushstrokes.
 
 [ARTWORK DETAIL: Figures, parasol, tree trunks, woman with monkey]
 
-Look at the repeated verticals: trees, figures, umbrellas — they bring an unnatural stillness to the composition. And the crowd — different social classes share the same space, but they barely interact. They are scattered in a way that looks half natural, half artificial, separating them into isolated groups.
+Look at the repeated verticals: trees, figures, umbrellas. They bring an unnatural stillness to the composition. Different social classes share the same space, but barely interact. They are scattered in a way that looks half natural, half artificial, separating them into isolated groups. The carefully arranged figures help explain why such a bright outdoor scene can feel stiff and distant.
 
-The scene is bright, yet it also feels stiff and distant.
+[SIDE BY SIDE: Monet landscape or leisure scene / Seurat, *La Grande Jatte*]
 
-Seurat showed that a painting could be built as a controlled system of colors and shapes. That idea later influenced geometric abstraction and Op Art.
+Compare that with Monet. His broken brushwork makes light and movement feel immediate; Seurat uses separate marks to create something controlled and lasting. So the dots are only part of the change. Seurat takes an everyday outing and turns it into a deliberate arrangement in which color and composition shape how we experience the people.
 
-He died suddenly in 1891, at thirty-one. His career was short, but quite influential. He had shown one clear path beyond Impressionism.
+That is his development of the Impressionist ideas: their color theory and visinle brush strokes could support a planned system, as well as a fleeting impression. 
 
-Seurat responded to Impressionist spontaneity with method and control. Cézanne wanted something different: to keep its freedom while making the world feel solid again.
+Unfortunately, his career was very short. He died suddenly in 1891, at just thirty-one. But in that short time, he made an important mark on the art history and shown one clear path beyond Impressionism.
+
+pur next post impressionistic artist is Cézanne, who was also searching for order, but he approached it through a different problem. He wanted to keep Impressionist color ideas while making objects feel solid and substantial.
 
 ---
 
 ## ACT 3: CÉZANNE — COLOR BUILDS STRUCTURE
 
-*[READ: Patient and visual.]*
+*[READ: Introduce the artist, then follow the same problem through different subjects.]*
 
 [TALKING HEAD]
 
-Cézanne wanted to combine the color and direct observation of Impressionism with the weight and order of older painting.
+Paul Cézanne came from Aix-en-Provence, in the south of France, and was born in 1839. His early paintings were dark and heavy. Working with Camille Pissarro, an Impressionist painter who became his mentor, taught him to paint outdoors and lighten his palette. He exhibited with the Impressionists, although critics often mocked his work.
 
-He said he wanted to make Impressionism "something solid and durable, like the art of museums."
-
-Cézanne was born in Aix-en-Provence in 1839. His early paintings were dark and heavy. Then Pissarro encouraged him to work outdoors, lighten his palette, and build with color. Cézanne exhibited with the Impressionists, but critics mocked his work.
+Those lessons mattered to him, but he wanted to combine them with the weight and order he admired in older paintings. He described his ambition as making Impressionism "something solid and durable, like the art of museums." Much of his work became an attempt to bring those two things together.
 
 ### Mont Sainte-Victoire
 
 [SIDE BY SIDE: Three versions of *Mont Sainte-Victoire*]
 
-This is the mountain near his home in Aix. He returned to it again and again.
+This is Mont Sainte-Victoire, the mountain near his home in Aix. He returned to it again and again, changing how he arranged the landscape. Compare these versions: the trees change, the valley opens and closes, and the mountain looks solid in one painting but almost dissolves in another.
 
-Compare these versions. The trees change, the valley opens and closes, and the mountain looks solid in one painting but almost dissolves in another.
-
-Cézanne builds the landscape through patches of blue, green, and ochre. A blue may describe the sky, but it also appears in the mountain and foreground, connecting the whole painting.
-
-He was not simply turning nature into cones and cubes. He was trying to organize what he saw and make it hold together.
-
-He used the same approach when he moved from the landscape to ordinary objects.
+Cézanne builds the landscape through patches of blue, green, and ochre. A blue describes the sky, but it also appears in the mountain and foreground, connecting the different parts. Each patch has two jobs: it helps us recognize something in the landscape, and it helps the painting hold together. The same concern becomes even easier to see in his still lifes.
 
 ### The Still Lifes
 
 [ARTWORK: Cézanne, *Still Life with Apples and a Pot of Primroses*]
 
-Now look at the table. Its angles do not line up. The pot seems to be seen from one height and the plate from another.
+Look at the table. Its angles do not quite line up, and the objects seem to be seen from different heights. Traditional perspective assumes one fixed viewpoint. But when we look at something, our eyes move and our attention shifts. One way to understand Cézanne's unusual spaces is that they bring those changing impressions together on a flat canvas.
 
-Traditional perspective assumes that the viewer stands in one fixed position. But our eyes move. We notice different parts of a scene at different moments.
-
-Cézanne tried to fit that moving experience onto a flat canvas. That is why the perspective feels strange.
-
-He wrote, "Painting from nature is not copying the object. It is realizing one's sensations."
-
-He also told a younger painter to treat nature through "the cylinder, the sphere, the cone." Later artists took that as permission to simplify and rebuild visible forms.
-
-And he applied this idea to figures as well as still lifes.
+He wrote, "Painting from nature is not copying the object. It is realizing one's sensations." He also advised a younger painter to think of nature through "the cylinder, the sphere, the cone." He was searching for a way to organize what he saw, and he applied that search to people as well as objects.
 
 [ARTWORK: Cézanne, *The Card Players*]
 
-In *The Card Players*, two men, the table, and the bottle lock together through repeated angles. The quiet mood comes partly from that balance.
+In *The Card Players*, the two men, the table, and the bottle form a balanced arrangement of repeated angles. That balance helps give the scene its quiet mood.
 
 [ARTWORK: Cézanne, *The Large Bathers*]
 
-In *The Large Bathers*, the bodies and trees form a large triangle. The individual figures matter less than the structure of the whole painting.
+In *The Large Bathers*, the bodies and trees form a large triangle. Again, he adjusts individual figures to make the whole composition work. Across all these subjects, Cézanne shows how much a painter can change while still keeping the scene recognizable.
 
-These works showed younger artists that they could reorganize the visible world instead of copying it.
+Recognition came slowly. His first solo exhibition was held in 1895. He died in 1906, and a major retrospective the following year spread his influence further. Picasso and Braque studied the way he built forms and disrupted perspective as they developed Cubism, which would break subjects into intersecting planes and viewpoints.
 
-That influence came late. For much of Cézanne's life, even people close to him doubted his work. In 1886, his childhood friend Émile Zola published *The Masterpiece*, a novel about a failed painter. Cézanne recognized himself in the character. He sent Zola a formal thank-you letter, and their friendship ended.
-
-Cézanne did receive recognition during his lifetime. His first solo exhibition came in 1895. After his death in 1906, a major retrospective made his influence even clearer.
-
-Picasso, Braque, and Matisse studied his work. His shifting space and simplified forms helped lead toward Cubism.
-
-Picasso later called him "the father of us all."
-
-Seurat and Cézanne were both concerned with how a painting is built. Van Gogh absorbed their ideas, but pushed color toward a different question: how can a painting express what a person feels?
+Cézanne's example made those changes easier to imagine. A painting could have its own structure, even where it departed from the scene in front of the artist. Van Gogh also departed from what he saw, but his emphasis was different: he wanted those changes to express feeling.
 
 ---
 
 ## ACT 4: VAN GOGH — COLOR BECOMES EMOTION
 
-*[READ: Intimate, but do not rush.]*
+*[READ: Let the letter introduce his purpose, then show how his painting developed.]*
 
 [TALKING HEAD]
 
-For Van Gogh, that question was deeply personal.
-
-Vincent van Gogh did not decide to become an artist until he was twenty-seven.
-
-Before that, he had failed as an art dealer, teacher, and preacher. He had very little money and depended heavily on his brother Theo.
+Vincent van Gogh was Dutch and came to painting relatively late. Before deciding to become an artist at twenty-seven, he had worked as an art dealer, tried teaching, and preached among coal miners in Belgium. None of those paths lasted. His brother Theo became an important source of financial and emotional support, and their letters give us a close account of how Vincent thought about his work.
 
 Two years after choosing art, he wrote to Theo:
 
@@ -174,151 +128,103 @@ Two years after choosing art, he wrote to Theo:
 
 "What am I in the eyes of most people — a nonentity, an eccentric, or an unpleasant person — somebody who has no position in society and will never have one; in short, the lowest of the low. All right, then — even if that were absolutely true, then I should one day like to show by my work what such an eccentric, such a nobody, has in his heart."
 
-
-
 ### From Brown to Color
 
-That wish to show what he had in his heart would guide the rest of his career. But first he had to find the right visual language.
+The wish to communicate something personal was there early, before the bright colors we associate with him. His first paintings show how he tried to express that feeling through the lives of people around him.
 
 [ARTWORK: Van Gogh, *The Potato Eaters*]
 
-His first answer was dark and earthy. In *The Potato Eaters*, five peasants sit beneath a weak lamp. Van Gogh wanted their rough hands and faces to show the weight of manual labor.
+In *The Potato Eaters*, five peasants sit beneath a weak lamp. The dark colors and rough faces make the room feel worn and cramped, while the hands reaching for food suggest the labor that produced it. He was already using the way he painted to shape our response to the subject.
 
 [ARTWORK: Van Gogh, *Self-Portrait*, 1887]
 
-Then he moved to Paris and encountered Impressionism, Seurat's Neo-Impressionism, and Japanese prints. These influences gave him the language he had been missing. Browns gave way to blue, orange, green, and red, while his brushstrokes became lighter and more visible.
+When he moved to Paris in 1886, he discovered new ways to do that. Impressionism, Seurat's experiments, and Japanese prints encouraged him to lighten his palette and separate his brushstrokes. In this self-portrait, you can see how far he had moved from the brown tones of *The Potato Eaters*.
 
 ### Arles
 
-Paris transformed his style. Arles is where he made it fully his own. He moved south in 1888 and produced around two hundred paintings in about fifteen months.
+He developed those experiments further after moving south to Arles in 1888. There, he hoped to establish a shared home and studio for artists. He invited Paul Gauguin, a French painter whose work he admired, and prepared the Yellow House for his arrival. The paintings from this period show how deliberately Van Gogh used color to give ordinary surroundings an emotional character.
 
 [ARTWORK: Van Gogh, *Sunflowers*]
 
-In *Sunflowers*, yellow fills the flowers, vase, table, and background. Some flowers are open while others are already collapsing. He painted them to decorate the Yellow House before Gauguin arrived.
+He painted *Sunflowers* to decorate the house. Yellow runs through the flowers, vase, table, and background, giving the whole image warmth. Some flowers are open while others are already collapsing, so the arrangement also holds different stages of their life.
 
 [ARTWORK: Van Gogh, *The Bedroom*]
 
-The same freedom with color and shape appears in *The Bedroom*. The walls tilt, the bed seems to rise, and the perspective feels unstable. Van Gogh wanted the room to express rest, although many viewers find it tense.
+In *The Bedroom*, he wanted simplified shapes and colors to suggest rest. The tilting furniture may feel less restful to us, but the intention matters: he was choosing how a room should feel in a painting.
 
 [ARTWORK: Van Gogh, *The Night Café*]
 
-But *The Night Café* makes his break from Impressionism clearest.
+*The Night Café* aims for almost the opposite effect. Red walls clash with the green ceiling and billiard table, while the floor pulls your eye toward the back wall. Van Gogh wrote that he wanted to express "the terrible passions of humanity" through red and green.
 
-The red walls clash with the green ceiling and billiard table. Yellow lamps glow above a floor that pulls your eye toward the back wall.
+That explains what he was doing with the freedom he learned from Impressionism. Color could convey more than the appearance of light. Here, the red helps make the room feel dangerous. It is an ordinary interior transformed by the artist's response to it.
 
-Van Gogh wrote that he wanted to express "the terrible passions of humanity" through red and green. He also explained that he used color more freely to express himself with greater force.
+### Painting Through Illness
 
-The Impressionists had shown that shadows could be blue and light could break into many colors. Van Gogh used that freedom to communicate emotion.
+When Gauguin arrived in October 1888, the two artists disagreed about how far that transformation should go. Van Gogh usually needed a subject in front of him; Gauguin encouraged working from memory and imagination. After nine tense weeks together, Van Gogh experienced a serious mental health crisis and injured his left ear. The exact cause and trigger remain uncertain. Gauguin left, ending their experiment in living and working together.
 
-The wall does not only look red. The red makes the room feel dangerous.
-
-### Gauguin and the Ear
-
-Van Gogh hoped Gauguin would help him build this new artistic community. Gauguin came to live in the Yellow House in October 1888, but they disagreed about how to paint. Van Gogh usually began with something in front of him. Gauguin preferred memory and imagination.
-
-They worked together for nine tense weeks. On December 23, during a serious mental health crisis, Van Gogh mutilated his left ear. The exact cause and trigger remain uncertain. Gauguin left, and Van Gogh's hope for an artists' community ended.
-
-His illness did not create his art. By then, he had already spent years studying color, learning from other artists, and working with enormous discipline. The immediate question was whether he would be able to continue.
-
-### The Starry Night
-
-In May 1889, Van Gogh entered the asylum at Saint-Rémy voluntarily. He continued painting when his health allowed it, bringing observation and imagination closer together.
+In May 1889, Van Gogh voluntarily entered the asylum at Saint-Rémy. He continued painting when his health allowed it, and one of the paintings from that period brings observation and imagination together.
 
 *[Music drops out.]*
 
 [ARTWORK: Van Gogh, *The Starry Night*, full screen. Hold in silence.]
 
-*The Starry Night*. June 1889.
+*The Starry Night*, painted in June 1889, draws on the landscape outside his window, but the village is invented and the sky transformed. The dark cypress connects the earth to the sky, while the church steeple repeats its upward movement. Curved brushstrokes run through the hills, tree, and spirals above them, linking the whole scene.
 
-The view began with the landscape outside his window, but the village was invented and the sky was transformed.
+The painting makes the distinction between observation and imagination less clear than the argument with Gauguin might suggest. Van Gogh was willing to combine both, although he remained uneasy about taking invention too far.
 
-The dark cypress connects the earth to the sky. The church steeple repeats the same upward movement. Curved brushstrokes run through the hills, tree, and huge spirals above them.
+### What His Work Leaves Us
 
-Van Gogh combined observation with memory and imagination. But he did not consider this his obvious masterpiece. He worried that it was too stylized.
+Van Gogh left the asylum in May 1890 and moved to Auvers-sur-Oise, where he continued painting at an extraordinary pace. He died from a gunshot wound that July, at thirty-seven. His death is generally understood as suicide.
 
-### The Man Behind the Myth
+That ending can overwhelm how we see his work. But the paintings and letters show years of study and deliberate choices about color and composition. His illness interrupted that work; it does not explain his ability. His example mattered to later artists, including the Expressionists and Fauves, who also used altered colors and forms to communicate feeling.
 
-Van Gogh left the asylum in May 1890 and moved to Auvers-sur-Oise. During his final weeks, he painted roughly one canvas a day.
-
-He died from a gunshot wound on July 29. The generally accepted account is that he shot himself, although some writers have disputed this. He was thirty-seven.
-
-The popular image of Van Gogh focuses on the ear, the illness, and the tragic death. His letters show a thoughtful, widely read artist who cared deeply about his work and other people.
-
-His illness was part of his life, but it did not magically produce his art.
-
-Van Gogh took the color and brushwork of Impressionism and used them to express emotion. That became especially important to the Expressionists and Fauves.
-
-That tension between observation and imagination takes us back to Gauguin. Van Gogh changed what he saw to express emotion; Gauguin was increasingly willing to leave direct observation behind.
+To understand the other side of the disagreement in Arles, we need to return to Gauguin. For him, painting from memory was becoming a method in its own right.
 
 ---
 
 ## ACT 5: GAUGUIN — PAINTING FROM MEMORY
 
-*[READ: Clear and controlled.]*
+*[READ: Introduce Gauguin, explain the method, then examine its consequences in Tahiti.]*
 
 [TALKING HEAD]
 
-Gauguin believed that simply copying nature limited what painting could do. For him, memory and imagination should reshape what the artist had seen.
+Paul Gauguin had started painting while working as a stockbroker. He was married to Mette Gad and had five children, and at first art was something he pursued alongside that life. After the financial crash of 1882, he increasingly committed himself to painting, eventually leaving his family behind.
 
-This was not the path he began on. He started as a stockbroker and amateur painter, married Mette Gad, and had five children. After the financial crash of 1882, he committed himself to art, eventually leaving his family behind.
-
-Like Cézanne, he learned from Pissarro and exhibited with the Impressionists. His major break from their style came in Brittany.
+He collected Impressionist paintings and exhibited with the group, learning from Pissarro, who had also helped Cézanne. But Gauguin grew dissatisfied with painting directly from nature. He wanted memory to simplify what he had seen and imagination to change it. By the time he joined Van Gogh in Arles, he had already begun developing that approach in Brittany.
 
 ### Vision After the Sermon
 
 [ARTWORK: Gauguin, *Vision After the Sermon*]
 
-Breton women have left church after hearing the story of Jacob wrestling an angel.
+In *Vision After the Sermon*, Breton women appear to witness the biblical story of Jacob wrestling an angel. A tree trunk cuts across the canvas, dividing the praying women from the struggle. Yet both occupy the same bright red ground, so an imagined event seems as present as the people watching it.
 
 [SIDE BY SIDE: Impressionist outdoor scene / *Vision After the Sermon*]
 
-A tree trunk cuts across the canvas, but it does not clearly separate the women from the vision. Both appear equally real.
+An Impressionist might use color to show light falling across a field. Gauguin uses this red to take the scene outside everyday experience. Repeated white caps, dark dresses, and heavy outlines turn the figures into flat shapes, reducing the depth that would make the scene look natural.
 
-And look at the ground. It is bright red. The women are simplified into repeated white caps and dark dresses. Heavy outlines surround flat shapes. Most traditional depth has disappeared.
+This approach became known as Synthetism because it brought together the subject's appearance, the artist's response, and the arrangement of forms. The heavy outlines were also associated with Cloisonnism, an approach that resembles the separate areas of color in enamel or stained glass. These were ways to make a painting work through its design, without depending on realistic space.
 
-Gauguin is not documenting what these women really saw or believed. He is creating his own image of their faith.
-
-He and the artists around Pont-Aven called this approach Synthetism. It combined the appearance of a subject with memory and the arrangement of lines and colors.
-
-It was also connected to Cloisonnism, with its heavy outlines around areas of flat color. Japanese prints and stained glass offered similar examples.
-
-This helped lead toward Symbolism and abstraction. The same freedom to move away from observation would shape the way Gauguin represented other cultures.
+Gauguin is creating his own image of Breton faith, rather than documenting what these women actually believed. That distinction becomes especially important when he applies the same freedom to a culture where he arrives as an outsider.
 
 ### Tahiti
 
-Brittany offered Gauguin an escape from modern Paris, but eventually even that was not far enough. In 1891, he sailed to Tahiti, looking for what he imagined was a more "primitive" culture.
-
-But Tahiti was a French colony. European rule and disease had already changed Tahitian society deeply. The untouched paradise Gauguin expected did not exist, so he invented it in his work.
-
-He mixed real people and landscapes with borrowed, misunderstood, and sometimes invented stories. Tahitian titles helped the paintings appear mysterious and authentic to European audiences.
+In 1891, Gauguin sailed to Tahiti, hoping to escape Europe and find what he imagined was a more "primitive" way of life. But Tahiti was a French colony, already deeply affected by European rule and disease. The untouched paradise he expected did not exist. His paintings combined real people and landscapes with borrowed, misunderstood, and sometimes invented stories.
 
 [ARTWORK: Gauguin, *Spirit of the Dead Watching*]
 
-*Spirit of the Dead Watching* shows a naked young Tahitian girl on a bed, with a dark figure behind her.
+In *Spirit of the Dead Watching*, a naked young Tahitian girl lies on a bed, with a dark figure behind her. Yellow and violet intensify each other, while the body stretches across a pattern of fabric and shadow. Gauguin presented the scene as an image of the girl's fear of spirits, but that explanation comes from him.
 
-The body stretches across the painting. Yellow and violet intensify each other. It is unclear whether the figure behind her is a spirit, a dream, a memory, or Gauguin's invention.
+The girl is generally identified as Teha'amana, whom Gauguin described as thirteen when their sexual relationship began. His accounts are not always reliable, but the power imbalance matters to the image: an adult European colonist was representing an adolescent Polynesian girl and interpreting her culture for a European audience.
 
-The girl was Teha'amana, whom Gauguin described as thirteen when their sexual relationship began. His accounts are not always reliable, but the power imbalance is clear: an adult European colonist painted an adolescent Polynesian girl for a European audience.
-
-So we need to ask who controls the image and whose body and culture are being used.
-
-The scholar Edward Said later used the term Orientalism to describe a similar pattern: the West invents an exotic image of another culture and then presents it as truth. Said wrote mainly about the Middle East and Asia, but the colonial pattern also helps us understand Gauguin's Tahiti.
-
-Gauguin expanded the same invented world into his largest painting.
+This resembles the pattern Edward Said later described as Orientalism: the West invents an exotic image of another culture and presents it as truth. Said wrote mainly about the Middle East and Asia, but the comparison helps us question Gauguin's claim to show the "real" Tahiti. His freedom to invent the image also gave him control over whose version of that world viewers would see.
 
 [ARTWORK: Gauguin, *Where Do We Come From? What Are We? Where Are We Going?*]
 
-In this large painting from 1897, Gauguin uses Tahitian figures to represent birth, life, and death. It is meant to be read from right to left.
+He expanded this imagined world in *Where Do We Come From? What Are We? Where Are We Going?*, painted in 1897. Read from right to left, its Tahitian figures suggest birth, life, and death. Scale and perspective shift, while color connects the different parts into a symbolic scene. The question has become universal, but the people used to ask it are still filtered through his fantasy of Polynesia.
 
-The scale shifts, the figures do not share one realistic space, and color connects the different parts. Gauguin creates a symbolic scene rather than a clear story.
+Gauguin's work shows both the possibilities and the consequences of painting from imagination. His flat shapes and invented colors influenced artists such as Matisse and the Nabis, a group interested in symbolism and decorative painting. At the same time, the images carry a colonial fantasy that we need to recognize when we look at them.
 
-It is visually powerful, but the people inside it are still filtered through his fantasy of Polynesia.
-
-We can recognize Gauguin's influence without ignoring the exploitation behind the work. His colors influenced Matisse and the Fauves. His flat shapes and symbols influenced the Nabis and Symbolists. His use of non-European cultures also became part of modern art's history of colonial appropriation.
-
-Gauguin showed that painting could build a world from memory and imagination. He also showed the harm that could be hidden inside that freedom.
-
-With Gauguin, the four paths are complete. But they should not feel like four separate boxes. They overlap, and together they show how widely painting opened up after Impressionism.
+His approach takes us furthest from direct observation among these four examples. Now we can return to the opening paintings and see why their differences matter.
 
 ---
 
@@ -334,11 +240,11 @@ These four paintings still look nothing alike, and that is the point. Post-Impre
 
 Seurat turned color into a system, while Cézanne used it to build structure. Van Gogh made it express emotion, and Gauguin used it to create symbolic, imagined worlds.
 
-They were not the only ones. Signac, Toulouse-Lautrec, Émile Bernard, Paul Sérusier, and the Nabis all followed other paths.
+The categories overlap. Van Gogh used imagination as well as observation, while Cézanne cared about sensation as well as structure. These four artists are examples of a much wider range of experiments, rather than the members of one new group.
 
 After Impressionism, there was no longer one clear answer for what painting should do. It could study how we see, express inner experience, or invent a world that had never existed.
 
-Next time, we follow that last path into Symbolism and Art Nouveau, where dreams and symbols move beyond painting into posters, furniture, and architecture.
+The next episode looks more closely at Symbolism and Art Nouveau, which developed alongside these experiments. We'll explore how dreams and symbols became subjects for art, and how decoration connected painting with posters, furniture, and architecture.
 
 *[Cut to black.]*
 
@@ -377,6 +283,12 @@ Next time, we follow that last path into Symbolism and Art Nouveau, where dreams
 5. Four-way final comparison — system / structure / emotion / dream
 
 **Important editorial principle:** Biography should explain an artistic decision or the conditions of an image. Do not add biographical detail merely because it is dramatic.
+
+**Flow and delivery:** Each paragraph develops one connected idea. Artwork cues mark visual changes, not automatic pauses. Introduce each artist before the close analysis, then resolve the artistic problem before moving to the next artist. The comparisons between artists are an explanatory order, not a claim that each movement replaced the previous one.
+
+**Standalone viewing:** Explain concepts and people when they first appear. No knowledge of another episode is assumed.
+
+**Seurat reference:** The [Art Institute of Chicago's exhibition research](https://archive.artic.edu/seurat/seurat_themes.html) supports the discussion of his training, preparation, and the 1886 exhibition. These links are production references, not spoken narration.
 
 **Key silence moment:** Hold *The Starry Night* without narration before beginning the visual analysis.
 
