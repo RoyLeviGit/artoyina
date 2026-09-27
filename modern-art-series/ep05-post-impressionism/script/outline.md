@@ -40,23 +40,23 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 - Establish his Post-Impressionist approach at the start: learning bright color and visible brushwork, then adapting them to express emotion.
 - Keep the letter to Theo.
 - Briefly show *The Potato Eaters* and the Paris self-portrait.
-- Mention *Sunflowers* and *The Bedroom* quickly.
-- Use *The Night Café* for the main explanation of expressive color.
+- Keep Arles compact: yellow-on-yellow and gratitude in *Sunflowers*, flat color and rest in *The Bedroom*, clashing color and unease in *The Night Café*.
+- Conclude with all three paintings and their different expressive purposes.
 - Establish the Yellow House and planned artists' community before Gauguin's visit.
 - Identify Gauguin as the artist introduced in the opening and the subject of the next act.
 - Keep the ear crisis brief and combine the myth correction into one closing paragraph.
 - Give *The Starry Night* the main visual hold.
-- End by separating his art from the myth that illness created it.
+- Keep biography brief; describe periods of distress gently, without romanticizing them as the source of his talent.
 - Use Van Gogh and Gauguin's disagreement to introduce observation versus imagination.
 
 ### 5. Gauguin — Painting from Memory
 
 - Introduce his move from Impressionist observation toward memory and invented color before the paintings.
-- Clearly place his Brittany work before the visit to Van Gogh.
-- Use *Vision After the Sermon* to explain Synthetism and Cloisonnism through their visible effects, introducing each name after the idea.
-- Build the Tahiti story from attempted escape to disappointed expectations, then show how he painted an imagined paradise within a colony.
-- Analyze *Spirit of the Dead Watching* through image and power.
-- Mention *Where Do We Come From?* briefly.
+- Explain why he went to Brittany, then place the 1888 painting before the visit to Van Gogh.
+- Explain flat color, outlines, and imagined scenes in *Vision After the Sermon* without adding style names.
+- Keep Tahiti's escape, colonial reality, and imagined paradise to one short paragraph.
+- In *Spirit of the Dead Watching*, move from the uncertain gaze to Gauguin's account and the unequal relationship; omit the Edward Said detour.
+- Explain *Where Do We Come From?* through the infant, fruit picker, old woman, and idol, while leaving its meaning open.
 - Connect his influence to Symbolism while keeping exploitation central.
 - Bridge into the conclusion by stressing that the four paths overlap.
 
@@ -76,4 +76,4 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 
 Each act follows the artist's background, a clear artistic problem, visual evidence, and a conclusion. Develop each idea in a connected paragraph and treat artwork cues as visual changes rather than mandatory pauses. Introduce historical references directly without assuming viewers watched an earlier episode.
 
-Reading notes now give section-specific guidance on energy, tone, emphasis, and pace. Van Gogh and Gauguin's artistic questions precede their brief backgrounds so the connection to Post-Impressionism remains central. Keep the existing Seurat pronunciation joke casual.
+Reading notes mark only major delivery shifts. Van Gogh and Gauguin's artistic questions precede their brief backgrounds so the connection to Post-Impressionism remains central. Keep the existing Seurat pronunciation joke casual.
