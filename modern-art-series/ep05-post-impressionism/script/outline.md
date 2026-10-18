@@ -31,7 +31,7 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 
 - Briefly introduce his move from law to painting and Pissarro's influence, acknowledging the earlier Impressionism video.
 - Explain his Post-Impressionist development through two ideas: building solid form with color and adjusting perspective.
-- Use *Mont Sainte-Victoire* and the apple still life as the main examples; briefly show *The Card Players* and *The Large Bathers*.
+- Use repeated *Mont Sainte-Victoire* views to show what Cézanne kept testing; briefly explain the arrangement in *The Card Players* and *The Large Bathers*.
 - Close with Picasso, Braque, Cubism, and Matisse; omit the exhibition chronology.
 - Connect Cézanne's use of color for structure to Van Gogh's use of it for feeling.
 
@@ -40,7 +40,7 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 - Establish his Post-Impressionist approach at the start: learning bright color and visible brushwork, then adapting them to express emotion.
 - Keep the letter to Theo.
 - Briefly show *The Potato Eaters* and the Paris self-portrait.
-- Keep Arles compact: yellow-on-yellow and gratitude in *Sunflowers*, flat color and rest in *The Bedroom*, clashing color and unease in *The Night Café*.
+- Keep Arles compact: warm terrace light in *Café Terrace at Night*, simplified shapes and intended rest in *The Bedroom*, clashing color and unease in *The Night Café*.
 - Conclude with all three paintings and their different expressive purposes.
 - Establish the Yellow House and planned artists' community before Gauguin's visit.
 - Identify Gauguin as the artist introduced in the opening and the subject of the next act.
@@ -48,6 +48,8 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 - Give *The Starry Night* the main visual hold.
 - Keep biography brief; describe periods of distress gently, without romanticizing them as the source of his talent.
 - Use Van Gogh and Gauguin's disagreement to introduce observation versus imagination.
+- Cut repeated emotional-intensity claims in the self-portrait discussion. Keep the letter and the main *Starry Night* analysis.
+- Correct the no-sales myth through *The Red Vineyard*, already shown in the opening.
 
 ### 5. Gauguin — Painting from Memory
 
@@ -56,7 +58,7 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 - Explain flat color, outlines, and imagined scenes in *Vision After the Sermon* without adding style names.
 - Keep Tahiti's escape, colonial reality, and imagined paradise to one short paragraph.
 - In *Spirit of the Dead Watching*, move from the uncertain gaze to Gauguin's account and the unequal relationship; omit the Edward Said detour.
-- Explain *Where Do We Come From?* through the infant, fruit picker, old woman, and idol, while leaving its meaning open.
+- Explain *Where Do We Come From?* through the infant, fruit picker, and old woman, while leaving its meaning open.
 - Connect his influence to Symbolism while keeping exploitation central.
 - Bridge into the conclusion by stressing that the four paths overlap.
 
@@ -64,12 +66,13 @@ Post-Impressionism was not one style. It was a later label for artists who learn
 
 - Summarize each path in one sentence.
 - Clarify that the categories overlap.
-- Introduce Symbolism and Art Nouveau as related, overlapping developments.
+- Introduce Symbolism and Art Nouveau as related, overlapping developments, using Redon's floating eye and Klimt's gold and pattern to create curiosity.
+- Resolve the legacy promise without claiming all recognition came after death.
 
 ## Runtime Strategy
 
 - Narration: about 3,000 words
-- Main artwork holds: *La Grande Jatte*, Cézanne's still life, *The Night Café*, *The Starry Night*, *Vision After the Sermon*, and *Spirit of the Dead Watching*
+- Main artwork holds: *La Grande Jatte*, the mountain comparisons, *The Night Café*, *The Starry Night*, *Vision After the Sermon*, and *Spirit of the Dead Watching*
 - Secondary artworks remain on screen but receive only one or two sentences
 
 ## Story and Delivery

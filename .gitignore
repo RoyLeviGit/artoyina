@@ -19,3 +19,25 @@ modern-art-series/**/visuals/graphics/*.mp4
 editing/Arina_Music/
 modern-art-series/graphics/renders/
 editing/ep03/Ep3_EXP/
+
+# Local image assets (already tracked images remain tracked)
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[pP][nN][gG]
+*.[gG][iI][fF]
+*.[wW][eE][bB][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[bB][mM][pP]
+*.[hH][eE][iI][cC]
+*.[aA][vV][iI][fF]
+
+# Local Adobe projects; scripts and text remain eligible for commit
+*.[aA][eE][pP]
+*.[aA][eE][pP][xX]
+*.[aA][eE][tT]
+*.[pP][rR][pP][rR][oO][jJ]
+*.[pP][sS][dD]
+*.[pP][sS][bB]
+*.[aA][iI]
+*.[iI][nN][dD][dD]

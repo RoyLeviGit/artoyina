@@ -1,0 +1,15 @@
+Caption correction notes
+
+Ep04_corrected.srt was compared with the supplied PDF script. All 1,280 original cue numbers, start times and end times are preserved. Ep04_srtBAD.srt is unchanged.
+
+Corrections cover names, misheard phrases, missing words inferred from context, capitalization and punctuation. Conversational additions, repetitions, reordered passages and plausible wording differences were retained. No audio or video was reviewed, so inferred wording is not audio-verified.
+
+A few places to check against your recording:
+- 00:16:05.800–00:16:17.500 (cues 573–578): retained “incompetent” rather than replacing it with the script’s “incomplete”; both make sense here.
+- 00:19:58.900 (cue 715): “personal paintings” corrected to “pastel paintings.” The script says “oil pastel paintings”; check whether “oil” is spoken.
+- 00:20:08.566 (cue 721): “Piero” provisionally corrected to “Pierre.” The script introduces Pierre-Auguste Renoir, but the short caption does not establish whether you say his full name. Check this name against the audio.
+- 00:30:15.333 (cue 1072): “Monet entered the room” inferred as “Monet rented a room” from the script and context.
+
+Several broken sentence endings were completed from context, including “an open door,” “what painting could be,” “the only path that mattered,” “both subjects and style,” and “you’ve definitely seen his art.” Check these if the recording has abrupt edits or deliberately unfinished sentences.
+
+The closing claim that the fourth artist sold one painting was retained from the captions even though the draft script says none; captions should follow your delivery.

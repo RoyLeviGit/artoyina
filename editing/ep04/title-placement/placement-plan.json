@@ -1,0 +1,65 @@
+[
+  {
+    "placeholderId": 4297,
+    "startFrame": 7413,
+    "endFrame": 7533,
+    "title": "THE SCIENCE",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/01-the-science.mp4"
+  },
+  {
+    "placeholderId": 4270,
+    "startFrame": 13682,
+    "endFrame": 13802,
+    "title": "THE TECHNOLOGY",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/02-the-technology.mp4"
+  },
+  {
+    "placeholderId": 4245,
+    "startFrame": 19810,
+    "endFrame": 19930,
+    "title": "THE SCANDAL",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/03-the-scandal.mp4"
+  },
+  {
+    "placeholderId": 4227,
+    "startFrame": 25572,
+    "endFrame": 25692,
+    "title": "IMPRESSIONISM",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/04-impressionism.mp4"
+  },
+  {
+    "placeholderId": 4199,
+    "startFrame": 30753,
+    "endFrame": 30873,
+    "title": "THE EXHIBITION",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/05-the-exhibition.mp4"
+  },
+  {
+    "placeholderId": 4137,
+    "startFrame": 41246,
+    "endFrame": 41366,
+    "title": "MONET AND CAMILLE",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/06-monet-and-camille.mp4"
+  },
+  {
+    "placeholderId": 4117,
+    "startFrame": 45271,
+    "endFrame": 45391,
+    "title": "THE LONG ROAD TO SUCCESS",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/07-the-long-road-to-success.mp4"
+  },
+  {
+    "placeholderId": 4072,
+    "startFrame": 54279,
+    "endFrame": 54399,
+    "title": "MONET’S LATER YEARS",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/08-monets-later-years.mp4"
+  },
+  {
+    "placeholderId": 4051,
+    "startFrame": 58152,
+    "endFrame": 58272,
+    "title": "ART AFTER IMPRESSIONISM",
+    "file": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/graphics/renders/ep04-main-titles/09-art-after-impressionism.mp4"
+  }
+]

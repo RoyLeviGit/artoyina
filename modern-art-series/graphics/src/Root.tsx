@@ -77,6 +77,7 @@ import { ImpressionismTimeline } from "./ep04/ImpressionismTimeline";
 import { ChevreulGraphic } from "./ep04/ChevreulGraphic";
 import { JaponismeComparison } from "./ep04/JaponismeComparison";
 import { ImpressionistParisMap } from "./ep04/ImpressionistParisMap";
+import { Ep04MainTitle, ep04MainTitles } from "./ep04/MainTitles";
 import {
   TitleAfterImpressionism,
   TitleCezanne,
@@ -221,6 +222,20 @@ export const RemotionRoot: React.FC = () => {
     </Folder>
 
     <Folder name="ep04-impressionism">
+      <Folder name="main-titles">
+        {ep04MainTitles.map(({ id, lines }) => (
+          <Composition
+            key={id}
+            id={`ep04-main-title-${id}`}
+            component={Ep04MainTitle}
+            defaultProps={{ lines }}
+            durationInFrames={240}
+            fps={FPS}
+            width={1920}
+            height={1080}
+          />
+        ))}
+      </Folder>
       <Folder name="section-titles">
         <Composition id="ep04-title-the-door-opens" component={TitleTheDoorOpens} durationInFrames={120} fps={FPS} width={W} height={H} />
         <Composition id="ep04-title-monet" component={TitleMonet} durationInFrames={120} fps={FPS} width={W} height={H} />

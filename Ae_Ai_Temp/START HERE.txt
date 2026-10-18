@@ -1,0 +1,24 @@
+ARTOYINA - NEW VIDEO TEMPLATE
+
+1. Open Artoyina_Artwork_Template.aep in After Effects 2026.
+2. Immediately choose File > Save As > Save As and save under your new video name.
+3. Put your new artwork images in a folder with picture_filenames.txt.
+   Use the included EXAMPLE (rename it), or use Artwork details prompt.txt to request a new details file. Each File: entry must match an image filename exactly.
+4. Choose File > Scripts > Run Script File and open Picture Packs.jsx from this folder.
+5. Choose _TEMPLATE Picture Pack, click Create packs from multiple artworks, and select your images.
+6. Each artwork gets a zoom comp and a 10-second full-screen comp, with its own picture and automatic zoom caption. New timeline tabs stay closed.
+7. To change an artwork later, use Replace picture in both comps in the panel. Native Replace Footage does not update captions.
+8. Save your new project. Reopen Picture Packs.jsx whenever you need the controls.
+
+Keep this template folder and its Assets together; do not delete or move Assets after starting a project. Keep your new artwork folders too.
+The sample picture is a placeholder; create new packs for your video. Keep the master named _TEMPLATE_Fscreen.
+For long captions, add a shorter Display title: line to that artwork’s details and replace its picture again.
+Font used by the template: Arial Bold. Missing details do not block creation: the caption uses ??? for missing title, artist, or date, and a pop-up lists what is missing.
+
+HOW TO REOPEN PICTURE PACKS IF YOU CLOSED IT
+
+1. In After Effects, click File in the top menu.
+2. Click Scripts, then Run Script File…
+3. Go to your artoyina folder and open Ae_Ai_Temp.
+4. Select Picture Packs.jsx and click Open.
+5. The Picture Packs panel appears again. Your project stays open.

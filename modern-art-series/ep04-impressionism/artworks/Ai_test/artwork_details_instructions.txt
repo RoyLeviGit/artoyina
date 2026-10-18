@@ -1,0 +1,33 @@
+Please create an artwork details text file for all the pictures in this folder:
+[PASTE THE FOLDER PATH HERE, or use the folder I specify in my message]
+
+Save the result as picture_filenames.txt inside that folder.
+
+For every picture, include:
+- Exact filename, including its extension.
+- Artist’s simplest commonly used first and last name (for example, Mary Cassatt, Edgar Degas, Claude Monet, Édouard Manet, or Auguste Renoir). Omit extra given names and parenthetical name variants.
+- Artwork title in English only. If no established English title exists, use the original-language title only. Do not include both versions.
+- Date of creation of the original artwork.
+- Direct links to the online sources used to verify the information.
+
+Please follow these instructions:
+1. Include every picture file directly in the folder, sorted alphabetically by filename. Do not include subfolders unless I ask.
+2. Inspect the images to identify the artworks. Do not rely only on filenames: titles and dates in filenames may be wrong, and an artist may have made several similar versions.
+3. Search online to verify the artist, exact artwork, and creation date. Prefer the museum that holds the work, official collection catalogs, and other authoritative sources.
+4. Use the museum’s English catalog title and creation date when available. If its catalog is in another language, look for an established English title in reliable sources; use the original-language title only if no English version is available. Preserve approximate dates and date ranges; do not invent an exact year or day.
+5. Briefly explain conflicting dates or corrected filename information when relevant. Keep just one artwork title; do not append alternative titles or translations.
+6. If an artwork cannot be confidently identified, label it as uncertain or unidentified. Do not guess or present an unverified match as fact.
+7. Keep the original picture files and their filenames unchanged. Add the information to the text file, not onto the images.
+8. Include the date of online verification and any additional sources needed to verify artists’ commonly used names.
+9. Check that every picture has exactly one entry before finishing.
+
+Use this simple format, with a blank line between entries:
+
+1. File: exact_filename.jpg
+Artist: Common first and last name
+Artwork: English title only (or original-language title only if no English version exists)
+Date of creation: Year, range, or approximate date
+Source: Direct source URL(s)
+Note: Only if a correction, uncertainty, or other clarification is needed.
+
+When finished, give me a link to the completed text file and briefly mention any unresolved identifications.

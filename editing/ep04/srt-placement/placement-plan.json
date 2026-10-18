@@ -1,0 +1,133 @@
+{
+  "project": "AE_AI_ep04.aep",
+  "target": "ep04 Linked Comp 03",
+  "fps": 30,
+  "position": [
+    2880,
+    1080
+  ],
+  "srt": "/Users/arinagusak/Desktop/Arisha/projects/artoyina/modern-art-series/ep04-impressionism/artworks/Ai_test/Ep04_RAF_4AiTest.srt",
+  "placements": [
+    {
+      "title": "The Luncheon on the Grass",
+      "comp": "manet_luncheon_on_the_grass_1863_zoom",
+      "startFrame": 22801,
+      "endFrame": 23728,
+      "inTC": "00:12:40:01",
+      "outTC": "00:13:10:28",
+      "cueStart": 452,
+      "cueEnd": 469,
+      "note": "Artwork introduction through the end of its discussion."
+    },
+    {
+      "title": "Olympia",
+      "comp": "manet_olympia_1863_zoom",
+      "startFrame": 23900,
+      "endFrame": 24567,
+      "inTC": "00:13:16:20",
+      "outTC": "00:13:38:27",
+      "cueStart": 472,
+      "cueEnd": 485,
+      "note": "Named painting through the critics’ reaction."
+    },
+    {
+      "title": "Impression, Sunrise",
+      "comp": "Monet_-_Impression,_Sunrise_zoom",
+      "startFrame": 29439,
+      "endFrame": 30749,
+      "inTC": "00:16:21:09",
+      "outTC": "00:17:04:29",
+      "cueStart": 583,
+      "cueEnd": 611,
+      "note": "Creation, visual description, title, and introduction to the naming story."
+    },
+    {
+      "title": "Impression, Sunrise — critic review",
+      "comp": "Monet_-_Impression,_Sunrise_zoom",
+      "startFrame": 32887,
+      "endFrame": 34033,
+      "inTC": "00:18:16:07",
+      "outTC": "00:18:54:13",
+      "cueStart": 653,
+      "cueEnd": 676,
+      "note": "Second explicit mention: review and naming of Impressionism."
+    },
+    {
+      "title": "The Dance Class",
+      "comp": "degas_dance_class_1874_zoom",
+      "startFrame": 35208,
+      "endFrame": 35912,
+      "inTC": "00:19:33:18",
+      "outTC": "00:19:57:02",
+      "cueStart": 700,
+      "cueEnd": 715,
+      "note": "Look at the dance class through its composition analysis."
+    },
+    {
+      "title": "Blue Dancers",
+      "comp": "Edgar_Germain_Hilaire_Degas_076_zoom",
+      "startFrame": 35912,
+      "endFrame": 36257,
+      "inTC": "00:19:57:02",
+      "outTC": "00:20:08:17",
+      "cueStart": 716,
+      "cueEnd": 722,
+      "note": "User-approved contextual match: Degas’s later pastel paintings."
+    },
+    {
+      "title": "Dance at the Moulin de la Galette",
+      "comp": "renoir_moulin_de_la_galette_1876_zoom",
+      "startFrame": 36442,
+      "endFrame": 37206,
+      "inTC": "00:20:14:22",
+      "outTC": "00:20:40:06",
+      "cueStart": 727,
+      "cueEnd": 742,
+      "note": "Named painting through discussion of social atmosphere; transition shares a subtitle cue."
+    },
+    {
+      "title": "The Child’s Bath",
+      "comp": "cassatt_childs_bath_1893_zoom",
+      "startFrame": 37672,
+      "endFrame": 38438,
+      "inTC": "00:20:55:22",
+      "outTC": "00:21:21:08",
+      "cueStart": 754,
+      "cueEnd": 770,
+      "note": "Painting description through the transition to the next example."
+    },
+    {
+      "title": "Little Girl in a Blue Armchair",
+      "comp": "cassatt_little_girl_blue_armchair_1878_zoom",
+      "startFrame": 38438,
+      "endFrame": 38968,
+      "inTC": "00:21:21:08",
+      "outTC": "00:21:38:28",
+      "cueStart": 771,
+      "cueEnd": 781,
+      "note": "Another example through the child’s pose; following transition shares a subtitle cue."
+    },
+    {
+      "title": "Rouen Cathedral",
+      "comp": "RouenCathedral_Monet_1894_zoom",
+      "startFrame": 54410,
+      "endFrame": 55600,
+      "inTC": "00:30:13:20",
+      "outTC": "00:30:53:10",
+      "cueStart": 1073,
+      "cueEnd": 1098,
+      "note": "Available Full Sunlight version illustrates the cathedral-series passage; other lighting variants are not in art_comps."
+    },
+    {
+      "title": "Bridge over a Pond of Water Lilies",
+      "comp": "The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan_zoom",
+      "startFrame": 55600,
+      "endFrame": 56257,
+      "inTC": "00:30:53:10",
+      "outTC": "00:31:15:07",
+      "cueStart": 1099,
+      "cueEnd": 1110,
+      "note": "Garden, pond, and Japanese bridge; ends before the late abstract canvases."
+    }
+  ]
+}

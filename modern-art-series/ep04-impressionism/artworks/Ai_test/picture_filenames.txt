@@ -1,0 +1,67 @@
+ARTWORK DETAILS
+Verified online: 11 October 2026
+Dates refer to creation of the original artworks. “Circa” means approximately.
+
+1. File: cassatt_childs_bath_1893.jpg
+Artist: Mary Cassatt
+Artwork: The Child’s Bath
+Date of creation: 1893
+Source: https://shop.artic.edu/products/285981
+
+2. File: cassatt_little_girl_blue_armchair_1878.jpg
+Artist: Mary Cassatt
+Artwork: Little Girl in a Blue Armchair
+Date of creation: 1878
+Source: https://www.nga.gov/artworks/61368-little-girl-blue-armchair
+
+3. File: degas_dance_class_1874.jpg
+Artist: Edgar Degas
+Artwork: The Dance Class
+Date of creation: 1873–1876
+Source: https://www.musee-orsay.fr/fr/oeuvres/la-classe-de-danse-1151
+Note: The Musée d’Orsay dates this version to 1873–1876; the filename uses 1874.
+
+4. File: Edgar_Germain_Hilaire_Degas_076.jpg
+Artist: Edgar Degas
+Artwork: Blue Dancers
+Date of creation: circa 1898
+Source: https://artmaecenas.pushkinmuseum.art/data/authors/d/degas_edgar/blue_dancers.php?lang=en
+Note: Identified from the image. The Pushkin Museum gives “Around 1898”; some other sources give 1897.
+
+5. File: manet_luncheon_on_the_grass_1863.jpg
+Artist: Édouard Manet
+Artwork: The Luncheon on the Grass
+Date of creation: 1863
+Source: https://www.musee-orsay.fr/en/artworks/le-dejeuner-sur-lherbe-904
+
+6. File: manet_olympia_1863.jpg
+Artist: Édouard Manet
+Artwork: Olympia
+Date of creation: 1863
+Source: https://www.musee-orsay.fr/en/artworks/olympia-712
+
+7. File: Monet_-_Impression,_Sunrise.jpg
+Artist: Claude Monet
+Artwork: Impression, Sunrise
+Date of creation: 1872
+Source: https://www.marmottan.fr/en/collections/claude-monet/
+
+8. File: renoir_moulin_de_la_galette_1876.jpg
+Artist: Auguste Renoir
+Artwork: Dance at the Moulin de la Galette
+Date of creation: 1876
+Source: https://www.musee-orsay.fr/fr/oeuvres/bal-du-moulin-de-la-galette-497
+
+9. File: RouenCathedral_Monet_1894.jpg
+Artist: Claude Monet
+Artwork: Rouen Cathedral: The Portal and Saint-Romain Tower, Full Sunlight
+Date of creation: 1893
+Source: https://www.musee-orsay.fr/fr/oeuvres/la-cathedrale-de-rouen-le-portail-et-la-tour-saint-romain-plein-soleil-1285
+Note: This specific image matches the Musée d’Orsay work RF 2002. The catalog date is 1893, although the filename says 1894. Image identification: https://commons.wikimedia.org/wiki/File:RouenCathedral_Monet_1894.jpg
+
+10. File: The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan.jpg
+Artist: Claude Monet
+Artwork: Bridge over a Pond of Water Lilies
+Date of creation: 1899
+Source: https://www.metmuseum.org/art/collection/search/437127
+Note: Uses the Metropolitan Museum’s catalog title. Image identification: https://commons.wikimedia.org/wiki/File:The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan.jpg

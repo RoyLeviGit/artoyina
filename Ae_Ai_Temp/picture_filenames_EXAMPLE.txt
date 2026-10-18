@@ -1,0 +1,10 @@
+File: exact_image_filename.jpg
+Artist: Artist name
+Artwork: Full artwork title
+Date of creation: 1893
+Display title: Optional shorter title
+
+File: another_image.png
+Artist: Artist name
+Artwork: Another artwork title
+Date of creation: circa 1900

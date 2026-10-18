@@ -1,0 +1,12 @@
+Artwork,Comp,In (30fps),Out exclusive (30fps),Seconds,SRT first cue,SRT last cue,Note
+The Luncheon on the Grass,manet_luncheon_on_the_grass_1863_zoom,00:12:40:01,00:13:10:28,30.9,452,469,Artwork introduction through the end of its discussion.
+Olympia,manet_olympia_1863_zoom,00:13:16:20,00:13:38:27,22.233333333333334,472,485,Named painting through the critics’ reaction.
+"Impression, Sunrise","Monet_-_Impression,_Sunrise_zoom",00:16:21:09,00:17:04:29,43.666666666666664,583,611,"Creation, visual description, title, and introduction to the naming story."
+"Impression, Sunrise — critic review","Monet_-_Impression,_Sunrise_zoom",00:18:16:07,00:18:54:13,38.2,653,676,Second explicit mention: review and naming of Impressionism.
+The Dance Class,degas_dance_class_1874_zoom,00:19:33:18,00:19:57:02,23.466666666666665,700,715,Look at the dance class through its composition analysis.
+Blue Dancers,Edgar_Germain_Hilaire_Degas_076_zoom,00:19:57:02,00:20:08:17,11.5,716,722,User-approved contextual match: Degas’s later pastel paintings.
+Dance at the Moulin de la Galette,renoir_moulin_de_la_galette_1876_zoom,00:20:14:22,00:20:40:06,25.466666666666665,727,742,Named painting through discussion of social atmosphere; transition shares a subtitle cue.
+The Child’s Bath,cassatt_childs_bath_1893_zoom,00:20:55:22,00:21:21:08,25.533333333333335,754,770,Painting description through the transition to the next example.
+Little Girl in a Blue Armchair,cassatt_little_girl_blue_armchair_1878_zoom,00:21:21:08,00:21:38:28,17.666666666666668,771,781,Another example through the child’s pose; following transition shares a subtitle cue.
+Rouen Cathedral,RouenCathedral_Monet_1894_zoom,00:30:13:20,00:30:53:10,39.666666666666664,1073,1098,Available Full Sunlight version illustrates the cathedral-series passage; other lighting variants are not in art_comps.
+Bridge over a Pond of Water Lilies,The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan_zoom,00:30:53:10,00:31:15:07,21.9,1099,1110,"Garden, pond, and Japanese bridge; ends before the late abstract canvases."
