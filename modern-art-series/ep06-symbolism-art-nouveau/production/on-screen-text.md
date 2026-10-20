@@ -1,65 +1,38 @@
-# On-Screen Text — Episode 6: "The Dreamers and the Decorators"
+# On-Screen Text — Episode 6: "Klimt: Beyond the Gold"
 
-## Quotes
+Aligned with draft v7. Introduce names when spoken; avoid separate quotation cards.
 
-| Quote | Speaker | When |
-|-------|---------|------|
-| "To name an object is to suppress three-quarters of the enjoyment of the poem." | Stéphane Mallarmé | Act 2 — What Symbolism was |
-| "Show me an angel and I'll paint one." | Gustave Courbet | Act 2 — contrast with Symbolism (callback to Episode 3) |
-| "Enough of censorship. I want to get free." | Gustav Klimt | Act 3 — after the University paintings scandal |
-| "To every age its art, to every art its freedom." | Vienna Secession motto | Act 3 — founding of the Secession |
-| "This kiss to the whole world." | Schiller (Beethoven Frieze inscription) | Act 3 — Beethoven Frieze finale |
-| "The evolution of culture is synonymous with the removal of ornament." | Adolf Loos, *Ornament and Crime*, 1908 | Act 5 — the backlash |
-| "Form ever follows function." | Louis Sullivan, 1896 | Act 5 — the American parallel |
-| "Send for Emilie." | Gustav Klimt (attr., last words) | Act 3 — Klimt's death |
+| Appearance | Caption |
+|---|---|
+| Opening photographs | Gustav Klimt — Philosophy / Medicine / Jurisprudence · Archival photographs |
+| Act 2 portrait | Gustav Klimt · Austrian painter, 1862–1918 |
+| Act 2 early work | Shakespeare's Globe Theatre, 1886–1888 · Burgtheater, Vienna |
+| Commission | 1894 · Commission for the University of Vienna |
+| Allegory explanation | Allegory · An abstract idea represented through figures and scenes |
+| Act 3 context | Post-Impressionism · Different experiments with color, form, and expression |
+| Van Gogh | Vincent van Gogh — The Night Café, 1888 |
+| Gauguin | Paul Gauguin — Vision After the Sermon, 1888 |
+| Symbolism | Symbolism · Inner experience and suggestion |
+| Moreau | Gustave Moreau — The Apparition, 1876 |
+| Redon | Odilon Redon — The Eye Like a Strange Balloon Mounts toward Infinity, 1882 |
+| Philosophy exhibition | 1900 · Philosophy exhibited |
+| Withdrawal | 1905 · Klimt withdraws from the commission |
+| Secession | 1897 · Vienna Secession founded |
+| Exhibition | 1902 · Beethoven exhibition |
+| Frieze | Gustav Klimt — Beethoven Frieze, 1902 · Secession, Vienna |
+| Modern room view | Present-day installation |
+| Art Nouveau | Art Nouveau · “New art” |
+| Horta | Victor Horta — Hôtel Tassel, 1893 · Brussels |
+| Mucha | Alphonse Mucha — Gismonda, 1894 · Poster for the January 1895 production |
+| Adele | Gustav Klimt — Portrait of Adele Bloch-Bauer I, 1907 · Neue Galerie, New York |
+| The Kiss | Gustav Klimt — The Kiss (Lovers), c. 1907–1909 · Belvedere, Vienna |
+| Landscape | Gustav Klimt — Garden Path with Chickens, 1916 · Archival reproduction |
+| Late work | Gustav Klimt — The Bride, 1917–1918 · Unfinished |
+| Death | February 1918 · Klimt dies, aged 55 |
+| Historical resolution | 1938 · Nazi Germany annexes Austria |
+| Immendorf | May 1945 · Fire at Immendorf Castle |
+| Restitution | 2006 · Five Klimt paintings returned to the Bloch-Bauer heirs |
 
-## Key Date Cards
+Match image credits to the exact reproductions selected. Verify edition-specific print credits. Avoid assigning a current museum location to a destroyed original. Source links and qualifications about the fire are in the script notes.
 
-| Text | When |
-|------|------|
-| Vienna, 1900 | Cold open |
-| 1876 | Moreau — The Apparition |
-| 1892 — Klimt's brother Ernst dies | Klimt's personal turning point |
-| 1894 — University paintings commission | Klimt scandal begins |
-| 1897 — Vienna Secession founded | The break |
-| 1902 — Beethoven Frieze | 14th Secession exhibition |
-| 1907 | Adele Bloch-Bauer I / The Kiss |
-| 1908 — "Ornament and Crime" | Loos backlash |
-| February 6, 1918 | Klimt dies, age 55 |
-| June 10, 1926 | Gaudí dies, age 73 |
-
-## Concept Labels
-
-| Text | When |
-|------|------|
-| Symbolism — suggest, don't describe | Act 2 — What Symbolism was |
-| The "Noirs" — Redon's black-and-white works, 1870s–1890s | Redon section |
-| Vienna Secession, 1897 | Act 3 — the Secession |
-| Gesamtkunstwerk — "total work of art" | Act 3 or 4 — when discussing the idea of art in all things |
-| Art Nouveau (France/Belgium) · Jugendstil (Germany/Austria) · Stile Liberty (Italy) · Modernisme (Catalonia) | Act 4 — the name map |
-| "Form follows function" — Sullivan, 1896 | Act 5 |
-
-## Artist / Artwork Labels
-Standard lower-third for each work on first appearance:
-- Moreau — The Apparition, 1876 → Musée Gustave Moreau, Paris
-- Redon — The Eye Like a Strange Balloon Mounts Toward Infinity (Noirs) → MoMA / various
-- Redon — The Cyclops, c.1914 → Kröller-Müller Museum, Netherlands
-- Klimt — Beethoven Frieze, 1902 → Österreichische Galerie Belvedere, Vienna
-- Klimt — Portrait of Adele Bloch-Bauer I, 1907 → Neue Galerie, New York
-- Klimt — The Kiss, 1907–08 → Österreichische Galerie Belvedere, Vienna
-- Mucha — Gismonda, 1894 → various collections
-- Gaudí — Sagrada Família, begun 1882, still under construction → Barcelona
-- Gaudí — Casa Batlló, 1904–06 → Barcelona
-- Horta — Hôtel Tassel, 1893 → Brussels
-
-## Special Note — University Paintings
-The three lost University paintings (*Philosophy*, *Medicine*, *Jurisprudence*) should be labeled:
-- "Klimt — [Title], 1900–1907 — DESTROYED 1945"
-- Only black-and-white photographs survive
-- Do NOT label with a current museum location
-
-## Notes
-- Klimt's "Enough of censorship" quote: from his written statement about withdrawing the University paintings. Well-documented.
-- Mallarmé quote: from a 1891 interview — widely attributed, well-established.
-- "Send for Emilie": widely reported but not independently verified (Emilie burned the letters). Present as "reportedly said."
-- Sullivan's "form follows function": from his 1896 essay "The Tall Office Building Artistically Considered" — often misquoted as "form follows function" without "ever."
+Do not use a caption asserting proven SS arson or implying all three Faculty Paintings were taken from one family. The Nazi confiscation/restitution example is Adele's portrait, not The Kiss.

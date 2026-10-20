@@ -1,46 +1,29 @@
-# Shot List — Episode 6: "The Dreamers and the Decorators"
+# Shot List — Episode 6: "Klimt: Beyond the Gold"
 
-## Full-Screen Artwork / Photo Holds
+Aligned with draft v7. Most images remain under narration; extra names and artwork montages should not expand the script.
 
-| Subject | Duration | Notes |
-|---------|----------|-------|
-| Moreau — The Apparition | 8 sec | Let the jeweled detail and the floating head register |
-| Redon — one of the Noirs (floating eyeball balloon) | 5 sec | The nightmare before the transformation |
-| Redon — The Cyclops (color) | 8 sec | The reveal of color — hold after the Noir for contrast |
-| Klimt — Beethoven Frieze (pan across sections) | 10 sec pan | Pan slowly left to right: dark forces → knight → embrace |
-| Klimt — Portrait of Adele Bloch-Bauer I | 8 sec | The gold. The face. The dissolving boundary. |
-| Klimt — The Kiss | **10 sec silence** | Series emotional peak. Full silence — non-negotiable. |
-| Mucha — Gismonda poster | 5 sec | The poster that made him famous overnight |
-| Mucha — Job poster | 5 sec | Art Nouveau graphic design in daily life |
-| Gaudí — Sagrada Família exterior | 8 sec | Let the scale read. No straight lines. |
-| Gaudí — Casa Batlló facade | 5 sec | The dragon's-back roof, the bone balconies |
-| Gaudí — Park Güell mosaic salamander | 5 sec | The symbol of Barcelona — color and organic form |
-| Horta — Hôtel Tassel staircase | 5 sec | The whiplash curve. Every detail designed. |
-| Vienna Secession building exterior | 5 sec | "The golden cabbage" — set the Vienna Secession section |
+| Act | Visuals in order | Direction |
+|---|---|---|
+| 1 | Philosophy → Medicine → Jurisprudence; photograph border | Make archival status clear. No premature reveal of Immendorf or restitution. |
+| 2 | Klimt portrait → Burgtheater exterior/staircase → Shakespeare's Globe Theatre | Establish the early public decorator through a named work, not generic gold imagery. |
+| 3 | The Night Café → Vision After the Sermon | Reuse episode 5's selected reproductions; explain independently. |
+| 3 | Moreau, The Apparition → Redon, The Eye Like a Strange Balloon Mounts toward Infinity | 6 sec and 5 sec opening holds. Follow details named in narration. |
+| 4 | Philosophy → Medicine → Jurisprudence | Whole before detail. Show drifting bodies, skeleton, and central man in turn. |
+| 5 | Secession exterior → historical 1902 exhibition photograph | Display 1897 founding date to clarify the step back from 1905. |
+| 5 | Frieze: longing/knight → hostile forces → poetry/embrace | Preserve narrative order. 6 sec final embrace hold. Label modern installation views. |
+| 6 | Hôtel Tassel wide → ironwork → walls → floor → wide | 6 sec opening hold. Distinguish architecture from an isolated decorative detail. |
+| 6 | Gismonda whole → figure, lettering, ornament | 5 sec opening hold; preserve poster proportions. |
+| 7 | Adele Bloch-Bauer I → face/hands → dress/background → whole | 6 sec opening hold. Introduce sitter by name. Optional Ravenna mosaic only during relevant narration. |
+| 7 | The Kiss whole → faces/hands → robe patterns → flowered edge → whole | First appearance. 10 sec full silence, then sustained observation under narration. |
+| 7 | Garden Path with Chickens, archival reproduction → The Bride, unfinished | Brief later-career examples; no new biography detours. |
+| 8 | University photographs → Adele's portrait | Restrained historical resolution, about 60–90 sec. No dramatic war montage. |
+| Close | Talking head; brief university photographs/Adele/The Kiss | Complete the series through already explained works. |
 
-## Supporting Cuts (3–4 sec each)
-- Klimt — Judith I (golden phase, before Adele)
-- Klimt — Hygieia (from the lost Medicine, available as study)
-- Klimt — Portrait of Emilie Flögé (his companion)
-- Ravenna mosaics (for Klimt's gold inspiration — gold background Byzantine style)
-- Moreau — Salomé Dancing Before Herod (related work, different composition)
-- Redon — *The Smiling Spider* or *The Eye Like a Strange Balloon* (Noirs)
-- William Morris — textile/wallpaper design (Arts and Crafts roots of Art Nouveau)
-- Loos Haus, Vienna (the stripped-down building that caused a scandal)
+## Asset checks before editing
 
-## Maps & Graphics
-
-1. **Map: Art Nouveau across Europe** — label Paris, Brussels, Vienna, Barcelona, Glasgow, Munich (with local names: Art Nouveau, Jugendstil, Stile Liberty, Modernisme, Glasgow Style)
-2. Timeline: 1880–1910 overview of the movements
-3. **Side-by-side:** Klimt decorative vs. Loos stripped-down — visual argument for Act 5
-
-## On-Screen Text
-- Vienna Secession motto: "To every age its art, to every art its freedom."
-- Klimt quote: "Enough of censorship. I want to get free."
-- Loos quote: "The evolution of culture is synonymous with the removal of ornament." (1908)
-- Sullivan quote: "Form ever follows function." (1896)
-- Beethoven Frieze inscription: "This kiss to the whole world."
-- Artist/date cards for all featured works
-
-## Important Visual Note — University Paintings
-Klimt's three University paintings (*Philosophy*, *Medicine*, *Jurisprudence*) were destroyed at Schloss Immendorf in 1945. Only black-and-white photographs survive. Use the B&W documentary photos — their absence/destruction is part of the story. See `visuals/b-roll/README.md`.
+- Select an authenticated image of Klimt's Shakespeare's Globe Theatre at the Burgtheater, not his painting of the old theater's auditorium.
+- Match the selected The Apparition to the 1876 watercolor museum record; multiple versions exist.
+- Faculty Paintings and Garden Path with Chickens: label archival photographs/reproductions. Do not represent speculative color reconstructions as originals.
+- Historical 1902 exhibition photograph and present-day frieze installation are different settings.
+- New or restored visual requirements relative to v5: Burgtheater work, Jurisprudence close-ups, Adele, later landscape reproduction, and The Bride. This document specifies requirements; it does not claim new assets have been downloaded or cleared.
+- Retain existing unused assets in the repository. No Gaudí tour, Cyclops comparison, Loos debate, or regional styles map in this cut.

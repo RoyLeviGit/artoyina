@@ -1,537 +1,365 @@
-# Episode 6: "The Dreamers and the Decorators"
-## FULL SCRIPT — DRAFT v1
-### Movements: Symbolism + Art Nouveau | Target Runtime: 40–50 min
+# Episode 6: "Klimt: Beyond the Gold"
+## FULL SCRIPT — DRAFT v7
+### Symbolism + Art Nouveau | Series finale
+
+**Main question:** Why did a successful public painter challenge the ideas he was hired to celebrate?
+**Secondary question:** What happened to the university paintings, and how does their disappearance connect to Nazi looting?
 
 ---
 
-## ACT 1: COLD OPEN
+## ACT 1: THE COMMISSION THAT WENT WRONG
 
-*[No music. Talking head, direct to camera. Scene-setting energy — painting a picture of a city.]*
+*[Begin without music. Show archival photographs, one painting at a time.]*
+
+[ARTWORK: Philosophy → Medicine → Jurisprudence, full compositions.]
+
+A university commissions paintings about knowledge, medicine, and law. Gustav Klimt gives them images of confusion, death, and helplessness.
+
+What happened?
 
 [TALKING HEAD]
 
-Vienna. 1900.
+This was an experienced artist who had spent years decorating some of Vienna's most prestigious buildings. He seemed an obvious choice for a major public commission.
 
-In one building, a doctor is writing a book about dreams. He believes that underneath the rational, civilized surface of the human mind, there's a churning ocean of desire, fear, and memory — and that dreams are the way it leaks through.
+But the project would take years, and Klimt's ideas about painting were changing. What he eventually produced caused an uproar.
 
-In another building, a composer is conducting an opera about death and resurrection. The music is enormous, overwhelming, almost unbearably beautiful.
+[VISUAL: Archival photograph of Medicine, with the photograph's border visible.]
 
-And in a white building with a golden dome — a dome made of gilded laurel leaves that the Viennese have nicknamed "the golden cabbage" — a painter is covering an entire wall with gold leaf, naked bodies, and a knight in shining armor.
+And what we're looking at here is a photograph. The original paintings are gone. What happened to them involves Nazi looting and the final days of the Second World War. We'll get to that part of the story too.
 
-All in honor of Beethoven. All in honor of the idea that art can save you.
-
-The doctor is Sigmund Freud. The composer is Gustav Mahler. The painter is Gustav Klimt.
-
-And this city, in this moment, is the most creatively explosive place on earth.
-
-*[Beat]*
-
-But to understand how we got here — to gold and dreams and the unconscious — we need to go back to the 1880s. To a group of artists who looked at Realism and Impressionism and said: you've shown us the visible world. Now show us the invisible one.
+Let's start with the work that made Klimt such a respected painter.
 
 ---
 
-## ACT 2: THE SYMBOLIST TURN
+## ACT 2: THE ARTIST VIENNA TRUSTED
 
-*[Transition. Underscore — something mysterious, interior.]*
+*[Quiet underscore.]*
 
-[TALKING HEAD]
+[VISUAL: Klimt portrait; Vienna's Burgtheater exterior and staircase.]
 
-Over the last five episodes, we've watched art move in one direction: toward reality. Neo-Classicism idealized it. Romanticism felt it. Realism showed it. Impressionism saw it. Post-Impressionism restructured it.
+Gustav Klimt was an Austrian painter, born near Vienna in 1862. He trained at the city's School of Arts and Crafts, where artists learned to apply their skills to design and decoration.
 
-But by the 1880s, some artists were asking: is the visible world all there is?
+Early in his career, he painted for theaters and other public buildings. He had to fit his paintings into the building and make sure people could follow the scenes from below.
 
-What about dreams? What about fears? What about desire, death, the spiritual, the irrational — all the things you can't see but you know are there? What about the inside of your head?
+[ARTWORK: Klimt — Shakespeare's Globe Theatre, Burgtheater ceiling painting.]
 
-The Symbolists turned inward. And what they found was strange, dark, and beautiful.
+Look at this scene he painted for Vienna's Burgtheater, a major theater in the city. The people look solid, and we can see where they're standing in relation to each other. Even the folds in their clothes are carefully painted.
 
-### Moreau
-
-[TALKING HEAD]
-
-Gustave Moreau was a recluse. He lived with his mother. He had a long, secretive relationship with a woman named Alexandrine Dureux. And he painted the most elaborate mythological fantasies anyone had ever seen.
-
-[ARTWORK: *The Apparition*, full screen, 8 seconds]
-
-*The Apparition.* 1876. Salome — the biblical princess who demanded the head of John the Baptist — is dancing. And the head is floating in front of her. Glowing. Bright. Blood dripping. She reaches toward it. The room is packed with architectural detail, jewels, patterns. Every inch is filled.
-
-It's sexual. It's dark. It's impossible to look away. The novelist Huysmans wrote pages about it in his book *À Rebours* — basically the bible of the "dark and beautiful" crowd in 1880s Paris.
-
-But here's the irony that makes Moreau's story perfect. In 1892, he was appointed professor at the École des Beaux-Arts. And his students included Henri Matisse.
-
-*[Beat]*
-
-Think about that. The most careful, detail-obsessed painter in Paris — a man who spent months on a single canvas — accidentally trained the man who would invent Fauvism, the wildest, most out-of-control color movement in history.
-
-Moreau told his students to trust their instincts, to look at color, to find their own way. And they used that freedom to destroy everything he stood for.
-
-The most conservative painter in Paris accidentally trained the most radical painters of the next century. Art history is full of ironies. This is one of the best.
-
-### Redon
+The scene is part of a series about the history of theater. These paintings celebrated the kind of institution they were made for.
 
 [TALKING HEAD]
 
-And then there's Odilon Redon. Whose story is one of the most dramatic transformations in art history.
+With that experience, Klimt was a natural choice for a commission to decorate the University of Vienna's ceremonial hall in 1894.
 
-[ARTWORK: Redon, one of the Noirs — the floating eyeball, or the smiling spider, 5 seconds]
+His subjects were Philosophy, Medicine, and Jurisprudence, which means the study of law. He would represent these ideas through figures and scenes. A person might stand for wisdom, for example. This is called an allegory.
 
-For over twenty years — from the 1870s through the early 1890s — Redon worked almost exclusively in black and white. Charcoal drawings and black-and-white prints. He called them his "Noirs." His Blacks.
+During the years he worked on the commission, Klimt experimented more with how these ideas could be painted. His images became increasingly unsettling.
 
-And they're nightmares. A giant eyeball floating like a hot-air balloon. A smiling spider with a human face. A cyclops. Strange hybrid creatures that look like they crawled out of a fever dream.
-
-He was influenced by Edgar Allan Poe, by Darwin, by what he saw under a microscope. The Symbolist poets — Mallarmé, Huysmans — championed him.
-
-And then, around the age of fifty, something changed.
-
-[ARTWORK: Redon, a color work — flowers, or The Cyclops, 8 seconds]
-
-[TALKING HEAD]
-
-He exploded into color. Glowing pastels. Rich oils. Flowers, butterflies, mythological scenes bathed in light. The darkness didn't disappear — it changed shape.
-
-*The Cyclops* — a one-eyed giant peering over a hillside at a sleeping woman — is painted in the most tender, glowing color. The monster is in love. It's gentle. It's strange. It's beautiful.
-
-Why the change? His son was born. His brother died. He went through a personal crisis and came out the other side. He said he "emerged from the shadows."
-
-The before and after is the story. Two decades of darkness, then an explosion of light. The same artist. The same inner world. But the inner world had changed.
-
-### What Symbolism Was
-
-[TALKING HEAD]
-
-Symbolism wasn't a style. It was an attitude. The idea that art should suggest, not describe. That it should create moods, not tell stories.
-
-That the most important things — love, death, desire, the sacred — can't be painted directly. They can only be hinted at. Approached sideways. Felt rather than seen.
-
-The Symbolist poets put it best. Mallarmé said: "To name an object is to suppress three-quarters of the enjoyment of the poem." Don't name it. Suggest it. Let the viewer — the reader — complete the picture in their own mind.
-
-That's the opposite of Realism. Courbet said: show me an angel and I'll paint one. The Symbolists said: the angel is the whole point.
+Other artists were also exploring how a painting could express something beyond what they saw in front of them.
 
 ---
 
-## 🔗 BRIDGE: FROM THE INVISIBLE TO THE GOLDEN
+## ACT 3: PAINTING WHAT WE CANNOT SEE
+
+### From observation to inner experience
 
 [TALKING HEAD]
 
-So the Symbolists turned inward — to dreams, myths, the things you can't see. But there was one artist who took all of that inner-world energy and turned it into something you absolutely *can* see. Something so bright, so bold, so covered in gold that it would become some of the most recognizable art in history. And he did it in a city that was about to become the center of the world.
+The Impressionists painted everyday scenes, paying close attention to changes in light and color. Post-Impressionism is the name we give to several different ways artists developed those experiments. Some used color to build solid shapes. Others used it to express feelings or paint imagined scenes.
+
+I talk about Post-Impressionism more broadly in the previous video. Here, the connection is through feeling and imagination.
+
+[ARTWORK: Van Gogh — The Night Café.]
+
+Van Gogh used color to express strong feelings about familiar places. In The Night Café, the strong reds and greens help make an ordinary room feel uneasy.
+
+[ARTWORK: Gauguin — Vision After the Sermon.]
+
+Paul Gauguin, often worked from memory and imagination. In Vision After the Sermon, women from Brittany appear beside a biblical scene they imagine: Jacob wrestling an angel. The same bright red ground stretches beneath both groups, bringing the imagined scene into the women's surroundings.
+
+### What Symbolism means
+
+[TALKING HEAD]
+
+This interest in beliefs and imagined experiences connects with Symbolism, a movement in art and literature. Symbolist artists wanted to suggest what people felt or imagined, including things they couldn't easily explain.
+
+Recognizing the objects in a painting wouldn't necessarily tell you what it meant. The way they were painted could leave you with a feeling that was harder to put into words.
+
+Gauguin is also associated with Symbolism. These movements overlapped, and some artists had been exploring such ideas before his work in Brittany.
+
+[ARTWORK: Moreau — The Apparition. Hold 6 seconds.]
+
+Gustave Moreau was a French painter based in Paris who often painted religious stories and myths. This is The Apparition, from 1876.
+
+The woman is Salome, who asks for John the Baptist's head in the biblical story. Here, the severed head floats before her, surrounded by light.
+
+Look at the jeweled surfaces and the elaborate columns. They make the setting luxurious, while the blood dripping from the head makes it disturbing.
+
+We know who the figures are, but the scene still feels strange. The detail draws me in, even though what's happening is disturbing.
+
+[ARTWORK: Redon — The Eye Like a Strange Balloon Mounts toward Infinity. Hold 5 seconds.]
+
+Odilon Redon, another French artist, made charcoal drawings and prints of imagined creatures. He called his black-and-white works his Noirs, meaning “blacks.”
+
+Here, an enormous eye floats above a landscape like a balloon. For me, it creates a feeling of being watched without knowing who is watching. You might respond to it differently.
+
+[TALKING HEAD]
+
+These works look very different, but both leave us trying to make sense of an imagined scene.
+
+Klimt's university paintings also use symbolic figures. Let's look at what he did with the subjects he was given.
 
 ---
 
-## ACT 3: KLIMT
+## ACT 4: WHAT THE UNIVERSITY SAW
 
-*[Underscore shifts — richer, warmer. Gold in the music.]*
+[ARTWORK: Philosophy, whole, then details.]
 
-### The Beginning
+Klimt exhibited Philosophy in 1900, six years after receiving the commission.
 
-[TALKING HEAD]
+Bodies of different ages drift through darkness, with no clear ground beneath them. A huge, barely visible face appears beside them.
 
-Gustav Klimt was born in 1862, near Vienna. And here's a detail that matters: his father was a gold engraver. Gold was literally in his blood.
+The people seem lost in this space. It's difficult to see the painting as a confident celebration of human understanding.
 
-He trained at the Vienna School of Arts and Crafts — not the fine arts academy. The applied arts school. This shaped everything. Klimt never saw a hard line between "fine art" and "decorative art." A painting and a mosaic and a piece of jewelry were all art to him.
+[ARTWORK: Medicine, whole, then skeleton among the bodies.]
 
-That refusal to separate high and low, fine and decorative, would become his defining quality.
+In Medicine, a skeleton stands among bodies of different ages. Death is still there, despite everything medicine can do.
 
-His early career was conventional and hugely successful. He painted ceilings, stairwells, theater curtains — decorative work for public buildings. Technically brilliant. Completely safe.
+Imagine that above you in a hall meant to celebrate the university's achievements.
 
-Then his brother Ernst died in 1892. And something shifted. The safe, conventional painter began to disappear. Something stranger, darker, more honest was emerging.
+[ARTWORK: Jurisprudence, whole, then the central man and surrounding figures.]
 
-### The University Paintings
-
-[TALKING HEAD — building tension]
-
-In 1894, Klimt got the biggest job of his career. Three ceiling paintings for the Great Hall of the University of Vienna: *Philosophy*, *Medicine*, and *Jurisprudence*.
-
-The university expected grand symbolic figures. Noble images standing for noble ideas. The kind of thing David would have painted — dignified, rational, uplifting.
-
-Klimt delivered something completely different.
-
-*Philosophy* showed a column of tangled naked bodies drifting through empty space — not wise, not rational, just... lost. Floating in darkness. *Medicine* featured a skeleton — Death — standing among the naked bodies. *Jurisprudence* showed a man being swallowed by tentacle-like shapes, surrounded by figures of revenge.
-
-The university professors were furious. Eighty-seven of them signed a letter against the paintings. The press attacked him. Politicians got involved.
-
-This was supposed to celebrate reason, knowledge, the power of the mind. Instead, Klimt had painted suffering, sex, death, and the limits of what humans can understand.
-
-His response:
-
-"Enough of censorship. I want to get free."
-
-He withdrew the paintings and returned his fee. He would never accept a public commission again.
-
-*[Beat]*
-
-And then the paintings were seized by the Nazis during World War II and destroyed in a fire at Schloss Immendorf in 1945. We only have black-and-white photographs.
-
-Like Courbet's *Stone Breakers*, they exist now only as ghosts.
-
-Think about the parallel to Episode 1. David used his art to serve the state — he designed festivals for the Revolution, painted propaganda for Napoleon. Klimt was asked to serve the state and refused.
-
-David said yes to power. Klimt said no. Both paid a price.
-
-### The Secession
-
-[TALKING HEAD — energy builds]
-
-In 1897, Klimt and a group of like-minded artists did something we've seen before in this series. They broke away from the conservative establishment — the Künstlerhaus, Vienna's equivalent of the Salon — and founded their own institution.
-
-They called it the Vienna Secession.
-
-*[ON-SCREEN TEXT: "To every age its art, to every art its freedom." — Vienna Secession motto]*
-
-"To every age its art, to every art its freedom."
-
-They built their own exhibition hall — designed by Joseph Maria Olbrich. It's still standing. A white cube topped with a golden dome of gilded laurel leaves.
-
-The Viennese called it "the golden cabbage." It's one of the most beautiful buildings in Vienna.
-
-Klimt was the first president.
-
-And in 1902, for the Secession's fourteenth exhibition — dedicated to Beethoven — Klimt created something extraordinary.
-
-[ARTWORK: *The Beethoven Frieze* — pan across sections, 10 seconds]
-
-The Beethoven Frieze. A hundred and twelve feet long. A story about the human search for happiness. On one wall: dark forces — disease, madness, death, shown as ugly, twisting figures. On another: the golden knight, armored and determined.
-
-And at the end: the embrace. A man and woman, wrapped in gold, kissing. Beneath them, an inscription from Schiller's "Ode to Joy" — the text Beethoven set in his Ninth Symphony:
-
-"This kiss to the whole world."
-
-It was meant to be temporary. It survived. And it's one of the most powerful things Klimt ever made.
-
-### The Golden Phase
+In Jurisprudence, a naked man bends forward, caught in a creature's tentacles, with women surrounding him. He looks helpless. This image of law focuses on the fear of punishment.
 
 [TALKING HEAD]
 
-And now we arrive at the Klimt everyone knows.
+So this is where Klimt's paintings clashed with the commission. They were meant to honor the university's fields of knowledge. Instead, they showed how much remained beyond human control.
 
-[ARTWORK: *Portrait of Adele Bloch-Bauer I*, full screen, 8 seconds]
+Professors protested, and the controversy spread beyond the university. After years of dispute, Klimt withdrew from the commission in 1905 and repaid the money he had received. They were never installed in the university.
 
-*Portrait of Adele Bloch-Bauer I.* 1907. The Woman in Gold.
+*[Brief pause.]*
 
-Look at it. Her face is real — painted with careful, lifelike detail. Her hands are real. But everything else — her dress, the chair, the background — dissolves into a sea of gold leaf and geometric patterns. Spirals, triangles, eyes, rectangles.
+The paintings survived that dispute. What happened to them under Nazi rule comes later.
 
-The boundary between the person and the decoration disappears. She's emerging from the gold. Or sinking into it. Or both.
-
-This painting was looted by the Nazis, fought over in court for decades, and eventually returned to the Bloch-Bauer heirs. It sold for a hundred and thirty-five million dollars in 2006. At the time, the most expensive painting ever sold.
-
-But the price isn't the point. The point is what Klimt is doing with gold.
-
-[TALKING HEAD]
-
-The gold isn't just pretty. It's ancient. Think of the mosaics in Ravenna, Italy — those flat, golden, sacred images of Christ and the saints.
-
-Klimt saw those mosaics on a trip to Italy and they changed his work forever. Gold, in that old tradition, means the sacred. The holy. The eternal.
-
-But Klimt's subjects aren't saints. They're lovers. They're women. They're bodies. He's taking the language of sacred art and using it for sexual art.
-
-He's closing the gap between the holy image and the pinup. Between worship and desire.
-
-That's his genius. And that's why the paintings are so powerful. They feel sacred and sexual at the same time. They feel like prayer and like desire. And Klimt doesn't see a contradiction. Because for him, there isn't one.
-
-*[Music drops out.]*
-
-[ARTWORK: *The Kiss*, full screen]
-
-[SILENCE — 10 seconds]
-
-[TALKING HEAD — quiet]
-
-*The Kiss.* 1907 to 1908.
-
-A couple kneeling on a cliff of flowers. Wrapped in golden robes. His robe has rectangular patterns. Hers has circular ones. Masculine geometry, feminine curves — but they're merging. The boundaries dissolving.
-
-His face is hidden — pressed against hers. Her eyes are closed. Her hand rests on his neck.
-
-It's tender. It's charged. It's unforgettable. It's probably the most copied painting in the world after the Mona Lisa and Starry Night.
-
-And it's the peak of everything this series has been about. The line between fine art and decoration — gone. The line between the sacred and the sexual — gone.
-
-The line between the inner world and the outer world — gone.
-
-### Emilie
-
-[TALKING HEAD — brief, intimate]
-
-Klimt's lifelong companion was Emilie Flögé. A fashion designer. They were together for over twenty years. Whether they were lovers or something else — a deep, non-romantic bond — is debated.
-
-Klimt had many affairs and may have fathered as many as fourteen children with various women, though only six are confirmed. But Emilie was the constant.
-
-She burned their letters after his death. We'll never know the full story.
-
-Klimt died on February 6th, 1918, from a stroke following the Spanish flu. He was fifty-five.
-
-His last words, reportedly: "Send for Emilie."
+While the commission was still underway, Klimt was also helping artists find another place to show their work.
 
 ---
 
-## 🔗 BRIDGE: FROM THE SOUL TO THE STREET
+## ACT 5: A PLACE FOR NEW ART
+
+[VISUAL: Secession building exterior. Date card: 1897.]
+
+In 1897, Klimt and other artists left Vienna's established artists' association and founded the Vienna Secession. “Secession” means a withdrawal or breakaway. Klimt became the group's first president.
+
+They wanted more freedom to show new work and bring international art to Vienna. They built their own exhibition hall.
+
+[VISUAL: Historical photograph of the 1902 Beethoven exhibition.]
+
+In 1902, the group organized an exhibition dedicated to Ludwig van Beethoven, the composer whose Ninth Symphony ends with a choir singing about joy and people coming together.
+
+The artists planned the rooms and the works inside them around that theme. Klimt made the Beethoven Frieze, a painting that runs along three walls.
+
+[ARTWORK: Frieze — longing figures and knight → hostile forces → poetry and final embrace.]
+
+It tells a story about the search for happiness. A knight in armor appears, along with threatening figures representing dangers such as sickness and death. The final section offers happiness through art and love, ending with a couple embracing.
+
+*[Hold the embrace for 6 seconds.]*
+
+Here, Klimt gives us something hopeful after the suffering. The embrace feels more meaningful because we've seen what came before it.
 
 [TALKING HEAD]
 
-Klimt proved that art could be sacred and sexual, personal and decorative, all at once. But while he was covering walls in gold, another movement was asking: why stop at walls? What if beauty wasn't just in museums and galleries? What if it was in your building, your furniture, your poster, your doorknob?
+Klimt was still drawing on his experience of decorating buildings. Visitors could follow the images around the room, and the setting became part of how they experienced the painting.
+
+That interest in designing a whole space connects his work with Art Nouveau.
 
 ---
 
-## ACT 4: ART NOUVEAU — BEAUTY EVERYWHERE
-
-*[Underscore shifts — lighter, more playful. Design energy.]*
+## ACT 6: ART NOUVEAU — DESIGNING THE WHOLE EXPERIENCE
 
 [TALKING HEAD]
 
-While the Symbolists were exploring the inner world, another movement was asking a different question. Not "what's inside the soul?" but "what's outside the museum?"
+Art Nouveau means “new art.” It developed across several countries during the 1890s and early twentieth century. Artists and designers wanted a new style for the buildings and objects around them.
 
-What if art wasn't just paintings on walls? What if it was in your building? Your furniture? Your poster? Your jewelry? Your subway entrance? Your doorknob?
+They often took shapes from plants, turning curling stems and leaves into designs for furniture or printed images. Some preferred more geometric shapes.
 
-That's Art Nouveau. And its goal was huge: make everything beautiful. Everything.
+As cities grew and manufactured goods became more common, designers were thinking about how everyday surroundings could look. They wanted to give a useful object or a room as much artistic attention as a painting.
 
-### The Idea
+Symbolism and Art Nouveau overlap. Symbolism is concerned with suggesting feelings and ideas. Art Nouveau is a style that extends across painting and design. An artist could be involved in both, as Klimt was.
 
-[TALKING HEAD]
+### Horta: a room designed together
 
-The roots go back to William Morris and the Arts and Crafts movement in England. Morris looked at the industrial revolution — the cheap, ugly, lifeless objects filling people's homes — and said: this is killing beauty.
+[PHOTO: Hôtel Tassel staircase, wide view. Hold 6 seconds.]
 
-We need to bring art and craft back together. Handmade furniture. Handmade textiles. Handmade books.
+Victor Horta was a Belgian architect working in Brussels. In 1893, he designed the Hôtel Tassel, a private town house.
 
-Art Nouveau took that idea but made a key turn. Morris rejected the machine. Art Nouveau embraced it.
+Look at the ironwork beside the stairs. Its lines curl and branch. Similar shapes appear on the walls and floor.
 
-Alphonse Mucha's posters were printed by the thousands. Art Nouveau was democratic — it wanted beauty in everyday life, not just in the homes of the rich.
+[DETAILS: Ironwork → wall decoration → floor mosaic → wide.]
 
-[ARTWORK: Mucha posters — *Gismonda*, *Job*, 5 seconds]
+The rail is something you hold as you climb the stairs. Horta has made it part of the room's design, with a pattern that connects it to the surfaces around it.
 
-[TALKING HEAD]
+### Mucha: art on the street
 
-Mucha. Czech artist working in Paris. He became famous overnight when he designed a poster for Sarah Bernhardt's play *Gismonda* in 1894.
+[ARTWORK: Mucha — Gismonda. Hold 5 seconds.]
 
-Flowing hair, floral borders, curving lines, beautiful women surrounded by decorative patterns. This became the graphic design of 1900. If you've ever seen an Art Nouveau poster, you've seen Mucha's influence.
+Alphonse Mucha was a Czech artist working in Paris who became well known for his posters.
 
-### Gaudí
+This one advertises the play Gismonda. It stars Sarah Bernhardt, a famous French actress who also managed the theater where it was performed.
 
-[TALKING HEAD]
+The tall, narrow poster makes her figure stand out. The arch frames her head, and the lettering fits around her. Everything is arranged to draw attention to the actress.
 
-And then there's the architecture. Because Art Nouveau didn't just decorate buildings — it reinvented them.
-
-[ARTWORK/PHOTO: Sagrada Família, exterior, 8 seconds]
-
-Antoni Gaudí. Barcelona. The Sagrada Família — a massive church begun in 1882 and still unfinished. It looks like it grew from the earth. Natural shapes, no straight lines, surfaces covered with sculpture and color. It's not a building — it's a living thing.
-
-[ARTWORK/PHOTO: Casa Batlló, 5 seconds]
-
-Casa Batlló — an apartment building that looks like it's made of bones and scales. The front wall ripples and waves. The roof looks like a dragon's back. The balconies look like skulls. It's architecture as fantasy.
-
-[ARTWORK/PHOTO: Park Güell, 5 seconds]
-
-Park Güell — mosaic benches, gingerbread houses, a mosaic salamander that's become the symbol of Barcelona.
-
-Gaudí was deeply religious and lived more and more simply as he got older. In 1926, he was hit by a tram.
-
-Nobody recognized him — the architect of the most extraordinary buildings in Europe looked like a beggar. He died three days later.
-
-[ARTWORK/PHOTO: Horta, Hôtel Tassel staircase, 5 seconds]
-
-And Victor Horta in Brussels — the Hôtel Tassel, 1893. The first true Art Nouveau building. Iron and glass used as decorative elements.
-
-The staircase curves like a whip — the famous "whiplash curve." Every detail designed — door handles, stair rails, light fixtures. The building is a total work of art.
-
-*[MAP/GRAPHIC: Art Nouveau across Europe — Paris, Brussels, Vienna, Barcelona, Glasgow]*
-
-Art Nouveau went by different names across Europe. Art Nouveau in France and Belgium. Jugendstil in Germany and Austria. Stile Liberty in Italy. Modernisme in Catalonia. Glasgow Style in Scotland.
-
-Different names, same idea: erase the line between art and life.
-
----
-
-## ACT 5: THE BACKLASH
-
-*[Underscore — sharper, more stripped-down.]*
+Color printing meant that many copies could be displayed on the street. People could see this art on their way to work.
 
 [TALKING HEAD]
 
-Not everyone was charmed.
+An expensive private house was available to very few people. A poster could reach anyone walking past it. Art Nouveau could be part of daily life in quite different ways.
 
-In 1908, an architect in Vienna named Adolf Loos wrote an essay with one of the most daring titles in the history of design:
+These experiments were happening alongside Klimt's work. Back in his paintings, we can see how carefully he uses pattern to change the way we see a person.
 
-"Ornament and Crime."
+---
 
-*[ON-SCREEN TEXT: "The evolution of culture is synonymous with the removal of ornament." — Adolf Loos, 1908]*
+## ACT 7: THE PEOPLE WITHIN THE GOLD
 
-"The evolution of culture is synonymous with the removal of ornament."
+### Adele Bloch-Bauer
 
-Loos looked at Art Nouveau — all those flowing lines, all those floral patterns, all that decoration — and saw waste. Wasted work. Wasted material. Wasted money.
+[ARTWORK: Portrait of Adele Bloch-Bauer I, full frame. Hold 6 seconds.]
 
-He argued that decoration was a sign of a culture that hasn't grown up yet. That a truly advanced society strips things down to their core. That beauty *is* simplicity.
+In 1907, Klimt completed this portrait of Adele Bloch-Bauer, a member of a wealthy Jewish family in Vienna who supported the arts. Her husband commissioned the painting.
 
-And across the Atlantic, the American architect Louis Sullivan was making a parallel argument:
+Look at her face and hands. They look solid and lifelike. Around them, her dress, chair, and background become harder to separate.
 
-*[ON-SCREEN TEXT: "Form ever follows function." — Louis Sullivan, 1896]*
+[DETAIL: Face and hands → patterned dress → whole.]
 
-"Form ever follows function."
+My eye moves through the patterns, then comes back to her face.
 
-A building should express its purpose. Not disguise it. Not decorate it. Express it.
+Klimt had seen mosaics in Ravenna, Italy, where religious figures appear against gold backgrounds. Using gold around Adele gives her some of that grandeur.
+
+### The Kiss
+
+*[Music fades out.]*
+
+[ARTWORK: The Kiss, full frame. 10 seconds of silence.]
+
+And this is The Kiss, painted around 1907 to 1909.
+
+A couple kneels on a patch of flowers. His face is turned toward hers. Her eyes are closed, and a hand rests on his neck.
+
+[DETAIL: Faces and hands → contrasting robe patterns.]
+
+His robe is covered in rectangular patterns, while hers has rounded, colorful shapes. The patterns help us tell them apart, but the gold also brings their bodies together.
+
+We can't tell where they are. There's no room or street around them, so our attention stays on the couple.
+
+The flowers end close to her feet. That edge makes the scene feel a little less secure to me, even with the couple holding each other so closely.
 
 [TALKING HEAD]
 
-These two ideas — ornament is crime, form follows function — predicted the entire twentieth century of design. The clean lines of Modernism. The glass-and-steel towers. The Bauhaus. The "less is more" philosophy. Everything that came after Art Nouveau was, in some sense, a reaction against it.
+This is how Klimt brings feeling and decoration together. The gold helps create the closeness we feel between these people.
 
-But here's the thing. This argument isn't over. It's still happening. Every time someone argues about "less is more" versus "more is more" — every time someone looks at a sleek glass building and says "it's cold" or looks at a decorated building and says "it's too much" — they're replaying Klimt versus Loos. Art Nouveau versus Modernism.
+His university paintings focused on human helplessness. Here, he's giving that same attention to an embrace.
 
-Beauty as ornament versus beauty as simplicity.
+### The later years
 
-I don't think either side is right. I think the tension between them is the point.
+[ARTWORK: Klimt — Garden Path with Chickens, archival reproduction; then The Bride, unfinished.]
 
----
+Klimt kept painting after these famous gold works. His landscapes are full of flowers and leaves, and his later paintings of people use more colorful patterns.
 
-## ACT 6: THE CENTURY TURNS
+He died in Vienna in February 1918, aged fifty-five, leaving unfinished works in his studio.
 
-*[Underscore — reflective, building slowly to something final.]*
-
-[TALKING HEAD — direct to camera. This is the series finale.]
-
-So. Here we are. The end of the series. And I want to step back and look at what we've covered.
-
-We started in the 1760s with a German librarian who never went to Greece and a French painter who voted to kill a king. We end in 1910 with a Viennese painter who covered everything in gold and an architect who said ornament was a crime.
-
-In between: a century of revolution.
-
-Neo-Classicism said: art should serve reason. Serve the state. Serve virtue. David painted it. Ingres defended it.
-
-Romanticism said: no — art should serve emotion. Serve the gut. Serve the sublime. Delacroix painted it. Géricault died for it.
-
-Realism said: forget both — art should serve truth. The ugly, ordinary, unglamorous truth. Courbet painted it and built his own exhibition hall when they tried to stop him.
-
-Impressionism said: art should serve the eye. Paint what you actually see — the light, the color, the moment. Monet chased it for eighty-six years. Cassatt saw it from the inside.
-
-Post-Impressionism said: the eye isn't enough. Serve the self. Cézanne found structure. Van Gogh found feeling. Gauguin found — and exploited — the dream.
-
-Symbolism said: serve the soul. The invisible world. Dreams, myths, the unconscious.
-
-And Art Nouveau said: serve life. All of it. Every building, every poster, every doorknob. Make everything beautiful.
-
-*[Beat]*
-
-Should art serve the soul or serve daily life?
-
-Klimt's answer — and I think it's the right one — is: yes. Both. At the same time. Gold and sex and death and beauty, on a wall, in a building, in a poster, in a kiss.
-
-*[Longer beat. The energy shifts — forward-looking, almost electric.]*
-
-By 1900, art had broken free from the academy, from the church, from the state. It had fought for and won the right to paint what it wanted, how it wanted, for whoever it wanted.
-
-But nobody — *nobody* — was ready for what was about to happen next.
-
-The twentieth century was coming. And it was going to make everything we've talked about in this series look polite.
-
-Picasso was nineteen years old. He'd seen Cézanne's retrospective and understood what it meant. Within a decade, he and Braque would break the image into a thousand pieces. Cubism.
-
-Matisse was thirty. Moreau's student. Within five years, he'd be painting with colors so wild the critics would call him a *fauve* — a wild beast.
-
-Duchamp was thirteen. In twelve years, he'd put a urinal in a gallery and call it art. And the argument about what art even *is* would never be the same.
-
-Kandinsky was thirty-four. He was about to paint the first painting with no subject at all. Just color and shape.
-
-The Futurists were about to declare war on the past. The Dadaists were about to declare war on meaning. The Surrealists were about to declare war on reality.
-
-Everything we've talked about — every revolution, every scandal, every broken rule — was the warm-up.
-
-*[Beat. Quiet. Direct to camera.]*
-
-But that's another story.
-
-This one — the story of how art went from serving kings to serving itself, from marble gods to water lilies, from "noble simplicity and quiet grandeur" to a kiss wrapped in gold — this one is done.
-
-Thanks for watching.
-
-*[Cut to black.]*
+The Nazi takeover of Austria came twenty years after his death.
 
 ---
 
-## END OF EPISODE 6 — END OF SERIES
+## ACT 8: WHAT REMAINS
+
+*[Keep the historical resolution brief and sober. No dramatic war montage.]*
+
+[VISUAL: University paintings, archival photographs.]
+
+That brings us back to the missing university paintings.
+
+After Nazi Germany annexed Austria in 1938, Jewish collectors were persecuted and their art seized. Klimt paintings taken from the Lederers, a Jewish family of collectors, were stored at Immendorf Castle with other artworks. The three university paintings were also kept there.
+
+In May 1945, the castle burned, and the university paintings are believed to have been destroyed in the fire. Retreating German troops are often blamed, but exactly what happened remains uncertain. That's why we know these works through reproductions.
+
+[ARTWORK: Portrait of Adele Bloch-Bauer I.]
+
+Adele's portrait had a different fate. The Nazis confiscated it from her family, but it survived. Her niece Maria Altmann later fought for its return. In 2006, Austria returned five Klimt paintings to the family's heirs.
+
+*[Pause. Transition directly into the series conclusion.]*
+
+[TALKING HEAD]
+
+We began with an artist whose paintings no longer matched what his commissioners wanted. Klimt had built his career decorating public buildings, but his work was changing. He wanted room to explore things that a painting made to celebrate an institution might leave out.
+
+Across these six episodes, we've seen artists disagree about what art should show and how it should look. Ordinary people became major subjects. Color became a way to explore feeling. And here, we've followed those experiments into imagined scenes and the design of everyday surroundings.
+
+[VISUAL: Briefly revisit the university photographs, Adele, and The Kiss.]
+
+These approaches continued alongside each other. Klimt's work brings several of them together, and its history reminds us how much can happen to a painting after the artist finishes it.
+
+Thank you for spending these six episodes with me. I hope they've given you more ways to look at a painting and understand what you're seeing.
+
+*[Fade to black.]*
 
 ---
 
-### SCRIPT NOTES
+## EDITORIAL AND RECORDING NOTES — NOT SPOKEN
 
-**Estimated runtime:** ~43–47 minutes.
+**Timing:** Approximately 2,061 spoken words. At 120–140 words per minute, narration takes 14.7–17.2 minutes. Allow 1–2 additional minutes for silent holds and transitions: approximately 16–19 minutes total. Confirm with a read-through. Most detail shots run under narration.
 
-**Key silence moments:**
-1. The Kiss — 10 seconds
-2. Redon color explosion (first color work after showing the Noirs)
+**Voice pass (v7):** Simplified abstract language, removed repeated explanations and the second opening question, and shortened transitions. Kept the agreed hook, character introductions, movement definitions, and historical qualifications. This pass does not change the historical research or chapter order.
 
-**Tone arc:**
-- Cold open: scene-setting, Vienna as a character
-- Act 2 (Symbolism): mysterious, interior, the Moreau irony is a laugh line
-- Act 3 (Klimt): building from scandal to triumph, the gold section is the emotional peak
-- Act 4 (Art Nouveau): lighter, more playful, architecture carries it visually
-- Act 5 (Backlash): sharper, intellectual
-- Act 6 (Closing): the big sweep — reflective, then electric, then quiet
+**Narrative commitments:**
+- Klimt is the main character. The commission opens the episode; his career carries every return from supporting artists.
+- The primary question concerns his changing artistic approach. Act 4 answers it through the works and dispute; Act 7 demonstrates the mature combination of feeling and decoration.
+- The secondary question concerns the originals' disappearance. Tease once in Act 1, remind once in Act 4, resolve after his death in Act 8. The historical answer is about one minute at a brisk conversational pace; allow up to 90 seconds with images. Do not expand it into a war-history chapter.
+- The Kiss is introduced in Act 7, not described as a return to an earlier appearance.
+- Post-Impressionism is explained independently. Mention the previous video casually; prior viewing is unnecessary.
+- Introduce supporting people by role, place, and relevance. Avoid extra names in narration or unexplained quotation cards.
+- No claim that Klimt had already formed the finished Faculty Paintings' approach in 1894. His experimentation developed across the commission's long duration.
+- The Secession was founded in 1897, before the commission ended in 1905. Mark the step back in chronology.
+- Moreau predates Gauguin's Brittany work. Symbolism, Post-Impressionism, and Art Nouveau overlap. No direct influence from a supporting artist on Klimt is claimed here.
+- Close the whole series without a lengthy movement recap or promise of another series.
 
-**Lines that need to land:**
-- "Gold was literally in his blood."
-- "Enough of censorship. I want to get free."
-- "To every age its art, to every art its freedom."
-- "He's closing the gap between the holy image and the pinup."
-- "Send for Emilie."
-- "The evolution of culture is synonymous with the removal of ornament."
-- "Everything we've talked about was the warm-up."
-- "But that's another story."
+**Historical and visual care:**
+- The commission was a state project for the university; avoid inventing dialogue or a verbatim institutional brief. The opening is a concise paraphrase of the conflict.
+- Use archival photographs and reproductions of the lost works. Surviving studies also exist; do not claim that photographs are the only evidence. Modern speculative color reconstructions must be explicitly identified if used.
+- Use the 1876 watercolor version of The Apparition consistently and match its credit to the museum record.
+- Modern frieze room views are not photographs of the original 1902 installation.
+- The accepted loss of the Faculty Paintings at Immendorf and uncertainty about the exact circumstances of the fire should remain distinct. Do not assert a proven SS order to destroy the works or imply the paintings burned because of their earlier university controversy.
+- Do not claim all three university paintings were seized from the same Jewish owner; their ownership histories differ. Medicine had entered the state collection before Nazi rule.
+- Adele's portrait, not The Kiss, illustrates Nazi confiscation and restitution. Credit the heirs collectively rather than implying Maria Altmann was the sole beneficiary.
+- Readings of emotional tone and the flowered edge of The Kiss are interpretations, not documented declarations of Klimt's intentions.
 
-**The closing sequence is the most important thing in the series.** It needs to feel like a conclusion AND a door opening. The recap of all six movements should feel like a crescendo. The list of what's coming (Picasso, Matisse, Duchamp, Kandinsky) should feel electric — like the future is rushing toward you. And then the final beat should be quiet. Simple. Human.
+### Source notes
 
-**This episode has more architecture than any other.** Make sure the visual team has strong photography/video of: Secession Building, Sagrada Família, Casa Batlló, Park Güell, Hôtel Tassel staircase. These buildings need to be shown properly — they're as important as any painting in this episode.
+Sources support factual framing; close-looking passages are the narrator's visual interpretation. Links are not spoken.
 
----
+- **Early career:** [Klimt Foundation database — theater commissions](https://www.klimt-database.com/de/klimt-werk/1883-1888/theatermaler-in-den-kronlaendern-und-wien/), including Shakespeare's Globe Theatre and the Burgtheater work; [biographical timeline](https://www.klimt.at/en/pdf/M1_Biographie-Klimt_B.pdf).
+- **Commission and withdrawal:** [Belvedere — The Faculty Paintings](https://artsandculture.google.com/story/gustav-klimt-the-faculty-paintings/XwUhMS_zkPdZzw?hl=en); [Klimt Foundation — Medicine and Jurisprudence](https://www.klimt-database.com/en/klimts-artworks/1901-1903/the-golden-knight-and-femmes-fatales/); [Albertina — Jurisprudence](https://digitalepublikationen.albertina.at/groups/essay-fakult-tsbild-jurisprudenz).
+- **Post-Impressionist connection:** [MoMA — Gauguin](https://www.moma.org/artists/2098-paul-gauguin); [Van Gogh's letter on The Night Café](https://vangoghletters.org/vg/letters/let677/translation.html).
+- **Symbolism:** [The Met — Symbolism](https://www.metmuseum.org/es/essays/symbolism); [Musée d'Orsay — The Apparition](https://www.musee-orsay.fr/fr/oeuvres/lapparition-203510). Use the existing Redon research and verify the chosen print's caption against its lending collection.
+- **Secession and coordinated exhibition:** [Vienna Secession — Beethoven Frieze](https://secession.at/beethovenfrieze); [Secession's illustrated exhibition history](https://artsandculture.google.com/story/beethoven-frieze-secession/hQVxCiwKNIeUIw?hl=en).
+- **Art Nouveau:** [V&A — overview](https://www.vam.ac.uk/collections/art-nouveau) and [international style](https://www.vam.ac.uk/articles/art-nouveau-an-international-style); [UNESCO — Horta town houses](https://whc.unesco.org/en/list/1005/).
+- **Mucha:** [Mucha Foundation — Gismonda](https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/) and [poster production](https://muchafoundation.org/en/gallery/browse-works/object_type/posters).
+- **Mature work and death:** [Belvedere — The Kiss](https://sammlung.belvedere.at/objects/6678); [Neue Galerie — Adele Bloch-Bauer](https://www.neuegalerie.org/exhibitions/klimt-and-adele-bloch-bauer); [Belvedere — unfinished The Bride and death at 55](https://www.belvedere.at/sites/default/files/2025-06/Pressemappe%20Die%20Braut%20EN.pdf).
+- **Loss and confiscation:** [MAK — Immendorf exhibition](https://www.mak.at/en/exhibitions/exhibition?ausstellung_id=1750540655922); [MAK — Klimt Lost](https://artsandculture.google.com/story/klimt-lost/TgWhKflN48gYLA?hl=de); [Klimt Foundation — later ownership and loss](https://www.klimt-database.com/en/klimts-artworks/1919-1945/posthumous-fame-and-legend/).
+- **Restitution:** [Neue Galerie — five returned paintings](https://www.neuegalerie.org/exhibitions/klimt-paintings-bauer-collection). Keep the resolution focused on the works and dispossessed family.
 
-## CHAPTER OUTLINE
+### Pronunciation
 
-| Chapter | Time Estimate | What Happens |
-|---|---|---|
-| **ACT 1: Cold Open** | ~3 min | Vienna, 1900. Freud, Mahler, Klimt. The most creative city on earth. |
-| **ACT 2: The Symbolist Turn** | ~8 min | Moreau's mythological nightmares (and the irony of training Matisse). Redon's transformation from black-and-white to color. What Symbolism actually was. |
-| **🔗 Bridge** | ~1 min | From the invisible world to the golden one — Klimt took inner-world energy and made it visible. |
-| **ACT 3: Klimt** | ~14 min | Early career. The university scandal. The Vienna Secession. The Beethoven Frieze. The golden phase — *Adele Bloch-Bauer*, *The Kiss*. Emilie Flögé. Death. |
-| **🔗 Bridge** | ~1 min | From the soul to the street — what if beauty was everywhere, not just in galleries? |
-| **ACT 4: Art Nouveau** | ~7 min | William Morris. Mucha's posters. Gaudí's buildings. Horta's staircase. Art Nouveau across Europe. |
-| **ACT 5: The Backlash** | ~4 min | Adolf Loos: "Ornament and Crime." Louis Sullivan: "Form follows function." The argument that's still happening. |
-| **ACT 6: The Century Turns** | ~6 min | The big recap of all six movements. What's coming next — Picasso, Matisse, Duchamp, Kandinsky. The warm-up is over. |
-
----
-
-## PRONUNCIATION GUIDE
-
-| Word / Name | How to Say It |
+| Name | Guide |
 |---|---|
 | Gustav Klimt | GOO-stahv KLIMT |
-| Emilie Flögé | eh-MEE-lee-uh FLUH-geh |
-| Odilon Redon | oh-dee-LOHN ruh-DOHN |
 | Gustave Moreau | goo-STAHV moh-ROH |
-| Huysmans | WEESS-mahns |
-| À Rebours | ah ruh-BOOR |
-| Stéphane Mallarmé | steh-FAHN mah-lar-MAY |
+| Odilon Redon | oh-dee-LOHN ruh-DOHN |
 | Alphonse Mucha | AL-fons MOO-kah |
-| Antoni Gaudí | ahn-TOH-nee gow-DEE |
-| Sagrada Família | sah-GRAH-dah fah-MEE-lyah |
-| Casa Batlló | KAH-sah baht-YOH |
+| Sarah Bernhardt | SAIR-uh bair-NAR |
 | Victor Horta | veek-TOR OR-tah |
 | Hôtel Tassel | oh-TEL tah-SEL |
-| Adolf Loos | AH-dolf LOHS |
-| Joseph Maria Olbrich | YOH-zef mah-REE-ah OHL-brikh |
-| Jugendstil | YOO-gent-shteel |
-| Künstlerhaus | KOONST-ler-house |
-| Schiller | SHIL-ler |
-| Secession | seh-TSEH-see-ohn (German) or seh-SESH-un (English) |
-| Schloss Immendorf | SHLOSS IM-en-dorf |
-| Fauvism / Fauves | FOH-vizm / FOHV |
-
----
-
-## FACT-CHECK NOTES FOR REVIEW
-
-- ✅ Klimt born 1862, father was gold engraver — confirmed
-- ✅ Klimt brother Ernst died 1892 (father also died 1892) — confirmed
-- ✅ Beethoven Frieze: 112 feet long (34.14 m) — confirmed
-- ✅ *Adele Bloch-Bauer I* sold for $135 million in 2006 — confirmed
-- ✅ Hôtel Tassel 1893, Victor Horta, first Art Nouveau building — confirmed
-- ✅ Gaudí hit by tram 1926, died three days later — confirmed (hit June 7, died June 10)
-- ✅ Vienna Secession founded 1897, Klimt first president — confirmed
-- ⚠️ Klimt's children: script now says "may have fathered as many as fourteen, though only six are confirmed." This is accurate — 14 claims were made at his death, but only 6 are documented.
-- ⚠️ University paintings "Eighty-seven professors signed a letter" — the number 87 is widely cited but verify the exact count. Some sources just say "numerous professors."
-- ⚠️ University paintings destroyed at Schloss Immendorf 1945 — confirmed, but by retreating SS forces, not just "a fire." Script says "destroyed in a fire at Schloss Immendorf in 1945" which is close enough but could be more precise.
-- ⚠️ Klimt's last words "Send for Emilie" — widely reported but hard to verify with certainty. Some sources say "Get Emilie" or "Call Emilie." Script says "reportedly" which is fair.
-- ⚠️ Klimt died from "a stroke following the Spanish flu" — he had a stroke on Jan 11, 1918, and died Feb 6. Whether the flu directly caused the stroke is debated. Some sources say stroke and pneumonia.
+| Adele Bloch-Bauer | ah-DEH-leh BLOKH BOW-er |
+| Maria Altmann | mah-REE-ah ALT-mahn |
+| Immendorf | IM-en-dorf |
+| Jurisprudence | joor-is-PROO-dens |
