@@ -1,20 +1,19 @@
 # Music Cues — Episode 6: "Klimt: Beyond the Gold"
 
-Aligned with draft v7. Let Klimt's story carry the changes; supporting artists do not need separate musical introductions.
+Aligned with draft v8. Music follows the chronological story and leaves space for explanations.
 
-| Act / passage | Direction |
+| Act | Direction |
 |---|---|
-| 1, university hook | Begin without music. Let the contrast between commission and images establish tension. |
-| 2, early career | Quiet, steady underscore; support the successful public painter's world. |
-| 3, Post-Impressionism and Symbolism | Gradually introduce uncertainty. Keep space for explanations and looking. |
-| Moreau and Redon | Sparse texture; avoid treating every unusual image as horror. |
-| 4, university confrontation | Build gently, then leave a short pause after withdrawal. The Nazi reminder needs no sting. |
-| 5, Secession and frieze | Open the texture toward warmth. Let the embrace emerge from the preceding suffering. |
-| 6, Art Nouveau | Maintain continuity; a little movement through architecture and poster details. |
-| 7, Adele | Warm, restrained; avoid suggesting that fame resolves the earlier conflict. |
-| The Kiss | Fade out before first appearance. Ten seconds full silence, then quiet narration. |
-| Later work and death | Gentle return if needed, then ease down. |
-| 8, loss and restitution | Sober and sparse. No suspense crescendo or sensational war sound effects. |
-| Series closing | Quiet resolution, giving final words room. |
+| 1, commission hook | Begin without music. No Nazi teaser sting. |
+| 2, early career | Quiet, steady underscore. No manufactured tragedy cue for the family deaths. |
+| 3, changing painting and Symbolism | Sparse texture; maintain continuity through the French examples. No horror effects for imagined figures. |
+| 4, Secession and Art Nouveau | Slightly more movement while preserving the same palette. Let the design details carry the examples. |
+| 5, Philosophy and Medicine | Restrained tension beneath clear explanation. |
+| 5, Beethoven Frieze | Allow warmth at the embrace; then ease back for Jurisprudence and withdrawal. |
+| 6, Adele | Quiet, warm underscore. |
+| 6, The Kiss | Fade out before first appearance; ten seconds full silence, then narration. |
+| 7, later work and death | Gentle and understated. |
+| 8, wartime loss and restitution | Sober, sparse; no war montage or suspense crescendo. |
+| Series closing | Quiet resolution. |
 
-Artwork holds can overlap narration except the explicit silence at The Kiss. Runtime budget allows about 1–2 minutes beyond spoken narration in total. Check rights for the selected recordings.
+Most visuals run beneath speech. Explicit holds total under a minute; keep additional transitions short to retain the 19–22 minute estimate. Confirm by read-through and check recording rights.

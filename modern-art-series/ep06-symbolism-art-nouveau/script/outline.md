@@ -1,63 +1,29 @@
 # Episode 6: "Klimt: Beyond the Gold"
-## Outline — aligned with draft v7
+## Outline — aligned with draft v8
 
-**Main character:** Gustav Klimt.
-**Opening question:** Why did an experienced public painter challenge the ideas he was hired to celebrate?
-**Secondary mystery:** Why are the university paintings known through reproductions, and how is their loss connected to Nazi looting?
-**Runtime:** Approximately 16–19 minutes; about 2,061 spoken words. Confirm by read-through; maximum 25 minutes.
+**Main question:** Why did a successful public painter challenge the ideas he was hired to celebrate?
+**Secondary mystery:** What happened to the university paintings?
+**Length:** About 2,471 spoken words; estimated 19–22 minutes with holds. Confirm by read-through; maximum 25 minutes.
 
-## Act 1 — The commission that went wrong
+| Act | Main points in order | Bridge to the next act |
+|---|---|---|
+| 1. The commission that went wrong | Agreed hook; established painter; six years to the first exhibition; archival images and brief Nazi-era mystery. | Return deliberately to the beginning of his career. |
+| 2. Learning to paint for buildings | Birth and family; training at fourteen; Ernst and Matsch; Vienna's public commissions; Burgtheater work; 1892 deaths; 1894 commission and allegory. Clarify the six-year interval is not the entire project. | Follow what changed during those years. |
+| 3. A different use for imagination | Music (1895) shows a stylistic change. Explain Impressionism and diverse Post-Impressionist approaches in France. Van Gogh and Gauguin connect to imagination. Explain parallel Symbolism and international exchange. Moreau: a known story becomes a vision. Redon: recognizable parts form an impossible being. State shared aims and varied methods. | Return to Klimt's own artistic and institutional changes. |
+| 4. The Secession and Art Nouveau | Secession founded 1897; international exhibition and building in 1898. Painters, architects, and designers share an organization. Explain Art Nouveau's origins and relationship to Arts and Crafts and Symbolism. Horta and Mucha demonstrate different applications already underway in Europe. | Return to Klimt in 1900, now transformed artistically and president of the Secession. |
+| 5. The university paintings, year by year | Philosophy (1900), Medicine (1901), documented nudity controversy, Beethoven Frieze (1902), Jurisprudence (1903), withdrawal (1905). Answer the hook. Follow revisions through 1907 and briefly explain later private buyers; remind once about wartime fate. | Private patrons support the mature paintings. |
+| 6. The gold paintings | Adele's identity and portrait (1907); Ravenna connection; analysis of modeled features versus flat patterns. The Kiss (c. 1907–1909): pattern, figure grouping, and reduced setting. | His career continues beyond gold. |
+| 7. After the gold | Later landscapes and figure work; death in 1918; twenty-year interval to Nazi annexation. | Follow what happened to the paintings after his death. |
+| 8. What remains | Confiscation and Immendorf; qualified account of deliberate burning to prevent Soviet capture; brief Adele restitution. Conclude the series through the artistic possibilities and histories explored. | Thank the viewer; no promised sequel. |
 
-Knowledge, medicine, and law become images of confusion, death, and helplessness. Establish Klimt's reputation and the commission's long duration. Reveal that the images shown are photographs of lost originals. Briefly promise the later Nazi-era history, then ask how Klimt reached this confrontation.
+## Chronology rules
 
-**Transition:** Go back to the career that made him a credible choice.
+The hook is a deliberate preview. The French examples and Horta/Mucha are explicitly contextual detours into earlier or parallel work. The post-1905 sales briefly follow the fate of the commission before returning to Klimt's mature paintings. These are the only intended departures from his career chronology.
 
-## Act 2 — The artist Vienna trusted
+Do not move the Secession after withdrawal or the frieze after 1905. Six years means 1894–1900; the dispute ended in 1905 and revisions continued through 1907. Treat those years as the period of change, not a delay proven to cause the change.
 
-Introduce the Austrian painter, applied-arts training, and public interiors. Look at Shakespeare's Globe Theatre in the Burgtheater. Explain the university commission, its three subjects, and allegory. Establish that Klimt's approach developed during the commission rather than being fixed in 1894.
+## Voice and explanation
 
-**Transition:** Understand his changing work within broader experiments with the purpose of painting.
+No invented personal feelings. Analyze visible features or attribute documented statements and reactions. Explain each new person by role and relevance. The supporting artists demonstrate variety within larger movements; they are not an exhaustive list or a direct chain of influence on Klimt.
 
-## Act 3 — Painting what we cannot see
-
-Explain Post-Impressionism independently and casually mention the previous video. Introduce Van Gogh with The Night Café and Gauguin with Vision After the Sermon. Define Symbolism and explain overlapping chronology. Introduce Moreau through The Apparition and Redon through one Noir. Each supporting example explains suggestion and inner response, not a separate biography.
-
-**Transition:** Bring this understanding of symbolic imagery back to the university paintings.
-
-## Act 4 — What the university saw
-
-Examine Philosophy, Medicine, and Jurisprudence in order. Explain uncertainty, mortality, and punishment through visible features. Answer the main question: the paintings foreground limits rather than reassuringly celebrating knowledge. Explain protests and withdrawal in 1905. Remind viewers once that the originals' later fate is still to come.
-
-**Transition:** Klimt was creating another venue for art during the same years.
-
-## Act 5 — A place for new art
-
-Explicitly step back to the Secession's founding in 1897. Explain what the association wanted. Introduce Beethoven and the 1902 exhibition. Follow the frieze from longing through hostile forces to art, love, and an embrace. Connect the coordinated room to Klimt's early experience with interiors.
-
-**Transition:** The whole environment matters; introduce the broader design ambition of Art Nouveau.
-
-## Act 6 — Art Nouveau: designing the whole experience
-
-Define the movement, period, natural and geometric forms, and attention to useful objects. Give brief context of cities, manufacture, and advertising. Distinguish design concerns from Symbolist suggestion while allowing overlap. Introduce Belgian architect Horta through Hôtel Tassel, then Czech artist Mucha and French actress Bernhardt through Gismonda. Explain private versus public audiences.
-
-**Transition:** Return to Klimt with a clearer understanding of what patterned surfaces can do.
-
-## Act 7 — The people within the gold
-
-Introduce Adele Bloch-Bauer as a Jewish Viennese arts supporter and examine her portrait. Briefly explain the Ravenna connection. Introduce The Kiss for the first time with ten seconds of silence. Examine how pattern, gold, and space shape intimacy; keep interpretations explicit. Briefly acknowledge landscapes and later figure work, then Klimt's death in February 1918, aged 55.
-
-**Transition:** His life ends before the Nazi-era fate of his paintings.
-
-## Act 8 — What remains
-
-Resolve the secondary mystery in roughly 60–90 seconds: Nazi annexation and confiscation; looted Lederer works and other collections stored at Immendorf; university paintings lost in the 1945 fire, with its exact circumstances uncertain. Adele's portrait survived confiscation; introduce niece Maria Altmann and the 2006 restitution to the heirs. Move immediately into the series conclusion.
-
-Return to the opening question and the broader expansion of subjects, artistic expression, and designed surroundings across the series. End on closer looking and the histories attached to particular works, without a movement roll call or promised sequel.
-
-## Guardrails
-
-- No claim the Nazis destroyed the university paintings because of their earlier controversial content.
-- Do not imply all Faculty Paintings shared the same ownership/confiscation history, or that The Kiss was part of the Bloch-Bauer restitution.
-- No extended war history, legal case, additional artist survey, or separate Loos debate.
-- Show archival reproductions honestly; identify speculative modern color reconstructions if used.
-- Sources and detailed historical notes are in draft v7.
+Keep the Nazi-era resolution around 90 seconds. Preserve qualifications about the fire and the distinction between the paintings' ownership histories. Detailed source notes are in the script.

@@ -1,17 +1,17 @@
 # Episode 6: "Klimt: Beyond the Gold"
-## FULL SCRIPT — DRAFT v7
+## FULL SCRIPT — DRAFT v8
 ### Symbolism + Art Nouveau | Series finale
 
 **Main question:** Why did a successful public painter challenge the ideas he was hired to celebrate?
-**Secondary question:** What happened to the university paintings, and how does their disappearance connect to Nazi looting?
+**Secondary question:** What happened to the university paintings?
 
 ---
 
 ## ACT 1: THE COMMISSION THAT WENT WRONG
 
-*[Begin without music. Show archival photographs, one painting at a time.]*
+*[Begin without music. The opening is a deliberate preview; the main chronology starts in Act 2.]*
 
-[ARTWORK: Philosophy → Medicine → Jurisprudence, full compositions.]
+[ARTWORK: Klimt — Philosophy, 1900–1907; Medicine, 1900–1907; Jurisprudence, 1903–1907. Archival photographs; dates include later revisions.]
 
 A university commissions paintings about knowledge, medicine, and law. Gustav Klimt gives them images of confusion, death, and helplessness.
 
@@ -19,285 +19,293 @@ What happened?
 
 [TALKING HEAD]
 
-This was an experienced artist who had spent years decorating some of Vienna's most prestigious buildings. He seemed an obvious choice for a major public commission.
+Klimt was an experienced artist who had decorated some of Vienna's most prestigious buildings. But between receiving this commission and showing the first painting, six years passed. His work changed considerably during that time.
 
-But the project would take years, and Klimt's ideas about painting were changing. What he eventually produced caused an uproar.
+[VISUAL: Photograph of Medicine, 1900–1907; retain the photograph's border.]
 
-[VISUAL: Archival photograph of Medicine, with the photograph's border visible.]
+These are photographs because the originals are gone. Their disappearance involves Nazi looting and the end of the Second World War. We'll get to that too.
 
-And what we're looking at here is a photograph. The original paintings are gone. What happened to them involves Nazi looting and the final days of the Second World War. We'll get to that part of the story too.
-
-Let's start with the work that made Klimt such a respected painter.
+First, let's go back to the beginning of Klimt's career.
 
 ---
 
-## ACT 2: THE ARTIST VIENNA TRUSTED
+## ACT 2: LEARNING TO PAINT FOR BUILDINGS
 
-*[Quiet underscore.]*
+[VISUAL: Klimt portrait, identified by photographer and date when selected; Vienna location map.]
 
-[VISUAL: Klimt portrait; Vienna's Burgtheater exterior and staircase.]
+Gustav Klimt was born near Vienna in 1862, the second of seven children. At fourteen, he entered Vienna's School of Arts and Crafts, where he studied painting.
 
-Gustav Klimt was an Austrian painter, born near Vienna in 1862. He trained at the city's School of Arts and Crafts, where artists learned to apply their skills to design and decoration.
+His younger brother Ernst also studied there. Together with Franz Matsch, another student at the school, they formed a team that took on decorative commissions.
 
-Early in his career, he painted for theaters and other public buildings. He had to fit his paintings into the building and make sure people could follow the scenes from below.
+Vienna was the capital of the Austro-Hungarian Empire, and its new public buildings offered work for artists. The team painted for theaters and museums, creating scenes for ceilings and staircases.
 
-[ARTWORK: Klimt — Shakespeare's Globe Theatre, Burgtheater ceiling painting.]
+[ARTWORK: Klimt — Shakespeare's Globe Theatre, 1886–1888; Burgtheater, Vienna.]
 
-Look at this scene he painted for Vienna's Burgtheater, a major theater in the city. The people look solid, and we can see where they're standing in relation to each other. Even the folds in their clothes are carefully painted.
+This is one of the four paintings Klimt created for Vienna's Burgtheater. It's part of a series about theater history.
 
-The scene is part of a series about the history of theater. These paintings celebrated the kind of institution they were made for.
+We can clearly see Klimt's talent and mastery of classical painting here. The composition is well balanced, giving both the stage and the theater crowd space, showing that both are important. The characters, light, and color are all painted with detail and care, serving the main theme: celebrating theater culture.
+
+This approach suited buildings that wanted to celebrate their cultural importance. The team's work at the Burgtheater brought them wider recognition, and further prestigious commissions followed.
 
 [TALKING HEAD]
 
-With that experience, Klimt was a natural choice for a commission to decorate the University of Vienna's ceremonial hall in 1894.
+Klimt was building a successful career within that system. Then, in 1892, both his father and his brother Ernst died. He lost a family member who was also his working partner.
 
-His subjects were Philosophy, Medicine, and Jurisprudence, which means the study of law. He would represent these ideas through figures and scenes. A person might stand for wisdom, for example. This is called an allegory.
+His collaboration with Matsch continued for a time, but their artistic approaches gradually separated. Klimt's work in the following years would become increasingly individual.
 
-During the years he worked on the commission, Klimt experimented more with how these ideas could be painted. His images became increasingly unsettling.
+In 1894, he received the university commission we began with. ~Matsch was also involved in the larger ceiling project.~ Klimt's three subjects were Philosophy, Medicine, and Jurisprudence, the study of law.
 
-Other artists were also exploring how a painting could express something beyond what they saw in front of them.
+The project took years to develop, and during that time, Klimt changed as an artist. To understand the final result, we need to look at how his style evolved along the way.
 
 ---
 
-## ACT 3: PAINTING WHAT WE CANNOT SEE
+## ACT 3: A DIFFERENT USE FOR IMAGINATION
 
-### From observation to inner experience
+[ARTWORK: Klimt — Music, 1895; surviving study, Neue Pinakothek, Munich.]
+
+This small painting, Music, is from 1895. A woman holds a lyre, an ancient stringed instrument. Her figure is surrounded by decorative forms and symbolic imagery.
+
+Compare it with the theater scene. There's much less emphasis on a believable setting or realistic perspective. The figure and her surroundings represent an idea, and the patterned background supports the feeling the painting tries to convey.
+
+We can see Klimt moving toward Symbolism, a new art movement whose ideas were becoming popular at the time. Before following Klimt further, let's pause for a moment and discuss Symbolism and where it came from.
+
+### From France to a wider European discussion
 
 [TALKING HEAD]
 
-The Impressionists painted everyday scenes, paying close attention to changes in light and color. Post-Impressionism is the name we give to several different ways artists developed those experiments. Some used color to build solid shapes. Others used it to express feelings or paint imagined scenes.
+we alredy discussed Impressionism - the art movment developed in France, with artists studying the color in changing light. 
+and we talked about Post-Impressionism  -  a later name for several different ways artists who were inspired by impressionism developed its ideas in different directions.
+(make sure vile filming to leave space for insecrt video )
 
-I talk about Post-Impressionism more broadly in the previous video. Here, the connection is through feeling and imagination.
 
-[ARTWORK: Van Gogh — The Night Café.]
+ I cover these art movments more broadly in previous videos, ill link them below, but whats important for us now is the idea that by the second half of the 19th century some artist began using color and composition to express feelings and imagined experiences. lets see some examples.
+
+[ARTWORK: Van Gogh — The Night Café, 1888; Gauguin — Vision After the Sermon, 1888.]
 
 Van Gogh used color to express strong feelings about familiar places. In The Night Café, the strong reds and greens help make an ordinary room feel uneasy.
 
-[ARTWORK: Gauguin — Vision After the Sermon.]
+Paul Gauguin, mixed reality and imagination in his compositions.
+In Vision After the Sermon, women from Brittany appear beside a biblical scene they imagine: Jacob wrestling an angel. The same bright red ground stretches beneath both groups, bringing the imagined scene into the women's surroundings.
 
-Paul Gauguin, often worked from memory and imagination. In Vision After the Sermon, women from Brittany appear beside a biblical scene they imagine: Jacob wrestling an angel. The same bright red ground stretches beneath both groups, bringing the imagined scene into the women's surroundings.
 
-### What Symbolism means
+Symbolism wasn't a stage that began only after Post-Impressionism ended - it was evolving alog side it. artist across europe where inspired by eachother and some took interest in encoporating symbolic color and images in their work.
 
-[TALKING HEAD]
-
-This interest in beliefs and imagined experiences connects with Symbolism, a movement in art and literature. Symbolist artists wanted to suggest what people felt or imagined, including things they couldn't easily explain.
-
-Recognizing the objects in a painting wouldn't necessarily tell you what it meant. The way they were painted could leave you with a feeling that was harder to put into words.
-
-Gauguin is also associated with Symbolism. These movements overlapped, and some artists had been exploring such ideas before his work in Brittany.
-
-[ARTWORK: Moreau — The Apparition. Hold 6 seconds.]
-
-Gustave Moreau was a French painter based in Paris who often painted religious stories and myths. This is The Apparition, from 1876.
-
-The woman is Salome, who asks for John the Baptist's head in the biblical story. Here, the severed head floats before her, surrounded by light.
-
-Look at the jeweled surfaces and the elaborate columns. They make the setting luxurious, while the blood dripping from the head makes it disturbing.
-
-We know who the figures are, but the scene still feels strange. The detail draws me in, even though what's happening is disturbing.
-
-[ARTWORK: Redon — The Eye Like a Strange Balloon Mounts toward Infinity. Hold 5 seconds.]
-
-Odilon Redon, another French artist, made charcoal drawings and prints of imagined creatures. He called his black-and-white works his Noirs, meaning “blacks.”
-
-Here, an enormous eye floats above a landscape like a balloon. For me, it creates a feeling of being watched without knowing who is watching. You might respond to it differently.
+### What makes a work Symbolist?
 
 [TALKING HEAD]
 
-These works look very different, but both leave us trying to make sense of an imagined scene.
+so Symbolist artists used style and sympols to suggest experiences that couldn't simply be observed: dreams, beliefs, or fears. They often drew on myths and literature, but they didn't all paint in one style.
 
-Klimt's university paintings also use symbolic figures. Let's look at what he did with the subjects he was given.
+Two French artists show how different their approaches could be.
+
+[ARTWORK: Gustave Moreau — The Apparition, 1876; watercolor version. Hold 6 seconds.]
+
+Gustave Moreau worked in Paris and often painted religious and mythological subjects. His painting The Apparition, from 1876, is a good example of how Symbolist artists rejected realistic depictions in favor of expressing emotions, dreams, and psychological states.
+
+The biblical story of Salome, a princess who asks for the head of John the Baptist, was the subject of many paintings. In many of them, the scene looks like something that could have happened in real life. Moreau presents the story in an unrealistic, dreamlike way. Instead of being brought to Salome on a platter, the glowing head of John the Baptist floats mysteriously in front of her. By changing reality, Moreau uses the story to explore deeper ideas and emotions, such as desire, fear, and guilt.
+
+The rich details and jewel-like colors add to the strange atmosphere, making the painting feel more like a dream or nightmare than a real place.
+
+[ARTWORK: Odilon Redon — The Eye Like a Strange Balloon Mounts toward Infinity, 1882; lithograph, not the earlier charcoal drawing. Hold 5 seconds.]
+
+OOdilon Redon’s The Eye Like a Strange Balloon Mounts Toward Infinity, from 1882, is another example of Symbolism.
+
+A giant eye floats like a balloon, carrying a human head. Redon uses this strange image to explore dreams, imagination, and the unknown.
+
+The dark landscape and floating eye create a mysterious, unsettling feeling. Rather than telling a clear story, Redon leaves us to wonder what the image might mean.
+
+[TALKING HEAD]
+
+Moreau builds an elaborate vision from a known story. Redon invents strange scenes and freaky creatures. Both make an imagined experience the subject of their work. These are two examples of a much wider movement, in which artists explored the human inner world, often in dark ways.
+
+Klimt was developing his own version of this approach. He was also becoming involved in changing how new art could be exhibited in Vienna.
 
 ---
 
-## ACT 4: WHAT THE UNIVERSITY SAW
+## ACT 4: THE SECESSION AND ART NOUVEAU
 
-[ARTWORK: Philosophy, whole, then details.]
+[VISUAL: Timeline advances to 1897; Secession building, completed 1898.]
 
-Klimt exhibited Philosophy in 1900, six years after receiving the commission.
+In 1897, Klimt and other artists left Vienna's established artists' association and founded the Vienna Secession. “Secession” means a breakaway. Klimt became its first president.
 
-Bodies of different ages drift through darkness, with no clear ground beneath them. A huge, barely visible face appears beside them.
+They wanted more freedom over their exhibitions and closer contact with art from abroad. Their first exhibition in 1898 brought together contemporary European work. Later that year, they opened their own exhibition building.
 
-The people seem lost in this space. It's difficult to see the painting as a confident celebration of human understanding.
+Klimt was now both an artist experimenting with symbolic subjects and a leader in this effort to change Vienna's art scene. The university paintings were still in progress.
 
-[ARTWORK: Medicine, whole, then skeleton among the bodies.]
-
-In Medicine, a skeleton stands among bodies of different ages. Death is still there, despite everything medicine can do.
-
-Imagine that above you in a hall meant to celebrate the university's achievements.
-
-[ARTWORK: Jurisprudence, whole, then the central man and surrounding figures.]
-
-In Jurisprudence, a naked man bends forward, caught in a creature's tentacles, with women surrounding him. He looks helpless. This image of law focuses on the fear of punishment.
+### Why design belongs in this story
 
 [TALKING HEAD]
 
-So this is where Klimt's paintings clashed with the commission. They were meant to honor the university's fields of knowledge. Instead, they showed how much remained beyond human control.
+The Secession included architects and designers as well as painters. The building, exhibition rooms, and printed materials all became part of their artistic work.
 
-Professors protested, and the controversy spread beyond the university. After years of dispute, Klimt withdrew from the commission in 1905 and repaid the money he had received. They were never installed in the university.
+Here comes the connection to Art Nouveau, which means “new art.” It was a wider movement that emerged across Europe in the late nineteenth century, as artists and designers looked for a new style instead of copying older ones. The Vienna Secession was one group within this movement.
 
-*[Brief pause.]*
+Art Nouveau was also a reaction to the Industrial Revolution, when mass production made everyday objects look more alike and often left less room for artistic design. Designers wanted to bring art into daily life, making ordinary objects and spaces more beautiful and decorative.
 
-The paintings survived that dispute. What happened to them under Nazi rule comes later.
+They often took inspiration from nature, using the curves of plants and flowers. Others preferred more geometric patterns and shapes. The aim was to make art part of everyday life, from posters and jewelry to furniture and entire buildings.
 
-While the commission was still underway, Klimt was also helping artists find another place to show their work.
+Before we go back to Klimt and connect everything together, let's look at two famous Art Nouveau artists.
+
+### Horta: architecture
+
+[PHOTO: Victor Horta — Hôtel Tassel, 1893; Brussels. Hold 6 seconds.]
+
+In Art Nouveau architecture, the Belgian architect Victor Horta brought structure and decoration closely together. This is the staircase of his Hôtel Tassel, a private house in Brussels, designed in 1893.
+
+The iron rail curls and branches, and similar shapes continue across the walls and floor. The parts have different jobs, but their lines make them belong to the same design.
+
+Horta's version of Art Nouveau works through an entire interior, including the surfaces people use and touch.
+
+### Mucha: printed design
+
+[ARTWORK: Alphonse Mucha — Gismonda, 1894; poster for the January 1895 production. Hold 5 seconds.]
+
+And perhaps the fase of art nouvoue is -  Alphonse Mucha. He was a Czech artist working in Paris who became known for his decorative treatment of figures and lettering.
+
+This poster advertises Gismonda, starring Sarah Bernhardt, a famous French actress who also managed the theater presenting it.
+
+The tall format gives her figure space, while an arch frames her head. Her costume, the border, and the lettering form a single arrangement. Color printing allowed many copies to reach people walking past.
+
+Horta and Mucha show two approaches among many. Art Nouveau could shape a costly private house or a widely reproduced advertisement.
+
+
+
+Okay, so Art Nouveau describes a broader style of art and design that aimed to make everyday life more artistic and decorative, while Symbolism focused on suggested meanings, emotions, and the inner world. The two movements developed alongside each other, and a work of art could belong to both.
+
+
+[TALKING HEAD]
+
+For Klimt, the interest in designed surfaces developed alongside his symbolic subjects. By 1900, the painter working on the university commission had also become the president of a new artists' group. Now he was ready to show Philosophy.
 
 ---
 
-## ACT 5: A PLACE FOR NEW ART
+## ACT 5: THE UNIVERSITY PAINTINGS, YEAR BY YEAR
 
-[VISUAL: Secession building exterior. Date card: 1897.]
+### 1900–1901: Philosophy and Medicine
 
-In 1897, Klimt and other artists left Vienna's established artists' association and founded the Vienna Secession. “Secession” means a withdrawal or breakaway. Klimt became the group's first president.
+[ARTWORK: Philosophy, 1900–1907; first exhibited 1900. Whole, then details.]
 
-They wanted more freedom to show new work and bring international art to Vienna. They built their own exhibition hall.
+Six years had passed since the commission. Those years included Klimt's move toward Symbolism and the founding of the Secession. He was no longer approaching painting in quite the same way as the decorator the university had hired.
 
-[VISUAL: Historical photograph of the 1902 Beethoven exhibition.]
+In Philosophy, bodies of different ages drift through darkness. There is no clear ground beneath them, and a large, indistinct face emerges nearby.
 
-In 1902, the group organized an exhibition dedicated to Ludwig van Beethoven, the composer whose Ninth Symphony ends with a choir singing about joy and people coming together.
+The figures don't demonstrate a clear triumph of knowledge. They appear within a world they cannot fully understand or control. University professors petitioned against installing the painting.
 
-The artists planned the rooms and the works inside them around that theme. Klimt made the Beethoven Frieze, a painting that runs along three walls.
+[ARTWORK: Medicine, 1900–1907; first exhibited 1901. Whole, then skeleton and nude figures.]
 
-[ARTWORK: Frieze — longing figures and knight → hostile forces → poetry and final embrace.]
+The following year, Klimt exhibited Medicine. A skeleton stands among the bodies. Death remains present despite the subject being medical knowledge.
 
-It tells a story about the search for happiness. A knight in armor appears, along with threatening figures representing dangers such as sickness and death. The final section offers happiness through art and love, ending with a couple embracing.
+The controversy also concerned how those bodies were shown. Klimt included exposed bodies and pregnancy. Critics accused the work of obscenity, and the dispute reached parliament.
 
-*[Hold the embrace for 6 seconds.]*
+So the reaction wasn't only about a pessimistic view of science. The treatment of nudity was provocative for a prestigious public commission. The argument concerned both the ideas and what viewers considered acceptable to display.
 
-Here, Klimt gives us something hopeful after the suffering. The embrace feels more meaningful because we've seen what came before it.
+### 1902: another commission, another setting
 
-[TALKING HEAD]
+[VISUAL: Historical photograph of the Beethoven exhibition, 1902.]
 
-Klimt was still drawing on his experience of decorating buildings. Visitors could follow the images around the room, and the setting became part of how they experienced the painting.
+While that dispute continued, Klimt made a different work for the Secession's 1902 exhibition dedicated to Ludwig van Beethoven, the composer of the Ninth Symphony.
 
-That interest in designing a whole space connects his work with Art Nouveau.
+[ARTWORK: Beethoven Frieze, 1902; longing and knight → hostile forces → poetry and embrace.]
 
----
+The Beethoven Frieze runs along three walls. It follows a search for happiness through suffering, ending with a couple embracing.
 
-## ACT 6: ART NOUVEAU — DESIGNING THE WHOLE EXPERIENCE
+The threatening figures and final embrace belong to the same journey. Art and love provide an answer to the suffering represented elsewhere.
 
-[TALKING HEAD]
+*[Hold the final embrace for 6 seconds.]*
 
-Art Nouveau means “new art.” It developed across several countries during the 1890s and early twentieth century. Artists and designers wanted a new style for the buildings and objects around them.
+Here, Klimt's symbolic subject and his experience designing for buildings work together. The exhibition brought painting, sculpture, and architecture into a shared setting. It demonstrates the connection between symbolic meaning and the design of a whole environment that we've been discussing.
 
-They often took shapes from plants, turning curling stems and leaves into designs for furniture or printed images. Some preferred more geometric shapes.
+### 1903–1905: law and withdrawal
 
-As cities grew and manufactured goods became more common, designers were thinking about how everyday surroundings could look. They wanted to give a useful object or a room as much artistic attention as a painting.
+[ARTWORK: Jurisprudence, 1903–1907; first exhibited 1903.]
 
-Symbolism and Art Nouveau overlap. Symbolism is concerned with suggesting feelings and ideas. Art Nouveau is a style that extends across painting and design. An artist could be involved in both, as Klimt was.
+In 1903, Klimt showed Jurisprudence. A naked man bends forward, caught in a creature's tentacles, surrounded by female figures associated with revenge. Law appears through punishment and the vulnerability of the person facing it.
 
-### Horta: a room designed together
+This brings us to the answer to our opening question. Klimt's paintings explored uncertainty and bodily vulnerability where the commission called for a celebration of knowledge. His changing art no longer matched the expectations attached to the job.
 
-[PHOTO: Hôtel Tassel staircase, wide view. Hold 6 seconds.]
+In 1905, after years of dispute, he withdrew from the commission and returned the payments. The paintings had never been installed in the university. He kept them and continued revising them through 1907.
 
-Victor Horta was a Belgian architect working in Brussels. In 1893, he designed the Hôtel Tassel, a private town house.
+[VISUAL: Small timeline — 1894 commission / 1900 first exhibition / 1905 withdrawal / 1907 revisions.]
 
-Look at the ironwork beside the stairs. Its lines curl and branch. Similar shapes appear on the walls and floor.
+They later passed into private ownership. ~August Lederer, a Viennese industrialist and important supporter of Klimt, bought Philosophy in 1905. Medicine and Jurisprudence were later bought by Koloman Moser, an Austrian artist and designer who had helped found the Secession.~
 
-[DETAILS: Ironwork → wall decoration → floor mosaic → wide.]
+These paintings were rejected for the university, but there were people willing to buy and preserve them. Their later fate under Nazi rule is still to come.
 
-The rail is something you hold as you climb the stairs. Horta has made it part of the room's design, with a pattern that connects it to the surfaces around it.
-
-### Mucha: art on the street
-
-[ARTWORK: Mucha — Gismonda. Hold 5 seconds.]
-
-Alphonse Mucha was a Czech artist working in Paris who became well known for his posters.
-
-This one advertises the play Gismonda. It stars Sarah Bernhardt, a famous French actress who also managed the theater where it was performed.
-
-The tall, narrow poster makes her figure stand out. The arch frames her head, and the lettering fits around her. Everything is arranged to draw attention to the actress.
-
-Color printing meant that many copies could be displayed on the street. People could see this art on their way to work.
-
-[TALKING HEAD]
-
-An expensive private house was available to very few people. A poster could reach anyone walking past it. Art Nouveau could be part of daily life in quite different ways.
-
-These experiments were happening alongside Klimt's work. Back in his paintings, we can see how carefully he uses pattern to change the way we see a person.
+Klimt's career also continued. Private patrons became important to his best-known portraits, where gold and pattern took an even greater role.
 
 ---
 
-## ACT 7: THE PEOPLE WITHIN THE GOLD
+## ACT 6: THE GOLD PAINTINGS
 
-### Adele Bloch-Bauer
+[ARTWORK: Portrait of Adele Bloch-Bauer I, 1907. Hold 6 seconds.]
 
-[ARTWORK: Portrait of Adele Bloch-Bauer I, full frame. Hold 6 seconds.]
+Adele Bloch-Bauer belonged to a wealthy Jewish family in Vienna that supported the arts. Her husband commissioned this portrait, completed in 1907.
 
-In 1907, Klimt completed this portrait of Adele Bloch-Bauer, a member of a wealthy Jewish family in Vienna who supported the arts. Her husband commissioned the painting.
+Klimt had visited Ravenna, Italy, in 1903, where he saw mosaics with figures set against gold. In Adele's portrait, he also surrounds a person with a patterned gold surface.
 
-Look at her face and hands. They look solid and lifelike. Around them, her dress, chair, and background become harder to separate.
+Her face and hands are modeled to look solid. Her dress, chair, and background are much flatter, and their patterns make the boundaries between them harder to follow.
 
-[DETAIL: Face and hands → patterned dress → whole.]
+This difference lets the face remain distinct while much of the figure merges with the decoration.
 
-My eye moves through the patterns, then comes back to her face.
+[DETAIL: Adele Bloch-Bauer I, 1907 — face and hands → dress and background.]
 
-Klimt had seen mosaics in Ravenna, Italy, where religious figures appear against gold backgrounds. Using gold around Adele gives her some of that grandeur.
-
-### The Kiss
+Klimt is still painting a recognizable person, but he has changed the space around her. The portrait works through both a likeness and the arrangement of the surface.
 
 *[Music fades out.]*
 
-[ARTWORK: The Kiss, full frame. 10 seconds of silence.]
+[ARTWORK: The Kiss, c. 1907–1909. Full frame; 10 seconds of silence.]
 
-And this is The Kiss, painted around 1907 to 1909.
+In The Kiss, a couple kneels on a patch of flowers. His face is turned toward hers, her eyes are closed, and her hand rests on his neck.
 
-A couple kneels on a patch of flowers. His face is turned toward hers. Her eyes are closed, and a hand rests on his neck.
+His robe carries rectangular patterns; hers has rounded, colorful shapes. The gold joins their outlines into one large form, while those differences help distinguish the figures.
 
-[DETAIL: Faces and hands → contrasting robe patterns.]
+[DETAIL: The Kiss, c. 1907–1909 — hands → robe patterns → flowered edge.]
 
-His robe is covered in rectangular patterns, while hers has rounded, colorful shapes. The patterns help us tell them apart, but the gold also brings their bodies together.
+There is no recognizable room around them. Their bodies, the gold, and the flowers occupy almost the entire image.
 
-We can't tell where they are. There's no room or street around them, so our attention stays on the couple.
+This is where Klimt's two interests come together clearly. An intimate human subject is expressed through a highly decorative arrangement. The patterns help organize the bodies and remove much of the ordinary setting.
 
-The flowers end close to her feet. That edge makes the scene feel a little less secure to me, even with the couple holding each other so closely.
+His early training in decoration remains part of his work, but the result looks very different from the theater scenes of his youth.
 
-[TALKING HEAD]
+---
 
-This is how Klimt brings feeling and decoration together. The gold helps create the closeness we feel between these people.
+## ACT 7: AFTER THE GOLD
 
-His university paintings focused on human helplessness. Here, he's giving that same attention to an embrace.
+[ARTWORK: Garden Path with Chickens, 1916; archival reproduction. The Bride, 1917–1918; unfinished.]
 
-### The later years
-
-[ARTWORK: Klimt — Garden Path with Chickens, archival reproduction; then The Bride, unfinished.]
-
-Klimt kept painting after these famous gold works. His landscapes are full of flowers and leaves, and his later paintings of people use more colorful patterns.
+Klimt continued working after these famous paintings. His landscapes filled the canvas with flowers and leaves, and his later figure paintings used more colorful patterns.
 
 He died in Vienna in February 1918, aged fifty-five, leaving unfinished works in his studio.
 
-The Nazi takeover of Austria came twenty years after his death.
+His death ends the story of his career. The paintings continued to change hands, and twenty years later Nazi Germany annexed Austria.
 
 ---
 
 ## ACT 8: WHAT REMAINS
 
-*[Keep the historical resolution brief and sober. No dramatic war montage.]*
+*[Historical resolution: about 90 seconds. Keep the tone factual and restrained.]*
 
-[VISUAL: University paintings, archival photographs.]
+[ARTWORK: Philosophy, 1900–1907; Medicine, 1900–1907; Jurisprudence, 1903–1907. Archival photographs.]
 
-That brings us back to the missing university paintings.
+That brings us back to the lost university paintings.
 
-After Nazi Germany annexed Austria in 1938, Jewish collectors were persecuted and their art seized. Klimt paintings taken from the Lederers, a Jewish family of collectors, were stored at Immendorf Castle with other artworks. The three university paintings were also kept there.
+Under Nazi rule, Jewish collectors were persecuted and their art seized. Works taken from the Lederer family were stored at Immendorf Castle alongside other collections. The three university paintings were also there.
 
-In May 1945, the castle burned, and the university paintings are believed to have been destroyed in the fire. Retreating German troops are often blamed, but exactly what happened remains uncertain. That's why we know these works through reproductions.
+In May 1945, the castle burned. It is widely believed that retreating Nazi troops deliberately set it on fire to keep the valuable contents from falling into Soviet hands. The precise circumstances remain uncertain, but the university paintings are considered destroyed in that fire.
 
-[ARTWORK: Portrait of Adele Bloch-Bauer I.]
+That's the connection behind the photographs we began with.
 
-Adele's portrait had a different fate. The Nazis confiscated it from her family, but it survived. Her niece Maria Altmann later fought for its return. In 2006, Austria returned five Klimt paintings to the family's heirs.
+[ARTWORK: Portrait of Adele Bloch-Bauer I, 1907.]
 
-*[Pause. Transition directly into the series conclusion.]*
+Adele's portrait survived Nazi confiscation from her family. Her niece Maria Altmann later fought for its return. In 2006, Austria returned five Klimt paintings to the family's heirs.
 
-[TALKING HEAD]
+*[Pause. Return to camera.]*
 
-We began with an artist whose paintings no longer matched what his commissioners wanted. Klimt had built his career decorating public buildings, but his work was changing. He wanted room to explore things that a painting made to celebrate an institution might leave out.
+Klimt's career began with public buildings and established traditions. Over time, he developed paintings that challenged what those institutions expected, while continuing to use the decorative skills he had learned as a young artist.
 
-Across these six episodes, we've seen artists disagree about what art should show and how it should look. Ordinary people became major subjects. Color became a way to explore feeling. And here, we've followed those experiments into imagined scenes and the design of everyday surroundings.
+Across these six episodes, we've followed artists changing what they painted and how they painted it. Here, those experiments have led into imagined experiences and the design of everyday surroundings.
 
-[VISUAL: Briefly revisit the university photographs, Adele, and The Kiss.]
-
-These approaches continued alongside each other. Klimt's work brings several of them together, and its history reminds us how much can happen to a painting after the artist finishes it.
+Symbolism and Art Nouveau offered different possibilities, and Klimt's work shows how they could meet. Their histories also remind us that the art we can see today depends on what was preserved, what was lost, and whose ownership was recognized.
 
 Thank you for spending these six episodes with me. I hope they've given you more ways to look at a painting and understand what you're seeing.
 
@@ -307,31 +315,44 @@ Thank you for spending these six episodes with me. I hope they've given you more
 
 ## EDITORIAL AND RECORDING NOTES — NOT SPOKEN
 
-**Timing:** Approximately 2,061 spoken words. At 120–140 words per minute, narration takes 14.7–17.2 minutes. Allow 1–2 additional minutes for silent holds and transitions: approximately 16–19 minutes total. Confirm with a read-through. Most detail shots run under narration.
+**Timing:** Approximately 2,471 spoken words. At 120–140 words per minute: 17.6–20.6 minutes of narration, plus about 1 minute of holds and transitions. Target about 19–22 minutes; maximum 25 minutes. Confirm with a read-through; detail shots usually run under speech.
 
-**Voice pass (v7):** Simplified abstract language, removed repeated explanations and the second opening question, and shortened transitions. Kept the agreed hook, character introductions, movement definitions, and historical qualifications. This pass does not change the historical research or chapter order.
+**Chronology and transitions:**
+- Act 1 previews the commission and loss. Act 2 restarts at 1862 and follows training, teamwork, early commissions, the 1892 losses, and the 1894 commission.
+- Act 3 uses Music (1895) to make the change visible before the contextual detour into France and Symbolism. The French examples explain parallel developments; they are not claims of direct influence on Klimt.
+- Act 4 resumes Klimt in 1897–1898. Horta (1893) and Mucha (1894) are explicitly examples of the wider design activity already underway. No claim that their work followed or was caused by the Secession.
+- Act 5 proceeds 1900 → 1901 → 1902 → 1903 → 1905. The frieze sits inside the years of the dispute, not after its resolution. Briefly follow the commission's later revisions and sales before returning to the gold paintings.
+- Six years means 1894 to the first exhibition of Philosophy in 1900. The commission ended in 1905; revisions continued through 1907. Do not describe it as a six-year completed project or claim the delay itself caused stylistic change.
+- Dates in Faculty Painting cues describe painted versions and revisions, not the 1894 commission date. Earlier studies exist.
 
-**Narrative commitments:**
-- Klimt is the main character. The commission opens the episode; his career carries every return from supporting artists.
-- The primary question concerns his changing artistic approach. Act 4 answers it through the works and dispute; Act 7 demonstrates the mature combination of feeling and decoration.
-- The secondary question concerns the originals' disappearance. Tease once in Act 1, remind once in Act 4, resolve after his death in Act 8. The historical answer is about one minute at a brisk conversational pace; allow up to 90 seconds with images. Do not expand it into a war-history chapter.
-- The Kiss is introduced in Act 7, not described as a return to an earlier appearance.
-- Post-Impressionism is explained independently. Mention the previous video casually; prior viewing is unnecessary.
-- Introduce supporting people by role, place, and relevance. Avoid extra names in narration or unexplained quotation cards.
-- No claim that Klimt had already formed the finished Faculty Paintings' approach in 1894. His experimentation developed across the commission's long duration.
-- The Secession was founded in 1897, before the commission ended in 1905. Mark the step back in chronology.
-- Moreau predates Gauguin's Brittany work. Symbolism, Post-Impressionism, and Art Nouveau overlap. No direct influence from a supporting artist on Klimt is claimed here.
-- Close the whole series without a lengthy movement recap or promise of another series.
+**Voice and analysis:**
+- No invented first-person reactions or assumed audience emotions. Describe visible choices, explain an interpretation as such, or attribute documented ideas and responses.
+- Moreau and Redon are examples of variety within Symbolism. Horta and Mucha are examples within Art Nouveau, each introduced through that connection.
+- Movement definitions explain overlapping aims, not a ladder of successive replacements.
+- Keep personal biography relevant; the 1892 deaths are not asserted to be the sole cause of Klimt's changing style.
+- Preserve the agreed opening and brief Nazi-era reminder. The final historical answer stays short and follows his death.
+- No additional regional-name survey, unrelated artist roll call, or promised sequel.
 
-**Historical and visual care:**
-- The commission was a state project for the university; avoid inventing dialogue or a verbatim institutional brief. The opening is a concise paraphrase of the conflict.
-- Use archival photographs and reproductions of the lost works. Surviving studies also exist; do not claim that photographs are the only evidence. Modern speculative color reconstructions must be explicitly identified if used.
-- Use the 1876 watercolor version of The Apparition consistently and match its credit to the museum record.
-- Modern frieze room views are not photographs of the original 1902 installation.
-- The accepted loss of the Faculty Paintings at Immendorf and uncertainty about the exact circumstances of the fire should remain distinct. Do not assert a proven SS order to destroy the works or imply the paintings burned because of their earlier university controversy.
-- Do not claim all three university paintings were seized from the same Jewish owner; their ownership histories differ. Medicine had entered the state collection before Nazi rule.
-- Adele's portrait, not The Kiss, illustrates Nazi confiscation and restitution. Credit the heirs collectively rather than implying Maria Altmann was the sole beneficiary.
-- Readings of emotional tone and the flowered edge of The Kiss are interpretations, not documented declarations of Klimt's intentions.
+**Historical care:**
+- The ceiling commission was a state project for the university involving Klimt and Matsch. The hook condenses the institutional arrangement; do not invent a literal brief or dialogue.
+- The paintings were never installed at the university. Klimt withdrew from the commission, rather than physically removing them from a university ceiling.
+- Private buyers acquired the paintings at different times. Do not claim all three were immediately sold together in 1905. Medicine later entered the Austrian state collection; not all Faculty Paintings were seized from one Jewish family.
+- The arson account and its reported motive must remain qualified. Do not present a proven SS order or a connection between the earlier art controversy and Nazi destruction.
+- The restitution example concerns Adele's portrait, not The Kiss. The works were returned to the heirs collectively.
+- Moreau: use the 1876 watercolor. Redon: use the 1882 lithograph; the related MoMA charcoal Eye-Balloon is dated 1878, not 1882.
+- Use archival reproductions honestly. Modern speculative color reconstructions must be labeled. Modern frieze room views are distinct from the 1902 installation.
+- Photograph dates should be checked against the exact selected files; no invented dates for documentary images.
+
+### Sources added or clarified in v8
+
+- [Klimt biographical timeline](https://www.klimt.at/en/pdf/M1_Biographie-Klimt_B.pdf): family, training, collaborators, 1892 losses, commission and Secession dates.
+- [Klimt Foundation — Symbolism, 1895–1897](https://www.klimt-database.com/en/klimts-artworks/1895-1897/symbolism-in-klimts-oeuvre/): the documented period of artistic reorientation.
+- [Neue Pinakothek — Music, 1895](https://www.sammlung.pinakothek.de/en/artwork/PdxzY1k4w5): the surviving work and its date; distinguish it from the later lost overdoor painting.
+- [Secession archive — first exhibition, 1898](https://secession.at/digital_archive_exhibition/11): international participation, exhibition design, and the subsequent building project.
+- [Klimt Foundation — Faculty Paintings controversy](https://www.klimt-database.com/de/klimt-werk/1904-1906/klimt-affaere-um-die-fakultaetsbilder/): exhibitions, nudity controversy, parliamentary response, and revisions.
+- [Albertina — Jurisprudence](https://digitalepublikationen.albertina.at/groups/essay-fakult-tsbild-jurisprudenz): later purchases by Moser in 1910 and 1912 and differing subsequent ownership.
+- [MoMA — Redon catalogue](https://www.moma.org/documents/moma_catalogue_3419_300062233.pdf) and [Eye-Balloon collection record](https://www.moma.org/collection/works/33013): lithograph versus charcoal version; Redon's stated approach paraphrased in narration. The interpretation of the eye as sight separated from the body is visual analysis.
+- [Brandeis, Hadassah-Brandeis Institute — Klimt and Nazi-era history](https://www.brandeis.edu/hbi/blog/2014/0630-gustav.html): the account of deliberate burning to prevent Soviet capture. Read alongside [MAK's recent investigation](https://www.mak.at/en/program/exhibitions/gustav_klimt_the_mak_and_immendorf_castle); retain uncertainty rather than turning the reported motive into certainty.
 
 ### Source notes
 
